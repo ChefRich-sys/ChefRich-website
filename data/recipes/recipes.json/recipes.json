@@ -1,0 +1,232 @@
+{
+  "recipes": [
+    {
+      "id": "digestive-elixir",
+      "name": "ChefRich Golden Digestive Elixir",
+      "healthCondition": "Digestive Health",
+      "category": "Therapeutic Drinks",
+      "servings": "4-6 shots",
+      "prepTime": "5 minutes",
+      "difficulty": "Easy",
+      "tags": ["Vegan", "Gluten-Free", "Anti-Inflammatory"],
+      "ingredients": [
+        "3 inches fresh organic ginger root, peeled",
+        "3 tablespoons raw honey or pure maple syrup",
+        "1/2 fresh lemon, juiced",
+        "Pinch of Himalayan pink salt"
+      ],
+      "instructions": [
+        "Juice fresh ginger using a high-quality juicer",
+        "Slowly whisk honey into ginger juice until emulsified",
+        "Add lemon juice and salt to enhance absorption",
+        "Take 1-2 tablespoons 15 minutes before meals"
+      ],
+      "healthBenefits": [
+        "Stimulates natural digestive enzymes",
+        "Reduces nausea by 75%",
+        "Anti-inflammatory properties",
+        "Boosts metabolic rate"
+      ],
+      "calories": 25,
+      "featured": true
+    },
+    {
+      "id": "gut-healing-minestrone",
+      "name": "ChefRich Gut-Healing Garden Minestrone",
+      "healthCondition": "Digestive Health",
+      "category": "Healing Soups",
+      "servings": "6",
+      "prepTime": "15 minutes",
+      "cookTime": "35 minutes",
+      "difficulty": "Medium",
+      "tags": ["Vegan", "Gluten-Free", "High-Fiber"],
+      "ingredients": [
+        "1 cup dried cannellini beans, soaked overnight",
+        "3 tablespoons extra virgin olive oil",
+        "1 large yellow onion, diced",
+        "1 large leek, cleaned and chopped",
+        "3 organic carrots, diced",
+        "3 celery stalks with leaves, chopped",
+        "4 garlic cloves, minced",
+        "2 large heirloom tomatoes, diced",
+        "2 medium zucchini, diced",
+        "6 cups low-sodium vegetable broth",
+        "2 sprigs fresh rosemary",
+        "2 slices day-old sourdough bread, cubed",
+        "2 tablespoons apple cider vinegar",
+        "1/4 cup fresh basil, chiffonade"
+      ],
+      "instructions": [
+        "Cook beans with rosemary until tender (45 minutes)",
+        "Heat olive oil, sauté onion and leek until golden",
+        "Add carrots and celery, cook until softening",
+        "Add garlic for 1 minute until fragrant",
+        "Add tomatoes and zucchini, cook until tomatoes break down",
+        "Add vegetable broth and cooked beans with liquid",
+        "Simmer 20 minutes until vegetables are tender",
+        "Stir in bread cubes during last 5 minutes",
+        "Finish with apple cider vinegar and fresh basil"
+      ],
+      "healthBenefits": [
+        "Prebiotic fiber feeds beneficial gut bacteria",
+        "Anti-inflammatory olive oil and herbs",
+        "High bioavailable nutrients",
+        "Supports cardiovascular health"
+      ],
+      "calories": 320,
+      "featured": true
+    },
+    {
+      "id": "detox-power-greens",
+      "name": "ChefRich Detox Power Greens with Walnut Crunch",
+      "healthCondition": "Detox Support",
+      "category": "Cleansing Salads",
+      "servings": "4-6",
+      "prepTime": "10 minutes",
+      "difficulty": "Easy",
+      "tags": ["Vegan", "Gluten-Free", "Raw", "Detox"],
+      "ingredients": [
+        "4 cups fresh arugula, thoroughly washed",
+        "1/2 cup kalamata olives, pitted and halved",
+        "1/3 cup extra virgin olive oil",
+        "2 tablespoons aged balsamic vinegar",
+        "3/4 cup walnuts, toasted and roughly chopped",
+        "2 tablespoons filtered water (if needed)"
+      ],
+      "instructions": [
+        "Wash arugula thoroughly and spin dry",
+        "Toast walnuts in dry pan until fragrant (3 minutes)",
+        "In blender, puree olives, olive oil, balsamic vinegar, and half the walnuts",
+        "Add water if dressing needs thinning",
+        "Toss arugula with dressing just before serving",
+        "Top with remaining toasted walnuts"
+      ],
+      "healthBenefits": [
+        "Bitter compounds support liver detoxification",
+        "Healthy fats aid nutrient absorption",
+        "Antioxidants fight cellular damage",
+        "Supports lymphatic drainage"
+      ],
+      "calories": 245,
+      "featured": false
+    },
+    {
+      "id": "heart-healthy-cannelloni",
+      "name": "ChefRich Heart-Healthy Butternut Cannelloni",
+      "healthCondition": "Heart Health",
+      "category": "Comfort Food",
+      "servings": "6-8",
+      "prepTime": "30 minutes",
+      "cookTime": "45 minutes",
+      "difficulty": "Advanced",
+      "tags": ["Vegetarian", "Heart-Healthy", "Italian-Inspired"],
+      "ingredients": [
+        "1 large butternut squash, halved lengthwise",
+        "6 tablespoons extra virgin olive oil",
+        "3 large portobello mushrooms, cleaned",
+        "1 tablespoon aged balsamic vinegar",
+        "1 medium onion, finely diced",
+        "1/2 teaspoon red pepper flakes",
+        "10 fresh sage leaves, finely chopped",
+        "1/2 cup pine nuts, toasted",
+        "15 oz part-skim ricotta cheese",
+        "12-15 plum tomatoes, halved",
+        "1/4 cup fresh thyme, chopped",
+        "4 sheets fresh lasagna pasta",
+        "1/4 cup pecorino romano, grated"
+      ],
+      "instructions": [
+        "Roast butternut squash cut-side down at 400°F for 40-45 minutes",
+        "Grill portobello mushrooms with balsamic until tender",
+        "Sauté onion until caramelized, add pepper flakes",
+        "Combine squash, mushrooms, sage, pine nuts, and ricotta",
+        "Roast tomatoes with thyme at 350°F until soft, then blend",
+        "Cut pasta into squares, fill with mixture and roll",
+        "Bake cannelloni with tomato sauce at 375°F for 25 minutes"
+      ],
+      "healthBenefits": [
+        "Beta-carotene supports cardiovascular health",
+        "Healthy fats from olive oil and nuts",
+        "Potassium-rich vegetables support blood pressure",
+        "Antioxidant-rich tomatoes and herbs"
+      ],
+      "calories": 425,
+      "featured": true
+    },
+    {
+      "id": "immune-boosting-citrus",
+      "name": "ChefRich Immune-Boosting Spiced Citrus Bowl",
+      "healthCondition": "Immune Support",
+      "category": "Healing Desserts",
+      "servings": "8",
+      "prepTime": "15 minutes",
+      "cookTime": "15 minutes",
+      "difficulty": "Medium",
+      "tags": ["Vegan", "Gluten-Free", "Immune-Boosting"],
+      "ingredients": [
+        "1 cup filtered water",
+        "1/2 cup pure maple syrup",
+        "1 tablespoon additional maple syrup",
+        "3-inch piece fresh ginger, sliced into coins",
+        "2 whole star anise",
+        "10 whole cloves",
+        "Zest of 1/2 large lemon",
+        "6 large oranges",
+        "3 large grapefruits",
+        "1/2 cup dried mission figs, quartered"
+      ],
+      "instructions": [
+        "Combine water, 1/2 cup maple syrup, ginger, star anise, cloves, and lemon zest",
+        "Bring to boil, reduce heat and simmer until reduced to 1 cup",
+        "Strain syrup and let cool completely",
+        "Zest 2 oranges finely, mix with 1 tablespoon maple syrup",
+        "Supreme all oranges and grapefruits (remove pith and membranes)",
+        "Combine citrus segments with quartered figs",
+        "Pour cooled spiced syrup over fruit",
+        "Marinate 30-60 minutes before serving",
+        "Garnish with sweetened orange zest"
+      ],
+      "healthBenefits": [
+        "High vitamin C boosts immune function",
+        "Ginger provides anti-inflammatory compounds",
+        "Antioxidants from citrus protect cells",
+        "Natural enzymes aid digestion"
+      ],
+      "calories": 165,
+      "featured": false
+    },
+    {
+      "id": "fire-starting-shot",
+      "name": "ChefRich Fire-Starting Digestive Shot",
+      "healthCondition": "Digestive Health",
+      "category": "Therapeutic Drinks",
+      "servings": "4-6 shots",
+      "prepTime": "5 minutes",
+      "difficulty": "Easy",
+      "tags": ["Vegan", "Gluten-Free", "Digestive", "Raw"],
+      "ingredients": [
+        "2 inches fresh ginger root, peeled and finely chopped",
+        "Juice of 1 large lemon",
+        "1/4 teaspoon coarse sea salt",
+        "1 tablespoon raw apple cider vinegar (optional)"
+      ],
+      "instructions": [
+        "Finely chop fresh ginger (or use microplane grater)",
+        "Add fresh lemon juice to ginger",
+        "Add pinch of coarse sea salt",
+        "Optional: add apple cider vinegar for extra digestive power",
+        "Mix well and let sit 2-3 minutes",
+        "Take 1 tablespoon before meals",
+        "Can be stored in refrigerator for 2 days"
+      ],
+      "healthBenefits": [
+        "Ignites digestive fire before meals",
+        "Stimulates hydrochloric acid production",
+        "Reduces bloating and gas",
+        "Boosts metabolism naturally"
+      ],
+      "calories": 8,
+      "featured": false
+    }
+  ]
+}
