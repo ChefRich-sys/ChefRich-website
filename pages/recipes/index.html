@@ -278,7 +278,7 @@
 
         async function loadRecipes() {
             try {
-                const response = await fetch('/ChefRich-website/data/recipes/recipes.json');
+                const response = await fetch('/ChefRich-website/recipes.json');
                 const data = await response.json();
                 recipes = data.recipes;
                 displayRecipes(recipes);
