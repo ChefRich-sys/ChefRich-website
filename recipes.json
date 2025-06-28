@@ -442,7 +442,7 @@
       "name": "Plant-Powered Tempeh Marinara Bowl",
       "description": "Fermented tempeh provides complete plant protein while supporting digestive health. Combined with antioxidant-rich tomatoes and gut-friendly herbs for optimal nutrition.",
       "image": "https://images.unsplash.com/photo-1572441713132-51c75654db73?w=400&h=300&fit=crop",
-      "healthCondition": "Plant Protein/Digestive Health",
+      "healthCondition": "Plant Protein Focus",
       "category": "Main Course",
       "servings": "4",
       "prepTime": "15 minutes",
@@ -570,5 +570,15 @@
       "nutrition": {
         "protein": "20g",
         "carbs": "25g",
-        "
-    
+        "fat": "28g",
+        "fiber": "8g"
+      },
+      "ingredients": [
+        "8 oz tempeh, cubed",
+        "1 can (14 oz) full-fat coconut milk",
+        "1 medium onion, sliced",
+        "2 tbsp fresh ginger, grated",
+        "3 cloves garlic, minced",
+        "2 tsp ground turmeric",
+        "1 tsp ground cumin",
+        "1/2 tsp ground cori
