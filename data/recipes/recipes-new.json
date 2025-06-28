@@ -1,0 +1,34 @@
+{
+  "recipes": [
+    {
+      "id": "digestive-elixir",
+      "name": "ChefRich Golden Digestive Elixir",
+      "healthCondition": "Digestive Health",
+      "category": "Therapeutic Drinks",
+      "servings": "4-6 shots",
+      "prepTime": "5 minutes",
+      "difficulty": "Easy",
+      "tags": ["Vegan", "Gluten-Free", "Anti-Inflammatory"],
+      "ingredients": [
+        "3 inches fresh organic ginger root, peeled",
+        "3 tablespoons raw honey or pure maple syrup",
+        "1/2 fresh lemon, juiced",
+        "Pinch of Himalayan pink salt"
+      ],
+      "instructions": [
+        "Juice fresh ginger using a high-quality juicer",
+        "Slowly whisk honey into ginger juice until emulsified",
+        "Add lemon juice and salt to enhance absorption",
+        "Take 1-2 tablespoons 15 minutes before meals"
+      ],
+      "healthBenefits": [
+        "Stimulates natural digestive enzymes",
+        "Reduces nausea by 75%",
+        "Anti-inflammatory properties",
+        "Boosts metabolic rate"
+      ],
+      "calories": 25,
+      "featured": true
+    }
+  ]
+}
