@@ -1,0 +1,556 @@
+// ChefRich Recipe Application
+class ChefRichApp {
+    constructor() {
+        this.recipes = [
+            {
+                "id": "digestive-elixir",
+                "name": "ChefRich Golden Digestive Elixir",
+                "description": "A powerful therapeutic shot that ignites digestive fire and reduces inflammation. This potent elixir combines fresh ginger's warming properties with raw honey's antimicrobial benefits.",
+                "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop",
+                "healthCondition": "Digestive Health",
+                "category": "Therapeutic Drinks",
+                "servings": "4-6 shots",
+                "prepTime": "5 minutes",
+                "cookTime": "",
+                "difficulty": "Easy",
+                "tags": ["Vegan", "Gluten-Free", "Anti-Inflammatory", "Raw", "Digestive"],
+                "calories": 25,
+                "nutrition": {
+                    "protein": "0g",
+                    "carbs": "7g",
+                    "fat": "0g",
+                    "fiber": "0g"
+                },
+                "ingredients": [
+                    "3 inches fresh organic ginger root, peeled",
+                    "3 tablespoons raw honey or pure maple syrup",
+                    "1/2 fresh lemon, juiced (about 2 tablespoons)",
+                    "Pinch of Himalayan pink salt",
+                    "1/4 teaspoon turmeric powder (optional)",
+                    "1 tablespoon filtered water if needed"
+                ],
+                "instructions": [
+                    "Wash and peel fresh ginger root thoroughly",
+                    "Using a high-quality juicer, extract juice from ginger (should yield about 2-3 tablespoons)",
+                    "In a small bowl, slowly whisk raw honey into the fresh ginger juice",
+                    "Continue whisking until honey is completely emulsified and mixture is smooth",
+                    "Add fresh lemon juice and whisk to combine",
+                    "Add a pinch of Himalayan pink salt to enhance mineral absorption",
+                    "If mixture is too thick, add 1 tablespoon filtered water",
+                    "Optional: Whisk in turmeric powder for additional anti-inflammatory benefits",
+                    "Store in glass jar in refrigerator for up to 3 days",
+                    "Take 1-2 tablespoons 15 minutes before meals for optimal digestive benefit"
+                ],
+                "chefTips": [
+                    "Use a microplane grater if you don't have a juicer - grate ginger finely and strain through cheesecloth",
+                    "The elixir should have a warming sensation - this indicates active gingerol compounds",
+                    "Start with 1 tablespoon if you're sensitive to ginger and gradually increase"
+                ],
+                "healthBenefits": [
+                    "Stimulates natural digestive enzymes by up to 75%",
+                    "Reduces nausea and motion sickness",
+                    "Anti-inflammatory properties reduce gut inflammation",
+                    "Boosts metabolic rate and thermogenesis",
+                    "Supports healthy gut microbiome"
+                ],
+                "featured": true
+            },
+            {
+                "id": "gut-healing-minestrone",
+                "name": "ChefRich Gut-Healing Garden Minestrone",
+                "description": "A nourishing, fiber-rich soup designed to feed beneficial gut bacteria and support digestive healing. Each ingredient is chosen for its prebiotic and anti-inflammatory properties.",
+                "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=400&h=300&fit=crop",
+                "healthCondition": "Digestive Health",
+                "category": "Healing Soups",
+                "servings": "6",
+                "prepTime": "15 minutes",
+                "cookTime": "45 minutes",
+                "difficulty": "Medium",
+                "tags": ["Vegan", "Gluten-Free", "High-Fiber", "Prebiotic", "Anti-Inflammatory"],
+                "calories": 320,
+                "nutrition": {
+                    "protein": "15g",
+                    "carbs": "58g",
+                    "fat": "8g",
+                    "fiber": "18g"
+                },
+                "ingredients": [
+                    "1 cup dried cannellini beans, soaked overnight",
+                    "3 tablespoons extra virgin olive oil",
+                    "1 large yellow onion, diced (about 2 cups)",
+                    "1 large leek, white and light green parts, cleaned and chopped",
+                    "3 organic carrots, diced (about 1 cup)",
+                    "3 celery stalks with leaves, chopped",
+                    "4 garlic cloves, minced",
+                    "2 large heirloom tomatoes, diced",
+                    "2 medium zucchini, diced",
+                    "6 cups low-sodium vegetable broth",
+                    "2 sprigs fresh rosemary",
+                    "2 slices day-old sourdough bread, cubed",
+                    "2 tablespoons apple cider vinegar",
+                    "1/4 cup fresh basil, chiffonade",
+                    "1 teaspoon sea salt",
+                    "1/2 teaspoon black pepper",
+                    "2 tablespoons nutritional yeast (optional)"
+                ],
+                "instructions": [
+                    "Drain and rinse soaked cannellini beans",
+                    "In a large pot, add beans with fresh water to cover by 2 inches",
+                    "Add rosemary sprigs and bring to boil, then simmer 45 minutes until tender",
+                    "Reserve 2 cups bean cooking liquid, then drain beans",
+                    "In the same pot, heat olive oil over medium heat",
+                    "Add diced onion and leek, sauté until golden and translucent (8-10 minutes)",
+                    "Add carrots and celery, cook until beginning to soften (5 minutes)",
+                    "Add minced garlic and cook until fragrant (1 minute)",
+                    "Add diced tomatoes and cook until they break down (8-10 minutes)",
+                    "Add zucchini and cook for 3 minutes",
+                    "Add vegetable broth and reserved bean liquid",
+                    "Add cooked beans back to pot and bring to simmer",
+                    "Simmer for 20 minutes until vegetables are tender",
+                    "Stir in bread cubes during last 5 minutes of cooking",
+                    "Remove from heat and stir in apple cider vinegar",
+                    "Season with salt and pepper to taste",
+                    "Serve garnished with fresh basil chiffonade",
+                    "Optional: Sprinkle with nutritional yeast for extra B vitamins"
+                ],
+                "chefTips": [
+                    "Soaking beans overnight reduces cooking time and improves digestibility",
+                    "Save some bean cooking liquid - it's rich in nutrients and adds depth",
+                    "The bread should dissolve slightly, naturally thickening the soup"
+                ],
+                "healthBenefits": [
+                    "Prebiotic fiber feeds beneficial gut bacteria",
+                    "Anti-inflammatory olive oil and herbs support gut lining",
+                    "High bioavailable nutrients support immune function",
+                    "Supports cardiovascular health with plant-based protein",
+                    "Apple cider vinegar aids nutrient absorption"
+                ],
+                "featured": true
+            },
+            {
+                "id": "detox-power-greens",
+                "name": "ChefRich Detox Power Greens with Walnut Crunch",
+                "description": "A nutrient-dense salad featuring bitter greens that support liver detoxification, paired with antioxidant-rich walnuts and a mineral-rich olive tapenade dressing.",
+                "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&h=300&fit=crop",
+                "healthCondition": "Detox Support",
+                "category": "Cleansing Salads",
+                "servings": "4-6",
+                "prepTime": "15 minutes",
+                "cookTime": "",
+                "difficulty": "Easy",
+                "tags": ["Vegan", "Gluten-Free", "Raw", "Detox", "Antioxidant-Rich"],
+                "calories": 245,
+                "nutrition": {
+                    "protein": "6g",
+                    "carbs": "8g",
+                    "fat": "23g",
+                    "fiber": "4g"
+                },
+                "ingredients": [
+                    "4 cups fresh arugula, thoroughly washed and dried",
+                    "2 cups baby spinach leaves",
+                    "1/2 cup kalamata olives, pitted and halved",
+                    "1/3 cup extra virgin olive oil",
+                    "2 tablespoons aged balsamic vinegar",
+                    "3/4 cup raw walnuts, roughly chopped",
+                    "2 tablespoons filtered water (if needed for dressing)",
+                    "1 tablespoon lemon juice",
+                    "1 clove garlic, minced",
+                    "1/4 teaspoon sea salt",
+                    "1/4 teaspoon black pepper",
+                    "2 tablespoons hemp hearts (optional)"
+                ],
+                "instructions": [
+                    "Wash arugula and spinach thoroughly in cold water",
+                    "Spin dry in salad spinner or pat dry with clean kitchen towels",
+                    "Toast walnuts in a dry skillet over medium heat for 3-4 minutes until fragrant",
+                    "Let walnuts cool and roughly chop, reserving half for dressing",
+                    "In a food processor or blender, combine olives, half the toasted walnuts, and minced garlic",
+                    "Add olive oil, balsamic vinegar, and lemon juice",
+                    "Process until mixture forms a chunky tapenade consistency",
+                    "Add water 1 tablespoon at a time if dressing needs thinning",
+                    "Season tapenade dressing with salt and pepper",
+                    "In a large salad bowl, combine arugula and spinach",
+                    "Drizzle dressing over greens just before serving",
+                    "Toss gently to coat all leaves",
+                    "Top with remaining toasted walnuts and hemp hearts if using",
+                    "Serve immediately for best texture and nutrient retention"
+                ],
+                "chefTips": [
+                    "Massage the dressing into heartier greens like kale if substituting",
+                    "Make extra tapenade dressing - it keeps for a week and works on grain bowls",
+                    "Add the dressing just before serving to prevent wilting"
+                ],
+                "healthBenefits": [
+                    "Bitter compounds in arugula support liver detoxification pathways",
+                    "Healthy fats from olive oil and walnuts aid nutrient absorption",
+                    "Antioxidants fight cellular damage and support immune function",
+                    "Supports lymphatic drainage and circulation",
+                    "High chlorophyll content supports blood purification"
+                ],
+                "featured": false
+            },
+            {
+                "id": "heart-healthy-cannelloni",
+                "name": "ChefRich Heart-Healthy Butternut Cannelloni",
+                "description": "An elegant, nutrient-rich dish featuring roasted butternut squash and mushrooms wrapped in delicate pasta. Rich in beta-carotene, potassium, and heart-healthy fats.",
+                "image": "https://images.unsplash.com/photo-1621996346565-e3dbc353d2e5?w=400&h=300&fit=crop",
+                "healthCondition": "Heart Health",
+                "category": "Comfort Food",
+                "servings": "6-8",
+                "prepTime": "45 minutes",
+                "cookTime": "75 minutes",
+                "difficulty": "Advanced",
+                "tags": ["Vegetarian", "Heart-Healthy", "Italian-Inspired", "High-Fiber"],
+                "calories": 425,
+                "nutrition": {
+                    "protein": "18g",
+                    "carbs": "52g",
+                    "fat": "18g",
+                    "fiber": "8g"
+                },
+                "ingredients": [
+                    "1 large butternut squash (about 3 lbs), halved lengthwise and seeded",
+                    "6 tablespoons extra virgin olive oil, divided",
+                    "3 large portobello mushrooms, stems removed and cleaned",
+                    "1 tablespoon aged balsamic vinegar",
+                    "1 medium yellow onion, finely diced",
+                    "1/2 teaspoon red pepper flakes",
+                    "10 fresh sage leaves, finely chopped",
+                    "1/2 cup pine nuts, toasted",
+                    "15 oz part-skim ricotta cheese",
+                    "12-15 Roma tomatoes, halved",
+                    "1/4 cup fresh thyme leaves, chopped",
+                    "4 sheets fresh lasagna pasta",
+                    "1/4 cup pecorino romano cheese, grated",
+                    "1 teaspoon sea salt",
+                    "1/2 teaspoon black pepper",
+                    "2 tablespoons fresh parsley for garnish"
+                ],
+                "instructions": [
+                    "Preheat oven to 400°F (200°C)",
+                    "Brush butternut squash halves with 2 tablespoons olive oil and season with salt",
+                    "Place cut-side down on baking sheet and roast 40-45 minutes until tender",
+                    "Meanwhile, brush portobello mushrooms with balsamic vinegar and 1 tablespoon olive oil",
+                    "Grill or roast mushrooms 15 minutes until tender, then slice",
+                    "Heat 2 tablespoons olive oil in large skillet over medium heat",
+                    "Sauté diced onion until caramelized (15-20 minutes), adding red pepper flakes",
+                    "When squash is cool enough to handle, scoop flesh into large bowl",
+                    "Mash squash with fork, leaving some texture",
+                    "Fold in caramelized onions, sliced mushrooms, sage, and pine nuts",
+                    "Mix in ricotta cheese and season with salt and pepper",
+                    "For tomato sauce: toss halved tomatoes with remaining olive oil and thyme",
+                    "Roast tomatoes at 350°F (175°C) for 25 minutes until soft",
+                    "Blend roasted tomatoes until smooth, season with salt",
+                    "Cook pasta sheets in salted boiling water until just al dente",
+                    "Cut pasta into 6-inch squares",
+                    "Place 1/3 cup filling on each pasta square and roll into cannelloni",
+                    "Spread tomato sauce in baking dish, arrange cannelloni on top",
+                    "Cover with foil and bake at 375°F (190°C) for 25 minutes",
+                    "Remove foil, sprinkle with pecorino, bake 5 minutes more",
+                    "Garnish with fresh parsley before serving"
+                ],
+                "chefTips": [
+                    "Roast squash cut-side down to concentrate flavors and prevent watery filling",
+                    "Make the filling a day ahead - flavors improve overnight",
+                    "Don't overcook pasta - it will continue cooking in the oven"
+                ],
+                "healthBenefits": [
+                    "Beta-carotene from butternut squash supports cardiovascular health",
+                    "Healthy monounsaturated fats from olive oil and pine nuts",
+                    "Potassium-rich vegetables support healthy blood pressure",
+                    "Antioxidant-rich tomatoes and herbs protect against oxidative stress",
+                    "High fiber content supports cholesterol management"
+                ],
+                "featured": true
+            },
+            {
+                "id": "immune-boosting-citrus",
+                "name": "ChefRich Immune-Boosting Spiced Citrus Bowl",
+                "description": "A vibrant, vitamin C-rich dessert featuring supremed citrus fruits in a warming spiced syrup. The combination of citrus and warming spices creates a powerful immune-supporting treat.",
+                "image": "https://images.unsplash.com/photo-1577003833619-76bbd7f82d4b?w=400&h=300&fit=crop",
+                "healthCondition": "Immune Support",
+                "category": "Healing Desserts",
+                "servings": "8",
+                "prepTime": "30 minutes",
+                "cookTime": "15 minutes",
+                "difficulty": "Medium",
+                "tags": ["Vegan", "Gluten-Free", "Immune-Boosting", "Citrus", "Warming-Spices"],
+                "calories": 165,
+                "nutrition": {
+                    "protein": "2g",
+                    "carbs": "42g",
+                    "fat": "0g",
+                    "fiber": "6g"
+                },
+                "ingredients": [
+                    "1 cup filtered water",
+                    "1/2 cup pure maple syrup",
+                    "1 tablespoon additional maple syrup for zest",
+                    "3-inch piece fresh ginger, sliced into coins",
+                    "2 whole star anise pods",
+                    "10 whole cloves",
+                    "1 cinnamon stick",
+                    "Zest of 1/2 large lemon",
+                    "6 large navel oranges",
+                    "3 large Ruby Red grapefruits",
+                    "1/2 cup dried mission figs, quartered",
+                    "2 tablespoons fresh mint leaves, chopped"
+                ],
+                "instructions": [
+                    "In a medium saucepan, combine water, 1/2 cup maple syrup, ginger coins, star anise, cloves, cinnamon stick, and lemon zest",
+                    "Bring mixture to a rolling boil over medium-high heat",
+                    "Reduce heat to medium-low and simmer 12-15 minutes until reduced to about 1 cup",
+                    "Strain spiced syrup through fine-mesh sieve and let cool completely",
+                    "Using a microplane, zest 2 oranges finely into a small bowl",
+                    "Mix orange zest with 1 tablespoon maple syrup to create sweetened zest",
+                    "To supreme citrus: cut off top and bottom of each fruit",
+                    "Stand fruit on cutting board and slice away peel and white pith",
+                    "Hold fruit over bowl and cut between membranes to release segments",
+                    "Repeat with all oranges and grapefruits, collecting segments in large bowl",
+                    "Add quartered dried figs to citrus segments",
+                    "Pour cooled spiced syrup over fruit mixture",
+                    "Gently fold to combine without breaking segments",
+                    "Refrigerate for 30-60 minutes to allow flavors to meld",
+                    "Serve chilled, garnished with sweetened orange zest and fresh mint",
+                    "Can be made up to 1 day ahead for enhanced flavor development"
+                ],
+                "chefTips": [
+                    "Supreme citrus over a bowl to catch all the precious juices",
+                    "Save citrus membranes and peels for making homemade pectin or potpourri",
+                    "The spiced syrup can be made ahead and stored for up to 1 week"
+                ],
+                "healthBenefits": [
+                    "Extremely high vitamin C content boosts immune function",
+                    "Ginger provides powerful anti-inflammatory compounds",
+                    "Antioxidants from citrus protect cells from damage",
+                    "Natural enzymes aid digestion and nutrient absorption",
+                    "Warming spices support circulation and respiratory health"
+                ],
+                "featured": false
+            },
+            {
+                "id": "fire-starting-shot",
+                "name": "ChefRich Fire-Starting Digestive Shot",
+                "description": "A potent digestive activator that stimulates hydrochloric acid production and primes the digestive system. This concentrated shot ignites digestive fire naturally.",
+                "image": "https://images.unsplash.com/photo-1621447504864-d8686e12698c?w=400&h=300&fit=crop",
+                "healthCondition": "Digestive Health",
+                "category": "Therapeutic Drinks",
+                "servings": "4-6 shots",
+                "prepTime": "8 minutes",
+                "cookTime": "",
+                "difficulty": "Easy",
+                "tags": ["Vegan", "Gluten-Free", "Digestive", "Raw", "Metabolism-Boosting"],
+                "calories": 8,
+                "nutrition": {
+                    "protein": "0g",
+                    "carbs": "2g",
+                    "fat": "0g",
+                    "fiber": "0g"
+                },
+                "ingredients": [
+                    "2 inches fresh ginger root, peeled and finely chopped",
+                    "Juice of 1 large lemon (about 3 tablespoons)",
+                    "1/4 teaspoon coarse sea salt",
+                    "1 tablespoon raw apple cider vinegar with mother (optional)",
+                    "Pinch of cayenne pepper (optional)",
+                    "1 teaspoon raw honey (optional, for sensitive palates)"
+                ],
+                "instructions": [
+                    "Wash and peel fresh ginger root thoroughly",
+                    "Using a microplane grater or sharp knife, finely chop ginger",
+                    "Place chopped ginger in a small bowl",
+                    "Add fresh lemon juice to ginger and mix well",
+                    "Add coarse sea salt and stir to combine",
+                    "Optional: Add apple cider vinegar for extra digestive power",
+                    "Optional: Add pinch of cayenne for metabolic boost",
+                    "Optional: Add raw honey if the mixture is too intense",
+                    "Let mixture sit for 2-3 minutes to allow flavors to meld",
+                    "Stir well before each use",
+                    "Take 1 tablespoon 15-20 minutes before meals",
+                    "Store in refrigerator for up to 2 days",
+                    "Shake or stir before each use as ingredients may separate"
+                ],
+                "chefTips": [
+                    "Start with less ginger if you're sensitive and gradually increase",
+                    "The burning sensation indicates active compounds - this is normal",
+                    "Take with a small amount of water if too intense"
+                ],
+                "healthBenefits": [
+                    "Ignites digestive fire and stimulates appetite",
+                    "Stimulates hydrochloric acid production for better protein digestion",
+                    "Reduces bloating and gas after meals",
+                    "Boosts metabolism naturally through thermogenic compounds",
+                    "Apple cider vinegar supports healthy gut pH balance"
+                ],
+                "featured": false
+            }
+        ];
+        
+        this.filteredRecipes = [...this.recipes];
+        this.init();
+    }
+
+    init() {
+        this.setupEventListeners();
+        this.displayRecipes(this.recipes);
+        this.updateFilters();
+    }
+
+    setupEventListeners() {
+        // Filter event listeners
+        document.getElementById('healthFilter').addEventListener('change', () => this.filterRecipes());
+        document.getElementById('difficultyFilter').addEventListener('change', () => this.filterRecipes());
+
+        // Modal event listeners
+        const modal = document.getElementById('recipeModal');
+        const closeBtn = document.querySelector('.close');
+
+        closeBtn.onclick = () => this.closeModal();
+        window.onclick = (event) => {
+            if (event.target === modal) {
+                this.closeModal();
+            }
+        };
+
+        // Keyboard navigation
+        document.addEventListener('keydown', (event) => {
+            if (event.key === 'Escape') {
+                this.closeModal();
+            }
+        });
+    }
+
+    updateFilters() {
+        const healthConditions = [...new Set(this.recipes.map(recipe => recipe.healthCondition))];
+        const difficulties = [...new Set(this.recipes.map(recipe => recipe.difficulty))];
+
+        // Update health filter options
+        const healthFilter = document.getElementById('healthFilter');
+        healthConditions.forEach(condition => {
+            if (!Array.from(healthFilter.options).some(option => option.value === condition)) {
+                const option = document.createElement('option');
+                option.value = condition;
+                option.textContent = condition;
+                healthFilter.appendChild(option);
+            }
+        });
+    }
+
+    filterRecipes() {
+        const healthFilter = document.getElementById('healthFilter').value;
+        const difficultyFilter = document.getElementById('difficultyFilter').value;
+
+        this.filteredRecipes = this.recipes.filter(recipe => {
+            const healthMatch = healthFilter === 'all' || recipe.healthCondition === healthFilter;
+            const difficultyMatch = difficultyFilter === 'all' || recipe.difficulty === difficultyFilter;
+            return healthMatch && difficultyMatch;
+        });
+
+        this.displayRecipes(this.filteredRecipes);
+    }
+
+    displayRecipes(recipesToShow) {
+        const grid = document.getElementById('recipeGrid');
+        
+        if (recipesToShow.length === 0) {
+            grid.innerHTML = '<div class="loading">No recipes found matching your criteria.</div>';
+            return;
+        }
+
+        grid.innerHTML = recipesToShow.map(recipe => this.createRecipeCard(recipe)).join('');
+
+        // Add click event listeners to recipe cards
+        recipesToShow.forEach(recipe => {
+            const card = document.getElementById(`recipe-${recipe.id}`);
+            if (card) {
+                card.addEventListener('click', () => this.openModal(recipe));
+            }
+        });
+    }
+
+    createRecipeCard(recipe) {
+        return `
+            <div id="recipe-${recipe.id}" class="recipe-card ${recipe.featured ? 'featured' : ''}" data-health="${recipe.healthCondition}">
+                <img src="${recipe.image}" alt="${recipe.name}" class="recipe-image" loading="lazy">
+                <div class="recipe-content">
+                    <div class="health-condition">${recipe.healthCondition}</div>
+                    <h2 class="recipe-title">${recipe.name}</h2>
+                    <p class="recipe-description">${recipe.description}</p>
+                    
+                    <div class="recipe-meta">
+                        <span>🍽️ Serves: ${recipe.servings}</span>
+                        <span>⏱️ Prep: ${recipe.prepTime}</span>
+                        ${recipe.cookTime ? `<span>🔥 Cook: ${recipe.cookTime}</span>` : ''}
+                        <span>📊 ${recipe.difficulty}</span>
+                    </div>
+
+                    <div class="tags">
+                        ${recipe.tags.map(tag => `<span class="tag">${tag}</span>`).join('')}
+                    </div>
+
+                    <div class="calories">${recipe.calories} calories per serving</div>
+                    
+                    <button class="view-recipe-btn">View Full Recipe</button>
+                </div>
+            </div>
+        `;
+    }
+
+    openModal(recipe) {
+        const modal = document.getElementById('recipeModal');
+        
+        // Populate modal with recipe data
+        document.getElementById('modalRecipeImage').src = recipe.image;
+        document.getElementById('modalRecipeImage').alt = recipe.name;
+        document.getElementById('modalHealthCondition').textContent = recipe.healthCondition;
+        document.getElementById('modalTitle').textContent = recipe.name;
+        document.getElementById('modalDescription').textContent = recipe.description;
+
+        // Nutrition information
+        document.getElementById('modalCalories').textContent = recipe.calories;
+        document.getElementById('modalProtein').textContent = recipe.nutrition.protein;
+        document.getElementById('modalCarbs').textContent = recipe.nutrition.carbs;
+        document.getElementById('modalFat').textContent = recipe.nutrition.fat;
+        document.getElementById('modalFiber').textContent = recipe.nutrition.fiber;
+
+        // Ingredients
+        const ingredientsList = document.getElementById('modalIngredients');
+        ingredientsList.innerHTML = recipe.ingredients.map(ingredient => 
+            `<li>${ingredient}</li>`
+        ).join('');
+
+        // Instructions
+        const instructionsList = document.getElementById('modalInstructions');
+        instructionsList.innerHTML = recipe.instructions.map(instruction => 
+            `<li>${instruction}</li>`
+        ).join('');
+
+        // Chef Tips
+        const chefTipsList = document.getElementById('modalChefTips');
+        chefTipsList.innerHTML = recipe.chefTips.map(tip => 
+            `<li>${tip}</li>`
+        ).join('');
+
+        // Health Benefits
+        const healthBenefitsList = document.getElementById('modalHealthBenefits');
+        healthBenefitsList.innerHTML = recipe.healthBenefits.map(benefit => 
+            `<li>${benefit}</li>`
+        ).join('');
+
+        // Show modal
+        modal.style.display = 'block';
+        document.body.style.overflow = 'hidden'; // Prevent background scrolling
+    }
+
+    closeModal() {
+        const modal = document.getElementById('recipeModal');
+        modal.style.display = 'none';
+        document.body.style.overflow = 'auto'; // Restore scrolling
+    }
+}
+
+// Initialize the application when DOM is loaded
+document.addEventListener('DOMContentLoaded', () => {
+    new ChefRichApp();
+});
