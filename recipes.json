@@ -1,834 +1,824 @@
-{"digestive-elixir"
-name	"ChefRich Golden Digestive Elixir"
-description	"A powerful therapeutic shot that ignites digestive fire and reduces inflammation. This potent elixir combines fresh ginger's warming properties with raw honey's antimicrobial benefits."
-image	"https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop"
-healthCondition	"Digestive Health"
-category	"Therapeutic Drinks"
-servings	"4-6 shots"
-prepTime	"5 minutes"
-cookTime	""
-difficulty	"Easy"
-tags	
-0	"Vegan"
-1	"Gluten-Free"
-2	"Anti-Inflammatory"
-3	"Raw"
-4	"Digestive"
-calories	25
-nutrition	
-protein	"0g"
-carbs	"7g"
-fat	"0g"
-fiber	"0g"
-ingredients	
-0	"3 inches fresh organic ginger root, peeled"
-1	"3 tablespoons raw honey or pure maple syrup"
-2	"1/2 fresh lemon, juiced (about 2 tablespoons)"
-3	"Pinch of Himalayan pink salt"
-4	"1/4 teaspoon turmeric powder (optional)"
-5	"1 tablespoon filtered water if needed"
-instructions	
-0	"Wash and peel fresh ginger root thoroughly"
-1	"Using a high-quality juicer, extract juice from ginger (should yield about 2-3 tablespoons)"
-2	"In a small bowl, slowly whisk raw honey into the fresh ginger juice"
-3	"Continue whisking until honey is completely emulsified and mixture is smooth"
-4	"Add fresh lemon juice and whisk to combine"
-5	"Add a pinch of Himalayan pink salt to enhance mineral absorption"
-6	"If mixture is too thick, add 1 tablespoon filtered water"
-7	"Optional: Whisk in turmeric powder for additional anti-inflammatory benefits"
-8	"Store in glass jar in refrigerator for up to 3 days"
-9	"Take 1-2 tablespoons 15 minutes before meals for optimal digestive benefit"
-chefTips	
-0	"Use a microplane grater if you don't have a juicer - grate ginger finely and strain through cheesecloth"
-1	"The elixir should have a warming sensation - this indicates active gingerol compounds"
-2	"Start with 1 tablespoon if you're sensitive to ginger and gradually increase"
-healthBenefits	
-0	"Stimulates natural digestive enzymes by up to 75%"
-1	"Reduces nausea and motion sickness"
-2	"Anti-inflammatory properties reduce gut inflammation"
-3	"Boosts metabolic rate and thermogenesis"
-4	"Supports healthy gut microbiome"
-featured	true
-1	
-id	"gut-healing-minestrone"
-name	"ChefRich Gut-Healing Garden Minestrone"
-description	"A nourishing, fiber-rich soup designed to feed beneficial gut bacteria and support digestive healing. Each ingredient is chosen for its prebiotic and anti-inflammatory properties."
-image	"https://images.unsplash.com/photo-1547592166-23ac45744acd?w=400&h=300&fit=crop"
-healthCondition	"Digestive Health"
-category	"Healing Soups"
-servings	"6"
-prepTime	"15 minutes"
-cookTime	"45 minutes"
-difficulty	"Medium"
-tags	
-0	"Vegan"
-1	"Gluten-Free"
-2	"High-Fiber"
-3	"Prebiotic"
-4	"Anti-Inflammatory"
-calories	320
-nutrition	
-protein	"15g"
-carbs	"58g"
-fat	"8g"
-fiber	"18g"
-ingredients	
-0	"1 cup dried cannellini beans, soaked overnight"
-1	"3 tablespoons extra virgin olive oil"
-2	"1 large yellow onion, diced (about 2 cups)"
-3	"1 large leek, white and light green parts, cleaned and chopped"
-4	"3 organic carrots, diced (about 1 cup)"
-5	"3 celery stalks with leaves, chopped"
-6	"4 garlic cloves, minced"
-7	"2 large heirloom tomatoes, diced"
-8	"2 medium zucchini, diced"
-9	"6 cups low-sodium vegetable broth"
-10	"2 sprigs fresh rosemary"
-11	"2 slices day-old sourdough bread, cubed"
-12	"2 tablespoons apple cider vinegar"
-13	"1/4 cup fresh basil, chiffonade"
-14	"1 teaspoon sea salt"
-15	"1/2 teaspoon black pepper"
-16	"2 tablespoons nutritional yeast (optional)"
-instructions	
-0	"Drain and rinse soaked cannellini beans"
-1	"In a large pot, add beans with fresh water to cover by 2 inches"
-2	"Add rosemary sprigs and bring to boil, then simmer 45 minutes until tender"
-3	"Reserve 2 cups bean cooking liquid, then drain beans"
-4	"In the same pot, heat olive oil over medium heat"
-5	"Add diced onion and leek, sauté until golden and translucent (8-10 minutes)"
-6	"Add carrots and celery, cook until beginning to soften (5 minutes)"
-7	"Add minced garlic and cook until fragrant (1 minute)"
-8	"Add diced tomatoes and cook until they break down (8-10 minutes)"
-9	"Add zucchini and cook for 3 minutes"
-10	"Add vegetable broth and reserved bean liquid"
-11	"Add cooked beans back to pot and bring to simmer"
-12	"Simmer for 20 minutes until vegetables are tender"
-13	"Stir in bread cubes during last 5 minutes of cooking"
-14	"Remove from heat and stir in apple cider vinegar"
-15	"Season with salt and pepper to taste"
-16	"Serve garnished with fresh basil chiffonade"
-17	"Optional: Sprinkle with nutritional yeast for extra B vitamins"
-chefTips	
-0	"Soaking beans overnight reduces cooking time and improves digestibility"
-1	"Save some bean cooking liquid - it's rich in nutrients and adds depth"
-2	"The bread should dissolve slightly, naturally thickening the soup"
-healthBenefits	
-0	"Prebiotic fiber feeds beneficial gut bacteria"
-1	"Anti-inflammatory olive oil and herbs support gut lining"
-2	"High bioavailable nutrients support immune function"
-3	"Supports cardiovascular health with plant-based protein"
-4	"Apple cider vinegar aids nutrient absorption"
-featured	true
-2	
-id	"detox-power-greens"
-name	"ChefRich Detox Power Greens with Walnut Crunch"
-description	"A nutrient-dense salad featuring bitter greens that support liver detoxification, paired with antioxidant-rich walnuts and a mineral-rich olive tapenade dressing."
-image	"https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&h=300&fit=crop"
-healthCondition	"Detox Support"
-category	"Cleansing Salads"
-servings	"4-6"
-prepTime	"15 minutes"
-cookTime	""
-difficulty	"Easy"
-tags	
-0	"Vegan"
-1	"Gluten-Free"
-2	"Raw"
-3	"Detox"
-4	"Antioxidant-Rich"
-calories	245
-nutrition	
-protein	"6g"
-carbs	"8g"
-fat	"23g"
-fiber	"4g"
-ingredients	
-0	"4 cups fresh arugula, thoroughly washed and dried"
-1	"2 cups baby spinach leaves"
-2	"1/2 cup kalamata olives, pitted and halved"
-3	"1/3 cup extra virgin olive oil"
-4	"2 tablespoons aged balsamic vinegar"
-5	"3/4 cup raw walnuts, roughly chopped"
-6	"2 tablespoons filtered water (if needed for dressing)"
-7	"1 tablespoon lemon juice"
-8	"1 clove garlic, minced"
-9	"1/4 teaspoon sea salt"
-10	"1/4 teaspoon black pepper"
-11	"2 tablespoons hemp hearts (optional)"
-instructions	
-0	"Wash arugula and spinach thoroughly in cold water"
-1	"Spin dry in salad spinner or pat dry with clean kitchen towels"
-2	"Toast walnuts in a dry skillet over medium heat for 3-4 minutes until fragrant"
-3	"Let walnuts cool and roughly chop, reserving half for dressing"
-4	"In a food processor or blender, combine olives, half the toasted walnuts, and minced garlic"
-5	"Add olive oil, balsamic vinegar, and lemon juice"
-6	"Process until mixture forms a chunky tapenade consistency"
-7	"Add water 1 tablespoon at a time if dressing needs thinning"
-8	"Season tapenade dressing with salt and pepper"
-9	"In a large salad bowl, combine arugula and spinach"
-10	"Drizzle dressing over greens just before serving"
-11	"Toss gently to coat all leaves"
-12	"Top with remaining toasted walnuts and hemp hearts if using"
-13	"Serve immediately for best texture and nutrient retention"
-chefTips	
-0	"Massage the dressing into heartier greens like kale if substituting"
-1	"Make extra tapenade dressing - it keeps for a week and works on grain bowls"
-2	"Add the dressing just before serving to prevent wilting"
-healthBenefits	
-0	"Bitter compounds in arugula support liver detoxification pathways"
-1	"Healthy fats from olive oil and walnuts aid nutrient absorption"
-2	"Antioxidants fight cellular damage and support immune function"
-3	"Supports lymphatic drainage and circulation"
-4	"High chlorophyll content supports blood purification"
-featured	false
-3	
-id	"heart-healthy-cannelloni"
-name	"ChefRich Heart-Healthy Butternut Cannelloni"
-description	"An elegant, nutrient-rich dish featuring roasted butternut squash and mushrooms wrapped in delicate pasta. Rich in beta-carotene, potassium, and heart-healthy fats."
-image	"https://images.unsplash.com/photo-1621996346565-e3dbc353d2e5?w=400&h=300&fit=crop"
-healthCondition	"Heart Health"
-category	"Comfort Food"
-servings	"6-8"
-prepTime	"45 minutes"
-cookTime	"75 minutes"
-difficulty	"Advanced"
-tags	
-0	"Vegetarian"
-1	"Heart-Healthy"
-2	"Italian-Inspired"
-3	"High-Fiber"
-calories	425
-nutrition	
-protein	"18g"
-carbs	"52g"
-fat	"18g"
-fiber	"8g"
-ingredients	
-0	"1 large butternut squash (about 3 lbs), halved lengthwise and seeded"
-1	"6 tablespoons extra virgin olive oil, divided"
-2	"3 large portobello mushrooms, stems removed and cleaned"
-3	"1 tablespoon aged balsamic vinegar"
-4	"1 medium yellow onion, finely diced"
-5	"1/2 teaspoon red pepper flakes"
-6	"10 fresh sage leaves, finely chopped"
-7	"1/2 cup pine nuts, toasted"
-8	"15 oz part-skim ricotta cheese"
-9	"12-15 Roma tomatoes, halved"
-10	"1/4 cup fresh thyme leaves, chopped"
-11	"4 sheets fresh lasagna pasta"
-12	"1/4 cup pecorino romano cheese, grated"
-13	"1 teaspoon sea salt"
-14	"1/2 teaspoon black pepper"
-15	"2 tablespoons fresh parsley for garnish"
-instructions	
-0	"Preheat oven to 400°F (200°C)"
-1	"Brush butternut squash halves with 2 tablespoons olive oil and season with salt"
-2	"Place cut-side down on baking sheet and roast 40-45 minutes until tender"
-3	"Meanwhile, brush portobello mushrooms with balsamic vinegar and 1 tablespoon olive oil"
-4	"Grill or roast mushrooms 15 minutes until tender, then slice"
-5	"Heat 2 tablespoons olive oil in large skillet over medium heat"
-6	"Sauté diced onion until caramelized (15-20 minutes), adding red pepper flakes"
-7	"When squash is cool enough to handle, scoop flesh into large bowl"
-8	"Mash squash with fork, leaving some texture"
-9	"Fold in caramelized onions, sliced mushrooms, sage, and pine nuts"
-10	"Mix in ricotta cheese and season with salt and pepper"
-11	"For tomato sauce: toss halved tomatoes with remaining olive oil and thyme"
-12	"Roast tomatoes at 350°F (175°C) for 25 minutes until soft"
-13	"Blend roasted tomatoes until smooth, season with salt"
-14	"Cook pasta sheets in salted boiling water until just al dente"
-15	"Cut pasta into 6-inch squares"
-16	"Place 1/3 cup filling on each pasta square and roll into cannelloni"
-17	"Spread tomato sauce in baking dish, arrange cannelloni on top"
-18	"Cover with foil and bake at 375°F (190°C) for 25 minutes"
-19	"Remove foil, sprinkle with pecorino, bake 5 minutes more"
-20	"Garnish with fresh parsley before serving"
-chefTips	
-0	"Roast squash cut-side down to concentrate flavors and prevent watery filling"
-1	"Make the filling a day ahead - flavors improve overnight"
-2	"Don't overcook pasta - it will continue cooking in the oven"
-healthBenefits	
-0	"Beta-carotene from butternut squash supports cardiovascular health"
-1	"Healthy monounsaturated fats from olive oil and pine nuts"
-2	"Potassium-rich vegetables support healthy blood pressure"
-3	"Antioxidant-rich tomatoes and herbs protect against oxidative stress"
-4	"High fiber content supports cholesterol management"
-featured	true
-4	
-id	"immune-boosting-citrus"
-name	"ChefRich Immune-Boosting Spiced Citrus Bowl"
-description	"A vibrant, vitamin C-rich dessert featuring supremed citrus fruits in a warming spiced syrup. The combination of citrus and warming spices creates a powerful immune-supporting treat."
-image	"https://images.unsplash.com/photo-1577003833619-76bbd7f82d4b?w=400&h=300&fit=crop"
-healthCondition	"Immune Support"
-category	"Healing Desserts"
-servings	"8"
-prepTime	"30 minutes"
-cookTime	"15 minutes"
-difficulty	"Medium"
-tags	
-0	"Vegan"
-1	"Gluten-Free"
-2	"Immune-Boosting"
-3	"Citrus"
-4	"Warming-Spices"
-calories	165
-nutrition	
-protein	"2g"
-carbs	"42g"
-fat	"0g"
-fiber	"6g"
-ingredients	
-0	"1 cup filtered water"
-1	"1/2 cup pure maple syrup"
-2	"1 tablespoon additional maple syrup for zest"
-3	"3-inch piece fresh ginger, sliced into coins"
-4	"2 whole star anise pods"
-5	"10 whole cloves"
-6	"1 cinnamon stick"
-7	"Zest of 1/2 large lemon"
-8	"6 large navel oranges"
-9	"3 large Ruby Red grapefruits"
-10	"1/2 cup dried mission figs, quartered"
-11	"2 tablespoons fresh mint leaves, chopped"
-instructions	
-0	"In a medium saucepan, combine water, 1/2 cup maple syrup, ginger coins, star anise, cloves, cinnamon stick, and lemon zest"
-1	"Bring mixture to a rolling boil over medium-high heat"
-2	"Reduce heat to medium-low and simmer 12-15 minutes until reduced to about 1 cup"
-3	"Strain spiced syrup through fine-mesh sieve and let cool completely"
-4	"Using a microplane, zest 2 oranges finely into a small bowl"
-5	"Mix orange zest with 1 tablespoon maple syrup to create sweetened zest"
-6	"To supreme citrus: cut off top and bottom of each fruit"
-7	"Stand fruit on cutting board and slice away peel and white pith"
-8	"Hold fruit over bowl and cut between membranes to release segments"
-9	"Repeat with all oranges and grapefruits, collecting segments in large bowl"
-10	"Add quartered dried figs to citrus segments"
-11	"Pour cooled spiced syrup over fruit mixture"
-12	"Gently fold to combine without breaking segments"
-13	"Refrigerate for 30-60 minutes to allow flavors to meld"
-14	"Serve chilled, garnished with sweetened orange zest and fresh mint"
-15	"Can be made up to 1 day ahead for enhanced flavor development"
-chefTips	
-0	"Supreme citrus over a bowl to catch all the precious juices"
-1	"Save citrus membranes and peels for making homemade pectin or potpourri"
-2	"The spiced syrup can be made ahead and stored for up to 1 week"
-healthBenefits	
-0	"Extremely high vitamin C content boosts immune function"
-1	"Ginger provides powerful anti-inflammatory compounds"
-2	"Antioxidants from citrus protect cells from damage"
-3	"Natural enzymes aid digestion and nutrient absorption"
-4	"Warming spices support circulation and respiratory health"
-featured	false
-5	
-id	"fire-starting-shot"
-name	"ChefRich Fire-Starting Digestive Shot"
-description	"A potent digestive activator that stimulates hydrochloric acid production and primes the digestive system. This concentrated shot ignites digestive fire naturally."
-image	"https://images.unsplash.com/photo-1621447504864-d8686e12698c?w=400&h=300&fit=crop"
-healthCondition	"Digestive Health"
-category	"Therapeutic Drinks"
-servings	"4-6 shots"
-prepTime	"8 minutes"
-cookTime	""
-difficulty	"Easy"
-tags	
-0	"Vegan"
-1	"Gluten-Free"
-2	"Digestive"
-3	"Raw"
-4	"Metabolism-Boosting"
-calories	8
-nutrition	
-protein	"0g"
-carbs	"2g"
-fat	"0g"
-fiber	"0g"
-ingredients	
-0	"2 inches fresh ginger root, peeled and finely chopped"
-1	"Juice of 1 large lemon (about 3 tablespoons)"
-2	"1/4 teaspoon coarse sea salt"
-3	"1 tablespoon raw apple cider vinegar with mother (optional)"
-4	"Pinch of cayenne pepper (optional)"
-5	"1 teaspoon raw honey (optional, for sensitive palates)"
-instructions	
-0	"Wash and peel fresh ginger root thoroughly"
-1	"Using a microplane grater or sharp knife, finely chop ginger"
-2	"Place chopped ginger in a small bowl"
-3	"Add fresh lemon juice to ginger and mix well"
-4	"Add coarse sea salt and stir to combine"
-5	"Optional: Add apple cider vinegar for extra digestive power"
-6	"Optional: Add pinch of cayenne for metabolic boost"
-7	"Optional: Add raw honey if the mixture is too intense"
-8	"Let mixture sit for 2-3 minutes to allow flavors to meld"
-9	"Stir well before each use"
-10	"Take 1 tablespoon 15-20 minutes before meals"
-11	"Store in refrigerator for up to 2 days"
-12	"Shake or stir before each use as ingredients may separate"
-chefTips	
-0	"Start with less ginger if you're sensitive and gradually increase"
-1	"The burning sensation indicates active compounds - this is normal"
-2	"Take with a small amount of water if too intense"
-healthBenefits	
-0	"Ignites digestive fire and stimulates appetite"
-1	"Stimulates hydrochloric acid production for better protein digestion"
-2	"Reduces bloating and gas after meals"
-3	"Boosts metabolism naturally through thermogenic compounds"
-4	"Apple cider vinegar supports healthy gut pH balance"
-featured	false
-6	
-id	"omega-herb-salmon"
-name	"Omega-Rich Herb-Crusted Salmon Medallions"
-description	"Wild-caught salmon enhanced with anti-inflammatory herbs and omega-3 rich seeds. This heart-healthy dish provides complete protein while supporting cardiovascular wellness."
-image	"https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=400&h=300&fit=crop"
-healthCondition	"Heart Health"
-category	"Main Course"
-servings	"4"
-prepTime	"20 minutes"
-cookTime	"15 minutes"
-difficulty	"Medium"
-tags	
-0	"heart-healthy"
-1	"omega-3"
-2	"anti-inflammatory"
-3	"high-protein"
-4	"gluten-free"
-calories	385
-nutrition	
-protein	"32g"
-carbs	"4g"
-fat	"26g"
-fiber	"2g"
-ingredients	
-0	"4 wild-caught salmon fillets (6 oz each)"
-1	"2 tablespoons extra virgin olive oil"
-2	"1 tablespoon fresh dill, chopped"
-3	"1 tablespoon fresh parsley, chopped"
-4	"2 cloves garlic, minced"
-5	"1 lemon, juiced and zested"
-6	"1 teaspoon ground flaxseed"
-7	"1/2 teaspoon sea salt"
-8	"1/4 teaspoon black pepper"
-9	"1 tablespoon hemp hearts"
-instructions	
-0	"Preheat broiler to high heat"
-1	"In a bowl, combine olive oil, herbs, garlic, lemon juice and zest, flaxseed, salt, and pepper"
-2	"Place salmon fillets on a lined baking sheet"
-3	"Brush herb mixture generously over salmon"
-4	"Let marinate for 15 minutes at room temperature"
-5	"Broil for 8-10 minutes until fish flakes easily"
-6	"Sprinkle with hemp hearts before serving"
-7	"Serve immediately with steamed vegetables"
-chefTips	
-0	"Choose wild-caught salmon for higher omega-3 content"
-1	"Don't overcook - salmon should be slightly pink in center"
-2	"Save some herb mixture to drizzle over cooked fish"
-healthBenefits	
-0	"Rich in omega-3 fatty acids for cardiovascular health"
-1	"Anti-inflammatory properties from herbs and olive oil"
-2	"High-quality protein for muscle maintenance"
-3	"Flaxseed provides additional heart-healthy fiber"
-featured	false
-7	
-id	"plant-tempeh-marinara"
-name	"Plant-Powered Tempeh Marinara Bowl"
-description	"Fermented tempeh provides complete plant protein while supporting digestive health. Combined with antioxidant-rich tomatoes and gut-friendly herbs for optimal nutrition."
-image	"https://images.unsplash.com/photo-1572441713132-51c75654db73?w=400&h=300&fit=crop"
-healthCondition	"Plant Protein Focus"
-category	"Main Course"
-servings	"4"
-prepTime	"15 minutes"
-cookTime	"25 minutes"
-difficulty	"Medium"
-tags	
-0	"plant-based"
-1	"high-protein"
-2	"probiotic"
-3	"high-fiber"
-4	"digestive-health"
-calories	420
-nutrition	
-protein	"24g"
-carbs	"45g"
-fat	"18g"
-fiber	"12g"
-ingredients	
-0	"8 oz organic tempeh, crumbled"
-1	"2 cups whole grain pasta or zucchini noodles"
-2	"1 can (14 oz) crushed tomatoes, no sugar added"
-3	"1 medium onion, diced"
-4	"3 cloves garlic, minced"
-5	"1 bell pepper, diced"
-6	"2 tablespoons olive oil"
-7	"1 tablespoon nutritional yeast"
-8	"1 teaspoon dried oregano"
-9	"1 teaspoon dried basil"
-10	"1/2 teaspoon fennel seeds"
-11	"1/4 cup fresh basil leaves"
-12	"2 tablespoons apple cider vinegar"
-13	"Sea salt and pepper to taste"
-instructions	
-0	"Steam tempeh for 10 minutes, then crumble into bite-sized pieces"
-1	"Heat olive oil in a large skillet over medium heat"
-2	"Sauté onion and bell pepper until softened, about 5 minutes"
-3	"Add garlic and fennel seeds, cook for 1 minute"
-4	"Add crumbled tempeh and cook until lightly browned"
-5	"Stir in crushed tomatoes, herbs, and apple cider vinegar"
-6	"Simmer for 15-20 minutes until flavors meld"
-7	"Season with salt, pepper, and nutritional yeast"
-8	"Serve over cooked pasta or zucchini noodles"
-9	"Garnish with fresh basil leaves"
-chefTips	
-0	"Steam tempeh first to remove any bitterness"
-1	"Add nutritional yeast for extra B-vitamins and umami flavor"
-2	"Fresh basil added at the end provides the best flavor"
-healthBenefits	
-0	"Complete plant protein with all essential amino acids"
-1	"Probiotics from fermented tempeh support digestive health"
-2	"High fiber content promotes gut health"
-3	"Lycopene from tomatoes supports cellular health"
-featured	false
-8	
-id	"golden-turmeric-curry"
-name	"Golden Turmeric Tempeh Coconut Curry"
-description	"A vibrant anti-inflammatory curry featuring turmeric's powerful curcumin and creamy coconut milk. The perfect balance of warming spices and plant protein for healing and nourishment."
-image	"https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?w=400&h=300&fit=crop"
-healthCondition	"Anti-Inflammatory Support"
-category	"Main Course"
-servings	"4"
-prepTime	"15 minutes"
-cookTime	"25 minutes"
-difficulty	"Medium"
-tags	
-0	"anti-inflammatory"
-1	"plant-based"
-2	"turmeric"
-3	"coconut"
-4	"immune-support"
-calories	395
-nutrition	
-protein	"20g"
-carbs	"25g"
-fat	"28g"
-fiber	"8g"
-ingredients	
-0	"8 oz tempeh, cubed"
-1	"1 can (14 oz) full-fat coconut milk"
-2	"1 medium onion, sliced"
-3	"2 tablespoons fresh ginger, grated"
-4	"3 cloves garlic, minced"
-5	"2 teaspoons ground turmeric"
-6	"1 teaspoon ground cumin"
-7	"1/2 teaspoon ground coriander"
-8	"1/4 teaspoon cayenne pepper"
-9	"2 tablespoons coconut oil"
-10	"1 bell pepper, sliced"
-11	"1 cup baby spinach"
-12	"2 tablespoons lime juice"
-13	"1/4 cup fresh cilantro"
-14	"Sea salt to taste"
-15	"1 tablespoon coconut aminos"
-instructions	
-0	"Heat coconut oil in a large skillet over medium heat"
-1	"Add tempeh cubes and cook until golden, about 6 minutes"
-2	"Remove tempeh and set aside"
-3	"In same skillet, sauté onion until translucent"
-4	"Add ginger, garlic, and all spices, cook for 1 minute"
-5	"Pour in coconut milk and coconut aminos"
-6	"Add bell pepper and simmer for 10 minutes"
-7	"Return tempeh to skillet and simmer 5 more minutes"
-8	"Stir in spinach until wilted"
-9	"Add lime juice and season with salt"
-10	"Garnish with fresh cilantro before serving"
-chefTips	
-0	"Use fresh turmeric if available for maximum anti-inflammatory benefits"
-1	"Don't let spices burn - add liquid if they start to stick"
-2	"Adjust cayenne to your heat preference"
-healthBenefits	
-0	"Turmeric provides powerful anti-inflammatory compounds"
-1	"Coconut milk contains healthy medium-chain fatty acids"
-2	"Ginger supports digestive health and reduces inflammation"
-3	"Plant protein from tempeh supports muscle health"
-featured	false
-9	
-id	"antioxidant-apple-phyllo"
-name	"Antioxidant Apple Cinnamon Phyllo Parcels"
-description	"Delicate phyllo pastry filled with antioxidant-rich apples and brain-healthy nuts. Sweetened naturally with maple syrup and warming spices for a guilt-free dessert."
-image	"https://images.unsplash.com/photo-1568471173187-540eda8ade95?w=400&h=300&fit=crop"
-healthCondition	"Antioxidant Rich"
-category	"Dessert"
-servings	"4"
-prepTime	"20 minutes"
-cookTime	"20 minutes"
-difficulty	"Medium"
-tags	
-0	"antioxidant-rich"
-1	"brain-healthy"
-2	"natural-sweeteners"
-3	"omega-3"
-4	"fiber-rich"
-calories	185
-nutrition	
-protein	"4g"
-carbs	"28g"
-fat	"8g"
-fiber	"5g"
-ingredients	
-0	"4 sheets whole wheat phyllo pastry"
-1	"3 medium organic apples, peeled and diced"
-2	"2 tablespoons coconut oil, melted"
-3	"2 tablespoons pure maple syrup"
-4	"1 teaspoon Ceylon cinnamon"
-5	"1/4 teaspoon ground ginger"
-6	"1/4 teaspoon nutmeg"
-7	"2 tablespoons chopped walnuts"
-8	"1 tablespoon chia seeds"
-9	"1 teaspoon vanilla extract"
-10	"Pinch of sea salt"
-instructions	
-0	"Preheat oven to 375°F (190°C)"
-1	"In a bowl, toss diced apples with maple syrup, cinnamon, ginger, nutmeg, vanilla, and salt"
-2	"Let apple mixture sit for 10 minutes to release juices"
-3	"Stir in walnuts and chia seeds"
-4	"Brush each phyllo sheet lightly with melted coconut oil"
-5	"Place 1/4 of apple mixture in center of each sheet"
-6	"Gather phyllo edges to form parcels, twisting to seal"
-7	"Place on parchment-lined baking sheet"
-8	"Bake for 18-20 minutes until golden brown"
-9	"Cool for 5 minutes before serving"
-chefTips	
-0	"Keep unused phyllo covered with damp towel to prevent drying"
-1	"Don't overfill parcels or they may burst during baking"
-2	"Serve warm for best texture and flavor"
-healthBenefits	
-0	"High in antioxidants from apples and cinnamon"
-1	"Chia seeds provide omega-3 fatty acids"
-2	"Walnuts support brain health"
-3	"Natural sweeteners reduce inflammation"
-featured	false
-10	
-id	"enzyme-pineapple-relish"
-name	"Enzyme-Active Pineapple Ginger Relish"
-description	"A fresh, enzyme-rich condiment that supports digestion with bromelain from pineapple and warming ginger. Perfect as a digestive aid before meals."
-image	"https://images.unsplash.com/photo-1589820296156-2454bb8a6ad1?w=400&h=300&fit=crop"
-healthCondition	"Enzyme Support"
-category	"Condiment/Side"
-servings	"8"
-prepTime	"15 minutes"
-cookTime	""
-difficulty	"Easy"
-tags	
-0	"enzyme-rich"
-1	"digestive-aid"
-2	"raw"
-3	"vitamin-c"
-4	"anti-inflammatory"
-calories	45
-nutrition	
-protein	"1g"
-carbs	"12g"
-fat	"0g"
-fiber	"2g"
-ingredients	
-0	"1 fresh pineapple, cored and diced"
-1	"1 red bell pepper, finely diced"
-2	"1/2 red onion, finely diced"
-3	"2 tablespoons fresh ginger, minced"
-4	"1 jalapeño pepper, seeded and minced"
-5	"1/4 cup fresh mint leaves, chopped"
-6	"2 tablespoons lime juice"
-7	"1 tablespoon raw apple cider vinegar"
-8	"1 teaspoon raw honey"
-9	"1/4 teaspoon sea salt"
-10	"2 tablespoons fresh cilantro, chopped"
-instructions	
-0	"Combine diced pineapple, bell pepper, and red onion in a large bowl"
-1	"Add minced ginger and jalapeño"
-2	"In a small bowl, whisk together lime juice, apple cider vinegar, honey, and salt"
-3	"Pour dressing over pineapple mixture"
-4	"Gently fold in mint and cilantro"
-5	"Let relish sit at room temperature for 30 minutes to develop flavors"
-6	"Serve fresh or refrigerate for up to 3 days"
-7	"Excellent with grilled proteins or as a digestive aid before meals"
-chefTips	
-0	"Use the ripest pineapple for maximum enzyme activity"
-1	"Adjust jalapeño to your heat preference"
-2	"Serve at room temperature for best enzyme activity"
-healthBenefits	
-0	"Bromelain enzyme from pineapple aids protein digestion"
-1	"Ginger stimulates digestive enzymes and reduces inflammation"
-2	"Raw ingredients preserve natural enzyme activity"
-3	"Vitamin C supports immune function"
-featured	false
-11	
-id	"immune-mushroom-chicken"
-name	"Immune-Boosting Mushroom Herb Chicken"
-description	"Organic chicken enhanced with medicinal mushrooms and immune-supporting herbs. This nourishing dish combines high-quality protein with adaptogenic mushrooms for optimal wellness."
-image	"https://images.unsplash.com/photo-1604503468506-a8da13d82791?w=400&h=300&fit=crop"
-healthCondition	"Immune Support"
-category	"Main Course"
-servings	"4"
-prepTime	"15 minutes"
-cookTime	"35 minutes"
-difficulty	"Medium"
-tags	
-0	"immune-support"
-1	"medicinal-mushrooms"
-2	"bone-broth"
-3	"high-protein"
-4	"herb-rich"
-calories	340
-nutrition	
-protein	"35g"
-carbs	"8g"
-fat	"18g"
-fiber	"3g"
-ingredients	
-0	"4 organic chicken breasts (6 oz each)"
-1	"8 oz mixed mushrooms (shiitake, maitake, oyster), sliced"
-2	"2 tablespoons olive oil"
-3	"1 medium onion, sliced"
-4	"3 cloves garlic, minced"
-5	"1 cup low-sodium chicken bone broth"
-6	"2 tablespoons fresh thyme leaves"
-7	"1 tablespoon fresh rosemary, chopped"
-8	"1 teaspoon dried oregano"
-9	"2 tablespoons coconut flour"
-10	"1/4 cup coconut milk"
-11	"1 tablespoon lemon juice"
-12	"Sea salt and pepper to taste"
-13	"2 tablespoons fresh parsley for garnish"
-instructions	
-0	"Season chicken breasts with salt, pepper, and half the herbs"
-1	"Heat olive oil in a large skillet over medium-high heat"
-2	"Sear chicken breasts until golden, about 5 minutes per side"
-3	"Remove chicken and set aside"
-4	"In same skillet, sauté onion until softened"
-5	"Add garlic and mushrooms, cook until mushrooms release moisture"
-6	"Sprinkle coconut flour over mushrooms and stir"
-7	"Gradually add bone broth, stirring to prevent lumps"
-8	"Add remaining herbs and return chicken to skillet"
-9	"Simmer covered for 15-20 minutes until chicken is cooked through"
-10	"Stir in coconut milk and lemon juice"
-11	"Garnish with fresh parsley before serving"
-chefTips	
-0	"Use medicinal mushroom varieties like shiitake and maitake for immune benefits"
-1	"Don't overcrowd the pan when cooking mushrooms"
-2	"Let chicken rest for 5 minutes before slicing"
-healthBenefits	
-0	"Medicinal mushrooms support immune system function"
-1	"Bone broth provides collagen and minerals"
-2	"Herbs contain antimicrobial and antioxidant compounds"
-3	"High-quality protein supports immune cell production"
-featured	false
-12	
-id	"plant-sesame-tofu"
-name	"Plant Protein Sesame Ginger Tofu Steaks"
-description	"Extra-firm tofu marinated in Asian-inspired flavors and pan-seared to perfection. This complete protein dish provides all essential amino acids with heart-healthy sesame and hemp."
-image	"https://images.unsplash.com/photo-1609501676725-7186f34a4710?w=400&h=300&fit=crop"
-healthCondition	"Plant Protein Focus"
-category	"Main Course"
-servings	"4"
-prepTime	"25 minutes"
-cookTime	"15 minutes"
-difficulty	"Medium"
-tags	
-0	"plant-protein"
-1	"complete-protein"
-2	"vegan"
-3	"sesame"
-4	"hemp"
-calories	285
-nutrition	
-protein	"18g"
-carbs	"12g"
-fat	"20g"
-fiber	"3g"
-ingredients	
-0	"1 block (14 oz) extra-firm tofu, sliced into 1/2-inch steaks"
-1	"3 tablespoons tamari or coconut aminos"
-2	"2 tablespoons sesame oil"
-3	"1 tablespoon rice vinegar"
-4	"1 tablespoon fresh ginger, grated"
-5	"2 cloves garlic, minced"
-6	"1 teaspoon pure maple syrup"
-7	"1 tablespoon tahini"
-8	"1 teaspoon sesame seeds"
-9	"2 green onions, sliced"
-10	"1 tablespoon hemp hearts"
-11	"1/4 teaspoon red pepper flakes"
-12	"2 tablespoons avocado oil for cooking"
-instructions	
-0	"Press tofu between paper towels to remove excess moisture"
-1	"Slice tofu into 4 thick steaks"
-2	"In a shallow dish, whisk together tamari, sesame oil, rice vinegar, ginger, garlic, maple syrup, and tahini"
-3	"Marinate tofu steaks for at least 30 minutes, flipping once"
-4	"Heat avocado oil in a large skillet over medium-high heat"
-5	"Cook tofu steaks for 4-5 minutes per side until golden and crispy"
-6	"Brush with remaining marinade while cooking"
-7	"Sprinkle with sesame seeds, hemp hearts, and red pepper flakes"
-8	"Garnish with green onions before serving"
-9	"Serve with steamed vegetables or brown rice"
-chefTips	
-0	"Press tofu for at least 15 minutes for better texture"
-1	"Don't move the tofu too early - let it develop a golden crust"
-2	"Save any leftover marinade as a sauce"
-healthBenefits	
-0	"Complete plant protein with all essential amino acids"
-1	"Isoflavones support hormonal balance"
-2	"Sesame seeds provide calcium and healthy fats"
-3	"Hemp hearts add omega-3 fatty acids"
-featured	false
-13	
-id	"antioxidant-apple-compote"
-name	"Antioxidant Spiced Apple Compote"
-description	"A warming, naturally sweetened apple side dish featuring Ceylon cinnamon and aromatic spices. Perfect as a healthy dessert or accompaniment to savory dishes."
-image	"https://images.unsplash.com/photo-1605794081412-40eb3a3e5d93?w=400&h=300&fit=crop"
-healthCondition	"Antioxidant Rich"
-category	"Side Dish/Dessert"
-servings	"6"
-prepTime	"10 minutes"
-cookTime	"15 minutes"
-difficulty	"Easy"
-tags	
-0	"antioxidant-rich"
-1	"natural-sweeteners"
-2	"warming-spices"
-3	"fiber-rich"
-4	"versatile"
-calories	125
-nutrition	
-protein	"1g"
-carbs	"30g"
-fat	"3g"
-fiber	"4g"
-ingredients	
-0	"4 medium organic apples, peeled and sliced"
-1	"2 tablespoons coconut oil"
-2	"2 tablespoons pure maple syrup"
-3	"1 teaspoon Ceylon cinnamon"
-4	"1/4 teaspoon ground cardamom"
-5	"1/4 teaspoon ground ginger"
-6	"1/8 teaspoon ground cloves"
-7	"1 tablespoon lemon juice"
-8	"1 teaspoon vanilla extract"
-9	"2 tablespoons chopped pecans"
-10	"1 tablespoon goji berries (optional)"
-11	"Pinch of sea salt"
-instructions	
-0	"Heat coconut oil in a large skillet over medium heat"
-1	"Add sliced apples and cook for 3-4 minutes"
-2	"Stir in maple syrup, cinnamon, cardamom, ginger, and cloves"
-3	"Cook for 8-10 minutes until apples are tender but not mushy"
-4	"Add lemon juice and vanilla extract"
-5	"Stir in pecans and goji berries if using"
-6	"Season with a pinch of sea salt"
-7	"Serve warm as a side dish or dessert"
-8	"Excellent over oatmeal, yogurt, or as a healthy dessert"
-chefTips	
-0	"Don't overcook the apples - they should hold their shape"
-1	"Use Ceylon cinnamon for its delicate, sweet flavor"
-2	"This compote keeps well in the refrigerator for up to 5 days"
-healthBenefits	
-0	"High in antioxidants from apples and warming spices"
-1	"Pecans provide healthy fats and vitamin E"
-2	"Cinnamon helps regulate blood sugar"
-3	"Natural sweeteners reduce inflammatory response"
-featured	false
+{
+  "recipes": [
+    {
+      "id": "digestive-elixir",
+      "name": "ChefRich Golden Digestive Elixir",
+      "description": "A warming, golden elixir crafted with turmeric, ginger, and digestive spices to soothe and heal your gut naturally.",
+      "image": "/images/recipes/digestive-elixir.jpg",
+      "healthCondition": "digestive",
+      "category": "beverages",
+      "servings": 2,
+      "prepTime": 5,
+      "cookTime": 10,
+      "difficulty": "easy",
+      "tags": [
+        "anti-inflammatory",
+        "digestive-health",
+        "turmeric",
+        "ginger",
+        "warming"
+      ],
+      "calories": 45,
+      "nutrition": {
+        "protein": "1g",
+        "carbs": "8g",
+        "fat": "2g",
+        "fiber": "1g",
+        "sugar": "6g"
+      },
+      "ingredients": [
+        "2 cups coconut milk",
+        "1 tsp turmeric powder",
+        "1 inch fresh ginger, grated",
+        "1 tsp honey",
+        "1/2 tsp cinnamon",
+        "Pinch of black pepper",
+        "1/4 tsp cardamom"
+      ],
+      "instructions": [
+        "Heat coconut milk in a small saucepan over medium heat",
+        "Whisk in turmeric, ginger, and spices",
+        "Simmer for 5-7 minutes, stirring occasionally",
+        "Strain through fine mesh if desired",
+        "Sweeten with honey to taste",
+        "Serve warm in mugs"
+      ],
+      "chefTips": [
+        "Add a pinch of black pepper to enhance turmeric absorption",
+        "Fresh ginger provides more potent digestive benefits than dried"
+      ],
+      "healthBenefits": [
+        "Reduces inflammation",
+        "Supports digestive health",
+        "Boosts immune system",
+        "Aids in nutrient absorption"
+      ],
+      "featured": true
+    },
+    {
+      "id": "gut-healing-minestrone",
+      "name": "ChefRich Gut-Healing Garden Minestrone",
+      "description": "A nourishing vegetable soup packed with fiber-rich vegetables and healing herbs to support gut microbiome health.",
+      "image": "/images/recipes/gut-healing-minestrone.jpg",
+      "healthCondition": "digestive",
+      "category": "soups",
+      "servings": 6,
+      "prepTime": 20,
+      "cookTime": 35,
+      "difficulty": "medium",
+      "tags": [
+        "gut-health",
+        "fiber-rich",
+        "vegetarian",
+        "healing",
+        "comfort-food"
+      ],
+      "calories": 185,
+      "nutrition": {
+        "protein": "8g",
+        "carbs": "32g",
+        "fat": "4g",
+        "fiber": "9g",
+        "sugar": "8g"
+      },
+      "ingredients": [
+        "2 tbsp olive oil",
+        "1 onion, diced",
+        "3 carrots, chopped",
+        "3 celery stalks, chopped",
+        "4 cups vegetable broth",
+        "1 can diced tomatoes",
+        "1 cup white beans",
+        "2 cups spinach",
+        "1 tsp oregano",
+        "2 bay leaves",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Heat olive oil in large pot over medium heat",
+        "Sauté onion, carrots, and celery until softened",
+        "Add broth, tomatoes, and herbs",
+        "Bring to boil, then simmer 20 minutes",
+        "Add beans and cook 10 minutes more",
+        "Stir in spinach until wilted",
+        "Season with salt and pepper",
+        "Remove bay leaves before serving"
+      ],
+      "chefTips": [
+        "Use low-sodium broth to control salt content",
+        "Add spinach at the end to preserve nutrients"
+      ],
+      "healthBenefits": [
+        "High in prebiotic fiber",
+        "Supports beneficial gut bacteria",
+        "Rich in antioxidants",
+        "Promotes digestive regularity"
+      ],
+      "featured": false
+    },
+    {
+      "id": "detox-power-greens",
+      "name": "ChefRich Detox Power Greens with Walnut Crunch",
+      "description": "A vibrant salad featuring detoxifying greens, antioxidant-rich vegetables, and omega-3 packed walnuts for cellular cleansing.",
+      "image": "/images/recipes/detox-power-greens.jpg",
+      "healthCondition": "detox",
+      "category": "salads",
+      "servings": 4,
+      "prepTime": 15,
+      "cookTime": 0,
+      "difficulty": "easy",
+      "tags": [
+        "detox",
+        "raw",
+        "antioxidants",
+        "omega-3",
+        "cleansing"
+      ],
+      "calories": 220,
+      "nutrition": {
+        "protein": "6g",
+        "carbs": "12g",
+        "fat": "18g",
+        "fiber": "7g",
+        "sugar": "5g"
+      },
+      "ingredients": [
+        "4 cups mixed greens (kale, spinach, arugula)",
+        "1 cup broccoli sprouts",
+        "1/2 cup walnuts, chopped",
+        "1 avocado, sliced",
+        "1/4 cup pumpkin seeds",
+        "2 tbsp lemon juice",
+        "3 tbsp olive oil",
+        "1 tsp Dijon mustard",
+        "1 clove garlic, minced"
+      ],
+      "instructions": [
+        "Massage kale leaves with a pinch of salt",
+        "Combine all greens in large bowl",
+        "Top with sprouts, avocado, and seeds",
+        "Whisk together lemon juice, oil, mustard, and garlic",
+        "Drizzle dressing over salad",
+        "Toss gently to combine",
+        "Sprinkle with walnuts before serving"
+      ],
+      "chefTips": [
+        "Massage kale to break down tough fibers",
+        "Toast walnuts lightly for enhanced flavor"
+      ],
+      "healthBenefits": [
+        "Supports liver detoxification",
+        "High in chlorophyll",
+        "Rich in healthy fats",
+        "Boosts cellular energy"
+      ],
+      "featured": true
+    },
+    {
+      "id": "heart-healthy-cannelloni",
+      "name": "ChefRich Heart-Healthy Butternut Cannelloni",
+      "description": "Wholesome cannelloni filled with heart-healthy butternut squash, ricotta, and herbs, topped with a light tomato sauce.",
+      "image": "/images/recipes/heart-healthy-cannelloni.jpg",
+      "healthCondition": "heart",
+      "category": "main-dishes",
+      "servings": 6,
+      "prepTime": 30,
+      "cookTime": 45,
+      "difficulty": "medium",
+      "tags": [
+        "heart-healthy",
+        "vegetarian",
+        "comfort-food",
+        "italian",
+        "fiber-rich"
+      ],
+      "calories": 285,
+      "nutrition": {
+        "protein": "14g",
+        "carbs": "38g",
+        "fat": "9g",
+        "fiber": "6g",
+        "sugar": "8g"
+      },
+      "ingredients": [
+        "12 whole wheat cannelloni tubes",
+        "2 cups butternut squash, roasted and mashed",
+        "1 cup part-skim ricotta cheese",
+        "1/4 cup Parmesan cheese, grated",
+        "2 cups marinara sauce",
+        "2 tbsp fresh basil, chopped",
+        "1 egg, beaten",
+        "2 cloves garlic, minced",
+        "1 tsp oregano",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Preheat oven to 375°F",
+        "Cook cannelloni according to package directions",
+        "Mix butternut squash, ricotta, egg, and herbs",
+        "Season filling with salt and pepper",
+        "Stuff cannelloni tubes with filling",
+        "Spread sauce in baking dish",
+        "Arrange stuffed cannelloni over sauce",
+        "Top with remaining sauce and Parmesan",
+        "Bake 25-30 minutes until bubbly"
+      ],
+      "chefTips": [
+        "Roast butternut squash until caramelized for deeper flavor",
+        "Use a piping bag to easily fill cannelloni tubes"
+      ],
+      "healthBenefits": [
+        "Rich in beta-carotene",
+        "Supports cardiovascular health",
+        "High in potassium",
+        "Good source of fiber"
+      ],
+      "featured": false
+    },
+    {
+      "id": "immune-boosting-citrus",
+      "name": "ChefRich Immune-Boosting Spiced Citrus Bowl",
+      "description": "A vibrant bowl of seasonal citrus fruits enhanced with immune-supporting spices and a drizzle of antioxidant-rich honey.",
+      "image": "/images/recipes/immune-boosting-citrus.jpg",
+      "healthCondition": "immune",
+      "category": "breakfast",
+      "servings": 2,
+      "prepTime": 10,
+      "cookTime": 0,
+      "difficulty": "easy",
+      "tags": [
+        "immune-boost",
+        "vitamin-c",
+        "antioxidants",
+        "fresh",
+        "energizing"
+      ],
+      "calories": 125,
+      "nutrition": {
+        "protein": "2g",
+        "carbs": "32g",
+        "fat": "0.5g",
+        "fiber": "6g",
+        "sugar": "24g"
+      },
+      "ingredients": [
+        "2 oranges, segmented",
+        "1 grapefruit, segmented",
+        "1 cup fresh berries",
+        "2 tbsp raw honey",
+        "1/2 tsp cinnamon",
+        "1/4 tsp ginger powder",
+        "Pinch of cayenne pepper",
+        "Fresh mint leaves for garnish"
+      ],
+      "instructions": [
+        "Segment citrus fruits, removing all pith",
+        "Arrange citrus and berries in serving bowls",
+        "Mix honey with spices in small bowl",
+        "Drizzle spiced honey over fruit",
+        "Garnish with fresh mint leaves",
+        "Serve immediately for best flavor"
+      ],
+      "chefTips": [
+        "Chill fruits beforehand for a refreshing experience",
+        "Use a sharp knife to cleanly segment citrus"
+      ],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Boosts immune function",
+        "Rich in antioxidants",
+        "Supports collagen production"
+      ],
+      "featured": true
+    },
+    {
+      "id": "fire-starting-shot",
+      "name": "ChefRich Fire-Starting Digestive Shot",
+      "description": "An intense, concentrated shot of digestive fire featuring cayenne, ginger, and apple cider vinegar to kickstart metabolism.",
+      "image": "/images/recipes/fire-starting-shot.jpg",
+      "healthCondition": "digestive",
+      "category": "beverages",
+      "servings": 4,
+      "prepTime": 5,
+      "cookTime": 0,
+      "difficulty": "easy",
+      "tags": [
+        "digestive",
+        "metabolism",
+        "detox",
+        "spicy",
+        "energizing"
+      ],
+      "calories": 15,
+      "nutrition": {
+        "protein": "0g",
+        "carbs": "4g",
+        "fat": "0g",
+        "fiber": "0g",
+        "sugar": "3g"
+      },
+      "ingredients": [
+        "1/4 cup apple cider vinegar",
+        "2 tbsp lemon juice",
+        "1 inch fresh ginger, juiced",
+        "1/4 tsp cayenne pepper",
+        "1 tsp raw honey",
+        "Pinch of sea salt"
+      ],
+      "instructions": [
+        "Juice fresh ginger using a fine grater or juicer",
+        "Combine all ingredients in small bowl",
+        "Whisk until honey is dissolved",
+        "Strain through fine mesh if desired",
+        "Divide into shot glasses",
+        "Consume immediately on empty stomach"
+      ],
+      "chefTips": [
+        "Start with less cayenne and build tolerance gradually",
+        "Take on empty stomach for maximum digestive benefits"
+      ],
+      "healthBenefits": [
+        "Stimulates digestive enzymes",
+        "Boosts metabolism",
+        "Supports detoxification",
+        "Improves circulation"
+      ],
+      "featured": false
+    },
+    {
+      "id": "omega-herb-salmon",
+      "name": "Omega-Rich Herb-Crusted Salmon Medallions",
+      "description": "Premium salmon medallions crusted with fresh herbs and omega-3 rich seeds, pan-seared to perfection for heart health.",
+      "image": "/images/recipes/omega-herb-salmon.jpg",
+      "healthCondition": "heart",
+      "category": "main-dishes",
+      "servings": 4,
+      "prepTime": 15,
+      "cookTime": 12,
+      "difficulty": "medium",
+      "tags": [
+        "omega-3",
+        "heart-healthy",
+        "protein",
+        "herbs",
+        "anti-inflammatory"
+      ],
+      "calories": 320,
+      "nutrition": {
+        "protein": "28g",
+        "carbs": "2g",
+        "fat": "22g",
+        "fiber": "1g",
+        "sugar": "0g"
+      },
+      "ingredients": [
+        "4 salmon fillets (6 oz each)",
+        "2 tbsp fresh dill, chopped",
+        "2 tbsp fresh parsley, chopped",
+        "1 tbsp chia seeds",
+        "1 tbsp hemp hearts",
+        "2 tbsp olive oil",
+        "1 lemon, zested and juiced",
+        "2 cloves garlic, minced",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Pat salmon dry and season with salt and pepper",
+        "Mix herbs, seeds, garlic, and lemon zest",
+        "Press herb mixture onto salmon fillets",
+        "Heat olive oil in large skillet over medium-high heat",
+        "Sear salmon herb-side down for 4-5 minutes",
+        "Flip and cook 3-4 minutes more",
+        "Drizzle with lemon juice before serving"
+      ],
+      "chefTips": [
+        "Don't move salmon once placed in pan for better crust",
+        "Internal temperature should reach 145°F"
+      ],
+      "healthBenefits": [
+        "High in omega-3 fatty acids",
+        "Supports heart health",
+        "Reduces inflammation",
+        "Excellent protein source"
+      ],
+      "featured": true
+    },
+    {
+      "id": "plant-tempeh-marinara",
+      "name": "Plant-Powered Tempeh Marinara Bowl",
+      "description": "Protein-rich tempeh simmered in a robust marinara sauce, served over whole grains for a satisfying plant-based meal.",
+      "image": "/images/recipes/plant-tempeh-marinara.jpg",
+      "healthCondition": "general",
+      "category": "main-dishes",
+      "servings": 4,
+      "prepTime": 10,
+      "cookTime": 25,
+      "difficulty": "easy",
+      "tags": [
+        "plant-based",
+        "protein",
+        "vegan",
+        "fiber-rich",
+        "satisfying"
+      ],
+      "calories": 275,
+      "nutrition": {
+        "protein": "18g",
+        "carbs": "35g",
+        "fat": "8g",
+        "fiber": "8g",
+        "sugar": "6g"
+      },
+      "ingredients": [
+        "8 oz tempeh, cubed",
+        "2 cups marinara sauce",
+        "2 cups cooked quinoa",
+        "1 onion, diced",
+        "3 cloves garlic, minced",
+        "2 tbsp olive oil",
+        "1 tsp oregano",
+        "1/2 tsp basil",
+        "1/4 cup nutritional yeast",
+        "Fresh basil for garnish"
+      ],
+      "instructions": [
+        "Heat oil in large skillet over medium heat",
+        "Sauté onion until translucent",
+        "Add garlic and cook 1 minute more",
+        "Add tempeh cubes and brown on all sides",
+        "Pour in marinara sauce and herbs",
+        "Simmer 15-20 minutes until flavors meld",
+        "Serve over quinoa",
+        "Sprinkle with nutritional yeast and fresh basil"
+      ],
+      "chefTips": [
+        "Steam tempeh first to remove any bitterness",
+        "Let sauce simmer to concentrate flavors"
+      ],
+      "healthBenefits": [
+        "Complete protein source",
+        "Rich in probiotics",
+        "High in fiber",
+        "Supports digestive health"
+      ],
+      "featured": false
+    },
+    {
+      "id": "golden-turmeric-curry",
+      "name": "Golden Turmeric Tempeh Coconut Curry",
+      "description": "A warming, anti-inflammatory curry featuring tempeh in a creamy coconut sauce with turmeric and aromatic spices.",
+      "image": "/images/recipes/golden-turmeric-curry.jpg",
+      "healthCondition": "immune",
+      "category": "main-dishes",
+      "servings": 6,
+      "prepTime": 15,
+      "cookTime": 30,
+      "difficulty": "medium",
+      "tags": [
+        "anti-inflammatory",
+        "turmeric",
+        "coconut",
+        "curry",
+        "warming"
+      ],
+      "calories": 295,
+      "nutrition": {
+        "protein": "16g",
+        "carbs": "22g",
+        "fat": "18g",
+        "fiber": "6g",
+        "sugar": "8g"
+      },
+      "ingredients": [
+        "8 oz tempeh, cubed",
+        "1 can coconut milk",
+        "2 tbsp curry powder",
+        "1 tbsp turmeric",
+        "1 onion, sliced",
+        "2 cups mixed vegetables",
+        "3 cloves garlic, minced",
+        "1 inch ginger, grated",
+        "2 tbsp coconut oil",
+        "1 tbsp tomato paste",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "Heat coconut oil in large pot over medium heat",
+        "Sauté onion until golden",
+        "Add garlic, ginger, and spices",
+        "Cook until fragrant, about 2 minutes",
+        "Add tomato paste and cook 1 minute",
+        "Pour in coconut milk and bring to simmer",
+        "Add tempeh and vegetables",
+        "Simmer 20 minutes until vegetables are tender",
+        "Season with salt and serve over rice"
+      ],
+      "chefTips": [
+        "Toast spices briefly to enhance their flavor",
+        "Add vegetables in order of cooking time needed"
+      ],
+      "healthBenefits": [
+        "Powerful anti-inflammatory properties",
+        "Supports immune function",
+        "Rich in healthy fats",
+        "Aids in nutrient absorption"
+      ],
+      "featured": true
+    },
+    {
+      "id": "antioxidant-apple-phyllo",
+      "name": "Antioxidant Apple Cinnamon Phyllo Parcels",
+      "description": "Delicate phyllo pastry parcels filled with antioxidant-rich apples, warming spices, and heart-healthy nuts.",
+      "image": "/images/recipes/antioxidant-apple-phyllo.jpg",
+      "healthCondition": "heart",
+      "category": "desserts",
+      "servings": 8,
+      "prepTime": 25,
+      "cookTime": 20,
+      "difficulty": "medium",
+      "tags": [
+        "antioxidants",
+        "heart-healthy",
+        "dessert",
+        "apples",
+        "phyllo"
+      ],
+      "calories": 165,
+      "nutrition": {
+        "protein": "3g",
+        "carbs": "28g",
+        "fat": "6g",
+        "fiber": "4g",
+        "sugar": "18g"
+      },
+      "ingredients": [
+        "8 sheets phyllo pastry",
+        "4 apples, peeled and diced",
+        "1/4 cup walnuts, chopped",
+        "2 tbsp honey",
+        "1 tsp cinnamon",
+        "1/4 tsp nutmeg",
+        "2 tbsp olive oil",
+        "1 tbsp lemon juice",
+        "1 tsp vanilla extract"
+      ],
+      "instructions": [
+        "Preheat oven to 375°F",
+        "Mix apples with honey, spices, lemon juice, and vanilla",
+        "Brush phyllo sheets lightly with olive oil",
+        "Cut phyllo into squares",
+        "Place apple mixture in center of each square",
+        "Sprinkle with walnuts",
+        "Gather corners and twist to form parcels",
+        "Bake 15-20 minutes until golden",
+        "Serve warm"
+      ],
+      "chefTips": [
+        "Keep phyllo covered with damp towel to prevent drying",
+        "Don't overfill parcels or they may burst"
+      ],
+      "healthBenefits": [
+        "High in fiber and antioxidants",
+        "Supports heart health",
+        "Rich in healthy fats from walnuts",
+        "Natural sweetness from fruit"
+      ],
+      "featured": false
+    },
+    {
+      "id": "enzyme-pineapple-relish",
+      "name": "Enzyme-Active Pineapple Ginger Relish",
+      "description": "A fresh, enzyme-rich relish combining pineapple's natural digestive enzymes with ginger's warming properties.",
+      "image": "/images/recipes/enzyme-pineapple-relish.jpg",
+      "healthCondition": "digestive",
+      "category": "sides",
+      "servings": 6,
+      "prepTime": 15,
+      "cookTime": 0,
+      "difficulty": "easy",
+      "tags": [
+        "digestive-enzymes",
+        "fresh",
+        "tropical",
+        "raw",
+        "cleansing"
+      ],
+      "calories": 55,
+      "nutrition": {
+        "protein": "1g",
+        "carbs": "14g",
+        "fat": "0g",
+        "fiber": "2g",
+        "sugar": "11g"
+      },
+      "ingredients": [
+        "2 cups fresh pineapple, diced",
+        "1 inch fresh ginger, minced",
+        "1/4 cup red onion, finely diced",
+        "2 tbsp lime juice",
+        "1 tbsp rice vinegar",
+        "1 tsp honey",
+        "1/4 cup cilantro, chopped",
+        "Pinch of sea salt"
+      ],
+      "instructions": [
+        "Dice pineapple into small, uniform pieces",
+        "Mince ginger and red onion finely",
+        "Combine pineapple, ginger, and onion in bowl",
+        "Whisk together lime juice, vinegar, and honey",
+        "Pour dressing over pineapple mixture",
+        "Add cilantro and salt",
+        "Toss gently to combine",
+        "Let stand 10 minutes before serving"
+      ],
+      "chefTips": [
+        "Use very ripe pineapple for maximum enzyme activity",
+        "Serve within 2 hours for best texture"
+      ],
+      "healthBenefits": [
+        "Rich in bromelain enzyme",
+        "Aids protein digestion",
+        "Anti-inflammatory properties",
+        "Supports digestive health"
+      ],
+      "featured": false
+    },
+    {
+      "id": "immune-mushroom-chicken",
+      "name": "Immune-Boosting Mushroom Herb Chicken",
+      "description": "Tender chicken breast enhanced with immune-supporting mushrooms and fresh herbs for optimal wellness.",
+      "image": "/images/recipes/immune-mushroom-chicken.jpg",
+      "healthCondition": "immune",
+      "category": "main-dishes",
+      "servings": 4,
+      "prepTime": 15,
+      "cookTime": 25,
+      "difficulty": "medium",
+      "tags": [
+        "immune-boost",
+        "mushrooms",
+        "protein",
+        "herbs",
+        "healing"
+      ],
+      "calories": 245,
+      "nutrition": {
+        "protein": "32g",
+        "carbs": "6g",
+        "fat": "10g",
+        "fiber": "2g",
+        "sugar": "3g"
+      },
+      "ingredients": [
+        "4 chicken breasts (6 oz each)",
+        "2 cups mixed mushrooms, sliced",
+        "2 tbsp olive oil",
+        "3 cloves garlic, minced",
+        "1/4 cup white wine",
+        "1/2 cup chicken broth",
+        "2 tbsp fresh thyme",
+        "1 tbsp fresh rosemary",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Season chicken with salt and pepper",
+        "Heat oil in large skillet over medium-high heat",
+        "Sear chicken breasts 6-7 minutes per side",
+        "Remove chicken and set aside",
+        "Add mushrooms to same pan",
+        "Cook until golden and liquid evaporates",
+        "Add garlic and herbs, cook 1 minute",
+        "Deglaze with wine and broth",
+        "Return chicken to pan and simmer until cooked through"
+      ],
+      "chefTips": [
+        "Use a meat thermometer to ensure 165°F internal temperature",
+        "Let chicken rest 5 minutes before slicing"
+      ],
+      "healthBenefits": [
+        "High in lean protein",
+        "Mushrooms boost immune function",
+        "Rich in B vitamins",
+        "Supports muscle health"
+      ],
+      "featured": true
+    },
+    {
+      "id": "plant-sesame-tofu",
+      "name": "Plant Protein Sesame Ginger Tofu Steaks",
+      "description": "Marinated tofu steaks with a crispy sesame crust, packed with plant protein and Asian-inspired flavors.",
+      "image": "/images/recipes/plant-sesame-tofu.jpg",
+      "healthCondition": "general",
+      "category": "main-dishes",
+      "servings": 4,
+      "prepTime": 20,
+      "cookTime": 15,
+      "difficulty": "medium",
+      "tags": [
+        "plant-protein",
+        "vegan",
+        "sesame",
+        "asian-inspired",
+        "crispy"
+      ],
+      "calories": 195,
+      "nutrition": {
+        "protein": "14g",
+        "carbs": "8g",
+        "fat": "12g",
+        "fiber": "2g",
+        "sugar": "4g"
+      },
+      "ingredients": [
+        "1 lb extra-firm tofu, sliced thick",
+        "3 tbsp soy sauce",
+        "2 tbsp sesame oil",
+        "1 tbsp rice vinegar",
+        "1 tbsp maple syrup",
+        "2 cloves garlic, minced",
+        "1 inch ginger, grated",
+        "1/4 cup sesame seeds",
+        "2 tbsp cornstarch",
+        "Green onions for garnish"
+      ],
+      "instructions": [
+        "Press tofu to remove excess water",
+        "Slice into thick steaks",
+        "Mix soy sauce, sesame oil, vinegar, maple syrup, garlic, and ginger",
+        "Marinate tofu steaks 15 minutes",
+        "Mix sesame seeds with cornstarch",
+        "Coat marinated tofu with sesame mixture",
+        "Pan-fry in hot oil 4-5 minutes per side",
+        "Serve garnished with green onions"
+      ],
+      "chefTips": [
+        "Press tofu well for better texture and marinade absorption",
+        "Don't flip too early - let crust form first"
+      ],
+      "healthBenefits": [
+        "Complete plant protein",
+        "Rich in isoflavones",
+        "Heart-healthy fats from sesame",
+        "Supports bone health"
+      ],
+      "featured": false
+    },
+    {
+      "id": "antioxidant-apple-compote",
+      "name": "Antioxidant Spiced Apple Compote",
+      "description": "A warming compote of antioxidant-rich apples simmered with healing spices, perfect as a healthy dessert or breakfast topping.",
+      "image": "/images/recipes/antioxidant-apple-compote.jpg",
+      "healthCondition": "heart",
+      "category": "desserts",
+      "servings": 6,
+      "prepTime": 10,
+      "cookTime": 20,
+      "difficulty": "easy",
+      "tags": [
+        "antioxidants",
+        "heart-healthy",
+        "spiced",
+        "comfort",
+        "natural-sweetness"
+      ],
+      "calories": 85,
+      "nutrition": {
+        "protein": "0g",
+        "carbs": "22g",
+        "fat": "0g",
+        "fiber": "4g",
+        "sugar": "18g"
+      },
+      "ingredients": [
+        "6 apples, peeled and chopped",
+        "1/4 cup water",
+        "2 tbsp honey",
+        "1 tsp cinnamon",
+        "1/4 tsp nutmeg",
+        "1/8 tsp cloves",
+        "1 tbsp lemon juice",
+        "1 tsp vanilla extract"
+      ],
+      "instructions": [
+        "Combine apples and water in large saucepan",
+        "Cook over medium heat until apples soften",
+        "Add honey and spices",
+        "Simmer 10-15 minutes, stirring occasionally",
+        "Mash lightly for desired consistency",
+        "Stir in lemon juice and vanilla",
+        "Serve warm or chilled"
+      ],
+      "chefTips": [
+        "Use a mix of apple varieties for complex flavor",
+        "Adjust sweetness based on apple tartness"
+      ],
+      "healthBenefits": [
+        "High in fiber and antioxidants",
+        "Supports heart health",
+        "Natural source of pectin",
+        "Anti-inflammatory spices"
+      ],
+      "featured": false
+    }
+  ]
+}
