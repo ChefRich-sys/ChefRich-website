@@ -396,11 +396,45 @@
       "difficulty": "Medium",
       "tags": ["heart-healthy", "omega-3", "anti-inflammatory", "high-protein", "gluten-free"],
       "calories": 385,
-      "nutrition": {"protein": "32g", "carbs": "4g", "fat": "26g", "fiber": "2g"},
-      "ingredients": ["4 wild-caught salmon fillets (6 oz each)", "2 tbsp extra virgin olive oil", "1 tbsp fresh dill, chopped", "1 tbsp fresh parsley, chopped", "2 cloves garlic, minced", "1 lemon, juiced and zested", "1 tsp ground flaxseed", "1/2 tsp sea salt", "1/4 tsp black pepper", "1 tbsp hemp hearts"],
-      "instructions": ["Preheat broiler to high heat", "In a bowl, combine olive oil, herbs, garlic, lemon juice and zest, flaxseed, salt, and pepper", "Place salmon fillets on a lined baking sheet", "Brush herb mixture generously over salmon", "Let marinate for 15 minutes at room temperature", "Broil for 8-10 minutes until fish flakes easily", "Sprinkle with hemp hearts before serving", "Serve immediately with steamed vegetables"],
-      "chefTips": ["Choose wild-caught salmon for higher omega-3 content", "Don't overcook - salmon should be slightly pink in center", "Save some herb mixture to drizzle over cooked fish"],
-      "healthBenefits": ["Rich in omega-3 fatty acids for cardiovascular health", "Anti-inflammatory properties from herbs and olive oil", "High-quality protein for muscle maintenance", "Flaxseed provides additional heart-healthy fiber"],
+      "nutrition": {
+        "protein": "32g",
+        "carbs": "4g",
+        "fat": "26g",
+        "fiber": "2g"
+      },
+      "ingredients": [
+        "4 wild-caught salmon fillets (6 oz each)",
+        "2 tbsp extra virgin olive oil",
+        "1 tbsp fresh dill, chopped",
+        "1 tbsp fresh parsley, chopped",
+        "2 cloves garlic, minced",
+        "1 lemon, juiced and zested",
+        "1 tsp ground flaxseed",
+        "1/2 tsp sea salt",
+        "1/4 tsp black pepper",
+        "1 tbsp hemp hearts"
+      ],
+      "instructions": [
+        "Preheat broiler to high heat",
+        "In a bowl, combine olive oil, herbs, garlic, lemon juice and zest, flaxseed, salt, and pepper",
+        "Place salmon fillets on a lined baking sheet",
+        "Brush herb mixture generously over salmon",
+        "Let marinate for 15 minutes at room temperature",
+        "Broil for 8-10 minutes until fish flakes easily",
+        "Sprinkle with hemp hearts before serving",
+        "Serve immediately with steamed vegetables"
+      ],
+      "chefTips": [
+        "Choose wild-caught salmon for higher omega-3 content",
+        "Don't overcook - salmon should be slightly pink in center",
+        "Save some herb mixture to drizzle over cooked fish"
+      ],
+      "healthBenefits": [
+        "Rich in omega-3 fatty acids for cardiovascular health",
+        "Anti-inflammatory properties from herbs and olive oil",
+        "High-quality protein for muscle maintenance",
+        "Flaxseed provides additional heart-healthy fiber"
+      ],
       "featured": false
     },
     {
@@ -416,49 +450,137 @@
       "difficulty": "Medium",
       "tags": ["plant-based", "high-protein", "probiotic", "high-fiber", "digestive-health"],
       "calories": 420,
-      "nutrition": {"protein": "24g", "carbs": "45g", "fat": "18g", "fiber": "12g"},
-      "ingredients": ["8 oz organic tempeh, crumbled", "2 cups whole grain pasta or zucchini noodles", "1 can (14 oz) crushed tomatoes, no sugar added", "1 medium onion, diced", "3 cloves garlic, minced", "1 bell pepper, diced", "2 tbsp olive oil", "1 tbsp nutritional yeast", "1 tsp dried oregano", "1 tsp dried basil", "1/2 tsp fennel seeds", "1/4 cup fresh basil leaves", "2 tbsp apple cider vinegar", "Sea salt and pepper to taste"],
-      "instructions": ["Steam tempeh for 10 minutes, then crumble into bite-sized pieces", "Heat olive oil in a large skillet over medium heat", "Sauté onion and bell pepper until softened, about 5 minutes", "Add garlic and fennel seeds, cook for 1 minute", "Add crumbled tempeh and cook until lightly browned", "Stir in crushed tomatoes, herbs, and apple cider vinegar", "Simmer for 15-20 minutes until flavors meld", "Season with salt, pepper, and nutritional yeast", "Serve over cooked pasta or zucchini noodles", "Garnish with fresh basil leaves"],
-      "chefTips": ["Steam tempeh first to remove any bitterness", "Add nutritional yeast for extra B-vitamins and umami flavor", "Fresh basil added at the end provides the best flavor"],
-      "healthBenefits": ["Complete plant protein with all essential amino acids", "Probiotics from fermented tempeh support digestive health", "High fiber content promotes gut health", "Lycopene from tomatoes supports cellular health"],
+      "nutrition": {
+        "protein": "24g",
+        "carbs": "45g",
+        "fat": "18g",
+        "fiber": "12g"
+      },
+      "ingredients": [
+        "8 oz organic tempeh, crumbled",
+        "2 cups whole grain pasta or zucchini noodles",
+        "1 can (14 oz) crushed tomatoes, no sugar added",
+        "1 medium onion, diced",
+        "3 cloves garlic, minced",
+        "1 bell pepper, diced",
+        "2 tbsp olive oil",
+        "1 tbsp nutritional yeast",
+        "1 tsp dried oregano",
+        "1 tsp dried basil",
+        "1/2 tsp fennel seeds",
+        "1/4 cup fresh basil leaves",
+        "2 tbsp apple cider vinegar",
+        "Sea salt and pepper to taste"
+      ],
+      "instructions": [
+        "Steam tempeh for 10 minutes, then crumble into bite-sized pieces",
+        "Heat olive oil in a large skillet over medium heat",
+        "Sauté onion and bell pepper until softened, about 5 minutes",
+        "Add garlic and fennel seeds, cook for 1 minute",
+        "Add crumbled tempeh and cook until lightly browned",
+        "Stir in crushed tomatoes, herbs, and apple cider vinegar",
+        "Simmer for 15-20 minutes until flavors meld",
+        "Season with salt, pepper, and nutritional yeast",
+        "Serve over cooked pasta or zucchini noodles",
+        "Garnish with fresh basil leaves"
+      ],
+      "chefTips": [
+        "Steam tempeh first to remove any bitterness",
+        "Add nutritional yeast for extra B-vitamins and umami flavor",
+        "Fresh basil added at the end provides the best flavor"
+      ],
+      "healthBenefits": [
+        "Complete plant protein with all essential amino acids",
+        "Probiotics from fermented tempeh support digestive health",
+        "High fiber content promotes gut health",
+        "Lycopene from tomatoes supports cellular health"
+      ],
       "featured": false
     },
     {
-      "id": "omega-salmon-test",
-      "name": "Omega Salmon Test Recipe",
-      "description": "Testing new recipe addition",
-      "image": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=400&h=300&fit=crop",
-      "healthCondition": "Heart Health",
-      "category": "Main Course", 
+      "id": "golden-turmeric-curry",
+      "name": "Golden Turmeric Tempeh Coconut Curry",
+      "description": "A vibrant anti-inflammatory curry featuring turmeric's powerful curcumin and creamy coconut milk. The perfect balance of warming spices and plant protein for healing and nourishment.",
+      "image": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?w=400&h=300&fit=crop",
+      "healthCondition": "Anti-Inflammatory Support",
+      "category": "Main Course",
       "servings": "4",
-      "prepTime": "20 minutes",
-      "cookTime": "15 minutes",
+      "prepTime": "15 minutes",
+      "cookTime": "25 minutes",
       "difficulty": "Medium",
-      "tags": ["heart-healthy", "test"],
-      "calories": 385,
+      "tags": ["anti-inflammatory", "plant-based", "turmeric", "coconut", "immune-support"],
+      "calories": 395,
       "nutrition": {
-        "protein": "32g",
-        "carbs": "4g",
-        "fat": "26g", 
-        "fiber": "2g"
+        "protein": "20g",
+        "carbs": "25g",
+        "fat": "28g",
+        "fiber": "8g"
       },
       "ingredients": [
-        "4 salmon fillets",
-        "olive oil",
-        "herbs"
+        "8 oz tempeh, cubed",
+        "1 can (14 oz) full-fat coconut milk",
+        "1 medium onion, sliced",
+        "2 tbsp fresh ginger, grated",
+        "3 cloves garlic, minced",
+        "2 tsp ground turmeric",
+        "1 tsp ground cumin",
+        "1/2 tsp ground coriander",
+        "1/4 tsp cayenne pepper",
+        "2 tbsp coconut oil",
+        "1 bell pepper, sliced",
+        "1 cup baby spinach",
+        "2 tbsp lime juice",
+        "1/4 cup fresh cilantro",
+        "Sea salt to taste",
+        "1 tbsp coconut aminos"
       ],
       "instructions": [
-        "Cook salmon",
-        "Add herbs",
-        "Serve hot"
+        "Heat coconut oil in a large skillet over medium heat",
+        "Add tempeh cubes and cook until golden, about 6 minutes",
+        "Remove tempeh and set aside",
+        "In same skillet, sauté onion until translucent",
+        "Add ginger, garlic, and all spices, cook for 1 minute",
+        "Pour in coconut milk and coconut aminos",
+        "Add bell pepper and simmer for 10 minutes",
+        "Return tempeh to skillet and simmer 5 more minutes",
+        "Stir in spinach until wilted",
+        "Add lime juice and season with salt",
+        "Garnish with fresh cilantro before serving"
       ],
       "chefTips": [
-        "Don't overcook"
+        "Use fresh turmeric if available for maximum anti-inflammatory benefits",
+        "Don't let spices burn - add liquid if they start to stick",
+        "Adjust cayenne to your heat preference"
       ],
       "healthBenefits": [
-        "Heart healthy omega-3s"
+        "Turmeric provides powerful anti-inflammatory compounds",
+        "Coconut milk contains healthy medium-chain fatty acids",
+        "Ginger supports digestive health and reduces inflammation",
+        "Plant protein from tempeh supports muscle health"
       ],
       "featured": false
-    }
-  ]
-}
+    },
+    {
+      "id": "antioxidant-apple-phyllo",
+      "name": "Antioxidant Apple Cinnamon Phyllo Parcels",
+      "description": "Delicate phyllo pastry filled with antioxidant-rich apples and brain-healthy nuts. Sweetened naturally with maple syrup and warming spices for a guilt-free dessert.",
+      "image": "https://images.unsplash.com/photo-1568471173187-540eda8ade95?w=400&h=300&fit=crop",
+      "healthCondition": "Antioxidant Rich",
+      "category": "Dessert",
+      "servings": "4",
+      "prepTime": "20 minutes",
+      "cookTime": "20 minutes",
+      "difficulty": "Medium",
+      "tags": ["antioxidant-rich", "brain-healthy", "natural-sweeteners", "omega-3", "fiber-rich"],
+      "calories": 185,
+      "nutrition": {
+        "protein": "4g",
+        "carbs": "28g",
+        "fat": "8g",
+        "fiber": "5g"
+      },
+      "ingredients": [
+        "4 sheets whole wheat phyllo pastry",
+        "3 medium organic apples, peeled and diced",
+        "2 tbsp coconut oil, melted",
+        "2 tbsp pure maple
