@@ -1082,11 +1082,91 @@
         "Cinnamon helps regulate blood sugar",
         "Natural sweeteners reduce inflammatory response"
       ],
+          "featured": false
+    },
+    {
+      "id": "enzyme-pineapple-relish",
+      "name": "Enzyme-Active Pineapple Ginger Relish",
+      "description": "Fresh enzyme-rich digestive aid with bromelain.",
+      "image": "https://images.unsplash.com/photo-1589820296156-2454bb8a6ad1?w=400&h=300&fit=crop",
+      "healthCondition": "Enzyme Support",
+      "category": "Condiment/Side",
+      "servings": "8",
+      "prepTime": "15 minutes",
+      "cookTime": "",
+      "difficulty": "Easy",
+      "tags": ["enzyme-rich", "digestive-aid", "raw"],
+      "calories": 45,
+      "nutrition": {"protein": "1g", "carbs": "12g", "fat": "0g", "fiber": "2g"},
+      "ingredients": ["1 fresh pineapple diced", "1 red bell pepper diced", "1/2 red onion diced", "2 tbsp fresh ginger minced", "2 tbsp lime juice", "1/4 cup fresh mint"],
+      "instructions": ["Combine all ingredients", "Let sit 30 minutes", "Serve fresh"],
+      "chefTips": ["Use ripest pineapple for maximum enzymes"],
+      "healthBenefits": ["Bromelain aids digestion", "Vitamin C supports immunity"],
+      "featured": false
+    },
+    {
+      "id": "immune-mushroom-chicken",
+      "name": "Immune-Boosting Mushroom Herb Chicken",
+      "description": "Medicinal mushrooms with organic chicken for immune support.",
+      "image": "https://images.unsplash.com/photo-1604503468506-a8da13d82791?w=400&h=300&fit=crop",
+      "healthCondition": "Immune Support",
+      "category": "Main Course",
+      "servings": "4",
+      "prepTime": "15 minutes",
+      "cookTime": "35 minutes",
+      "difficulty": "Medium",
+      "tags": ["immune-support", "medicinal-mushrooms"],
+      "calories": 340,
+      "nutrition": {"protein": "35g", "carbs": "8g", "fat": "18g", "fiber": "3g"},
+      "ingredients": ["4 chicken breasts", "8 oz mixed mushrooms", "1 cup bone broth", "Fresh herbs", "2 tbsp coconut flour"],
+      "instructions": ["Sear chicken", "Sauté mushrooms", "Add broth and herbs", "Simmer until cooked"],
+      "chefTips": ["Use shiitake and maitake mushrooms"],
+      "healthBenefits": ["Medicinal mushrooms boost immunity", "High quality protein"],
+      "featured": false
+    },
+    {
+      "id": "plant-sesame-tofu",
+      "name": "Plant Protein Sesame Ginger Tofu Steaks",
+      "description": "Complete protein tofu with Asian flavors and hemp hearts.",
+      "image": "https://images.unsplash.com/photo-1609501676725-7186f34a4710?w=400&h=300&fit=crop",
+      "healthCondition": "Plant Protein Focus",
+      "category": "Main Course",
+      "servings": "4",
+      "prepTime": "25 minutes",
+      "cookTime": "15 minutes",
+      "difficulty": "Medium",
+      "tags": ["plant-protein", "complete-protein", "vegan"],
+      "calories": 285,
+      "nutrition": {"protein": "18g", "carbs": "12g", "fat": "20g", "fiber": "3g"},
+      "ingredients": ["1 block extra-firm tofu", "3 tbsp tamari", "2 tbsp sesame oil", "1 tbsp tahini", "1 tbsp hemp hearts"],
+      "instructions": ["Press tofu well", "Marinate 30 minutes", "Pan fry until golden", "Garnish with hemp hearts"],
+      "chefTips": ["Press tofu for better texture"],
+      "healthBenefits": ["Complete amino acid profile", "Healthy fats from sesame"],
+      "featured": false
+    },
+    {
+      "id": "antioxidant-apple-compote",
+      "name": "Antioxidant Spiced Apple Compote",
+      "description": "Warming spiced apple side dish with natural sweeteners.",
+      "image": "https://images.unsplash.com/photo-1605794081412-40eb3a3e5d93?w=400&h=300&fit=crop",
+      "healthCondition": "Antioxidant Rich",
+      "category": "Side Dish/Dessert",
+      "servings": "6",
+      "prepTime": "10 minutes",
+      "cookTime": "15 minutes",
+      "difficulty": "Easy",
+      "tags": ["antioxidant-rich", "natural-sweeteners"],
+      "calories": 125,
+      "nutrition": {"protein": "1g", "carbs": "30g", "fat": "3g", "fiber": "4g"},
+      "ingredients": ["4 apples sliced", "2 tbsp coconut oil", "2 tbsp maple syrup", "1 tsp cinnamon", "2 tbsp pecans"],
+      "instructions": ["Heat oil", "Add apples and spices", "Cook until tender", "Add pecans"],
+      "chefTips": ["Don't overcook apples"],
+      "healthBenefits": ["High antioxidants", "Blood sugar support"],
       "featured": false
     }
   ]
 }
 
-}
+
 
 
