@@ -422,6 +422,43 @@
       "chefTips": ["Steam tempeh first to remove any bitterness", "Add nutritional yeast for extra B-vitamins and umami flavor", "Fresh basil added at the end provides the best flavor"],
       "healthBenefits": ["Complete plant protein with all essential amino acids", "Probiotics from fermented tempeh support digestive health", "High fiber content promotes gut health", "Lycopene from tomatoes supports cellular health"],
       "featured": false
+    },
+    {
+      "id": "omega-salmon-test",
+      "name": "Omega Salmon Test Recipe",
+      "description": "Testing new recipe addition",
+      "image": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=400&h=300&fit=crop",
+      "healthCondition": "Heart Health",
+      "category": "Main Course", 
+      "servings": "4",
+      "prepTime": "20 minutes",
+      "cookTime": "15 minutes",
+      "difficulty": "Medium",
+      "tags": ["heart-healthy", "test"],
+      "calories": 385,
+      "nutrition": {
+        "protein": "32g",
+        "carbs": "4g",
+        "fat": "26g", 
+        "fiber": "2g"
+      },
+      "ingredients": [
+        "4 salmon fillets",
+        "olive oil",
+        "herbs"
+      ],
+      "instructions": [
+        "Cook salmon",
+        "Add herbs",
+        "Serve hot"
+      ],
+      "chefTips": [
+        "Don't overcook"
+      ],
+      "healthBenefits": [
+        "Heart healthy omega-3s"
+      ],
+      "featured": false
     }
   ]
 }
