@@ -849,9 +849,244 @@
         "Walnuts support brain health",
         "Natural sweeteners reduce inflammation"
       ],
+            "featured": false
+    },
+    {
+      "id": "enzyme-pineapple-relish",
+      "name": "Enzyme-Active Pineapple Ginger Relish",
+      "description": "A fresh, enzyme-rich condiment that supports digestion with bromelain from pineapple and warming ginger. Perfect as a digestive aid before meals.",
+      "image": "https://images.unsplash.com/photo-1589820296156-2454bb8a6ad1?w=400&h=300&fit=crop",
+      "healthCondition": "Enzyme Support",
+      "category": "Condiment/Side",
+      "servings": "8",
+      "prepTime": "15 minutes",
+      "cookTime": "",
+      "difficulty": "Easy",
+      "tags": ["enzyme-rich", "digestive-aid", "raw", "vitamin-c", "anti-inflammatory"],
+      "calories": 45,
+      "nutrition": {
+        "protein": "1g",
+        "carbs": "12g",
+        "fat": "0g",
+        "fiber": "2g"
+      },
+      "ingredients": [
+        "1 fresh pineapple, cored and diced",
+        "1 red bell pepper, finely diced",
+        "1/2 red onion, finely diced",
+        "2 tablespoons fresh ginger, minced",
+        "1 jalapeño pepper, seeded and minced",
+        "1/4 cup fresh mint leaves, chopped",
+        "2 tablespoons lime juice",
+        "1 tablespoon raw apple cider vinegar",
+        "1 teaspoon raw honey",
+        "1/4 teaspoon sea salt",
+        "2 tablespoons fresh cilantro, chopped"
+      ],
+      "instructions": [
+        "Combine diced pineapple, bell pepper, and red onion in a large bowl",
+        "Add minced ginger and jalapeño",
+        "In a small bowl, whisk together lime juice, apple cider vinegar, honey, and salt",
+        "Pour dressing over pineapple mixture",
+        "Gently fold in mint and cilantro",
+        "Let relish sit at room temperature for 30 minutes to develop flavors",
+        "Serve fresh or refrigerate for up to 3 days",
+        "Excellent with grilled proteins or as a digestive aid before meals"
+      ],
+      "chefTips": [
+        "Use the ripest pineapple for maximum enzyme activity",
+        "Adjust jalapeño to your heat preference",
+        "Serve at room temperature for best enzyme activity"
+      ],
+      "healthBenefits": [
+        "Bromelain enzyme from pineapple aids protein digestion",
+        "Ginger stimulates digestive enzymes and reduces inflammation",
+        "Raw ingredients preserve natural enzyme activity",
+        "Vitamin C supports immune function"
+      ],
+      "featured": false
+    },
+    {
+      "id": "immune-mushroom-chicken",
+      "name": "Immune-Boosting Mushroom Herb Chicken",
+      "description": "Organic chicken enhanced with medicinal mushrooms and immune-supporting herbs. This nourishing dish combines high-quality protein with adaptogenic mushrooms for optimal wellness.",
+      "image": "https://images.unsplash.com/photo-1604503468506-a8da13d82791?w=400&h=300&fit=crop",
+      "healthCondition": "Immune Support",
+      "category": "Main Course",
+      "servings": "4",
+      "prepTime": "15 minutes",
+      "cookTime": "35 minutes",
+      "difficulty": "Medium",
+      "tags": ["immune-support", "medicinal-mushrooms", "bone-broth", "high-protein", "herb-rich"],
+      "calories": 340,
+      "nutrition": {
+        "protein": "35g",
+        "carbs": "8g",
+        "fat": "18g",
+        "fiber": "3g"
+      },
+      "ingredients": [
+        "4 organic chicken breasts (6 oz each)",
+        "8 oz mixed mushrooms (shiitake, maitake, oyster), sliced",
+        "2 tablespoons olive oil",
+        "1 medium onion, sliced",
+        "3 cloves garlic, minced",
+        "1 cup low-sodium chicken bone broth",
+        "2 tablespoons fresh thyme leaves",
+        "1 tablespoon fresh rosemary, chopped",
+        "1 teaspoon dried oregano",
+        "2 tablespoons coconut flour",
+        "1/4 cup coconut milk",
+        "1 tablespoon lemon juice",
+        "Sea salt and pepper to taste",
+        "2 tablespoons fresh parsley for garnish"
+      ],
+      "instructions": [
+        "Season chicken breasts with salt, pepper, and half the herbs",
+        "Heat olive oil in a large skillet over medium-high heat",
+        "Sear chicken breasts until golden, about 5 minutes per side",
+        "Remove chicken and set aside",
+        "In same skillet, sauté onion until softened",
+        "Add garlic and mushrooms, cook until mushrooms release moisture",
+        "Sprinkle coconut flour over mushrooms and stir",
+        "Gradually add bone broth, stirring to prevent lumps",
+        "Add remaining herbs and return chicken to skillet",
+        "Simmer covered for 15-20 minutes until chicken is cooked through",
+        "Stir in coconut milk and lemon juice",
+        "Garnish with fresh parsley before serving"
+      ],
+      "chefTips": [
+        "Use medicinal mushroom varieties like shiitake and maitake for immune benefits",
+        "Don't overcrowd the pan when cooking mushrooms",
+        "Let chicken rest for 5 minutes before slicing"
+      ],
+      "healthBenefits": [
+        "Medicinal mushrooms support immune system function",
+        "Bone broth provides collagen and minerals",
+        "Herbs contain antimicrobial and antioxidant compounds",
+        "High-quality protein supports immune cell production"
+      ],
+      "featured": false
+    },
+    {
+      "id": "plant-sesame-tofu",
+      "name": "Plant Protein Sesame Ginger Tofu Steaks",
+      "description": "Extra-firm tofu marinated in Asian-inspired flavors and pan-seared to perfection. This complete protein dish provides all essential amino acids with heart-healthy sesame and hemp.",
+      "image": "https://images.unsplash.com/photo-1609501676725-7186f34a4710?w=400&h=300&fit=crop",
+      "healthCondition": "Plant Protein Focus",
+      "category": "Main Course",
+      "servings": "4",
+      "prepTime": "25 minutes",
+      "cookTime": "15 minutes",
+      "difficulty": "Medium",
+      "tags": ["plant-protein", "complete-protein", "vegan", "sesame", "hemp"],
+      "calories": 285,
+      "nutrition": {
+        "protein": "18g",
+        "carbs": "12g",
+        "fat": "20g",
+        "fiber": "3g"
+      },
+      "ingredients": [
+        "1 block (14 oz) extra-firm tofu, sliced into 1/2-inch steaks",
+        "3 tablespoons tamari or coconut aminos",
+        "2 tablespoons sesame oil",
+        "1 tablespoon rice vinegar",
+        "1 tablespoon fresh ginger, grated",
+        "2 cloves garlic, minced",
+        "1 teaspoon pure maple syrup",
+        "1 tablespoon tahini",
+        "1 teaspoon sesame seeds",
+        "2 green onions, sliced",
+        "1 tablespoon hemp hearts",
+        "1/4 teaspoon red pepper flakes",
+        "2 tablespoons avocado oil for cooking"
+      ],
+      "instructions": [
+        "Press tofu between paper towels to remove excess moisture",
+        "Slice tofu into 4 thick steaks",
+        "In a shallow dish, whisk together tamari, sesame oil, rice vinegar, ginger, garlic, maple syrup, and tahini",
+        "Marinate tofu steaks for at least 30 minutes, flipping once",
+        "Heat avocado oil in a large skillet over medium-high heat",
+        "Cook tofu steaks for 4-5 minutes per side until golden and crispy",
+        "Brush with remaining marinade while cooking",
+        "Sprinkle with sesame seeds, hemp hearts, and red pepper flakes",
+        "Garnish with green onions before serving",
+        "Serve with steamed vegetables or brown rice"
+      ],
+      "chefTips": [
+        "Press tofu for at least 15 minutes for better texture",
+        "Don't move the tofu too early - let it develop a golden crust",
+        "Save any leftover marinade as a sauce"
+      ],
+      "healthBenefits": [
+        "Complete plant protein with all essential amino acids",
+        "Isoflavones support hormonal balance",
+        "Sesame seeds provide calcium and healthy fats",
+        "Hemp hearts add omega-3 fatty acids"
+      ],
+      "featured": false
+    },
+    {
+      "id": "antioxidant-apple-compote",
+      "name": "Antioxidant Spiced Apple Compote",
+      "description": "A warming, naturally sweetened apple side dish featuring Ceylon cinnamon and aromatic spices. Perfect as a healthy dessert or accompaniment to savory dishes.",
+      "image": "https://images.unsplash.com/photo-1605794081412-40eb3a3e5d93?w=400&h=300&fit=crop",
+      "healthCondition": "Antioxidant Rich",
+      "category": "Side Dish/Dessert",
+      "servings": "6",
+      "prepTime": "10 minutes",
+      "cookTime": "15 minutes",
+      "difficulty": "Easy",
+      "tags": ["antioxidant-rich", "natural-sweeteners", "warming-spices", "fiber-rich", "versatile"],
+      "calories": 125,
+      "nutrition": {
+        "protein": "1g",
+        "carbs": "30g",
+        "fat": "3g",
+        "fiber": "4g"
+      },
+      "ingredients": [
+        "4 medium organic apples, peeled and sliced",
+        "2 tablespoons coconut oil",
+        "2 tablespoons pure maple syrup",
+        "1 teaspoon Ceylon cinnamon",
+        "1/4 teaspoon ground cardamom",
+        "1/4 teaspoon ground ginger",
+        "1/8 teaspoon ground cloves",
+        "1 tablespoon lemon juice",
+        "1 teaspoon vanilla extract",
+        "2 tablespoons chopped pecans",
+        "1 tablespoon goji berries (optional)",
+        "Pinch of sea salt"
+      ],
+      "instructions": [
+        "Heat coconut oil in a large skillet over medium heat",
+        "Add sliced apples and cook for 3-4 minutes",
+        "Stir in maple syrup, cinnamon, cardamom, ginger, and cloves",
+        "Cook for 8-10 minutes until apples are tender but not mushy",
+        "Add lemon juice and vanilla extract",
+        "Stir in pecans and goji berries if using",
+        "Season with a pinch of sea salt",
+        "Serve warm as a side dish or dessert",
+        "Excellent over oatmeal, yogurt, or as a healthy dessert"
+      ],
+      "chefTips": [
+        "Don't overcook the apples - they should hold their shape",
+        "Use Ceylon cinnamon for its delicate, sweet flavor",
+        "This compote keeps well in the refrigerator for up to 5 days"
+      ],
+      "healthBenefits": [
+        "High in antioxidants from apples and warming spices",
+        "Pecans provide healthy fats and vitamin E",
+        "Cinnamon helps regulate blood sugar",
+        "Natural sweeteners reduce inflammatory response"
+      ],
       "featured": false
     }
   ]
+}
+
 }
 
 
