@@ -852,6 +852,7 @@
             "featured": false
     },
     {
+          {
       "id": "enzyme-pineapple-relish",
       "name": "Enzyme-Active Pineapple Ginger Relish",
       "description": "A fresh, enzyme-rich condiment that supports digestion with bromelain from pineapple and warming ginger. Perfect as a digestive aid before meals.",
@@ -905,6 +906,8 @@
         "Vitamin C supports immune function"
       ],
       "featured": false
+    },
+
     },
     {
       "id": "immune-mushroom-chicken",
