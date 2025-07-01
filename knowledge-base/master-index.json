@@ -1,0 +1,34 @@
+{
+  "knowledgeBase": {
+    "lastUpdated": "2025-01-07",
+    "currentSession": 4,
+    "totalEntries": 0,
+    "categories": {
+      "techniques": {
+        "count": 0,
+        "files": []
+      },
+      "healthInfo": {
+        "count": 0,
+        "files": []
+      },
+      "ingredients": {
+        "count": 0,
+        "files": []
+      },
+      "cookingMethods": {
+        "count": 0,
+        "files": []
+      }
+    },
+    "sessionHistory": [
+      {
+        "session": 4,
+        "date": "2025-01-07",
+        "status": "Knowledge base structure created",
+        "recipesProcessed": 14,
+        "knowledgeExtracted": 0
+      }
+    ]
+  }
+}
