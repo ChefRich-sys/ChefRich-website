@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "source": "ChefRich Knowledge Base - Health & Safety Guidelines",
+    "version": "1.0",
+    "last_updated": "2025-07-01T18:15:38.420944",
+    "description": "Food safety, temperature guidelines, and nutritional information"
+  },
+  "temperature_guidelines": {
+    "safe_cooking_temperatures": {
+      "poultry": "165°F (74°C)",
+      "ground_meat": "160°F (71°C)",
+      "whole_cuts_beef": "145°F (63°C)",
+      "pork": "145°F (63°C)",
+      "fish": "145°F (63°C)",
+      "eggs": "160°F (71°C)"
+    },
+    "danger_zone": {
+      "range": "40-140°F (4-60°C)",
+      "description": "Temperature range where bacteria multiply rapidly",
+      "time_limit": "2 hours maximum exposure"
+    },
+    "storage_temperatures": {
+      "refrigerator": "40°F (4°C) or below",
+      "freezer": "0°F (-18°C) or below",
+      "pantry": "50-70°F (10-21°C)"
+    }
+  },
+  "food_safety_principles": {
+    "clean": "Wash hands, utensils, and surfaces frequently",
+    "separate": "Avoid cross-contamination between raw and cooked foods",
+    "cook": "Heat foods to proper internal temperatures",
+    "chill": "Refrigerate perishable foods promptly"
+  },
+  "nutritional_preservation": {
+    "best_methods": [
+      "steaming",
+      "quick sautéing",
+      "raw preparation",
+      "minimal water cooking"
+    ],
+    "nutrient_loss_factors": [
+      "excessive heat",
+      "long cooking times",
+      "large amounts of water",
+      "exposure to light and air"
+    ],
+    "vitamin_preservation": {
+      "water_soluble": "Use minimal water, save cooking liquids",
+      "fat_soluble": "Cook with small amounts of healthy fats",
+      "heat_sensitive": "Use lower temperatures and shorter times"
+    }
+  },
+  "digestive_health": {
+    "fiber_rich_cooking": {
+      "vegetables": "Light steaming preserves fiber structure",
+      "legumes": "Proper soaking and cooking improves digestibility",
+      "whole_grains": "Gentle cooking maintains beneficial compounds"
+    },
+    "gut_friendly_techniques": [
+      "fermentation",
+      "sprouting",
+      "proper food combining",
+      "temperature control"
+    ]
+  }
+}
