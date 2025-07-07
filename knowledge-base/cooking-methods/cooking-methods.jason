@@ -1,0 +1,73 @@
+
+  "cooking_methods": {},
+  "kitchen_hierarchy": {
+    "executive_chef": {
+      "title": "Executive Chef",
+      "responsibilities": [
+        "Menu development and planning",
+        "Kitchen management and leadership",
+        "Cost control and budgeting",
+        "Staff training and development",
+        "Quality control and standards"
+      ],
+      "skills_required": [
+        "Advanced culinary techniques",
+        "Leadership and communication",
+        "Business and financial management",
+        "Menu engineering",
+        "Food safety expertise"
+      ]
+    },
+    "sous_chef": {
+      "title": "Sous Chef",
+      "responsibilities": [
+        "Assist executive chef in daily operations",
+        "Supervise line cooks and prep staff",
+        "Ensure food quality and consistency",
+        "Manage inventory and ordering",
+        "Train junior staff"
+      ],
+      "skills_required": [
+        "Strong cooking fundamentals",
+        "Leadership abilities",
+        "Organization and time management",
+        "Quality control",
+        "Staff development"
+      ]
+    },
+    "line_cook": {
+      "title": "Line Cook",
+      "responsibilities": [
+        "Prepare dishes according to recipes",
+        "Maintain station cleanliness",
+        "Follow food safety protocols",
+        "Communicate with team effectively",
+        "Execute orders efficiently"
+      ],
+      "skills_required": [
+        "Basic to intermediate cooking skills",
+        "Speed and efficiency",
+        "Attention to detail",
+        "Teamwork",
+        "Stress management"
+      ]
+    }
+  },
+  "equipment_guidelines": {
+    "professional_standards": {
+      "knife_maintenance": "Sharp knives are safer and more efficient",
+      "cutting_board_safety": "Separate boards for proteins and vegetables",
+      "temperature_control": "Use thermometers for food safety",
+      "cleaning_protocols": "Clean and sanitize between tasks"
+    },
+    "essential_equipment": [
+      "Chef's knife (8-10 inch)",
+      "Paring knife",
+      "Cutting boards (separate for proteins/vegetables)",
+      "Heavy-bottomed pans",
+      "Instant-read thermometer",
+      "Fine-mesh strainers"
+    ]
+  },
+  "last_updated": "2025-07-02T18:09:16.827131"
+}
