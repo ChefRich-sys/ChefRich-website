@@ -1,34 +1,18 @@
-{
-  "knowledgeBase": {
-    "lastUpdated": "2025-01-07",
-    "currentSession": 4,
-    "totalEntries": 0,
-    "categories": {
-      "techniques": {
-        "count": 0,
-        "files": []
-      },
-      "healthInfo": {
-        "count": 0,
-        "files": []
-      },
-      "ingredients": {
-        "count": 0,
-        "files": []
-      },
-      "cookingMethods": {
-        "count": 0,
-        "files": []
-      }
-    },
-    "sessionHistory": [
-      {
-        "session": 4,
-        "date": "2025-01-07",
-        "status": "Knowledge base structure created",
-        "recipesProcessed": 14,
-        "knowledgeExtracted": 0
-      }
-    ]
-  }
+
+  "knowledge_base_files": [
+    "techniques.json",
+    "cooking-methods.json",
+    "chefrich_professional_health_recipes.json"
+  ],
+  "recipe_collections": [
+    {
+      "name": "ChefRich Professional Health Collection",
+      "file": "chefrich_professional_health_recipes.json",
+      "recipe_count": 3,
+      "focus": "Health-conscious recipes using professional techniques"
+    }
+  ],
+  "last_updated": "2025-07-02T18:09:16.829875",
+  "total_recipes": 3,
+  "total_techniques": 3
 }
