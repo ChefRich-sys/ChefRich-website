@@ -1,0 +1,146 @@
+{
+  "metadata": {
+    "source": "ChefRich Knowledge Base - Ingredient Information",
+    "version": "1.0",
+    "last_updated": "2025-07-01T18:15:38.422412",
+    "description": "Comprehensive ingredient properties and handling guidelines"
+  },
+  "vegetables": {
+    "eggplant": {
+      "scientific_name": "Solanum melongena",
+      "nutritional_profile": {
+        "calories_per_100g": 25,
+        "fiber": "3g",
+        "potassium": "229mg",
+        "antioxidants": "nasunin, chlorogenic acid"
+      },
+      "health_benefits": [
+        "supports digestive health",
+        "rich in antioxidants",
+        "may help regulate blood sugar",
+        "supports heart health"
+      ],
+      "preparation_tips": [
+        "salt to remove bitterness",
+        "choose firm, glossy specimens",
+        "cook thoroughly for best digestibility"
+      ],
+      "cooking_methods": [
+        "roasting",
+        "grilling",
+        "sautéing",
+        "braising"
+      ],
+      "storage": "refrigerate 3-5 days, do not freeze raw"
+    },
+    "garlic": {
+      "scientific_name": "Allium sativum",
+      "nutritional_profile": {
+        "calories_per_clove": 4,
+        "vitamin_c": "2.8mg",
+        "manganese": "0.15mg",
+        "compounds": "allicin, sulfur compounds"
+      },
+      "health_benefits": [
+        "immune system support",
+        "cardiovascular benefits",
+        "anti-inflammatory properties",
+        "digestive aid"
+      ],
+      "preparation_tips": [
+        "crush or chop to activate allicin",
+        "let rest 10 minutes after chopping",
+        "remove green germ if present"
+      ],
+      "cooking_methods": [
+        "roasting",
+        "sautéing",
+        "raw",
+        "confit"
+      ],
+      "storage": "cool, dry place, good ventilation"
+    },
+    "lemon": {
+      "scientific_name": "Citrus limon",
+      "nutritional_profile": {
+        "calories_per_100g": 29,
+        "vitamin_c": "53mg",
+        "citric_acid": "5-6%",
+        "flavonoids": "hesperidin, diosmin"
+      },
+      "health_benefits": [
+        "vitamin C boost",
+        "aids iron absorption",
+        "supports immune function",
+        "alkalizing effect"
+      ],
+      "preparation_tips": [
+        "zest before juicing",
+        "room temperature for more juice",
+        "roll before cutting"
+      ],
+      "cooking_methods": [
+        "raw",
+        "zesting",
+        "juicing",
+        "preserving"
+      ],
+      "storage": "room temperature 1 week, refrigerated 3-4 weeks"
+    }
+  },
+  "herbs_spices": {
+    "tahini": {
+      "description": "Ground sesame seed paste",
+      "nutritional_profile": {
+        "calories_per_tbsp": 119,
+        "protein": "3.6g",
+        "healthy_fats": "10.5g",
+        "calcium": "154mg"
+      },
+      "health_benefits": [
+        "rich in healthy fats",
+        "good protein source",
+        "supports bone health",
+        "heart-healthy"
+      ],
+      "preparation_tips": [
+        "stir well before using",
+        "thin with lemon juice or water",
+        "store in cool place"
+      ],
+      "uses": [
+        "sauces",
+        "dressings",
+        "spreads",
+        "baking"
+      ],
+      "storage": "pantry 6 months, refrigerated 1 year"
+    },
+    "olive_oil": {
+      "description": "Cold-pressed oil from olives",
+      "nutritional_profile": {
+        "calories_per_tbsp": 119,
+        "monounsaturated_fat": "9.9g",
+        "vitamin_e": "1.9mg",
+        "antioxidants": "polyphenols"
+      },
+      "health_benefits": [
+        "heart-healthy fats",
+        "anti-inflammatory",
+        "supports brain health",
+        "aids nutrient absorption"
+      ],
+      "preparation_tips": [
+        "use extra virgin for best quality",
+        "don't overheat",
+        "store away from light"
+      ],
+      "cooking_methods": [
+        "raw",
+        "low-heat cooking",
+        "finishing oil"
+      ],
+      "storage": "cool, dark place, use within 2 years"
+    }
+  }
+}
