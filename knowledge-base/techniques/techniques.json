@@ -1,0 +1,68 @@
+{
+  "professional_techniques": {
+    "mise_en_place": {
+      "name": "Mise en Place",
+      "category": "professional_foundation",
+      "description": "Professional kitchen preparation system - everything in its place before cooking begins",
+      "steps": [
+        "Read recipe completely before starting",
+        "Gather all ingredients and measure precisely",
+        "Prepare all equipment and tools",
+        "Pre-cut vegetables and proteins",
+        "Organize workspace by cooking sequence",
+        "Clean as you go"
+      ],
+      "professional_tips": [
+        "Use small bowls for pre-measured ingredients",
+        "Label containers with contents and time",
+        "Keep cutting boards separate for proteins and vegetables",
+        "Have clean towels readily available"
+      ],
+      "health_benefits": "Reduces cooking stress, ensures food safety, promotes mindful cooking"
+    },
+    "deglazing": {
+      "name": "Deglazing",
+      "category": "sauce_techniques",
+      "description": "Professional technique to create flavorful sauces from pan drippings",
+      "steps": [
+        "Remove protein from pan, keep warm",
+        "Add liquid (wine, broth, or vinegar) to hot pan",
+        "Scrape up browned bits with wooden spoon",
+        "Reduce liquid by half",
+        "Strain if desired for smooth sauce"
+      ],
+      "health_modifications": [
+        "Use low-sodium broth instead of wine",
+        "Add fresh herbs for flavor without salt",
+        "Finish with lemon juice for brightness"
+      ],
+      "equipment_needed": [
+        "Heavy-bottomed pan",
+        "Wooden spoon",
+        "Fine-mesh strainer"
+      ]
+    },
+    "professional_sauteing": {
+      "name": "Professional Saut\u00e9ing",
+      "category": "cooking_methods",
+      "description": "High-heat cooking method for quick, healthy preparation",
+      "technique": "Keep food moving in hot pan with minimal oil",
+      "health_benefits": "Preserves nutrients, requires minimal added fats",
+      "temperature_control": "Medium-high to high heat",
+      "oil_recommendations": [
+        "Avocado oil",
+        "Grapeseed oil",
+        "Light olive oil"
+      ],
+      "professional_tips": [
+        "Preheat pan before adding oil",
+        "Don't overcrowd the pan",
+        "Keep ingredients moving constantly",
+        "Season at the end to prevent burning"
+      ]
+    }
+  },
+  "basic_techniques": {},
+  "advanced_techniques": {},
+  "last_updated": "2025-07-02T18:09:16.826981"
+}
