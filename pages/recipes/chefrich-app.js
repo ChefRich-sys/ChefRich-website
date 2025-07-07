@@ -23,7 +23,7 @@ class ChefRichApp {
 
     async loadRecipes() {
         try {
-            const response = await fetch('../recipes.json');
+            Copyconst response = await fetch('../../recipes.json');
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
             }
