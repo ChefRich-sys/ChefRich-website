@@ -1,266 +1,325 @@
-// ChefRich Recipe Application
+// ChefRich Recipe Display Application - New ChatGPT Template Format
 class ChefRichApp {
     constructor() {
         this.recipes = [];
         this.filteredRecipes = [];
-        this.loadRecipes();
+        this.currentFilters = {
+            search: '',
+            tags: []
+        };
+        this.init();
+    }
+
+    async init() {
+        try {
+            await this.loadRecipes();
+            this.setupEventListeners();
+            this.displayRecipes();
+        } catch (error) {
+            console.error('Error initializing ChefRich app:', error);
+            this.showError('Failed to load recipes. Please try again later.');
+        }
     }
 
     async loadRecipes() {
         try {
-            // Load recipes from recipes.json file
-            const response = await fetch('/ChefRich-website/recipes.json');
+            const response = await fetch('../recipes.json');
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
             }
             const data = await response.json();
-            this.recipes = data.recipes;
+            this.recipes = data.recipes || data;
             this.filteredRecipes = [...this.recipes];
-            
-            // Initialize the app after recipes are loaded
-            this.init();
+            console.log(`Loaded ${this.recipes.length} recipes`);
         } catch (error) {
             console.error('Error loading recipes:', error);
-            document.getElementById('recipeGrid').innerHTML = 
-                '<div class="error">Unable to load recipes. Please check your connection and try refreshing the page.</div>';
+            throw error;
         }
-    }
-
-    init() {
-        this.setupEventListeners();
-        this.displayRecipes(this.recipes);
-        this.updateFilters();
     }
 
     setupEventListeners() {
-        // Filter event listeners
-        const healthFilter = document.getElementById('healthFilter');
-        const difficultyFilter = document.getElementById('difficultyFilter');
-        
-        if (healthFilter) {
-            healthFilter.addEventListener('change', () => this.filterRecipes());
-        }
-        if (difficultyFilter) {
-            difficultyFilter.addEventListener('change', () => this.filterRecipes());
-        }
-
-        // Modal event listeners
-        const modal = document.getElementById('recipeModal');
-        const closeBtn = document.querySelector('.close');
-
-        if (closeBtn) {
-            closeBtn.onclick = () => this.closeModal();
-        }
-        
-        window.onclick = (event) => {
-            if (event.target === modal) {
-                this.closeModal();
-            }
-        };
-
-        // Keyboard navigation
-        document.addEventListener('keydown', (event) => {
-            if (event.key === 'Escape') {
-                this.closeModal();
-            }
-        });
-    }
-
-    updateFilters() {
-        const healthConditions = [...new Set(this.recipes.map(recipe => recipe.healthCondition))];
-        const difficulties = [...new Set(this.recipes.map(recipe => recipe.difficulty))];
-
-        // Update health filter options
-        const healthFilter = document.getElementById('healthFilter');
-        if (healthFilter) {
-            // Clear existing options except "All"
-            const allOption = healthFilter.querySelector('option[value="all"]');
-            healthFilter.innerHTML = '';
-            if (allOption) {
-                healthFilter.appendChild(allOption);
-            } else {
-                const newAllOption = document.createElement('option');
-                newAllOption.value = 'all';
-                newAllOption.textContent = 'All Health Conditions';
-                healthFilter.appendChild(newAllOption);
-            }
-
-            // Add new health condition options
-            healthConditions.forEach(condition => {
-                const option = document.createElement('option');
-                option.value = condition;
-                option.textContent = condition;
-                healthFilter.appendChild(option);
+        // Search functionality
+        const searchInput = document.getElementById('recipe-search') || 
+                           document.querySelector('.search-input') ||
+                           document.querySelector('input[type="search"]');
+        if (searchInput) {
+            searchInput.addEventListener('input', (e) => {
+                this.currentFilters.search = e.target.value.toLowerCase();
+                this.applyFilters();
             });
         }
-
-        // Update difficulty filter if it exists
-        const difficultyFilter = document.getElementById('difficultyFilter');
-        if (difficultyFilter) {
-            const allDifficultyOption = difficultyFilter.querySelector('option[value="all"]');
-            if (!allDifficultyOption) {
-                difficulties.forEach(difficulty => {
-                    if (!Array.from(difficultyFilter.options).some(option => option.value === difficulty)) {
-                        const option = document.createElement('option');
-                        option.value = difficulty;
-                        option.textContent = difficulty;
-                        difficultyFilter.appendChild(option);
-                    }
-                });
-            }
-        }
     }
 
-    filterRecipes() {
-        const healthFilter = document.getElementById('healthFilter');
-        const difficultyFilter = document.getElementById('difficultyFilter');
-        
-        const selectedHealth = healthFilter ? healthFilter.value : 'all';
-        const selectedDifficulty = difficultyFilter ? difficultyFilter.value : 'all';
-
+    applyFilters() {
         this.filteredRecipes = this.recipes.filter(recipe => {
-            const healthMatch = selectedHealth === 'all' || recipe.healthCondition === selectedHealth;
-            const difficultyMatch = selectedDifficulty === 'all' || recipe.difficulty === selectedDifficulty;
-            return healthMatch && difficultyMatch;
+            // Search filter
+            const searchMatch = !this.currentFilters.search || 
+                recipe.title_with_emoji.toLowerCase().includes(this.currentFilters.search) ||
+                recipe.description.toLowerCase().includes(this.currentFilters.search) ||
+                recipe.ingredients.some(ing => ing.toLowerCase().includes(this.currentFilters.search));
+
+            return searchMatch;
         });
 
-        this.displayRecipes(this.filteredRecipes);
+        this.displayRecipes();
     }
 
-    displayRecipes(recipesToShow) {
-        const grid = document.getElementById('recipeGrid');
+    displayRecipes() {
+        const container = document.getElementById('recipes-container') || 
+                         document.querySelector('.recipes-grid') ||
+                         document.querySelector('.recipe-container') ||
+                         document.querySelector('.recipes') ||
+                         document.querySelector('#recipe-list');
         
-        if (!grid) {
-            console.error('Recipe grid element not found');
-            return;
-        }
-        
-        if (recipesToShow.length === 0) {
-            grid.innerHTML = '<div class="loading">No recipes found matching your criteria.</div>';
+        if (!container) {
+            console.error('Recipe container not found');
             return;
         }
 
-        grid.innerHTML = recipesToShow.map(recipe => this.createRecipeCard(recipe)).join('');
+        if (this.filteredRecipes.length === 0) {
+            container.innerHTML = '<div class="no-results">No recipes found matching your criteria.</div>';
+            return;
+        }
 
+        container.innerHTML = this.filteredRecipes.map(recipe => this.createRecipeCard(recipe)).join('');
+        
         // Add click event listeners to recipe cards
-        recipesToShow.forEach(recipe => {
-            const card = document.getElementById(`recipe-${recipe.id}`);
-            if (card) {
-                card.addEventListener('click', () => this.openModal(recipe));
-            }
-        });
+        this.setupRecipeCardListeners();
     }
 
     createRecipeCard(recipe) {
+        const tagsHtml = recipe.tags.map(tag => 
+            `<span class="recipe-tag">#${tag}</span>`
+        ).join('');
+
+        const yieldTimeHtml = this.formatYieldAndTime(recipe.yield_and_time);
+
         return `
-            <div id="recipe-${recipe.id}" class="recipe-card ${recipe.featured ? 'featured' : ''}" data-health="${recipe.healthCondition}">
-                <img src="${recipe.image}" alt="${recipe.name}" class="recipe-image" loading="lazy">
-                <div class="recipe-content">
-                    <div class="health-condition">${recipe.healthCondition}</div>
-                    <h2 class="recipe-title">${recipe.name}</h2>
-                    <p class="recipe-description">${recipe.description}</p>
-                    
-                    <div class="recipe-meta">
-                        <span>🍽️ Serves: ${recipe.servings}</span>
-                        <span>⏱️ Prep: ${recipe.prepTime}</span>
-                        ${recipe.cookTime ? `<span>🔥 Cook: ${recipe.cookTime}</span>` : ''}
-                        <span>📊 ${recipe.difficulty}</span>
-                    </div>
+            <div class="recipe-card" data-recipe-id="${recipe.id || recipe.title_with_emoji}">
+                <div class="recipe-card-header">
+                    <h3 class="recipe-title">${recipe.title_with_emoji}</h3>
+                    <div class="recipe-tags">${tagsHtml}</div>
+                </div>
+                
+                <div class="recipe-description">
+                    <p>${recipe.description}</p>
+                </div>
 
-                    <div class="tags">
-                        ${recipe.tags.map(tag => `<span class="tag">${tag}</span>`).join('')}
-                    </div>
+                <div class="recipe-yield-time">
+                    ${yieldTimeHtml}
+                </div>
 
-                    <div class="calories">${recipe.calories} calories per serving</div>
+                <div class="recipe-preview">
+                    <div class="ingredients-preview">
+                        <h4>Key Ingredients:</h4>
+                        <p>${recipe.ingredients.slice(0, 3).join(', ')}${recipe.ingredients.length > 3 ? '...' : ''}</p>
+                    </div>
+                </div>
+
+                <button class="view-recipe-btn" onclick="chefRichApp.showRecipeModal('${recipe.id || recipe.title_with_emoji}')">
+                    View Full Recipe
+                </button>
+            </div>
+        `;
+    }
+
+    formatYieldAndTime(yieldTime) {
+        if (!yieldTime) return '';
+        
+        let html = '<div class="yield-time-info">';
+        
+        if (yieldTime.yield) {
+            html += `<span class="yield-info">🍽️ ${yieldTime.yield}</span>`;
+        }
+        
+        if (yieldTime.prep_time) {
+            html += `<span class="time-info">⏱️ Prep: ${yieldTime.prep_time}</span>`;
+        }
+        
+        if (yieldTime.cook_time && yieldTime.cook_time !== "0 minutes") {
+            html += `<span class="time-info">🔥 Cook: ${yieldTime.cook_time}</span>`;
+        }
+        
+        if (yieldTime.total_time) {
+            html += `<span class="time-info total-time">⏰ Total: ${yieldTime.total_time}</span>`;
+        }
+        
+        html += '</div>';
+        return html;
+    }
+
+    setupRecipeCardListeners() {
+        document.querySelectorAll('.recipe-card').forEach(card => {
+            card.addEventListener('click', (e) => {
+                if (!e.target.classList.contains('view-recipe-btn')) {
+                    const recipeId = card.dataset.recipeId;
+                    this.showRecipeModal(recipeId);
+                }
+            });
+        });
+    }
+
+    showRecipeModal(recipeId) {
+        const recipe = this.recipes.find(r => (r.id || r.title_with_emoji) === recipeId);
+        if (!recipe) {
+            console.error('Recipe not found:', recipeId);
+            return;
+        }
+
+        const modalHtml = this.createRecipeModal(recipe);
+        
+        // Remove existing modal
+        const existingModal = document.getElementById('recipe-modal');
+        if (existingModal) {
+            existingModal.remove();
+        }
+
+        // Add modal to body
+        document.body.insertAdjacentHTML('beforeend', modalHtml);
+        
+        // Show modal
+        const modal = document.getElementById('recipe-modal');
+        modal.style.display = 'flex';
+        
+        // Setup modal close listeners
+        this.setupModalListeners();
+    }
+
+    createRecipeModal(recipe) {
+        const ingredientsHtml = recipe.ingredients.map(ingredient => 
+            `<li class="ingredient-item">${ingredient}</li>`
+        ).join('');
+
+        const instructionsHtml = recipe.instructions.map((instruction, index) => 
+            `<li class="instruction-step">
+                <span class="step-number">${index + 1}</span>
+                <span class="step-text">${instruction}</span>
+            </li>`
+        ).join('');
+
+        const yieldTimeHtml = this.formatYieldAndTime(recipe.yield_and_time);
+
+        return `
+            <div id="recipe-modal" class="recipe-modal">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h2 class="modal-title">${recipe.title_with_emoji}</h2>
+                        <button class="modal-close" onclick="chefRichApp.closeModal()">&times;</button>
+                    </div>
                     
-                    <button class="view-recipe-btn">View Full Recipe</button>
+                    <div class="modal-body">
+                        <div class="recipe-tags">
+                            ${recipe.tags.map(tag => `<span class="recipe-tag">#${tag}</span>`).join('')}
+                        </div>
+
+                        <div class="recipe-description">
+                            <p><strong>Description:</strong> ${recipe.description}</p>
+                        </div>
+
+                        <div class="recipe-yield-time-full">
+                            ${yieldTimeHtml}
+                        </div>
+
+                        <div class="recipe-sections">
+                            <div class="ingredients-section">
+                                <h3>🥗 Ingredients</h3>
+                                <ul class="ingredients-list">${ingredientsHtml}</ul>
+                            </div>
+
+                            <div class="instructions-section">
+                                <h3>👩‍🍳 Instructions</h3>
+                                <ol class="instructions-list">${instructionsHtml}</ol>
+                            </div>
+
+                            ${recipe.chefrich_notes ? `
+                                <div class="chefrich-notes-section">
+                                    <h3>✨ ChefRich Notes</h3>
+                                    <div class="chefrich-notes">${recipe.chefrich_notes}</div>
+                                </div>
+                            ` : ''}
+
+                            ${recipe.suggested_pairings ? `
+                                <div class="pairings-section">
+                                    <h3>🍽️ Suggested Pairings</h3>
+                                    <div class="suggested-pairings">${Array.isArray(recipe.suggested_pairings) ? recipe.suggested_pairings.join(', ') : recipe.suggested_pairings}</div>
+                                </div>
+                            ` : ''}
+
+                            ${recipe.nutritional_highlights ? `
+                                <div class="nutrition-section">
+                                    <h3>💚 Nutritional Highlights</h3>
+                                    <div class="nutritional-highlights">${recipe.nutritional_highlights}</div>
+                                </div>
+                            ` : ''}
+
+                            ${recipe.food_as_medicine ? `
+                                <div class="medicine-section">
+                                    <h3>🌿 Food as Medicine</h3>
+                                    <div class="food-as-medicine">${recipe.food_as_medicine}</div>
+                                </div>
+                            ` : ''}
+                        </div>
+                    </div>
                 </div>
             </div>
         `;
     }
 
-    openModal(recipe) {
-        const modal = document.getElementById('recipeModal');
+    setupModalListeners() {
+        const modal = document.getElementById('recipe-modal');
         
-        if (!modal) return;
+        // Close on background click
+        modal.addEventListener('click', (e) => {
+            if (e.target === modal) {
+                this.closeModal();
+            }
+        });
 
-        // Populate modal with recipe data
-        const modalImage = document.getElementById('modalRecipeImage');
-        const modalHealthCondition = document.getElementById('modalHealthCondition');
-        const modalTitle = document.getElementById('modalTitle');
-        const modalDescription = document.getElementById('modalDescription');
-
-        if (modalImage) {
-            modalImage.src = recipe.image;
-            modalImage.alt = recipe.name;
-        }
-        if (modalHealthCondition) modalHealthCondition.textContent = recipe.healthCondition;
-        if (modalTitle) modalTitle.textContent = recipe.name;
-        if (modalDescription) modalDescription.textContent = recipe.description;
-
-        // Nutrition information
-        if (recipe.nutrition) {
-            const caloriesEl = document.getElementById('modalCalories');
-            const proteinEl = document.getElementById('modalProtein');
-            const carbsEl = document.getElementById('modalCarbs');
-            const fatEl = document.getElementById('modalFat');
-            const fiberEl = document.getElementById('modalFiber');
-
-            if (caloriesEl) caloriesEl.textContent = recipe.calories;
-            if (proteinEl) proteinEl.textContent = recipe.nutrition.protein || '0g';
-            if (carbsEl) carbsEl.textContent = recipe.nutrition.carbs || '0g';
-            if (fatEl) fatEl.textContent = recipe.nutrition.fat || '0g';
-            if (fiberEl) fiberEl.textContent = recipe.nutrition.fiber || '0g';
-        }
-
-        // Ingredients
-        const ingredientsList = document.getElementById('modalIngredients');
-        if (ingredientsList && recipe.ingredients) {
-            ingredientsList.innerHTML = recipe.ingredients.map(ingredient => 
-                `<li>${ingredient}</li>`
-            ).join('');
-        }
-
-        // Instructions
-        const instructionsList = document.getElementById('modalInstructions');
-        if (instructionsList && recipe.instructions) {
-            instructionsList.innerHTML = recipe.instructions.map(instruction => 
-                `<li>${instruction}</li>`
-            ).join('');
-        }
-
-        // Chef Tips
-        const chefTipsList = document.getElementById('modalChefTips');
-        if (chefTipsList && recipe.chefTips) {
-            chefTipsList.innerHTML = recipe.chefTips.map(tip => 
-                `<li>${tip}</li>`
-            ).join('');
-        }
-
-        // Health Benefits
-        const healthBenefitsList = document.getElementById('modalHealthBenefits');
-        if (healthBenefitsList && recipe.healthBenefits) {
-            healthBenefitsList.innerHTML = recipe.healthBenefits.map(benefit => 
-                `<li>${benefit}</li>`
-            ).join('');
-        }
-
-        // Show modal
-        modal.style.display = 'block';
-        document.body.style.overflow = 'hidden'; // Prevent background scrolling
+        // Close on escape key
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') {
+                this.closeModal();
+            }
+        });
     }
 
     closeModal() {
-        const modal = document.getElementById('recipeModal');
+        const modal = document.getElementById('recipe-modal');
         if (modal) {
             modal.style.display = 'none';
-            document.body.style.overflow = 'auto'; // Restore scrolling
+            modal.remove();
+        }
+    }
+
+    showError(message) {
+        const container = document.getElementById('recipes-container') || 
+                         document.querySelector('.recipes-grid') ||
+                         document.querySelector('.recipe-container');
+        
+        if (container) {
+            container.innerHTML = `
+                <div class="error-message">
+                    <h3>Oops! Something went wrong</h3>
+                    <p>${message}</p>
+                    <button onclick="location.reload()" class="retry-btn">Try Again</button>
+                </div>
+            `;
         }
     }
 }
 
-// Initialize the application when DOM is loaded
+// Initialize the app when DOM is loaded
+let chefRichApp;
+
 document.addEventListener('DOMContentLoaded', () => {
-    new ChefRichApp();
+    chefRichApp = new ChefRichApp();
 });
 
+// Also try to initialize if document is already loaded
+if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', () => {
+        chefRichApp = new ChefRichApp();
+    });
+} else {
+    chefRichApp = new ChefRichApp();
+}
