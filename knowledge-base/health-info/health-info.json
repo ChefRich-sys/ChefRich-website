@@ -61,6 +61,40 @@
       "sprouting",
       "proper food combining",
       "temperature control"
-    ]
+    ],
+    {
+  "sugar_health_impacts": {
+    "category": "ingredient_health_effects",
+    "name": "Refined Sugar Health Impact",
+    "description": "Comprehensive overview of how refined sugar negatively affects health",
+    "key_points": [
+      "Suppresses immune system function",
+      "Disrupts mineral balance (calcium, magnesium, chromium, copper)",
+      "Causes behavioral issues in children (hyperactivity, anxiety, concentration problems)",
+      "Increases triglycerides and harmful LDL cholesterol",
+      "Contributes to obesity and metabolic syndrome",
+      "Linked to increased risk of diabetes, heart disease, and cancer",
+      "Promotes tooth decay and periodontal disease",
+      "Accelerates aging process and cognitive decline",
+      "Current recommendation: Limit to 10% of daily calories (12 teaspoons for 2,200 calorie diet)",
+      "Average American consumption: 20 teaspoons daily (teenagers: 20% of calories)"
+    ],
+    "professional_application": "Use this knowledge to educate clients about sugar reduction and promote natural sweetener alternatives in recipes",
+    "chefrich_philosophy": "Understanding sugar's comprehensive health impacts empowers chefs to create truly nourishing alternatives that support overall wellness"
+  },
+  "dietary_guidelines": {
+    "category": "nutritional_standards",
+    "name": "WHO and Health Organization Guidelines",
+    "description": "Professional dietary recommendations from leading health organizations",
+    "key_points": [
+      "WHO recommends limiting 'free sugars' to 10% of total caloric intake",
+      "Free sugars include added sugars in processed foods, not naturally occurring sugars",
+      "Basic recommendations: Eat more fruits and vegetables, limit high-fat and high-sugar foods",
+      "Rising obesity rates globally (1 billion people overweight/obese)",
+      "Sugar consumption increased from 11% to 16% of calories since 1970s"
+    ],
+    "professional_application": "Use WHO guidelines to establish healthy menu planning standards and client education protocols",
+    "chefrich_philosophy": "Following evidence-based nutritional guidelines ensures our culinary creations support optimal health outcomes"
   }
 }
+  
