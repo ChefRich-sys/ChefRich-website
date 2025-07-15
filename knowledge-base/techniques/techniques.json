@@ -43,7 +43,7 @@
       ]
     },
     "professional_sauteing": {
-      "name": "Professional Saut\u00e9ing",
+      "name": "Professional Sautéing",
       "category": "cooking_methods",
       "description": "High-heat cooking method for quick, healthy preparation",
       "technique": "Keep food moving in hot pan with minimal oil",
@@ -64,9 +64,7 @@
   },
   "basic_techniques": {},
   "advanced_techniques": {},
-  "last_updated": "2025-07-02T18:09:16.826981"
-},
-{
+  "last_updated": "2025-07-02T18:09:16.826981",
   "sugar_reduction_techniques": {
     "category": "healthy_cooking_methods",
     "name": "Sugar Reduction Strategies",
