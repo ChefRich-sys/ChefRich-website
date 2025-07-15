@@ -56,7 +56,7 @@
       "legumes": "Proper soaking and cooking improves digestibility",
       "whole_grains": "Gentle cooking maintains beneficial compounds"
     },
-       "gut_friendly_techniques": [
+    "gut_friendly_techniques": [
       "fermentation",
       "sprouting",
       "proper food combining",
@@ -64,7 +64,6 @@
     ]
   },
   "sugar_health_impacts": {
-
     "category": "ingredient_health_effects",
     "name": "Refined Sugar Health Impact",
     "description": "Comprehensive overview of how refined sugar negatively affects health",
@@ -98,4 +97,3 @@
     "chefrich_philosophy": "Following evidence-based nutritional guidelines ensures our culinary creations support optimal health outcomes"
   }
 }
-  
