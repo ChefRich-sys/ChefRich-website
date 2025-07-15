@@ -149,5 +149,36 @@
       "Supports digestive health"
     ],
     "chefrich_notes": "Traditional fermentation creates foods that are both preservation and medicine"
+  },
+  "ingredient_selection_techniques": {
+    "category": "professional_sourcing",
+    "name": "Professional Ingredient Selection Methods",
+    "description": "Systematic approach to choosing high-quality ingredients for health-focused cuisine",
+    "multi_sensory_evaluation": [
+      "Assess color vibrancy and visual appeal",
+      "Evaluate aroma and freshness indicators",
+      "Test texture and structural integrity",
+      "Consider overall deliciousness factor"
+    ],
+    "nutritional_assessment": [
+      "Balance macronutrients (proteins, fats, carbohydrates)",
+      "Maximize micronutrient density",
+      "Include variety of colors for antioxidant diversity",
+      "Combine cooked and raw foods for optimal nutrition"
+    ],
+    "sourcing_hierarchy": [
+      "Prioritize local and seasonal ingredients",
+      "Choose organic when possible",
+      "Select whole foods over processed alternatives",
+      "Verify humane and sustainable production methods"
+    ],
+    "animal_product_selection": [
+      "Fish: Wild-caught, low-mercury species",
+      "Poultry: Organic, free-range, pasture-raised",
+      "Meat: Grass-fed, hormone-free, antibiotic-free",
+      "Dairy: Organic, pasture-fed, minimally processed"
+    ],
+    "chefrich_philosophy": "Professional ingredient selection is the foundation of transformative, healing cuisine"
   }
 }
+
