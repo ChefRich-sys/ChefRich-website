@@ -227,5 +227,101 @@
       "cooking_application": "Mix with cold liquid before incorporating into hot dishes",
       "chefrich_notes": "Perfect for light sauces and desserts requiring clear, delicate thickening"
     }
+  },
+  "fats_and_oils": {
+    "extra_virgin_olive_oil": {
+      "category": "healthy_fats",
+      "name": "Extra Virgin Olive Oil",
+      "type": "monounsaturated",
+      "smoke_point": "413°F (211°C)",
+      "health_benefits": [
+        "Rich in antioxidants and phytochemicals",
+        "Contains vitamins A and E",
+        "Anti-inflammatory properties",
+        "Supports cardiovascular health"
+      ],
+      "culinary_applications": [
+        "Raw in dressings and finishing",
+        "Low-heat cooking",
+        "Drizzling over cooked dishes"
+      ],
+      "storage": "Cool, dark place, use within 2 years",
+      "chefrich_notes": "Choose cold-pressed, first pressing for maximum health benefits"
+    },
+    "coconut_oil": {
+      "category": "healthy_fats",
+      "name": "Coconut Oil",
+      "type": "saturated",
+      "smoke_point": "350°F unrefined, 450°F refined",
+      "health_benefits": [
+        "Contains lauric and caprylic acids (anti-microbial)",
+        "Medium-chain triglycerides for energy",
+        "Supports immune function",
+        "Stable at room temperature"
+      ],
+      "culinary_applications": [
+        "Baking and desserts",
+        "High-heat cooking (refined)",
+        "Smoothies and beverages"
+      ],
+      "chefrich_notes": "Virgin coconut oil retains flavor, deodorized is neutral"
+    },
+    "avocado_oil": {
+      "category": "healthy_fats",
+      "name": "Avocado Oil",
+      "type": "monounsaturated",
+      "smoke_point": "520°F (271°C)",
+      "health_benefits": [
+        "High in oleic acid",
+        "Excellent for high-heat cooking",
+        "Rich in vitamin E",
+        "Supports nutrient absorption"
+      ],
+      "culinary_applications": [
+        "High-heat sautéing and frying",
+        "Grilling and roasting",
+        "Salad dressings"
+      ],
+      "chefrich_notes": "Highest smoke point of healthy oils, ideal for high-heat cooking"
+    }
+  },
+  "vinegars": {
+    "apple_cider_vinegar": {
+      "category": "fermented_condiments",
+      "name": "Apple Cider Vinegar",
+      "type": "fruit_vinegar",
+      "health_benefits": [
+        "Supports digestion",
+        "Probiotic if unfiltered",
+        "May help blood sugar regulation",
+        "Alkalizing effect"
+      ],
+      "culinary_applications": [
+        "Salad dressings",
+        "Marinades",
+        "Pickling",
+        "Beverage ingredient"
+      ],
+      "chefrich_notes": "Choose raw, unfiltered versions with 'mother' for maximum benefits"
+    },
+    "umeboshi_vinegar": {
+      "category": "fermented_condiments",
+      "name": "Umeboshi Vinegar",
+      "type": "pickle_brine",
+      "health_benefits": [
+        "Alkalizing properties",
+        "Beneficial to digestion",
+        "Anti-bacterial effects",
+        "Energizing properties"
+      ],
+      "culinary_applications": [
+        "Salad dressings",
+        "Seasoning grains",
+        "Flavoring vegetables",
+        "Condiment for rice dishes"
+      ],
+      "chefrich_notes": "Actually fermented plum brine, not true vinegar but used similarly"
+    }
   }
 }
+
