@@ -179,6 +179,49 @@
       "Dairy: Organic, pasture-fed, minimally processed"
     ],
     "chefrich_philosophy": "Professional ingredient selection is the foundation of transformative, healing cuisine"
+  },
+  "bean_preparation_methods": {
+    "category": "plant_based_cooking",
+    "name": "Professional Bean Preparation Techniques",
+    "description": "Comprehensive methods for cooking beans for optimal texture, flavor, and nutrition",
+    "soaking_guidelines": [
+      "Soak beans overnight in 3 cups water per 1 cup beans",
+      "Drain and rinse before cooking",
+      "For black soybeans: 24-hour soak in salted water",
+      "Small beans like lentils don't require soaking"
+    ],
+    "cooking_methods": {
+      "stovetop_method": [
+        "Add salt at beginning of cooking for best flavor and texture",
+        "Bring to boil, skim foam, then simmer covered",
+        "Cooking time varies: 45 minutes for kidney beans, 30 minutes for lentils",
+        "Adjust water for desired consistency"
+      ],
+      "pressure_cooking": [
+        "Use 3:1 water to bean ratio",
+        "Bring to full pressure over high heat",
+        "Reduce heat, maintain pressure for specified time",
+        "Allow natural pressure release for 10-15 minutes",
+        "Times: 30 minutes for black soybeans, 15 minutes for navy beans"
+      ]
+    },
+    "flavor_enhancement": [
+      "Add salt at beginning of cooking, not the end",
+      "Use aromatics like onions, garlic, ginger during cooking",
+      "Finish with fresh herbs, lemon juice, or vinegar",
+      "Toast spices like cumin for deeper flavor",
+      "Use cooking liquid in purees for better consistency"
+    ],
+    "professional_tips": [
+      "Skim foam during initial boiling",
+      "Dress beans while warm for better flavor absorption",
+      "Monitor moisture levels during baking",
+      "Use reserved cooking liquid for consistency adjustments",
+      "Add delicate greens and final seasonings at the end"
+    ],
+    "chefrich_philosophy": "Properly prepared beans are complete proteins that support sustainable nutrition and digestive health"
   }
+}
+
 }
 
