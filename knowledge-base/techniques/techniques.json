@@ -65,4 +65,43 @@
   "basic_techniques": {},
   "advanced_techniques": {},
   "last_updated": "2025-07-02T18:09:16.826981"
+},
+{
+  "sugar_reduction_techniques": {
+    "category": "healthy_cooking_methods",
+    "name": "Sugar Reduction Strategies",
+    "description": "Professional techniques for reducing sugar while maintaining palatability",
+    "steps": [
+      "Gradually reduce sugar by 25% increments to retrain palate",
+      "Use natural fruit purees for sweetness and moisture",
+      "Incorporate spices (cinnamon, vanilla, nutmeg) to enhance perceived sweetness",
+      "Balance with healthy fats to slow sugar absorption",
+      "Use naturally sweet vegetables (carrots, beets, sweet potatoes)"
+    ],
+    "professional_tips": [
+      "Roasting vegetables concentrates natural sugars",
+      "Date paste provides fiber along with sweetness",
+      "Coconut milk adds natural sweetness and richness"
+    ],
+    "chefrich_philosophy": "Successful sugar reduction requires understanding flavor balance and gradual palate adaptation"
+  },
+  "natural_thickening_methods": {
+    "category": "sauce_preparation",
+    "name": "Natural Thickening with Kuzu and Arrowroot",
+    "description": "Traditional methods for creating smooth, healthy sauces without refined starches",
+    "kuzu_technique": [
+      "Dissolve 1 tablespoon kuzu in 2 tablespoons cold liquid",
+      "Stir until completely dissolved",
+      "Add to simmering liquid while stirring constantly",
+      "Simmer 2-3 minutes until clear and thickened"
+    ],
+    "arrowroot_technique": [
+      "Mix 1 tablespoon arrowroot with 2 tablespoons cold liquid",
+      "Whisk until smooth",
+      "Add to hot liquid at end of cooking",
+      "Avoid boiling once added to prevent breakdown"
+    ],
+    "professional_applications": "Use for gravies, fruit sauces, and dessert preparations",
+    "chefrich_notes": "Natural thickeners provide therapeutic benefits while creating superior textures"
+  }
 }
