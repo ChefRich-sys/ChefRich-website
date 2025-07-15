@@ -141,6 +141,86 @@
         "finishing oil"
       ],
       "storage": "cool, dark place, use within 2 years"
-    }
+    },
+    {
+  "refined_sugar": {
+    "category": "sweeteners",
+    "name": "Refined Sugar",
+    "type": "ingredient_to_avoid",
+    "health_impact": "negative",
+    "description": "Highly processed sweetener with significant negative health impacts",
+    "health_effects": [
+      "Immune system suppression",
+      "Mineral depletion",
+      "Blood sugar instability",
+      "Inflammation promotion",
+      "Addiction potential",
+      "Metabolic disruption"
+    ],
+    "cooking_notes": "Avoid in health-focused cooking; use natural alternatives",
+    "chefrich_alternative": "Replace with natural sweeteners like dates, maple syrup, or stevia",
+    "professional_tip": "Gradually reduce sugar in recipes to retrain taste preferences"
+  },
+  "natural_sweeteners": {
+    "category": "sweeteners",
+    "name": "Natural Sweetener Alternatives",
+    "type": "health_promoting",
+    "health_impact": "positive",
+    "description": "Natural alternatives to refined sugar that provide sweetness with additional nutrients",
+    "examples": [
+      "Raw honey (enzymatic benefits)",
+      "Pure maple syrup (minerals)",
+      "Coconut nectar (low glycemic)",
+      "Date paste (fiber and potassium)",
+      "Stevia (zero calories)"
+    ],
+    "cooking_notes": "Each sweetener has unique properties affecting texture and flavor",
+    "chefrich_philosophy": "Natural sweeteners work with the body's systems rather than against them"
+  },
+  "sea_salt": {
+    "category": "seasonings",
+    "name": "Sea Salt",
+    "type": "mineral_rich",
+    "health_impact": "positive",
+    "description": "Unrefined salt harvested from evaporated seawater, retaining natural minerals",
+    "benefits": [
+      "Contains trace minerals",
+      "Less processing than table salt",
+      "Better mineral balance",
+      "Enhanced flavor complexity"
+    ],
+    "professional_application": "Use as primary salt in all cooking for mineral content and flavor",
+    "chefrich_notes": "Quality sea salt enhances both nutrition and taste in culinary applications"
+  },
+  "kuzu": {
+    "category": "thickeners",
+    "name": "Kuzu Root Starch",
+    "type": "natural_thickener",
+    "health_impact": "positive",
+    "description": "Traditional Japanese thickener from the kuzu plant root, known for digestive benefits",
+    "benefits": [
+      "Alkalizing properties",
+      "Digestive support",
+      "Gluten-free alternative",
+      "Clear, glossy finish"
+    ],
+    "cooking_application": "Dissolve in cold liquid before adding to hot preparations",
+    "chefrich_notes": "Excellent for creating healthy gravies and sauces with therapeutic properties"
+  },
+  "arrowroot": {
+    "category": "thickeners",
+    "name": "Arrowroot Powder",
+    "type": "natural_thickener",
+    "health_impact": "positive",
+    "description": "Easily digestible starch from the arrowroot plant, ideal for delicate thickening",
+    "benefits": [
+      "Gentle on digestive system",
+      "Neutral flavor",
+      "Creates smooth texture",
+      "Gluten-free option"
+    ],
+    "cooking_application": "Mix with cold liquid before incorporating into hot dishes",
+    "chefrich_notes": "Perfect for light sauces and desserts requiring clear, delicate thickening"
   }
 }
+
