@@ -101,5 +101,54 @@
     ],
     "professional_applications": "Use for gravies, fruit sauces, and dessert preparations",
     "chefrich_notes": "Natural thickeners provide therapeutic benefits while creating superior textures"
+  },
+  "oil_selection_techniques": {
+    "category": "ingredient_selection",
+    "name": "Choosing the Right Oil for Cooking",
+    "description": "Professional guidelines for selecting appropriate oils based on cooking method and health goals",
+    "guidelines": [
+      "Match oil smoke point to cooking temperature",
+      "Use unrefined oils for raw applications",
+      "Choose refined oils for high-heat cooking",
+      "Consider flavor profile and dish compatibility"
+    ],
+    "high_heat_oils": [
+      "Avocado oil (520°F)",
+      "Refined coconut oil (450°F)",
+      "Ghee (485°F)",
+      "Grapeseed oil (420°F)"
+    ],
+    "low_heat_oils": [
+      "Extra virgin olive oil (413°F)",
+      "Unrefined coconut oil (350°F)",
+      "Butter (300°F)"
+    ],
+    "raw_applications": [
+      "Extra virgin olive oil",
+      "Walnut oil",
+      "Flaxseed oil",
+      "Avocado oil"
+    ],
+    "chefrich_philosophy": "Choosing the right oil preserves nutrients and prevents oxidation"
+  },
+  "fermentation_basics": {
+    "category": "preservation_techniques",
+    "name": "Traditional Fermentation Methods",
+    "description": "Ancient techniques for creating probiotic-rich foods",
+    "umeboshi_method": [
+      "Select high-quality, unblemished fruit",
+      "Use proper salt ratio (20% of fruit weight)",
+      "Maintain anaerobic environment",
+      "Allow proper fermentation time",
+      "Sun-dry for preservation"
+    ],
+    "health_benefits": [
+      "Creates beneficial probiotics",
+      "Increases nutrient bioavailability",
+      "Preserves food naturally",
+      "Supports digestive health"
+    ],
+    "chefrich_notes": "Traditional fermentation creates foods that are both preservation and medicine"
   }
 }
+
