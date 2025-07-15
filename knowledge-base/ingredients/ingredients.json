@@ -322,7 +322,7 @@
       ],
       "chefrich_notes": "Actually fermented plum brine, not true vinegar but used similarly"
     }
-  },{
+  },
   "ingredient_selection_principles": {
     "natural_food_criteria": {
       "category": "food_philosophy",
@@ -386,6 +386,5 @@
       "chefrich_notes": "Food safety is foundational to healing cuisine - choose ingredients that nourish rather than harm"
     }
   }
-}
 }
 
