@@ -227,6 +227,43 @@
       ],
       "calories": 8,
       "featured": false
-    }
+    },
+    {
+  "title_with_emoji": "🌸 Traditional Umeboshi Plum Pickle",
+  "tags": ["fermented", "probiotic", "digestive-health", "traditional", "alkalizing", "japanese"],
+  "description": "A traditional Japanese macrobiotic pickle that transforms fresh plums into a powerful digestive aid and alkalizing condiment. This ancient fermentation process creates beneficial probiotics while preserving the fruit's natural healing properties.",
+  "yield_and_time": {
+    "yield": "3-4 cups",
+    "prep_time": "45 minutes",
+    "fermentation_time": "3-7 days",
+    "drying_time": "3 days",
+    "total_time": "7-10 days"
+  },
+  "ingredients": [
+    "5 pounds fresh Japanese plums (ume plums)",
+    "10 leaves red shiso (perilla)",
+    "Sea salt (approximately 20% of plum weight)",
+    "Filtered water for soaking"
+  ],
+  "instructions": [
+    "Sterilize a large glass jar and all utensils with boiling water or food-grade alcohol",
+    "Wash Japanese plums gently and pat completely dry with clean towels",
+    "Remove stems from plums, discarding any damaged fruit",
+    "Place plums in non-reactive bowl, cover with filtered water, and soak overnight",
+    "Drain plums and transfer to large non-reactive container",
+    "Add sea salt and mix thoroughly to coat all plums evenly",
+    "Place a clean plate directly on plums, then add weight (clean stone or water-filled jar)",
+    "Allow to ferment until liquid rises above plate level (2-3 days)",
+    "Carefully remove plums and sun-dry on bamboo mats for 3 days and nights",
+    "Strain the fermentation liquid and bring to gentle boil to remove impurities",
+    "Cool the liquid completely (this is umeboshi 'vinegar')",
+    "Layer dried plums with red shiso leaves in sterilized jar",
+    "Cover with the cooled umeboshi vinegar and seal tightly"
+  ],
+  "chefrich_notes": "This ancient fermentation technique creates three healing foods: the pickled plums themselves, umeboshi paste (mashed plums), and umeboshi vinegar (the fermentation liquid). Start with organic, unblemished plums for best results. The red shiso adds natural color and additional digestive benefits.",
+  "suggested_pairings": ["brown rice", "miso soup", "steamed vegetables", "healing teas"],
+  "nutritional_highlights": "Rich in beneficial probiotics, digestive enzymes, and minerals. The fermentation process creates beneficial acids that support gut health and mineral absorption.",
+  "food_as_medicine": "Umeboshi has been used in Japanese traditional medicine for over 1,000 years as a powerful digestive aid, liver cleanser, and alkalizing agent. The probiotics support immune function while the natural acids help balance the body's pH."
+}
   ]
 }
