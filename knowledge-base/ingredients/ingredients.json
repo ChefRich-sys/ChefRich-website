@@ -322,6 +322,70 @@
       ],
       "chefrich_notes": "Actually fermented plum brine, not true vinegar but used similarly"
     }
+  },{
+  "ingredient_selection_principles": {
+    "natural_food_criteria": {
+      "category": "food_philosophy",
+      "name": "Natural Food Selection Criteria",
+      "description": "10 foundational principles for selecting health-promoting ingredients",
+      "core_principles": [
+        "Whole foods in their natural, unrefined state",
+        "Fresh foods recently harvested without long storage",
+        "Organic grown without synthetic chemicals or GMOs",
+        "Local sourced from nearby community or region",
+        "In harmony with tradition following cultural practices",
+        "Real authentic foods, not artificial substitutes",
+        "Unprocessed avoiding high heat, pressure, toxic chemicals",
+        "Non-irradiated free from radiation treatment",
+        "Free from genetic modification",
+        "Delicious appealing to multiple senses"
+      ],
+      "professional_application": "Use these criteria to evaluate all ingredients for maximum nutritional and health benefits",
+      "chefrich_philosophy": "Quality ingredients are the foundation of transformative, healing cuisine"
+    },
+    "organic_vs_conventional": {
+      "category": "sourcing_guidelines",
+      "name": "Organic vs Conventional Food Comparison",
+      "description": "Professional guidelines for understanding organic food benefits",
+      "organic_advantages": [
+        "No synthetic pesticides, herbicides, or fungicides",
+        "No genetically modified organisms (GMOs)",
+        "No antibiotics or growth hormones in animal products",
+        "Higher nutritional value and antioxidant content",
+        "Better environmental sustainability",
+        "Lower risk of foodborne illness",
+        "Supports biodiversity and soil health",
+        "Protects farm workers from toxic exposure"
+      ],
+      "conventional_concerns": [
+        "77% of non-organic produce contains pesticide residues",
+        "Often uses irradiation which destroys vitamins",
+        "Factory farming practices reduce nutritional quality",
+        "Environmental impact from chemical farming"
+      ],
+      "chefrich_recommendation": "Prioritize organic ingredients when possible, especially for heavily contaminated produce",
+      "professional_tip": "Focus organic budget on items with highest pesticide residues for maximum health benefit"
+    },
+    "food_safety_indicators": {
+      "category": "quality_assessment",
+      "name": "Professional Food Safety Guidelines",
+      "description": "Key indicators for selecting safe, high-quality ingredients",
+      "safety_priorities": [
+        "Choose certified organic to avoid pesticide residues",
+        "Avoid irradiated foods that form toxic compounds",
+        "Select mercury-safe seafood using FDA guidelines",
+        "Prefer raw or minimally processed dairy when possible",
+        "Choose pasture-raised, hormone-free animal products",
+        "Avoid factory-farmed eggs with contamination risks"
+      ],
+      "mercury_safe_seafood": [
+        "Very low mercury: Wild salmon, sardines, scallops",
+        "Low mercury: Canned light tuna, shrimp, catfish",
+        "High mercury to avoid: Shark, swordfish, king mackerel"
+      ],
+      "chefrich_notes": "Food safety is foundational to healing cuisine - choose ingredients that nourish rather than harm"
+    }
   }
+}
 }
 
