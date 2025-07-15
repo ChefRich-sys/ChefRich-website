@@ -494,7 +494,216 @@
       "suggested_pairings": ["Greek yogurt", "Overnight oats", "Pancakes"],
       "nutritional_highlights": "Apples: Quercetin and pectin fiber • Cinnamon: Blood sugar support • Cloves: Antioxidant compounds",
       "food_as_medicine": "This warming compote provides heart-healthy antioxidants and natural sweetness while supporting healthy blood sugar with cinnamon's beneficial compounds."
-    }
-  ]
+  },
+  {
+  "title_with_emoji": "🍲 Healing Red Lentil Soup",
+  "tags": ["plant-based", "protein-rich", "anti-inflammatory", "digestive-health", "quick-cooking"],
+  "description": "A nourishing, protein-packed soup that transforms simple red lentils into a warming, healing meal. Rich in plant-based protein and fiber, this soup supports digestive health while providing sustained energy.",
+  "yield_and_time": {
+    "yield": "6-8 cups",
+    "prep_time": "15 minutes",
+    "cook_time": "45 minutes",
+    "total_time": "60 minutes"
+  },
+  "ingredients": [
+    "2 tablespoons extra virgin olive oil",
+    "1 medium onion, diced (½ inch)",
+    "1 large carrot, diced",
+    "2 celery ribs, diced",
+    "½ teaspoon dried thyme",
+    "½ teaspoon dried basil",
+    "½ teaspoon dried oregano",
+    "1 cup red lentils, rinsed",
+    "1 teaspoon sea salt",
+    "½ pound fresh spinach or Swiss chard, chopped"
+  ],
+  "instructions": [
+    "Heat olive oil in medium soup pot over medium heat",
+    "Sauté onion until translucent, about 5 minutes",
+    "Add carrot and celery, cook 1-2 minutes more",
+    "Add thyme, basil, oregano, lentils, and 4 cups water",
+    "Bring to boil, cover, and simmer 30 minutes",
+    "Add 1-2 cups water for desired consistency, simmer 15 minutes",
+    "Stir in salt and greens, cook 2 minutes until wilted"
+  ],
+  "chefrich_notes": "Red lentils cook quickly and break down naturally, creating a creamy texture without dairy. The gradual addition of water allows you to control the final consistency perfectly.",
+  "suggested_pairings": ["whole grain bread", "fermented vegetables", "lemon wedges", "fresh herbs"],
+  "nutritional_highlights": "High in plant-based protein, folate, and iron. Red lentils are easily digestible and provide sustained energy without blood sugar spikes.",
+  "food_as_medicine": "Lentils support digestive health with their high fiber content and provide essential amino acids for muscle maintenance and cellular repair."
+  },
+  {
+  "title_with_emoji": "🫘 Traditional Healing Hummus",
+  "tags": ["plant-based", "protein-rich", "healthy-fats", "mediterranean", "fermented"],
+  "description": "A creamy, nutritious spread that transforms humble chickpeas into a protein-rich, satisfying dip. Enhanced with tahini and garlic for cardiovascular and immune support.",
+  "yield_and_time": {
+    "yield": "3 cups",
+    "prep_time": "10 minutes",
+    "cook_time": "0 minutes",
+    "total_time": "10 minutes"
+  },
+  "ingredients": [
+    "2 cups cooked chickpeas (save cooking liquid)",
+    "¼ cup tahini (sesame seed paste)",
+    "¼ cup fresh lemon juice",
+    "2 cloves garlic, minced",
+    "1 teaspoon ground toasted cumin",
+    "¾ - 1 teaspoon sea salt",
+    "¼ cup extra virgin olive oil",
+    "¼ - ½ cup reserved chickpea cooking liquid",
+    "2 teaspoons harissa (optional)",
+    "Paprika for garnish"
+  ],
+  "instructions": [
+    "Combine chickpeas, tahini, lemon juice, garlic, cumin, salt, and olive oil in food processor",
+    "Process until smooth, scraping sides as needed",
+    "With motor running, slowly add chickpea liquid until desired consistency",
+    "Divide into portions, add harissa to one if desired",
+    "Serve garnished with paprika and drizzled with olive oil"
+  ],
+  "chefrich_notes": "Using the chickpea cooking liquid creates incredible creaminess while preserving nutrients. Toast cumin seeds for deeper flavor complexity.",
+  "suggested_pairings": ["vegetable crudités", "whole grain pita", "cucumber slices", "roasted vegetables"],
+  "nutritional_highlights": "Rich in plant protein, healthy fats from tahini and olive oil, and fiber. Garlic provides immune-supporting compounds.",
+  "food_as_medicine": "Chickpeas support blood sugar stability and digestive health, while tahini provides calcium and healthy fats for hormone production."
+  },
+  {
+  "title_with_emoji": "🖤 Antioxidant Black Soybean Salad",
+  "tags": ["plant-based", "high-protein", "antioxidant-rich", "alkalizing", "nutrient-dense"],
+  "description": "A vibrant, protein-packed salad featuring nutrient-dense black soybeans dressed in a tangy lime vinaigrette. Perfect for supporting hormonal balance and providing complete protein.",
+  "yield_and_time": {
+    "yield": "4-6 servings",
+    "prep_time": "15 minutes",
+    "cook_time": "30 minutes pressure cooking",
+    "total_time": "24 hours (including soaking)"
+  },
+  "ingredients": [
+    "2 cups black soybeans, soaked 24 hours",
+    "1 tablespoon plus 1 teaspoon Dijon mustard",
+    "¼ cup fresh lime juice",
+    "2 tablespoons apple cider vinegar",
+    "1 teaspoon sea salt",
+    "½ cup extra virgin olive oil",
+    "6 red radishes, finely diced",
+    "6 scallions, minced",
+    "½ cup fresh parsley, minced"
+  ],
+  "instructions": [
+    "Soak black soybeans 24 hours in salted water, then rinse and drain",
+    "Pressure cook with 6 cups water for 30 minutes, allow natural pressure release",
+    "Drain beans thoroughly while still warm",
+    "Whisk together mustard, lime juice, vinegar, salt, and olive oil",
+    "Pour dressing over warm beans and toss gently",
+    "When cooled, add radishes, scallions, and parsley",
+    "Let marinate 30 minutes before serving"
+  ],
+  "chefrich_notes": "Black soybeans contain powerful anthocyanins (the same antioxidants in blueberries) and provide complete protein. Dressing warm beans helps them absorb flavors.",
+  "suggested_pairings": ["leafy greens", "roasted vegetables", "quinoa", "fermented foods"],
+  "nutritional_highlights": "Complete protein with all essential amino acids, high in antioxidants, isoflavones, and fiber. Supports hormonal balance and heart health.",
+  "food_as_medicine": "Black soybeans provide phytoestrogens that support hormonal balance, while their high protein content aids in muscle maintenance and metabolic health."
+  },
+  {
+  "title_with_emoji": "🍯 Healing Maple Baked Beans",
+  "tags": ["plant-based", "comfort-food", "slow-cooked", "probiotic-rich", "fiber-rich"],
+  "description": "A wholesome twist on classic baked beans, naturally sweetened with maple syrup and barley malt, enhanced with probiotic-rich miso for digestive health.",
+  "yield_and_time": {
+    "yield": "3 cups",
+    "prep_time": "15 minutes",
+    "cook_time": "2.5 hours",
+    "total_time": "3 hours (plus soaking)"
+  },
+  "ingredients": [
+    "1½ cups navy beans, soaked overnight",
+    "¾ cup tomato puree",
+    "¼ cup barley malt",
+    "¼ cup pure maple syrup",
+    "1½ tablespoons Dijon mustard",
+    "2 tablespoons white miso",
+    "½ teaspoon sea salt",
+    "¼ cup reserved bean cooking liquid"
+  ],
+  "instructions": [
+    "Cook soaked beans in 5-6 cups water until soft, about 1 hour (or pressure cook 15 minutes)",
+    "Drain beans, reserving ¼ cup cooking liquid",
+    "Preheat oven to 325°F",
+    "Dissolve miso in reserved bean liquid",
+    "Mix tomato puree, barley malt, maple syrup, mustard, and miso mixture",
+    "Combine sauce with cooked beans in 1-quart casserole",
+    "Cover and bake 1-1.5 hours, checking every 15 minutes after first hour",
+    "Beans are ready when sauce has thickened"
+  ],
+  "chefrich_notes": "Miso adds incredible umami depth while providing beneficial probiotics. Barley malt provides complex sweetness and aids in digestion.",
+  "suggested_pairings": ["cornbread", "sauerkraut", "grilled vegetables", "leafy green salads"],
+  "nutritional_highlights": "High in plant protein, fiber, and B vitamins. Miso provides probiotics for gut health, while maple syrup offers trace minerals.",
+  "food_as_medicine": "Navy beans support blood sugar stability and digestive health, while fermented miso enhances gut microbiome and aids in nutrient absorption."
+ },
+  {
+  "title_with_emoji": "🎃 Warming Adzuki Squash Stew",
+  "tags": ["plant-based", "warming", "kidney-support", "anti-inflammatory", "seasonal"],
+  "description": "A nourishing, warming stew that combines kidney-supporting adzuki beans with sweet butternut squash, enhanced with healing ginger and umami-rich shoyu.",
+  "yield_and_time": {
+    "yield": "6-8 cups",
+    "prep_time": "15 minutes",
+    "cook_time": "50 minutes",
+    "total_time": "65 minutes (plus soaking)"
+  },
+  "ingredients": [
+    "1 cup adzuki beans, soaked overnight",
+    "1 (3-inch) piece kombu seaweed",
+    "2 slices fresh ginger",
+    "3½ cups filtered water",
+    "2 cups butternut squash, peeled and diced",
+    "2 tablespoons fresh ginger juice",
+    "1 tablespoon shoyu (soy sauce)",
+    "½ teaspoon sea salt",
+    "¼ cup chopped fresh parsley or scallions"
+  ],
+  "instructions": [
+    "Combine soaked adzuki beans, kombu, ginger slices, and water in 2-quart pot",
+    "Bring to boil and cook 30 minutes",
+    "Remove ginger slices, leaving kombu",
+    "Layer squash pieces over beans, cover and cook 20 minutes",
+    "Test that squash is tender and beans are cooked through",
+    "Add fresh ginger juice, shoyu, and salt",
+    "Gently fold ingredients together without mashing",
+    "Garnish each serving with fresh parsley or scallions"
+  ],
+  "chefrich_notes": "Adzuki beans are traditionally used in Asian medicine for kidney health. Kombu adds minerals and helps beans cook more evenly.",
+  "suggested_pairings": ["brown rice", "steamed greens", "pickled vegetables", "miso soup"],
+  "nutritional_highlights": "Adzuki beans are lower in fat than other beans and rich in folate, potassium, and fiber. Squash provides beta-carotene and vitamin C.",
+  "food_as_medicine": "Adzuki beans are traditionally used to support kidney and bladder health, while butternut squash provides immune-supporting vitamin A."
+  },
+    {
+  "title_with_emoji": "🟢 Vibrant Sautéed Edamame",
+  "tags": ["plant-based", "quick", "protein-rich", "hormone-balancing", "appetizer"],
+  "description": "Fresh edamame quickly sautéed with herbs and lemon for a vibrant, protein-rich side dish that supports hormonal balance and provides complete nutrition.",
+  "yield_and_time": {
+    "yield": "4 servings",
+    "prep_time": "10 minutes",
+    "cook_time": "15 minutes",
+    "total_time": "25 minutes"
+  },
+  "ingredients": [
+    "2 pounds fresh edamame, shelled (2 cups)",
+    "1½ tablespoons extra virgin olive oil",
+    "Sea salt to taste",
+    "2-3 tablespoons fresh lemon juice",
+    "2 tablespoons fresh cilantro or scallions, chopped",
+    "Freshly ground black pepper"
+  ],
+  "instructions": [
+    "Bring large pot of salted water to boil",
+    "Add shelled edamame and cook 10 minutes until tender",
+    "Drain beans and transfer to ice bath to stop cooking",
+    "Drain again and pat dry",
+    "Heat olive oil in large skillet over medium-high heat",
+    "Add edamame and salt, sauté 2-3 minutes",
+    "Add lemon juice, herbs, and pepper",
+    "Toss well and serve immediately while hot"
+  ],
+  "chefrich_notes": "Edamame are young soybeans packed with complete protein and folate. The quick sauté enhances their natural sweetness while maintaining vibrant color.",
+  "suggested_pairings": ["brown rice", "miso soup", "seaweed salad", "grilled fish"],
+  "nutritional_highlights": "Complete protein with all essential amino acids, high in folate, vitamin K, and fiber. Contains isoflavones for hormonal support.",
+  "food_as_medicine": "Edamame provides plant-based complete protein and phytoestrogens that support hormonal balance, particularly beneficial for women's health."
 }
+  ]
+  }
 
