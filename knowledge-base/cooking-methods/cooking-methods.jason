@@ -70,4 +70,80 @@
     ]
   },
   "last_updated": "2025-07-02T18:09:16.827131"
+},
+  "beef_braising": {
+    "method": "Braising",
+    "category": "Moist Heat Cooking",
+    "description": "A combination cooking method that uses both dry and moist heat to transform tough cuts into tender, flavorful dishes.",
+    "best_for": ["Chuck roast", "Short ribs", "Brisket", "Beef shoulder"],
+    "temperature": "325-375°F oven",
+    "timing": "2-3 hours depending on cut size",
+    "technique": "Sear meat first, then cook covered in liquid",
+    "key_principles": [
+      "Searing develops flavor through Maillard reaction",
+      "Low, slow cooking breaks down collagen",
+      "Liquid creates steam for moist environment",
+      "Covered cooking prevents moisture loss"
+    ]
+  },
+  "beef_grilling": {
+    "method": "Grilling",
+    "category": "Dry Heat Cooking",
+    "description": "High-heat cooking over direct flame or heat source, ideal for tender cuts and creating distinctive char flavors.",
+    "best_for": ["Ribeye", "Strip steak", "Tenderloin", "Skirt steak"],
+    "temperature": "High heat (400-500°F)",
+    "timing": "6-12 minutes depending on thickness",
+    "technique": "Direct heat cooking with flame contact",
+    "key_principles": [
+      "High heat creates appealing char and flavor",
+      "Quick cooking preserves natural juices",
+      "Proper marinating enhances flavor and tenderness",
+      "Resting after cooking redistributes juices"
+    ]
+  },
+  "beef_slow_roasting": {
+    "method": "Slow Roasting",
+    "category": "Dry Heat Cooking",
+    "description": "Low-temperature oven cooking that slowly develops flavors while maintaining moisture in larger cuts.",
+    "best_for": ["Prime rib", "Tenderloin", "Chuck roast", "Brisket"],
+    "temperature": "225-325°F",
+    "timing": "20-30 minutes per pound",
+    "technique": "Uncovered oven cooking at consistent low temperature",
+    "key_principles": [
+      "Low temperature prevents protein toughening",
+      "Even heat distribution ensures uniform cooking",
+      "Slower cooking reduces moisture loss",
+      "Internal temperature monitoring crucial"
+    ]
+  },
+  "beef_pan_searing": {
+    "method": "Pan Searing",
+    "category": "Dry Heat Cooking",
+    "description": "High-heat cooking in a skillet to develop a flavorful crust while maintaining juicy interior.",
+    "best_for": ["Steaks", "Medallions", "Chops", "Cutlets"],
+    "temperature": "Medium-high to high heat",
+    "timing": "3-5 minutes per side",
+    "technique": "Hot oil in heavy skillet with minimal movement",
+    "key_principles": [
+      "Hot pan and oil create proper searing",
+      "Don't move meat until crust forms",
+      "Finish in oven for thicker cuts",
+      "Deglaze pan for sauce making"
+    ]
+  },
+  "beef_smoking": {
+    "method": "Smoking",
+    "category": "Slow Cooking",
+    "description": "Long, slow cooking with wood smoke that imparts distinctive flavors while breaking down tough fibers.",
+    "best_for": ["Brisket", "Short ribs", "Chuck roast", "Beef ribs"],
+    "temperature": "225-250°F",
+    "timing": "8-16 hours depending on cut",
+    "technique": "Indirect heat with wood smoke",
+    "key_principles": [
+      "Low temperature prevents protein toughening",
+      "Smoke adds complex flavors",
+      "Long cooking breaks down collagen",
+      "Consistent temperature control essential"
+    ]
+  }
 }
