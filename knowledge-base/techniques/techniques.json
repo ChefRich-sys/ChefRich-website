@@ -220,5 +220,57 @@
       "Add delicate greens and final seasonings at the end"
     ],
     "chefrich_philosophy": "Properly prepared beans are complete proteins that support sustainable nutrition and digestive health"
+  },
+  "advanced_bean_techniques": {
+    "category": "specialized_plant_based_cooking",
+    "name": "Advanced Bean Preparation Methods",
+    "description": "Professional techniques for creating diverse bean-based dishes with optimal texture and flavor",
+    "pureeing_technique": {
+      "method": "Food processor or blender method",
+      "steps": [
+        "Combine cooked beans with acid (lemon juice/vinegar)",
+        "Add garlic, salt, and selected oils",
+        "Blend until smooth, adding bean liquid gradually",
+        "Stir in fresh herbs by hand for texture",
+        "Adjust consistency with additional liquid"
+      ],
+      "oil_combinations": {
+        "kidney_beans": "3 tbsp olive oil + 1 tbsp flaxseed oil",
+        "chickpeas": "¼ cup tahini + 1 tbsp olive oil + 1 tbsp flaxseed oil",
+        "great_northern": "3 tbsp olive oil + 1 tbsp flaxseed oil + fresh dill",
+        "cannellini": "3 tbsp olive oil + 1 tbsp flaxseed oil + herbs of choice"
+      }
+    },
+    "stewing_variations": {
+      "traditional_method": [
+        "Combine beans, kombu, water, and aromatics",
+        "Simmer partially covered for initial cooking",
+        "Add vegetables in order of cooking time needed",
+        "Season at the end with appropriate condiments"
+      ],
+      "seasoning_guidelines": {
+        "shoyu": "Best for aduki, kidney, and pinto beans",
+        "sea_salt": "Universal - works with all bean types",
+        "alternative_spicing": "Cilantro and cumin instead of ginger"
+      }
+    },
+    "soup_texture_control": {
+      "for_creaminess": [
+        "Pressure cook for 1/3 to 1/4 normal time",
+        "Puree portion of finished soup with immersion blender",
+        "Blend entire soup for completely smooth texture"
+      ],
+      "consistency_adjustment": [
+        "Add liquid gradually during cooking",
+        "Simmer partially covered for final 15 minutes",
+        "Stir in delicate greens at very end"
+      ]
+    },
+    "professional_serving": {
+      "pita_chips": "Cut pita into triangles, toss with oil, salt, spices, bake at 350°F until golden",
+      "garnishing": "Fresh herbs, paprika, drizzled oils",
+      "timing": "Add fresh ingredients at end to preserve color and nutrients"
+    },
+    "chefrich_philosophy": "Advanced bean techniques create restaurant-quality dishes while maximizing nutrition and digestibility"
   }
 }
