@@ -494,990 +494,952 @@
       "suggested_pairings": ["Greek yogurt", "Overnight oats", "Pancakes"],
       "nutritional_highlights": "Apples: Quercetin and pectin fiber • Cinnamon: Blood sugar support • Cloves: Antioxidant compounds",
       "food_as_medicine": "This warming compote provides heart-healthy antioxidants and natural sweetness while supporting healthy blood sugar with cinnamon's beneficial compounds."
-  },
-  {
-  "title_with_emoji": "🍲 Healing Red Lentil Soup",
-  "tags": ["plant-based", "protein-rich", "anti-inflammatory", "digestive-health", "quick-cooking"],
-  "description": "A nourishing, protein-packed soup that transforms simple red lentils into a warming, healing meal. Rich in plant-based protein and fiber, this soup supports digestive health while providing sustained energy.",
-  "yield_and_time": {
-    "yield": "6-8 cups",
-    "prep_time": "15 minutes",
-    "cook_time": "45 minutes",
-    "total_time": "60 minutes"
-  },
-  "ingredients": [
-    "2 tablespoons extra virgin olive oil",
-    "1 medium onion, diced (½ inch)",
-    "1 large carrot, diced",
-    "2 celery ribs, diced",
-    "½ teaspoon dried thyme",
-    "½ teaspoon dried basil",
-    "½ teaspoon dried oregano",
-    "1 cup red lentils, rinsed",
-    "1 teaspoon sea salt",
-    "½ pound fresh spinach or Swiss chard, chopped"
-  ],
-  "instructions": [
-    "Heat olive oil in medium soup pot over medium heat",
-    "Sauté onion until translucent, about 5 minutes",
-    "Add carrot and celery, cook 1-2 minutes more",
-    "Add thyme, basil, oregano, lentils, and 4 cups water",
-    "Bring to boil, cover, and simmer 30 minutes",
-    "Add 1-2 cups water for desired consistency, simmer 15 minutes",
-    "Stir in salt and greens, cook 2 minutes until wilted"
-  ],
-  "chefrich_notes": "Red lentils cook quickly and break down naturally, creating a creamy texture without dairy. The gradual addition of water allows you to control the final consistency perfectly.",
-  "suggested_pairings": ["whole grain bread", "fermented vegetables", "lemon wedges", "fresh herbs"],
-  "nutritional_highlights": "High in plant-based protein, folate, and iron. Red lentils are easily digestible and provide sustained energy without blood sugar spikes.",
-  "food_as_medicine": "Lentils support digestive health with their high fiber content and provide essential amino acids for muscle maintenance and cellular repair."
-  },
-  {
-  "title_with_emoji": "🫘 Traditional Healing Hummus",
-  "tags": ["plant-based", "protein-rich", "healthy-fats", "mediterranean", "fermented"],
-  "description": "A creamy, nutritious spread that transforms humble chickpeas into a protein-rich, satisfying dip. Enhanced with tahini and garlic for cardiovascular and immune support.",
-  "yield_and_time": {
-    "yield": "3 cups",
-    "prep_time": "10 minutes",
-    "cook_time": "0 minutes",
-    "total_time": "10 minutes"
-  },
-  "ingredients": [
-    "2 cups cooked chickpeas (save cooking liquid)",
-    "¼ cup tahini (sesame seed paste)",
-    "¼ cup fresh lemon juice",
-    "2 cloves garlic, minced",
-    "1 teaspoon ground toasted cumin",
-    "¾ - 1 teaspoon sea salt",
-    "¼ cup extra virgin olive oil",
-    "¼ - ½ cup reserved chickpea cooking liquid",
-    "2 teaspoons harissa (optional)",
-    "Paprika for garnish"
-  ],
-  "instructions": [
-    "Combine chickpeas, tahini, lemon juice, garlic, cumin, salt, and olive oil in food processor",
-    "Process until smooth, scraping sides as needed",
-    "With motor running, slowly add chickpea liquid until desired consistency",
-    "Divide into portions, add harissa to one if desired",
-    "Serve garnished with paprika and drizzled with olive oil"
-  ],
-  "chefrich_notes": "Using the chickpea cooking liquid creates incredible creaminess while preserving nutrients. Toast cumin seeds for deeper flavor complexity.",
-  "suggested_pairings": ["vegetable crudités", "whole grain pita", "cucumber slices", "roasted vegetables"],
-  "nutritional_highlights": "Rich in plant protein, healthy fats from tahini and olive oil, and fiber. Garlic provides immune-supporting compounds.",
-  "food_as_medicine": "Chickpeas support blood sugar stability and digestive health, while tahini provides calcium and healthy fats for hormone production."
-  },
-  {
-  "title_with_emoji": "🖤 Antioxidant Black Soybean Salad",
-  "tags": ["plant-based", "high-protein", "antioxidant-rich", "alkalizing", "nutrient-dense"],
-  "description": "A vibrant, protein-packed salad featuring nutrient-dense black soybeans dressed in a tangy lime vinaigrette. Perfect for supporting hormonal balance and providing complete protein.",
-  "yield_and_time": {
-    "yield": "4-6 servings",
-    "prep_time": "15 minutes",
-    "cook_time": "30 minutes pressure cooking",
-    "total_time": "24 hours (including soaking)"
-  },
-  "ingredients": [
-    "2 cups black soybeans, soaked 24 hours",
-    "1 tablespoon plus 1 teaspoon Dijon mustard",
-    "¼ cup fresh lime juice",
-    "2 tablespoons apple cider vinegar",
-    "1 teaspoon sea salt",
-    "½ cup extra virgin olive oil",
-    "6 red radishes, finely diced",
-    "6 scallions, minced",
-    "½ cup fresh parsley, minced"
-  ],
-  "instructions": [
-    "Soak black soybeans 24 hours in salted water, then rinse and drain",
-    "Pressure cook with 6 cups water for 30 minutes, allow natural pressure release",
-    "Drain beans thoroughly while still warm",
-    "Whisk together mustard, lime juice, vinegar, salt, and olive oil",
-    "Pour dressing over warm beans and toss gently",
-    "When cooled, add radishes, scallions, and parsley",
-    "Let marinate 30 minutes before serving"
-  ],
-  "chefrich_notes": "Black soybeans contain powerful anthocyanins (the same antioxidants in blueberries) and provide complete protein. Dressing warm beans helps them absorb flavors.",
-  "suggested_pairings": ["leafy greens", "roasted vegetables", "quinoa", "fermented foods"],
-  "nutritional_highlights": "Complete protein with all essential amino acids, high in antioxidants, isoflavones, and fiber. Supports hormonal balance and heart health.",
-  "food_as_medicine": "Black soybeans provide phytoestrogens that support hormonal balance, while their high protein content aids in muscle maintenance and metabolic health."
-  },
-  {
-  "title_with_emoji": "🍯 Healing Maple Baked Beans",
-  "tags": ["plant-based", "comfort-food", "slow-cooked", "probiotic-rich", "fiber-rich"],
-  "description": "A wholesome twist on classic baked beans, naturally sweetened with maple syrup and barley malt, enhanced with probiotic-rich miso for digestive health.",
-  "yield_and_time": {
-    "yield": "3 cups",
-    "prep_time": "15 minutes",
-    "cook_time": "2.5 hours",
-    "total_time": "3 hours (plus soaking)"
-  },
-  "ingredients": [
-    "1½ cups navy beans, soaked overnight",
-    "¾ cup tomato puree",
-    "¼ cup barley malt",
-    "¼ cup pure maple syrup",
-    "1½ tablespoons Dijon mustard",
-    "2 tablespoons white miso",
-    "½ teaspoon sea salt",
-    "¼ cup reserved bean cooking liquid"
-  ],
-  "instructions": [
-    "Cook soaked beans in 5-6 cups water until soft, about 1 hour (or pressure cook 15 minutes)",
-    "Drain beans, reserving ¼ cup cooking liquid",
-    "Preheat oven to 325°F",
-    "Dissolve miso in reserved bean liquid",
-    "Mix tomato puree, barley malt, maple syrup, mustard, and miso mixture",
-    "Combine sauce with cooked beans in 1-quart casserole",
-    "Cover and bake 1-1.5 hours, checking every 15 minutes after first hour",
-    "Beans are ready when sauce has thickened"
-  ],
-  "chefrich_notes": "Miso adds incredible umami depth while providing beneficial probiotics. Barley malt provides complex sweetness and aids in digestion.",
-  "suggested_pairings": ["cornbread", "sauerkraut", "grilled vegetables", "leafy green salads"],
-  "nutritional_highlights": "High in plant protein, fiber, and B vitamins. Miso provides probiotics for gut health, while maple syrup offers trace minerals.",
-  "food_as_medicine": "Navy beans support blood sugar stability and digestive health, while fermented miso enhances gut microbiome and aids in nutrient absorption."
- },
-  {
-  "title_with_emoji": "🎃 Warming Adzuki Squash Stew",
-  "tags": ["plant-based", "warming", "kidney-support", "anti-inflammatory", "seasonal"],
-  "description": "A nourishing, warming stew that combines kidney-supporting adzuki beans with sweet butternut squash, enhanced with healing ginger and umami-rich shoyu.",
-  "yield_and_time": {
-    "yield": "6-8 cups",
-    "prep_time": "15 minutes",
-    "cook_time": "50 minutes",
-    "total_time": "65 minutes (plus soaking)"
-  },
-  "ingredients": [
-    "1 cup adzuki beans, soaked overnight",
-    "1 (3-inch) piece kombu seaweed",
-    "2 slices fresh ginger",
-    "3½ cups filtered water",
-    "2 cups butternut squash, peeled and diced",
-    "2 tablespoons fresh ginger juice",
-    "1 tablespoon shoyu (soy sauce)",
-    "½ teaspoon sea salt",
-    "¼ cup chopped fresh parsley or scallions"
-  ],
-  "instructions": [
-    "Combine soaked adzuki beans, kombu, ginger slices, and water in 2-quart pot",
-    "Bring to boil and cook 30 minutes",
-    "Remove ginger slices, leaving kombu",
-    "Layer squash pieces over beans, cover and cook 20 minutes",
-    "Test that squash is tender and beans are cooked through",
-    "Add fresh ginger juice, shoyu, and salt",
-    "Gently fold ingredients together without mashing",
-    "Garnish each serving with fresh parsley or scallions"
-  ],
-  "chefrich_notes": "Adzuki beans are traditionally used in Asian medicine for kidney health. Kombu adds minerals and helps beans cook more evenly.",
-  "suggested_pairings": ["brown rice", "steamed greens", "pickled vegetables", "miso soup"],
-  "nutritional_highlights": "Adzuki beans are lower in fat than other beans and rich in folate, potassium, and fiber. Squash provides beta-carotene and vitamin C.",
-  "food_as_medicine": "Adzuki beans are traditionally used to support kidney and bladder health, while butternut squash provides immune-supporting vitamin A."
-  },
+    },
     {
-  "title_with_emoji": "🟢 Vibrant Sautéed Edamame",
-  "tags": ["plant-based", "quick", "protein-rich", "hormone-balancing", "appetizer"],
-  "description": "Fresh edamame quickly sautéed with herbs and lemon for a vibrant, protein-rich side dish that supports hormonal balance and provides complete nutrition.",
-  "yield_and_time": {
-    "yield": "4 servings",
-    "prep_time": "10 minutes",
-    "cook_time": "15 minutes",
-    "total_time": "25 minutes"
-  },
-  "ingredients": [
-    "2 pounds fresh edamame, shelled (2 cups)",
-    "1½ tablespoons extra virgin olive oil",
-    "Sea salt to taste",
-    "2-3 tablespoons fresh lemon juice",
-    "2 tablespoons fresh cilantro or scallions, chopped",
-    "Freshly ground black pepper"
-  ],
-  "instructions": [
-    "Bring large pot of salted water to boil",
-    "Add shelled edamame and cook 10 minutes until tender",
-    "Drain beans and transfer to ice bath to stop cooking",
-    "Drain again and pat dry",
-    "Heat olive oil in large skillet over medium-high heat",
-    "Add edamame and salt, sauté 2-3 minutes",
-    "Add lemon juice, herbs, and pepper",
-    "Toss well and serve immediately while hot"
-  ],
-  "chefrich_notes": "Edamame are young soybeans packed with complete protein and folate. The quick sauté enhances their natural sweetness while maintaining vibrant color.",
-  "suggested_pairings": ["brown rice", "miso soup", "seaweed salad", "grilled fish"],
-  "nutritional_highlights": "Complete protein with all essential amino acids, high in folate, vitamin K, and fiber. Contains isoflavones for hormonal support.",
-  "food_as_medicine": "Edamame provides plant-based complete protein and phytoestrogens that support hormonal balance, particularly beneficial for women's health."
-},
-{
-  "title_with_emoji": "🍲 Traditional Healing Bean Stew",
-  "tags": ["plant-based", "warming", "mineral-rich", "digestive-health", "traditional"],
-  "description": "A deeply nourishing stew combining protein-rich beans with mineral-rich kombu and sweet butternut squash. This traditional preparation method enhances digestibility and provides sustained energy.",
-  "yield_and_time": {
-    "yield": "4-6 servings",
-    "prep_time": "15 minutes",
-    "cook_time": "60 minutes",
-    "total_time": "75 minutes (plus soaking)"
-  },
-  "ingredients": [
-    "1 cup dried beans, soaked overnight",
-    "1 piece kombu seaweed",
-    "2 to 2½ cups filtered water",
-    "2-3 slices fresh ginger",
-    "½ small butternut squash, diced (1-1½ cups)",
-    "2 teaspoons freshly grated ginger",
-    "Shoyu or sea salt to taste"
-  ],
-  "instructions": [
-    "Combine soaked beans, kombu, water, and ginger slices in medium pot",
-    "Bring to boil, reduce heat, cover and simmer 30 minutes",
-    "Add diced butternut squash, cover and continue simmering 30 minutes",
-    "Test that beans and squash are tender",
-    "Add fresh grated ginger and season with shoyu or salt",
-    "Serve hot, garnished with fresh herbs if desired"
-  ],
-  "chefrich_notes": "Kombu seaweed adds essential minerals and helps beans cook more evenly. For variation, replace ginger with cilantro and cumin for a different flavor profile.",
-  "suggested_pairings": ["brown rice", "steamed greens", "fermented vegetables"],
-  "nutritional_highlights": "Complete plant protein, complex carbohydrates, and sea minerals from kombu. Butternut squash provides beta-carotene and fiber.",
-  "food_as_medicine": "This traditional stew supports digestive health through kombu's natural enzymes and provides sustained energy from slow-cooked beans and squash."
-},
-{
-  "title_with_emoji": "🥄 Healing Bean Puree Spread",
-  "tags": ["plant-based", "protein-rich", "versatile", "healthy-fats", "customizable"],
-  "description": "A creamy, nutritious spread that transforms any cooked bean into a protein-rich dip. Enhanced with healthy oils and fresh herbs for maximum flavor and nutrition.",
-  "yield_and_time": {
-    "yield": "2-3 cups",
-    "prep_time": "10 minutes",
-    "cook_time": "0 minutes",
-    "total_time": "10 minutes"
-  },
-  "ingredients": [
-    "2 cups cooked beans (any variety)",
-    "¼ cup reserved bean cooking liquid",
-    "3 tablespoons fresh lemon juice",
-    "1 clove garlic, minced",
-    "¾-1 teaspoon sea salt",
-    "3 tablespoons extra virgin olive oil",
-    "1 tablespoon flaxseed oil",
-    "¼ cup tahini (for chickpeas/white beans)",
-    "Fresh herbs (variety specific)",
-    "Paprika for garnish"
-  ],
-  "instructions": [
-    "Combine beans, lemon juice, garlic, salt, and oils in food processor",
-    "Blend until smooth, gradually adding bean liquid for consistency",
-    "Transfer to bowl and stir in fresh herbs by hand",
-    "Adjust seasoning and consistency as needed",
-    "Sprinkle with paprika and drizzle with olive oil",
-    "Serve with toasted pita triangles or vegetables"
-  ],
-  "chefrich_notes": "Customize by bean type: kidney beans with scallions/cilantro, great northern with dill, cannellini with herbs of choice. Always add herbs by hand to preserve texture.",
-  "suggested_pairings": ["whole grain pita", "vegetable crudités", "crackers", "as sandwich spread"],
-  "nutritional_highlights": "High in plant protein, fiber, and healthy fats from olive oil and flaxseed oil. Tahini adds calcium and additional protein.",
-  "food_as_medicine": "This versatile spread provides complete plant protein and omega-3 fatty acids from flaxseed oil, supporting heart health and sustained energy."
-},
+      "title_with_emoji": "🍲 Healing Red Lentil Soup",
+      "tags": ["plant-based", "protein-rich", "anti-inflammatory", "digestive-health", "quick-cooking"],
+      "description": "A nourishing, protein-packed soup that transforms simple red lentils into a warming, healing meal. Rich in plant-based protein and fiber, this soup supports digestive health while providing sustained energy.",
+      "yield_and_time": {
+        "yield": "6-8 cups",
+        "prep_time": "15 minutes",
+        "cook_time": "45 minutes",
+        "total_time": "60 minutes"
+      },
+      "ingredients": [
+        "2 tablespoons extra virgin olive oil",
+        "1 medium onion, diced (½ inch)",
+        "1 large carrot, diced",
+        "2 celery ribs, diced",
+        "½ teaspoon dried thyme",
+        "½ teaspoon dried basil",
+        "½ teaspoon dried oregano",
+        "1 cup red lentils, rinsed",
+        "1 teaspoon sea salt",
+        "½ pound fresh spinach or Swiss chard, chopped"
+      ],
+      "instructions": [
+        "Heat olive oil in medium soup pot over medium heat",
+        "Sauté onion until translucent, about 5 minutes",
+        "Add carrot and celery, cook 1-2 minutes more",
+        "Add thyme, basil, oregano, lentils, and 4 cups water",
+        "Bring to boil, cover, and simmer 30 minutes",
+        "Add 1-2 cups water for desired consistency, simmer 15 minutes",
+        "Stir in salt and greens, cook 2 minutes until wilted"
+      ],
+      "chefrich_notes": "Red lentils cook quickly and break down naturally, creating a creamy texture without dairy. The gradual addition of water allows you to control the final consistency perfectly.",
+      "suggested_pairings": ["whole grain bread", "fermented vegetables", "lemon wedges", "fresh herbs"],
+      "nutritional_highlights": "High in plant-based protein, folate, and iron. Red lentils are easily digestible and provide sustained energy without blood sugar spikes.",
+      "food_as_medicine": "Lentils support digestive health with their high fiber content and provide essential amino acids for muscle maintenance and cellular repair."
+    },
     {
-  "title_with_emoji": "🍜 Healing Lentil Soup with Wasabi",
-  "tags": ["plant-based", "protein-rich", "anti-inflammatory", "digestive-health", "asian-inspired"],
-  "description": "A nourishing lentil soup with an unexpected kick of wasabi and rice vinegar, creating a unique fusion of comfort and healing. Rich in plant protein and enhanced with Japanese-inspired flavors.",
-  "yield_and_time": {
-    "yield": "4-6 servings",
-    "prep_time": "15 minutes",
-    "cook_time": "60 minutes",
-    "total_time": "75 minutes"
-  },
-  "ingredients": [
-    "1 onion, diced",
-    "1 carrot, diced",
-    "2 ribs celery, diced",
-    "2 tablespoons extra virgin olive oil",
-    "1 bay leaf",
-    "1 cup lentils",
-    "3½-4 cups water",
-    "1 teaspoon sea salt",
-    "½ pound spinach or Swiss chard, chopped",
-    "2 teaspoons wasabi paste",
-    "1-2 tablespoons rice vinegar"
-  ],
-  "instructions": [
-    "Heat olive oil in medium pot over medium heat",
-    "Sauté onion, carrot, and celery until onions become translucent",
-    "Add bay leaf, lentils, and 3 cups water to vegetables",
-    "Cover and bring to boil, reduce heat and simmer 40 minutes to 1 hour",
-    "Add ½ to 1 cup more water with salt, simmer partially covered 15 minutes",
-    "Stir in spinach or chard, cook 2 minutes until tender",
-    "Add wasabi and rice vinegar to taste before serving"
-  ],
-  "chefrich_notes": "For creamier texture, pressure cook lentils for 1/3 the time or puree a portion. Adjust wasabi gradually to taste preference.",
-  "suggested_pairings": ["brown rice", "steamed vegetables", "miso soup"],
-  "nutritional_highlights": "High in plant protein, folate, and iron from lentils. Wasabi provides natural antimicrobial compounds.",
-  "food_as_medicine": "Lentils support blood sugar stability while wasabi provides natural antibacterial properties and digestive stimulation."
-},
+      "title_with_emoji": "🫘 Traditional Healing Hummus",
+      "tags": ["plant-based", "protein-rich", "healthy-fats", "mediterranean", "fermented"],
+      "description": "A creamy, nutritious spread that transforms humble chickpeas into a protein-rich, satisfying dip. Enhanced with tahini and garlic for cardiovascular and immune support.",
+      "yield_and_time": {
+        "yield": "3 cups",
+        "prep_time": "10 minutes",
+        "cook_time": "0 minutes",
+        "total_time": "10 minutes"
+      },
+      "ingredients": [
+        "2 cups cooked chickpeas (save cooking liquid)",
+        "¼ cup tahini (sesame seed paste)",
+        "¼ cup fresh lemon juice",
+        "2 cloves garlic, minced",
+        "1 teaspoon ground toasted cumin",
+        "¾ - 1 teaspoon sea salt",
+        "¼ cup extra virgin olive oil",
+        "¼ - ½ cup reserved chickpea cooking liquid",
+        "2 teaspoons harissa (optional)",
+        "Paprika for garnish"
+      ],
+      "instructions": [
+        "Combine chickpeas, tahini, lemon juice, garlic, cumin, salt, and olive oil in food processor",
+        "Process until smooth, scraping sides as needed",
+        "With motor running, slowly add chickpea liquid until desired consistency",
+        "Divide into portions, add harissa to one if desired",
+        "Serve garnished with paprika and drizzled with olive oil"
+      ],
+      "chefrich_notes": "Using the chickpea cooking liquid creates incredible creaminess while preserving nutrients. Toast cumin seeds for deeper flavor complexity.",
+      "suggested_pairings": ["vegetable crudités", "whole grain pita", "cucumber slices", "roasted vegetables"],
+      "nutritional_highlights": "Rich in plant protein, healthy fats from tahini and olive oil, and fiber. Garlic provides immune-supporting compounds.",
+      "food_as_medicine": "Chickpeas support blood sugar stability and digestive health, while tahini provides calcium and healthy fats for hormone production."
+    },
     {
-  "title_with_emoji": "🌿 Herb-Infused Red Lentil Soup",
-  "tags": ["plant-based", "protein-rich", "herb-rich", "quick-cooking", "digestive-health"],
-  "description": "A fragrant, quick-cooking red lentil soup infused with Mediterranean herbs. This creamy, naturally thickening soup provides complete nutrition and warming comfort.",
-  "yield_and_time": {
-    "yield": "4-6 servings",
-    "prep_time": "15 minutes",
-    "cook_time": "45 minutes",
-    "total_time": "60 minutes"
-  },
-  "ingredients": [
-    "1 onion, diced",
-    "1 carrot, diced",
-    "2 ribs celery, diced",
-    "2 tablespoons extra virgin olive oil",
-    "½ teaspoon dried thyme",
-    "½ teaspoon dried basil",
-    "½ teaspoon dried oregano",
-    "1 cup red lentils",
-    "3½-4 cups water",
-    "1 teaspoon sea salt",
-    "½ pound spinach or Swiss chard, chopped"
-  ],
-  "instructions": [
-    "Heat olive oil in medium pot over medium heat",
-    "Sauté onion, carrot, and celery until onions become translucent",
-    "Add thyme, basil, oregano, red lentils, and 3 cups water",
-    "Cover and bring to boil, reduce heat and simmer 30 minutes",
-    "Add ½ to 1 cup more water with salt, simmer partially covered 15 minutes",
-    "Stir in spinach or chard, cook 2 minutes until tender"
-  ],
-  "chefrich_notes": "Red lentils naturally break down to create a creamy texture. For ultra-smooth soup, use immersion blender after cooking.",
-  "suggested_pairings": ["crusty bread", "lemon wedges", "fresh herbs"],
-  "nutritional_highlights": "Red lentils cook quickly and provide easily digestible protein, folate, and iron. Herbs add antioxidants and flavor.",
-  "food_as_medicine": "Red lentils support digestive health with their soft texture and provide sustained energy without blood sugar spikes."
-},
+      "title_with_emoji": "🖤 Antioxidant Black Soybean Salad",
+      "tags": ["plant-based", "high-protein", "antioxidant-rich", "alkalizing", "nutrient-dense"],
+      "description": "A vibrant, protein-packed salad featuring nutrient-dense black soybeans dressed in a tangy lime vinaigrette. Perfect for supporting hormonal balance and providing complete protein.",
+      "yield_and_time": {
+        "yield": "4-6 servings",
+        "prep_time": "15 minutes",
+        "cook_time": "30 minutes pressure cooking",
+        "total_time": "24 hours (including soaking)"
+      },
+      "ingredients": [
+        "2 cups black soybeans, soaked 24 hours",
+        "1 tablespoon plus 1 teaspoon Dijon mustard",
+        "¼ cup fresh lime juice",
+        "2 tablespoons apple cider vinegar",
+        "1 teaspoon sea salt",
+        "½ cup extra virgin olive oil",
+        "6 red radishes, finely diced",
+        "6 scallions, minced",
+        "½ cup fresh parsley, minced"
+      ],
+      "instructions": [
+        "Soak black soybeans 24 hours in salted water, then rinse and drain",
+        "Pressure cook with 6 cups water for 30 minutes, allow natural pressure release",
+        "Drain beans thoroughly while still warm",
+        "Whisk together mustard, lime juice, vinegar, salt, and olive oil",
+        "Pour dressing over warm beans and toss gently",
+        "When cooled, add radishes, scallions, and parsley",
+        "Let marinate 30 minutes before serving"
+      ],
+      "chefrich_notes": "Black soybeans contain powerful anthocyanins (the same antioxidants in blueberries) and provide complete protein. Dressing warm beans helps them absorb flavors.",
+      "suggested_pairings": ["leafy greens", "roasted vegetables", "quinoa", "fermented foods"],
+      "nutritional_highlights": "Complete protein with all essential amino acids, high in antioxidants, isoflavones, and fiber. Supports hormonal balance and heart health.",
+      "food_as_medicine": "Black soybeans provide phytoestrogens that support hormonal balance, while their high protein content aids in muscle maintenance and metabolic health."
+    },
     {
-  "title_with_emoji": "🌿 Herb-Infused Red Lentil Soup",
-  "tags": ["plant-based", "protein-rich", "herb-rich", "quick-cooking", "digestive-health"],
-  "description": "A fragrant, quick-cooking red lentil soup infused with Mediterranean herbs. This creamy, naturally thickening soup provides complete nutrition and warming comfort.",
-  "yield_and_time": {
-    "yield": "4-6 servings",
-    "prep_time": "15 minutes",
-    "cook_time": "45 minutes",
-    "total_time": "60 minutes"
-  },
-  "ingredients": [
-    "1 onion, diced",
-    "1 carrot, diced",
-    "2 ribs celery, diced",
-    "2 tablespoons extra virgin olive oil",
-    "½ teaspoon dried thyme",
-    "½ teaspoon dried basil",
-    "½ teaspoon dried oregano",
-    "1 cup red lentils",
-    "3½-4 cups water",
-    "1 teaspoon sea salt",
-    "½ pound spinach or Swiss chard, chopped"
-  ],
-  "instructions": [
-    "Heat olive oil in medium pot over medium heat",
-    "Sauté onion, carrot, and celery until onions become translucent",
-    "Add thyme, basil, oregano, red lentils, and 3 cups water",
-    "Cover and bring to boil, reduce heat and simmer 30 minutes",
-    "Add ½ to 1 cup more water with salt, simmer partially covered 15 minutes",
-    "Stir in spinach or chard, cook 2 minutes until tender"
-  ],
-  "chefrich_notes": "Red lentils naturally break down to create a creamy texture. For ultra-smooth soup, use immersion blender after cooking.",
-  "suggested_pairings": ["crusty bread", "lemon wedges", "fresh herbs"],
-  "nutritional_highlights": "Red lentils cook quickly and provide easily digestible protein, folate, and iron. Herbs add antioxidants and flavor.",
-  "food_as_medicine": "Red lentils support digestive health with their soft texture and provide sustained energy without blood sugar spikes."
-},
+      "title_with_emoji": "🍯 Healing Maple Baked Beans",
+      "tags": ["plant-based", "comfort-food", "slow-cooked", "probiotic-rich", "fiber-rich"],
+      "description": "A wholesome twist on classic baked beans, naturally sweetened with maple syrup and barley malt, enhanced with probiotic-rich miso for digestive health.",
+      "yield_and_time": {
+        "yield": "3 cups",
+        "prep_time": "15 minutes",
+        "cook_time": "2.5 hours",
+        "total_time": "3 hours (plus soaking)"
+      },
+      "ingredients": [
+        "1½ cups navy beans, soaked overnight",
+        "¾ cup tomato puree",
+        "¼ cup barley malt",
+        "¼ cup pure maple syrup",
+        "1½ tablespoons Dijon mustard",
+        "2 tablespoons white miso",
+        "½ teaspoon sea salt",
+        "¼ cup reserved bean cooking liquid"
+      ],
+      "instructions": [
+        "Cook soaked beans in 5-6 cups water until soft, about 1 hour (or pressure cook 15 minutes)",
+        "Drain beans, reserving ¼ cup cooking liquid",
+        "Preheat oven to 325°F",
+        "Dissolve miso in reserved bean liquid",
+        "Mix tomato puree, barley malt, maple syrup, mustard, and miso mixture",
+        "Combine sauce with cooked beans in 1-quart casserole",
+        "Cover and bake 1-1.5 hours, checking every 15 minutes after first hour",
+        "Beans are ready when sauce has thickened"
+      ],
+      "chefrich_notes": "Miso adds incredible umami depth while providing beneficial probiotics. Barley malt provides complex sweetness and aids in digestion.",
+      "suggested_pairings": ["cornbread", "sauerkraut", "grilled vegetables", "leafy green salads"],
+      "nutritional_highlights": "High in plant protein, fiber, and B vitamins. Miso provides probiotics for gut health, while maple syrup offers trace minerals.",
+      "food_as_medicine": "Navy beans support blood sugar stability and digestive health, while fermented miso enhances gut microbiome and aids in nutrient absorption."
+    },
     {
-  "title_with_emoji": "🟢 Healing Green Split Pea Soup",
-  "tags": ["plant-based", "protein-rich", "comfort-food", "fiber-rich", "traditional"],
-  "description": "A classic, nourishing split pea soup enhanced with sweet potatoes and celery seeds. This hearty soup provides complete plant protein and warming comfort.",
-  "yield_and_time": {
-    "yield": "4-6 servings",
-    "prep_time": "20 minutes",
-    "cook_time": "2 hours",
-    "total_time": "2 hours 20 minutes"
-  },
-  "ingredients": [
-    "1 onion, diced",
-    "1 carrot, diced",
-    "2 ribs celery, diced",
-    "½ pound sweet potatoes, diced",
-    "2 tablespoons extra virgin olive oil",
-    "½ teaspoon celery seeds",
-    "1 bay leaf",
-    "1 cup green split peas, soaked",
-    "3½-4 cups water",
-    "1 teaspoon sea salt"
-  ],
-  "instructions": [
-    "Heat olive oil in medium pot over medium heat",
-    "Sauté onion, carrot, celery, and sweet potatoes until onions are translucent",
-    "Add celery seeds, bay leaf, split peas, and 3 cups water",
-    "Cover and bring to boil, reduce heat and simmer 1½ hours",
-    "Add ½ to 1 cup more water with salt, simmer partially covered 15 minutes",
-    "Remove bay leaf before serving"
-  ],
-  "chefrich_notes": "For faster cooking, pressure cook for 1/3 the time. Sweet potatoes add natural sweetness and beta-carotene.",
-  "suggested_pairings": ["sourdough bread", "sauerkraut", "green salad"],
-  "nutritional_highlights": "High in plant protein, fiber, and complex carbohydrates. Sweet potatoes provide beta-carotene and potassium.",
-  "food_as_medicine": "Split peas support digestive health and provide sustained energy, while sweet potatoes boost immune function with vitamin A."
-},
+      "title_with_emoji": "🎃 Warming Adzuki Squash Stew",
+      "tags": ["plant-based", "warming", "kidney-support", "anti-inflammatory", "seasonal"],
+      "description": "A nourishing, warming stew that combines kidney-supporting adzuki beans with sweet butternut squash, enhanced with healing ginger and umami-rich shoyu.",
+      "yield_and_time": {
+        "yield": "6-8 cups",
+        "prep_time": "15 minutes",
+        "cook_time": "50 minutes",
+        "total_time": "65 minutes (plus soaking)"
+      },
+      "ingredients": [
+        "1 cup adzuki beans, soaked overnight",
+        "1 (3-inch) piece kombu seaweed",
+        "2 slices fresh ginger",
+        "3½ cups filtered water",
+        "2 cups butternut squash, peeled and diced",
+        "2 tablespoons fresh ginger juice",
+        "1 tablespoon shoyu (soy sauce)",
+        "½ teaspoon sea salt",
+        "¼ cup chopped fresh parsley or scallions"
+      ],
+      "instructions": [
+        "Combine soaked adzuki beans, kombu, ginger slices, and water in 2-quart pot",
+        "Bring to boil and cook 30 minutes",
+        "Remove ginger slices, leaving kombu",
+        "Layer squash pieces over beans, cover and cook 20 minutes",
+        "Test that squash is tender and beans are cooked through",
+        "Add fresh ginger juice, shoyu, and salt",
+        "Gently fold ingredients together without mashing",
+        "Garnish each serving with fresh parsley or scallions"
+      ],
+      "chefrich_notes": "Adzuki beans are traditionally used in Asian medicine for kidney health. Kombu adds minerals and helps beans cook more evenly.",
+      "suggested_pairings": ["brown rice", "steamed greens", "pickled vegetables", "miso soup"],
+      "nutritional_highlights": "Adzuki beans are lower in fat than other beans and rich in folate, potassium, and fiber. Squash provides beta-carotene and vitamin C.",
+      "food_as_medicine": "Adzuki beans are traditionally used to support kidney and bladder health, while butternut squash provides immune-supporting vitamin A."
+    },
     {
-  "title_with_emoji": "🌶️ Curry-Spiced Yellow Split Pea Soup",
-  "tags": ["plant-based", "protein-rich", "curry-spiced", "warming", "anti-inflammatory"],
-  "description": "A warming, curry-spiced split pea soup that combines traditional comfort with anti-inflammatory spices. Enhanced with sweet potatoes and fresh greens for complete nutrition.",
-  "yield_and_time": {
-    "yield": "4-6 servings",
-    "prep_time": "20 minutes",
-    "cook_time": "2 hours",
-    "total_time": "2 hours 20 minutes"
-  },
-  "ingredients": [
-    "1 onion, diced",
-    "1 carrot, diced",
-    "2 ribs celery, diced",
-    "½ pound sweet potatoes, diced",
-    "2 tablespoons extra virgin olive oil",
-    "1-2 teaspoons curry powder",
-    "1 cup yellow split peas, soaked",
-    "3½-4 cups water",
-    "1 teaspoon sea salt",
-    "½ pound spinach or Swiss chard, chopped"
-  ],
-  "instructions": [
-    "Heat olive oil in medium pot over medium heat",
-    "Sauté onion, carrot, celery, and sweet potatoes until onions are translucent",
-    "Stir in curry powder and cook 1 minute until fragrant",
-    "Add yellow split peas and 3 cups water, cover and bring to boil",
-    "Reduce heat and simmer 1 to 1½ hours until peas dissolve",
-    "Add ½ to 1 cup more water with salt, simmer partially covered 15 minutes",
-    "Stir in spinach or chard, cook 2 minutes until tender"
-  ],
-  "chefrich_notes": "Toasting curry powder briefly enhances its flavor. For smoother soup, use immersion blender after cooking.",
-  "suggested_pairings": ["naan bread", "cucumber yogurt", "basmati rice"],
-  "nutritional_highlights": "High in plant protein and fiber. Curry spices provide anti-inflammatory compounds, sweet potatoes add beta-carotene.",
-  "food_as_medicine": "Curry spices support circulation and reduce inflammation, while split peas provide sustained energy and digestive support."
-},
+      "title_with_emoji": "🟢 Vibrant Sautéed Edamame",
+      "tags": ["plant-based", "quick", "protein-rich", "hormone-balancing", "appetizer"],
+      "description": "Fresh edamame quickly sautéed with herbs and lemon for a vibrant, protein-rich side dish that supports hormonal balance and provides complete nutrition.",
+      "yield_and_time": {
+        "yield": "4 servings",
+        "prep_time": "10 minutes",
+        "cook_time": "15 minutes",
+        "total_time": "25 minutes"
+      },
+      "ingredients": [
+        "2 pounds fresh edamame, shelled (2 cups)",
+        "1½ tablespoons extra virgin olive oil",
+        "Sea salt to taste",
+        "2-3 tablespoons fresh lemon juice",
+        "2 tablespoons fresh cilantro or scallions, chopped",
+        "Freshly ground black pepper"
+      ],
+      "instructions": [
+        "Bring large pot of salted water to boil",
+        "Add shelled edamame and cook 10 minutes until tender",
+        "Drain beans and transfer to ice bath to stop cooking",
+        "Drain again and pat dry",
+        "Heat olive oil in large skillet over medium-high heat",
+        "Add edamame and salt, sauté 2-3 minutes",
+        "Add lemon juice, herbs, and pepper",
+        "Toss well and serve immediately while hot"
+      ],
+      "chefrich_notes": "Edamame are young soybeans packed with complete protein and folate. The quick sauté enhances their natural sweetness while maintaining vibrant color.",
+      "suggested_pairings": ["brown rice", "miso soup", "seaweed salad", "grilled fish"],
+      "nutritional_highlights": "Complete protein with all essential amino acids, high in folate, vitamin K, and fiber. Contains isoflavones for hormonal support.",
+      "food_as_medicine": "Edamame provides plant-based complete protein and phytoestrogens that support hormonal balance, particularly beneficial for women's health."
+    },
     {
-  "title_with_emoji": "🥗 Vibrant Bean Salad",
-  "tags": ["plant-based", "protein-rich", "fresh", "customizable", "meal-prep"],
-  "description": "A fresh, protein-packed salad that can be made with any bean variety. Dressed with a tangy lime vinaigrette and enhanced with crisp vegetables and fresh herbs.",
-  "yield_and_time": {
-    "yield": "4-6 servings",
-    "prep_time": "15 minutes",
-    "cook_time": "Variable (bean cooking)",
-    "total_time": "Variable plus 30 minutes marinating"
-  },
-  "ingredients": [
-    "1 cup beans, soaked and cooked",
-    "3 cups filtered water (for cooking)",
-    "1 tablespoon Dijon mustard",
-    "2 tablespoons fresh lime juice",
-    "1 tablespoon apple cider vinegar",
-    "½ to 1 teaspoon sea salt",
-    "¼ cup extra virgin olive oil",
-    "3 red radishes, finely diced",
-    "3 scallions, minced",
-    "¼ cup fresh parsley, minced"
-  ],
-  "instructions": [
-    "Drain and rinse soaked beans thoroughly",
-    "Cook beans in water until tender (or pressure cook as appropriate)",
-    "Drain beans while still warm",
-    "Whisk together mustard, lime juice, vinegar, salt, and olive oil",
-    "Pour dressing over warm beans and toss gently",
-    "Allow beans to cool to room temperature",
-    "Add radishes, scallions, and parsley",
-    "Let marinate 30 minutes before serving"
-  ],
-  "chefrich_notes": "For black soybeans, soak 12 hours with salt and pressure cook. For black-eyed peas, replace radishes with sun-dried tomatoes.",
-  "suggested_pairings": ["leafy greens", "grilled vegetables", "quinoa"],
-  "nutritional_highlights": "High in plant protein, fiber, and healthy fats. Fresh herbs provide antioxidants and vitamins.",
-  "food_as_medicine": "Beans provide complete plant protein and fiber for digestive health, while fresh vegetables add enzymes and vitamins."
-},
-    [
-  {
-    "title_with_emoji": "🫐 Rich and Creamy Blueberry Coconut Smoothie",
-    "tags": ["anti-inflammatory", "smoothie", "breakfast", "antioxidant", "dairy-free"],
-    "description": "A luxuriously creamy smoothie that combines the anti-inflammatory power of organic blueberries and cherries with coconut milk's medium-chain triglycerides. This vibrant purple elixir delivers potent antioxidants while supporting cellular repair and reducing systemic inflammation.",
-    "yield_and_time": {
-      "yield": "1 serving (1½ cups)",
-      "prep_time": "5 minutes",
-      "cook_time": "0 minutes",
-      "total_time": "5 minutes"
+      "title_with_emoji": "🍲 Traditional Healing Bean Stew",
+      "tags": ["plant-based", "warming", "mineral-rich", "digestive-health", "traditional"],
+      "description": "A deeply nourishing stew combining protein-rich beans with mineral-rich kombu and sweet butternut squash. This traditional preparation method enhances digestibility and provides sustained energy.",
+      "yield_and_time": {
+        "yield": "4-6 servings",
+        "prep_time": "15 minutes",
+        "cook_time": "60 minutes",
+        "total_time": "75 minutes (plus soaking)"
+      },
+      "ingredients": [
+        "1 cup dried beans, soaked overnight",
+        "1 piece kombu seaweed",
+        "2 to 2½ cups filtered water",
+        "2-3 slices fresh ginger",
+        "½ small butternut squash, diced (1-1½ cups)",
+        "2 teaspoons freshly grated ginger",
+        "Shoyu or sea salt to taste"
+      ],
+      "instructions": [
+        "Combine soaked beans, kombu, water, and ginger slices in medium pot",
+        "Bring to boil, reduce heat, cover and simmer 30 minutes",
+        "Add diced butternut squash, cover and continue simmering 30 minutes",
+        "Test that beans and squash are tender",
+        "Add fresh grated ginger and season with shoyu or salt",
+        "Serve hot, garnished with fresh herbs if desired"
+      ],
+      "chefrich_notes": "Kombu seaweed adds essential minerals and helps beans cook more evenly. For variation, replace ginger with cilantro and cumin for a different flavor profile.",
+      "suggested_pairings": ["brown rice", "steamed greens", "fermented vegetables"],
+      "nutritional_highlights": "Complete plant protein, complex carbohydrates, and sea minerals from kombu. Butternut squash provides beta-carotene and fiber.",
+      "food_as_medicine": "This traditional stew supports digestive health through kombu's natural enzymes and provides sustained energy from slow-cooked beans and squash."
     },
-    "ingredients": [
-      "½ cup coconut milk",
-      "¼ cup filtered water",
-      "½ cup frozen organic blueberries",
-      "¼ cup frozen organic cherries",
-      "1 tablespoon agave nectar"
-    ],
-    "instructions": [
-      "Place coconut milk and filtered water in blender",
-      "Add frozen blueberries and cherries to create natural thickness",
-      "Add agave nectar for balanced sweetness",
-      "Blend on high speed until completely smooth and creamy",
-      "Pour into glass and serve immediately with reusable straw"
-    ],
-    "chefrich_notes": "Use frozen berries for natural thickness without dilution. Full-fat coconut milk provides richness and anti-inflammatory fats. Blend thoroughly to achieve restaurant-quality smoothness.",
-    "suggested_pairings": ["Sprouted grain toast", "Chia seed pudding", "Raw almonds"],
-    "nutritional_highlights": "Rich in anthocyanins from berries, lauric acid from coconut, and natural enzymes. High in vitamin C, manganese, and anti-inflammatory compounds.",
-    "food_as_medicine": "Blueberries and cherries provide powerful anthocyanins that cross the blood-brain barrier to reduce neuroinflammation, while coconut milk delivers MCTs for sustained energy and cellular repair."
-  },
-  {
-    "title_with_emoji": "🌿 Tender Curried Garbanzos",
-    "tags": ["anti-inflammatory", "legumes", "curry", "protein", "fiber", "turmeric"],
-    "description": "Protein-rich chickpeas infused with golden turmeric and warming curry spices, enhanced with kombu seaweed for mineralization and digestive support. This satisfying dish combines ancient Ayurvedic wisdom with modern anti-inflammatory nutrition.",
-    "yield_and_time": {
-      "yield": "4-6 servings",
-      "prep_time": "15 minutes",
-      "cook_time": "50 minutes",
-      "total_time": "65 minutes"
+    {
+      "title_with_emoji": "🥄 Healing Bean Puree Spread",
+      "tags": ["plant-based", "protein-rich", "versatile", "healthy-fats", "customizable"],
+      "description": "A creamy, nutritious spread that transforms any cooked bean into a protein-rich dip. Enhanced with healthy oils and fresh herbs for maximum flavor and nutrition.",
+      "yield_and_time": {
+        "yield": "2-3 cups",
+        "prep_time": "10 minutes",
+        "cook_time": "0 minutes",
+        "total_time": "10 minutes"
+      },
+      "ingredients": [
+        "2 cups cooked beans (any variety)",
+        "¼ cup reserved bean cooking liquid",
+        "3 tablespoons fresh lemon juice",
+        "1 clove garlic, minced",
+        "¾-1 teaspoon sea salt",
+        "3 tablespoons extra virgin olive oil",
+        "1 tablespoon flaxseed oil",
+        "¼ cup tahini (for chickpeas/white beans)",
+        "Fresh herbs (variety specific)",
+        "Paprika for garnish"
+      ],
+      "instructions": [
+        "Combine beans, lemon juice, garlic, salt, and oils in food processor",
+        "Blend until smooth, gradually adding bean liquid for consistency",
+        "Transfer to bowl and stir in fresh herbs by hand",
+        "Adjust seasoning and consistency as needed",
+        "Sprinkle with paprika and drizzle with olive oil",
+        "Serve with toasted pita triangles or vegetables"
+      ],
+      "chefrich_notes": "Customize by bean type: kidney beans with scallions/cilantro, great northern with dill, cannellini with herbs of choice. Always add herbs by hand to preserve texture.",
+      "suggested_pairings": ["whole grain pita", "vegetable crudités", "crackers", "as sandwich spread"],
+      "nutritional_highlights": "High in plant protein, fiber, and healthy fats from olive oil and flaxseed oil. Tahini adds calcium and additional protein.",
+      "food_as_medicine": "This versatile spread provides complete plant protein and omega-3 fatty acids from flaxseed oil, supporting heart health and sustained energy."
     },
-    "ingredients": [
-      "1 cup dried chickpeas, soaked overnight",
-      "2-inch piece kombu seaweed",
-      "1 small red onion, minced",
-      "2 celery ribs, small dice",
-      "2 tablespoons flat leaf parsley, coarsely chopped",
-      "2 tablespoons extra virgin olive oil",
-      "Juice of 1 lemon",
-      "2 cloves garlic, minced",
-      "2 teaspoons curry powder",
-      "1 teaspoon ground cumin",
-      "¼ teaspoon turmeric powder",
-      "½ teaspoon sea salt",
-      "Pinch of black pepper"
-    ],
-    "instructions": [
-      "Drain and rinse soaked chickpeas thoroughly",
-      "Place chickpeas and kombu in pot with water covering beans plus 3 inches",
-      "Bring to boil with lid off, cook 10 minutes skimming foam",
-      "Lower heat, cover, and simmer 40 minutes until tender",
-      "Drain beans, reserving some cooking liquid",
-      "In large bowl, combine warm beans with minced onion, celery, and parsley",
-      "Whisk together olive oil, lemon juice, garlic, curry powder, cumin, turmeric, salt, and pepper",
-      "Pour spiced dressing over warm beans and mix thoroughly",
-      "Let marinate 10 minutes before serving"
-    ],
-    "chefrich_notes": "Kombu seaweed aids digestion and adds minerals. Mix dressing while beans are warm for better absorption. Black pepper enhances turmeric's bioavailability.",
-    "suggested_pairings": ["Cucumber raita", "Whole grain naan", "Leafy green salad"],
-    "nutritional_highlights": "Complete protein from chickpeas, curcumin from turmeric, omega-3s from olive oil, and trace minerals from kombu seaweed.",
-    "food_as_medicine": "Turmeric's curcumin combined with black pepper creates a potent anti-inflammatory compound, while chickpeas provide fiber for gut health and stable blood sugar."
-  },
-  {
-    "title_with_emoji": "✨ Sparkling Pomegranate Ginger Drink",
-    "tags": ["anti-inflammatory", "beverage", "ginger", "pomegranate", "refreshing", "antioxidant"],
-    "description": "An effervescent anti-inflammatory elixir that combines pomegranate's powerful polyphenols with ginger's warming gingerol compounds. This sparkling drink delivers therapeutic benefits while refreshing and energizing the body.",
-    "yield_and_time": {
-      "yield": "4 servings",
-      "prep_time": "10 minutes",
-      "cook_time": "0 minutes",
-      "total_time": "10 minutes"
+    {
+      "title_with_emoji": "🍜 Healing Lentil Soup with Wasabi",
+      "tags": ["plant-based", "protein-rich", "anti-inflammatory", "digestive-health", "asian-inspired"],
+      "description": "A nourishing lentil soup with an unexpected kick of wasabi and rice vinegar, creating a unique fusion of comfort and healing. Rich in plant protein and enhanced with Japanese-inspired flavors.",
+      "yield_and_time": {
+        "yield": "4-6 servings",
+        "prep_time": "15 minutes",
+        "cook_time": "60 minutes",
+        "total_time": "75 minutes"
+      },
+      "ingredients": [
+        "1 onion, diced",
+        "1 carrot, diced",
+        "2 ribs celery, diced",
+        "2 tablespoons extra virgin olive oil",
+        "1 bay leaf",
+        "1 cup lentils",
+        "3½-4 cups water",
+        "1 teaspoon sea salt",
+        "½ pound spinach or Swiss chard, chopped",
+        "2 teaspoons wasabi paste",
+        "1-2 tablespoons rice vinegar"
+      ],
+      "instructions": [
+        "Heat olive oil in medium pot over medium heat",
+        "Sauté onion, carrot, and celery until onions become translucent",
+        "Add bay leaf, lentils, and 3 cups water to vegetables",
+        "Cover and bring to boil, reduce heat and simmer 40 minutes to 1 hour",
+        "Add ½ to 1 cup more water with salt, simmer partially covered 15 minutes",
+        "Stir in spinach or chard, cook 2 minutes until tender",
+        "Add wasabi and rice vinegar to taste before serving"
+      ],
+      "chefrich_notes": "For creamier texture, pressure cook lentils for 1/3 the time or puree a portion. Adjust wasabi gradually to taste preference.",
+      "suggested_pairings": ["brown rice", "steamed vegetables", "miso soup"],
+      "nutritional_highlights": "High in plant protein, folate, and iron from lentils. Wasabi provides natural antimicrobial compounds.",
+      "food_as_medicine": "Lentils support blood sugar stability while wasabi provides natural antibacterial properties and digestive stimulation."
     },
-    "ingredients": [
-      "2 cups plain mineral water",
-      "2 cups unsweetened apple nectar",
-      "3 tablespoons unsweetened pomegranate syrup",
-      "2 tablespoons fresh ginger juice",
-      "Juice of ½ lime",
-      "4-5 ice cubes",
-      "4 thin lime wedges for garnish"
-    ],
-    "instructions": [
-      "Pour mineral water and apple nectar into large pitcher",
-      "Add pomegranate syrup and stir well to combine",
-      "Add fresh ginger juice and lime juice",
-      "Stir thoroughly to integrate all flavors",
-      "Add ice cubes to chill",
-      "Pour into 4 glasses over ice",
-      "Garnish each glass with lime wedge"
-    ],
-    "chefrich_notes": "Use fresh ginger juice for maximum anti-inflammatory potency. Choose unsweetened pomegranate syrup to avoid added sugars. Serve immediately for best carbonation.",
-    "suggested_pairings": ["Light salads", "Grilled fish", "Raw vegetables with hummus"],
-    "nutritional_highlights": "Rich in ellagic acid from pomegranate, gingerol from ginger, and natural electrolytes from mineral water.",
-    "food_as_medicine": "Pomegranate polyphenols protect against oxidative stress while ginger's gingerol compounds reduce inflammation and support digestive health."
-  },
-  {
-    "title_with_emoji": "🌾 Relaxing Herbal Infusion",
-    "tags": ["anti-inflammatory", "herbal", "tea", "relaxing", "mineral-rich", "therapeutic"],
-    "description": "A deeply nourishing herbal blend that combines oatstraw's nervous system support with stinging nettle's mineral density. This therapeutic infusion provides sustained nutrition while promoting calm and reducing inflammation.",
-    "yield_and_time": {
-      "yield": "1 quart",
-      "prep_time": "5 minutes",
-      "steep_time": "4 hours to overnight",
-      "total_time": "4+ hours"
+    {
+      "title_with_emoji": "🌿 Herb-Infused Red Lentil Soup",
+      "tags": ["plant-based", "protein-rich", "herb-rich", "quick-cooking", "digestive-health"],
+      "description": "A fragrant, quick-cooking red lentil soup infused with Mediterranean herbs. This creamy, naturally thickening soup provides complete nutrition and warming comfort.",
+      "yield_and_time": {
+        "yield": "4-6 servings",
+        "prep_time": "15 minutes",
+        "cook_time": "45 minutes",
+        "total_time": "60 minutes"
+      },
+      "ingredients": [
+        "1 onion, diced",
+        "1 carrot, diced",
+        "2 ribs celery, diced",
+        "2 tablespoons extra virgin olive oil",
+        "½ teaspoon dried thyme",
+        "½ teaspoon dried basil",
+        "½ teaspoon dried oregano",
+        "1 cup red lentils",
+        "3½-4 cups water",
+        "1 teaspoon sea salt",
+        "½ pound spinach or Swiss chard, chopped"
+      ],
+      "instructions": [
+        "Heat olive oil in medium pot over medium heat",
+        "Sauté onion, carrot, and celery until onions become translucent",
+        "Add thyme, basil, oregano, red lentils, and 3 cups water",
+        "Cover and bring to boil, reduce heat and simmer 30 minutes",
+        "Add ½ to 1 cup more water with salt, simmer partially covered 15 minutes",
+        "Stir in spinach or chard, cook 2 minutes until tender"
+      ],
+      "chefrich_notes": "Red lentils naturally break down to create a creamy texture. For ultra-smooth soup, use immersion blender after cooking.",
+      "suggested_pairings": ["crusty bread", "lemon wedges", "fresh herbs"],
+      "nutritional_highlights": "Red lentils cook quickly and provide easily digestible protein, folate, and iron. Herbs add antioxidants and flavor.",
+      "food_as_medicine": "Red lentils support digestive health with their soft texture and provide sustained energy without blood sugar spikes."
     },
-    "ingredients": [
-      "¼ cup dried oatstraw herbal tea",
-      "¼ cup dried stinging nettle tea",
-      "1 quart boiling water",
-      "1 quart glass jar with lid"
-    ],
-    "instructions": [
-      "Add oatstraw and stinging nettle herbs to glass jar",
-      "Pour boiling water to fill jar ¾ full",
-      "Stir herbs gently to ensure even saturation",
-      "Add more boiling water to completely fill jar",
-      "Close lid tightly and let steep 4 hours to overnight",
-      "Strain through fine mesh strainer",
-      "Squeeze herbs to extract remaining liquid",
-      "Store in refrigerator if not drinking immediately"
-    ],
-    "chefrich_notes": "Long steeping extracts maximum minerals and nutrients. Glass containers prevent metallic taste. Squeeze herbs thoroughly for complete extraction.",
-    "suggested_pairings": ["Light evening meals", "Meditation practice", "Gentle stretching"],
-    "nutritional_highlights": "High in silica, calcium, magnesium, and B vitamins from oatstraw; iron, potassium, and chlorophyll from nettle.",
-    "food_as_medicine": "Oatstraw nourishes the nervous system and supports stress resilience, while nettle provides bioavailable minerals that support cellular repair and reduce inflammation."
-  },
-  {
-    "title_with_emoji": "🐟 Salmon Congee with Chives and Black Sesame",
-    "tags": ["anti-inflammatory", "omega-3", "comfort-food", "protein", "congee", "healing"],
-    "description": "A therapeutic rice porridge that combines omega-3 rich wild salmon with aromatic chives and mineral-dense black sesame seeds. This comforting dish provides easily digestible nutrition while supporting cellular repair and reducing inflammation.",
-    "yield_and_time": {
-      "yield": "6 servings",
-      "prep_time": "10 minutes",
-      "cook_time": "75 minutes",
-      "total_time": "85 minutes"
+    {
+      "title_with_emoji": "🟢 Healing Green Split Pea Soup",
+      "tags": ["plant-based", "protein-rich", "comfort-food", "fiber-rich", "traditional"],
+      "description": "A classic, nourishing split pea soup enhanced with sweet potatoes and celery seeds. This hearty soup provides complete plant protein and warming comfort.",
+      "yield_and_time": {
+        "yield": "4-6 servings",
+        "prep_time": "20 minutes",
+        "cook_time": "2 hours",
+        "total_time": "2 hours 20 minutes"
+      },
+      "ingredients": [
+        "1 onion, diced",
+        "1 carrot, diced",
+        "2 ribs celery, diced",
+        "½ pound sweet potatoes, diced",
+        "2 tablespoons extra virgin olive oil",
+        "½ teaspoon celery seeds",
+        "1 bay leaf",
+        "1 cup green split peas, soaked",
+        "3½-4 cups water",
+        "1 teaspoon sea salt"
+      ],
+      "instructions": [
+        "Heat olive oil in medium pot over medium heat",
+        "Sauté onion, carrot, celery, and sweet potatoes until onions are translucent",
+        "Add celery seeds, bay leaf, split peas, and 3 cups water",
+        "Cover and bring to boil, reduce heat and simmer 1½ hours",
+        "Add ½ to 1 cup more water with salt, simmer partially covered 15 minutes",
+        "Remove bay leaf before serving"
+      ],
+      "chefrich_notes": "For faster cooking, pressure cook for 1/3 the time. Sweet potatoes add natural sweetness and beta-carotene.",
+      "suggested_pairings": ["sourdough bread", "sauerkraut", "green salad"],
+      "nutritional_highlights": "High in plant protein, fiber, and complex carbohydrates. Sweet potatoes provide beta-carotene and potassium.",
+      "food_as_medicine": "Split peas support digestive health and provide sustained energy, while sweet potatoes boost immune function with vitamin A."
     },
-    "ingredients": [
-      "5 cups filtered water",
-      "¼ cup organic white basmati rice",
-      "¼ cup organic brown basmati rice",
-      "1½ teaspoons sea salt",
-      "⅓ pound wild salmon fillet, skin removed, cut into 2-inch pieces",
-      "1 tablespoon unsalted butter",
-      "1 tablespoon toasted sesame oil",
-      "½ cup chives, thinly sliced (reserve some for garnish)",
-      "¼ cup toasted black sesame seeds"
-    ],
-    "instructions": [
-      "Combine water, both rices, and sea salt in heavy-bottomed pot",
-      "Bring to boil with lid off",
-      "Lower heat to maintain gentle simmer",
-      "Stir frequently and cook approximately 1 hour until creamy",
-      "Add salmon pieces, butter, and sesame oil",
-      "Stir gently to distribute fish",
-      "Cover and cook 5-7 minutes until salmon is opaque and flakes easily",
-      "Stir in sliced chives",
-      "Ladle into bowls and garnish with black sesame seeds and reserved chives"
-    ],
-    "chefrich_notes": "Frequent stirring creates creamy texture. Add salmon at end to prevent overcooking. Wild salmon provides superior omega-3 content over farmed varieties.",
-    "suggested_pairings": ["Pickled vegetables", "Miso soup", "Steamed greens"],
-    "nutritional_highlights": "High in omega-3 fatty acids from wild salmon, complete amino acids, and calcium from sesame seeds.",
-    "food_as_medicine": "Wild salmon's omega-3s EPA and DHA reduce inflammatory markers, while the gentle cooking method creates an easily digestible meal that supports gut healing."
-  },
-  {
-    "title_with_emoji": "🥬 Garlicky Green and Yellow Bean Salad",
-    "tags": ["anti-inflammatory", "vegetables", "garlic", "olive-oil", "fiber", "antioxidant"],
-    "description": "Vibrant green and yellow beans tossed in a potent garlic-infused olive oil dressing with a hint of cayenne heat. This colorful salad delivers powerful antioxidants and anti-inflammatory compounds while supporting cardiovascular health.",
-    "yield_and_time": {
-      "yield": "4 servings",
-      "prep_time": "15 minutes",
-      "cook_time": "8 minutes",
-      "total_time": "23 minutes"
+    {
+      "title_with_emoji": "🌶️ Curry-Spiced Yellow Split Pea Soup",
+      "tags": ["plant-based", "protein-rich", "curry-spiced", "warming", "anti-inflammatory"],
+      "description": "A warming, curry-spiced split pea soup that combines traditional comfort with anti-inflammatory spices. Enhanced with sweet potatoes and fresh greens for complete nutrition.",
+      "yield_and_time": {
+        "yield": "4-6 servings",
+        "prep_time": "20 minutes",
+        "cook_time": "2 hours",
+        "total_time": "2 hours 20 minutes"
+      },
+      "ingredients": [
+        "1 onion, diced",
+        "1 carrot, diced",
+        "2 ribs celery, diced",
+        "½ pound sweet potatoes, diced",
+        "2 tablespoons extra virgin olive oil",
+        "1-2 teaspoons curry powder",
+        "1 cup yellow split peas, soaked",
+        "3½-4 cups water",
+        "1 teaspoon sea salt",
+        "½ pound spinach or Swiss chard, chopped"
+      ],
+      "instructions": [
+        "Heat olive oil in medium pot over medium heat",
+        "Sauté onion, carrot, celery, and sweet potatoes until onions are translucent",
+        "Stir in curry powder and cook 1 minute until fragrant",
+        "Add yellow split peas and 3 cups water, cover and bring to boil",
+        "Reduce heat and simmer 1 to 1½ hours until peas dissolve",
+        "Add ½ to 1 cup more water with salt, simmer partially covered 15 minutes",
+        "Stir in spinach or chard, cook 2 minutes until tender"
+      ],
+      "chefrich_notes": "Toasting curry powder briefly enhances its flavor. For smoother soup, use immersion blender after cooking.",
+      "suggested_pairings": ["naan bread", "cucumber yogurt", "basmati rice"],
+      "nutritional_highlights": "High in plant protein and fiber. Curry spices provide anti-inflammatory compounds, sweet potatoes add beta-carotene.",
+      "food_as_medicine": "Curry spices support circulation and reduce inflammation, while split peas provide sustained energy and digestive support."
     },
-    "ingredients": [
-      "½ pound yellow wax beans, cut diagonally in half",
-      "½ pound green string beans, cut diagonally in half",
-      "3 tablespoons extra virgin olive oil",
-      "3 cloves garlic, smashed and minced",
-      "¼ teaspoon sea salt",
-      "½ teaspoon cayenne pepper",
-      "1 teaspoon raw apple cider vinegar"
-    ],
-    "instructions": [
-      "Bring large pot of salted water to boil",
-      "Add yellow and green beans to boiling water",
-      "Cook 5-8 minutes until crisp-tender",
-      "Drain beans thoroughly",
-      "In mixing bowl, combine olive oil, minced garlic, and sea salt",
-      "Mash garlic with fork to release oils",
-      "Add cayenne pepper and apple cider vinegar",
-      "Mix dressing thoroughly",
-      "Toss hot beans with garlic dressing while still warm",
-      "Let marinate 20-30 minutes before serving"
-    ],
-    "chefrich_notes": "Diagonal cuts create more surface area for dressing absorption. Mashing garlic releases allicin compounds. Dress while beans are warm for better flavor integration.",
-    "suggested_pairings": ["Grilled fish", "Quinoa pilaf", "Fresh herb salad"],
-    "nutritional_highlights": "Rich in fiber, folate, and vitamin K from beans; allicin from garlic; oleocanthal from olive oil.",
-    "food_as_medicine": "Garlic's allicin compounds provide cardiovascular protection and antimicrobial benefits, while olive oil's oleocanthal acts as a natural anti-inflammatory similar to ibuprofen."
-  },
-  {
-    "title_with_emoji": "🥗 Marinated Slaw with Walnut-Flax Dressing",
-    "tags": ["anti-inflammatory", "omega-3", "fermented", "fiber", "probiotics", "raw"],
-    "description": "A vibrant pressed slaw featuring purple and green cabbage in a rich walnut-flax oil dressing with umeboshi and miso for umami depth. This nutrient-dense salad supports digestive health while delivering plant-based omega-3s and beneficial enzymes.",
-    "yield_and_time": {
-      "yield": "8 servings",
-      "prep_time": "20 minutes",
-      "pressing_time": "40 minutes",
-      "total_time": "60 minutes"
+    {
+      "title_with_emoji": "🥗 Vibrant Bean Salad",
+      "tags": ["plant-based", "protein-rich", "fresh", "customizable", "meal-prep"],
+      "description": "A fresh, protein-packed salad that can be made with any bean variety. Dressed with a tangy lime vinaigrette and enhanced with crisp vegetables and fresh herbs.",
+      "yield_and_time": {
+        "yield": "4-6 servings",
+        "prep_time": "15 minutes",
+        "cook_time": "Variable (bean cooking)",
+        "total_time": "Variable plus 30 minutes marinating"
+      },
+      "ingredients": [
+        "1 cup beans, soaked and cooked",
+        "3 cups filtered water (for cooking)",
+        "1 tablespoon Dijon mustard",
+        "2 tablespoons fresh lime juice",
+        "1 tablespoon apple cider vinegar",
+        "½ to 1 teaspoon sea salt",
+        "¼ cup extra virgin olive oil",
+        "3 red radishes, finely diced",
+        "3 scallions, minced",
+        "¼ cup fresh parsley, minced"
+      ],
+      "instructions": [
+        "Drain and rinse soaked beans thoroughly",
+        "Cook beans in water until tender (or pressure cook as appropriate)",
+        "Drain beans while still warm",
+        "Whisk together mustard, lime juice, vinegar, salt, and olive oil",
+        "Pour dressing over warm beans and toss gently",
+        "Allow beans to cool to room temperature",
+        "Add radishes, scallions, and parsley",
+        "Let marinate 30 minutes before serving"
+      ],
+      "chefrich_notes": "For black soybeans, soak 12 hours with salt and pressure cook. For black-eyed peas, replace radishes with sun-dried tomatoes.",
+      "suggested_pairings": ["leafy greens", "grilled vegetables", "quinoa"],
+      "nutritional_highlights": "High in plant protein, fiber, and healthy fats. Fresh herbs provide antioxidants and vitamins.",
+      "food_as_medicine": "Beans provide complete plant protein and fiber for digestive health, while fresh vegetables add enzymes and vitamins."
     },
-    "ingredients": [
-      "4 cups red cabbage, thinly sliced",
-      "3 cups green cabbage, thinly sliced",
-      "½ red onion, minced",
-      "1½ cups carrot, grated",
-      "1 rib celery, cut in thin diagonal slices",
-      "¾ teaspoon sea salt",
-      "1½ cups toasted walnuts, coarsely chopped",
-      "⅓ cup walnut oil",
-      "2 tablespoons flax oil",
-      "2 small shallots, minced",
-      "½ teaspoon umeboshi vinegar",
-      "3 tablespoons fresh lemon juice",
-      "2 teaspoons mellow miso paste",
-      "1 teaspoon agave nectar"
-    ],
-    "instructions": [
-      "Combine red cabbage, green cabbage, minced onion, grated carrot, and celery in large bowl",
-      "Sprinkle with sea salt and massage with hands until vegetables release water",
-      "Place a plate directly on vegetables and weigh down with heavy object",
-      "Press for 30-40 minutes until vegetables have released significant liquid",
-      "Meanwhile, whisk together walnut oil, flax oil, minced shallots, umeboshi vinegar, lemon juice, miso paste, and agave nectar until creamy",
-      "Remove weight and plate from vegetables",
-      "Pour dressing over pressed vegetables and mix thoroughly",
-      "Let marinate 20 minutes for flavors to meld",
-      "Toss in toasted walnuts just before serving"
-    ],
-    "chefrich_notes": "Pressing vegetables creates natural fermentation and improves digestibility. Add walnuts at end to maintain crunch. Flax oil should not be heated.",
-    "suggested_pairings": ["Grilled tempeh", "Brown rice", "Roasted root vegetables"],
-    "nutritional_highlights": "High in omega-3 ALA from walnuts and flax oil, probiotics from fermentation, and glucosinolates from cabbage family vegetables.",
-    "food_as_medicine": "Pressed cabbage creates beneficial enzymes and probiotics that support gut health, while walnut and flax oils provide plant-based omega-3s that reduce systemic inflammation."
-  },
-  {
-    "title_with_emoji": "🌿 Anti-Inflammatory Golden Milk Latte",
-    "tags": ["anti-inflammatory", "turmeric", "warming", "dairy-free", "spices", "therapeutic"],
-    "description": "A warming, therapeutic beverage combining turmeric's curcumin with complementary spices and coconut milk. This golden elixir provides potent anti-inflammatory compounds while offering comfort and nourishment.",
-    "yield_and_time": {
-      "yield": "2 servings",
-      "prep_time": "5 minutes",
-      "cook_time": "10 minutes",
-      "total_time": "15 minutes"
+    {
+      "title_with_emoji": "🫐 Rich and Creamy Blueberry Coconut Smoothie",
+      "tags": ["anti-inflammatory", "smoothie", "breakfast", "antioxidant", "dairy-free"],
+      "description": "A luxuriously creamy smoothie that combines the anti-inflammatory power of organic blueberries and cherries with coconut milk's medium-chain triglycerides. This vibrant purple elixir delivers potent antioxidants while supporting cellular repair and reducing systemic inflammation.",
+      "yield_and_time": {
+        "yield": "1 serving (1½ cups)",
+        "prep_time": "5 minutes",
+        "cook_time": "0 minutes",
+        "total_time": "5 minutes"
+      },
+      "ingredients": [
+        "½ cup coconut milk",
+        "¼ cup filtered water",
+        "½ cup frozen organic blueberries",
+        "¼ cup frozen organic cherries",
+        "1 tablespoon agave nectar"
+      ],
+      "instructions": [
+        "Place coconut milk and filtered water in blender",
+        "Add frozen blueberries and cherries to create natural thickness",
+        "Add agave nectar for balanced sweetness",
+        "Blend on high speed until completely smooth and creamy",
+        "Pour into glass and serve immediately with reusable straw"
+      ],
+      "chefrich_notes": "Use frozen berries for natural thickness without dilution. Full-fat coconut milk provides richness and anti-inflammatory fats. Blend thoroughly to achieve restaurant-quality smoothness.",
+      "suggested_pairings": ["Sprouted grain toast", "Chia seed pudding", "Raw almonds"],
+      "nutritional_highlights": "Rich in anthocyanins from berries, lauric acid from coconut, and natural enzymes. High in vitamin C, manganese, and anti-inflammatory compounds.",
+      "food_as_medicine": "Blueberries and cherries provide powerful anthocyanins that cross the blood-brain barrier to reduce neuroinflammation, while coconut milk delivers MCTs for sustained energy and cellular repair."
     },
-    "ingredients": [
-      "2 cups coconut milk",
-      "1 teaspoon ground turmeric",
-      "½ teaspoon ground ginger",
-      "¼ teaspoon cinnamon",
-      "Pinch of black pepper",
-      "1 tablespoon raw honey or maple syrup",
-      "½ teaspoon vanilla extract"
-    ],
-    "instructions": [
-      "Heat coconut milk in small saucepan over medium heat",
-      "Whisk in turmeric, ginger, cinnamon, and black pepper",
-      "Simmer gently for 5 minutes, whisking occasionally",
-      "Remove from heat and stir in honey and vanilla",
-      "Strain if desired for smoother texture",
-      "Serve warm in mugs"
-    ],
-    "chefrich_notes": "Black pepper enhances turmeric absorption. Gentle heat preserves beneficial compounds. Strain for silky texture or leave unstrained for more fiber.",
-    "suggested_pairings": ["Evening meditation", "Light stretching", "Herbal crackers"],
-    "nutritional_highlights": "Rich in curcumin from turmeric, gingerol from ginger, and medium-chain triglycerides from coconut milk.",
-    "food_as_medicine": "Turmeric's curcumin provides powerful anti-inflammatory effects, enhanced by black pepper's piperine, while warming spices support circulation and digestion."
-  },
-[
-  {
-    "title_with_emoji": "🥩 Citrus-Kiwi Marinade for Skirt Steak",
-    "tags": ["protein", "beef", "marinade", "grilling", "enzyme-tenderizing", "citrus"],
-    "description": "A professional enzymatic marinade that transforms tough skirt steak into tender, flavorful perfection. The kiwi provides natural enzymes that break down proteins while citrus adds brightness and the spice blend creates complex flavor layers.",
-    "yield_and_time": {
-      "yield": "Marinade for 3 pounds meat",
-      "prep_time": "10 minutes",
-      "marinate_time": "4 hours",
-      "cook_time": "10 minutes",
-      "total_time": "4 hours 20 minutes"
+    {
+      "title_with_emoji": "🌿 Tender Curried Garbanzos",
+      "tags": ["anti-inflammatory", "legumes", "curry", "protein", "fiber", "turmeric"],
+      "description": "Protein-rich chickpeas infused with golden turmeric and warming curry spices, enhanced with kombu seaweed for mineralization and digestive support. This satisfying dish combines ancient Ayurvedic wisdom with modern anti-inflammatory nutrition.",
+      "yield_and_time": {
+        "yield": "4-6 servings",
+        "prep_time": "15 minutes",
+        "cook_time": "50 minutes",
+        "total_time": "65 minutes"
+      },
+      "ingredients": [
+        "1 cup dried chickpeas, soaked overnight",
+        "2-inch piece kombu seaweed",
+        "1 small red onion, minced",
+        "2 celery ribs, small dice",
+        "2 tablespoons flat leaf parsley, coarsely chopped",
+        "2 tablespoons extra virgin olive oil",
+        "Juice of 1 lemon",
+        "2 cloves garlic, minced",
+        "2 teaspoons curry powder",
+        "1 teaspoon ground cumin",
+        "¼ teaspoon turmeric powder",
+        "½ teaspoon sea salt",
+        "Pinch of black pepper"
+      ],
+      "instructions": [
+        "Drain and rinse soaked chickpeas thoroughly",
+        "Place chickpeas and kombu in pot with water covering beans plus 3 inches",
+        "Bring to boil with lid off, cook 10 minutes skimming foam",
+        "Lower heat, cover, and simmer 40 minutes until tender",
+        "Drain beans, reserving some cooking liquid",
+        "In large bowl, combine warm beans with minced onion, celery, and parsley",
+        "Whisk together olive oil, lemon juice, garlic, curry powder, cumin, turmeric, salt, and pepper",
+        "Pour spiced dressing over warm beans and mix thoroughly",
+        "Let marinate 10 minutes before serving"
+      ],
+      "chefrich_notes": "Kombu seaweed aids digestion and adds minerals. Mix dressing while beans are warm for better absorption. Black pepper enhances turmeric's bioavailability.",
+      "suggested_pairings": ["Cucumber raita", "Whole grain naan", "Leafy green salad"],
+      "nutritional_highlights": "Complete protein from chickpeas, curcumin from turmeric, omega-3s from olive oil, and trace minerals from kombu seaweed.",
+      "food_as_medicine": "Turmeric's curcumin combined with black pepper creates a potent anti-inflammatory compound, while chickpeas provide fiber for gut health and stable blood sugar."
     },
-    "ingredients": [
-      "¼ cup extra virgin olive oil",
-      "Juice of 3 large oranges",
-      "2 teaspoons dried thyme or 5 fresh sprigs",
-      "2 teaspoons paprika",
-      "1 tablespoon garlic powder",
-      "2 teaspoons freshly ground black pepper",
-      "1 ripe kiwi, peeled",
-      "2 teaspoons ground cumin"
-    ],
-    "instructions": [
-      "Place all ingredients in a blender and process until completely smooth",
-      "Pour marinade over skirt steak in a baking dish, ensuring complete coverage",
-      "Turn meat to coat both sides thoroughly",
-      "Cover and refrigerate for up to 4 hours (no longer to prevent over-tenderizing)",
-      "Remove from refrigerator 20 minutes before cooking to bring to room temperature",
-      "Remove excess marinade before grilling",
-      "Grill over high heat to desired doneness",
-      "Let rest 15 minutes before slicing",
-      "Slice against the grain on a bias for maximum tenderness"
-    ],
-    "chefrich_notes": "Kiwi contains powerful enzymes that tenderize meat naturally. Don't marinate longer than 4 hours or the meat will become mushy. Always slice against the grain to maximize tenderness.",
-    "suggested_pairings": ["Grilled vegetables", "Chimichurri sauce", "Roasted sweet potatoes", "Fresh herb salad"],
-    "nutritional_highlights": "High-quality complete protein with all essential amino acids. Rich in iron, zinc, and B vitamins. Orange juice provides vitamin C for enhanced iron absorption.",
-    "food_as_medicine": "The enzymatic action of kiwi pre-digests proteins, making this dish easier to digest while providing bioavailable nutrients that support muscle health and energy production."
-  },
-  {
-    "title_with_emoji": "🍲 Alex's Two-Day Braised Short Ribs",
-    "tags": ["protein", "beef", "braising", "slow-cooking", "comfort-food", "make-ahead"],
-    "description": "A professional two-day braising technique that transforms tough short ribs into fall-apart tender perfection. This method develops deep flavors through slow cooking and creates a rich, concentrated sauce through reduction.",
-    "yield_and_time": {
-      "yield": "8 servings",
-      "prep_time": "30 minutes",
-      "cook_time": "2.5 hours day 1, 15 minutes day 2",
-      "total_time": "2 days"
+    {
+      "title_with_emoji": "✨ Sparkling Pomegranate Ginger Drink",
+      "tags": ["anti-inflammatory", "beverage", "ginger", "pomegranate", "refreshing", "antioxidant"],
+      "description": "An effervescent anti-inflammatory elixir that combines pomegranate's powerful polyphenols with ginger's warming gingerol compounds. This sparkling drink delivers therapeutic benefits while refreshing and energizing the body.",
+      "yield_and_time": {
+        "yield": "4 servings",
+        "prep_time": "10 minutes",
+        "cook_time": "0 minutes",
+        "total_time": "10 minutes"
+      },
+      "ingredients": [
+        "2 cups plain mineral water",
+        "2 cups unsweetened apple nectar",
+        "3 tablespoons unsweetened pomegranate syrup",
+        "2 tablespoons fresh ginger juice",
+        "Juice of ½ lime",
+        "4-5 ice cubes",
+        "4 thin lime wedges for garnish"
+      ],
+      "instructions": [
+        "Pour mineral water and apple nectar into large pitcher",
+        "Add pomegranate syrup and stir well to combine",
+        "Add fresh ginger juice and lime juice",
+        "Stir thoroughly to integrate all flavors",
+        "Add ice cubes to chill",
+        "Pour into 4 glasses over ice",
+        "Garnish each glass with lime wedge"
+      ],
+      "chefrich_notes": "Use fresh ginger juice for maximum anti-inflammatory potency. Choose unsweetened pomegranate syrup to avoid added sugars. Serve immediately for best carbonation.",
+      "suggested_pairings": ["Light salads", "Grilled fish", "Raw vegetables with hummus"],
+      "nutritional_highlights": "Rich in ellagic acid from pomegranate, gingerol from ginger, and natural electrolytes from mineral water.",
+      "food_as_medicine": "Pomegranate polyphenols protect against oxidative stress while ginger's gingerol compounds reduce inflammation and support digestive health."
     },
-    "ingredients": [
-      "8 pieces boneless short ribs",
-      "2 tablespoons extra virgin olive oil",
-      "4 stalks celery, roughly chopped",
-      "4 medium carrots, roughly chopped",
-      "2 large onions, roughly chopped",
-      "1 (28-ounce) can whole peeled tomatoes",
-      "2 quarts vegetable stock",
-      "2 heads garlic, halved crosswise",
-      "8 sprigs fresh thyme",
-      "5 bay leaves",
-      "1½ teaspoons black peppercorns",
-      "Sea salt and freshly ground black pepper for seasoning"
-    ],
-    "instructions": [
-      "Day 1: Rub short ribs with olive oil and season liberally with salt and pepper",
-      "In a large pot, combine celery, carrots, onions, garlic, tomatoes, vegetable stock, thyme, bay leaves, and peppercorns",
-      "Bring braising liquid to a simmer and cook for 20 minutes",
-      "While braising liquid simmers, heat a large sauté pan over high heat",
-      "Sear short ribs on all sides until deeply browned (work in batches if needed)",
-      "Place seared ribs in a baking dish and cover completely with braising liquid",
-      "Cover tightly with foil and bake at 375°F for 2 to 2½ hours until meat falls apart easily",
-      "Cool completely and refrigerate overnight",
-      "Day 2: Remove solidified fat from surface and reserve braising liquid separately",
-      "Place ribs on a baking sheet and strain braising liquid into a pot",
-      "Bring braising liquid to a boil and reduce by half, discarding vegetables",
-      "Roast ribs in preheated 450°F oven for 15 minutes to caramelize exterior",
-      "Serve immediately with reduced braising liquid as sauce"
-    ],
-    "chefrich_notes": "The overnight rest allows flavors to meld and makes fat removal easy. Reducing the braising liquid concentrates flavors into a rich sauce. Don't skip the final roasting step - it adds crucial texture contrast.",
-    "suggested_pairings": ["Creamy polenta", "Roasted root vegetables", "Garlic mashed potatoes", "Sautéed greens"],
-    "nutritional_highlights": "Rich in protein, iron, and B vitamins. Collagen from slow cooking provides amino acids that support joint health. Vegetables in braising liquid add antioxidants and minerals.",
-    "food_as_medicine": "The slow braising process breaks down tough connective tissue into gelatin, creating a nutrient-dense dish that supports joint health while providing easily digestible protein for muscle maintenance."
-  },
-  {
-    "title_with_emoji": "🍄 Rustic Beef and Mushroom Stew",
-    "tags": ["protein", "beef", "stew", "mushrooms", "red-wine", "comfort-food", "one-pot"],
-    "description": "A hearty, soul-warming stew that combines tender beef chuck with earthy mushrooms and fresh herbs. The red wine adds depth while the vegetables provide natural sweetness and nutrition in this complete one-pot meal.",
-    "yield_and_time": {
-      "yield": "10 servings",
-      "prep_time": "20 minutes",
-      "cook_time": "2 hours",
-      "total_time": "2 hours 20 minutes"
+    {
+      "title_with_emoji": "🌾 Relaxing Herbal Infusion",
+      "tags": ["anti-inflammatory", "herbal", "tea", "relaxing", "mineral-rich", "therapeutic"],
+      "description": "A deeply nourishing herbal blend that combines oatstraw's nervous system support with stinging nettle's mineral density. This therapeutic infusion provides sustained nutrition while promoting calm and reducing inflammation.",
+      "yield_and_time": {
+        "yield": "1 quart",
+        "prep_time": "5 minutes",
+        "steep_time": "4 hours to overnight",
+        "total_time": "4+ hours"
+      },
+      "ingredients": [
+        "¼ cup dried oatstraw herbal tea",
+        "¼ cup dried stinging nettle tea",
+        "1 quart boiling water",
+        "1 quart glass jar with lid"
+      ],
+      "instructions": [
+        "Add oatstraw and stinging nettle herbs to glass jar",
+        "Pour boiling water to fill jar ¾ full",
+        "Stir herbs gently to ensure even saturation",
+        "Add more boiling water to completely fill jar",
+        "Close lid tightly and let steep 4 hours to overnight",
+        "Strain through fine mesh strainer",
+        "Squeeze herbs to extract remaining liquid",
+        "Store in refrigerator if not drinking immediately"
+      ],
+      "chefrich_notes": "Long steeping extracts maximum minerals and nutrients. Glass containers prevent metallic taste. Squeeze herbs thoroughly for complete extraction.",
+      "suggested_pairings": ["Light evening meals", "Meditation practice", "Gentle stretching"],
+      "nutritional_highlights": "High in silica, calcium, magnesium, and B vitamins from oatstraw; iron, potassium, and chlorophyll from nettle.",
+      "food_as_medicine": "Oatstraw nourishes the nervous system and supports stress resilience, while nettle provides bioavailable minerals that support cellular repair and reduce inflammation."
     },
-    "ingredients": [
-      "3 pounds beef chuck or shoulder, cut into 1-inch cubes",
-      "3 tablespoons extra virgin olive oil",
-      "2 cups Spanish onions, small dice",
-      "2 tablespoons all-purpose flour",
-      "3 cups dry red wine",
-      "4 cups vegetable stock",
-      "5 bay leaves",
-      "5 sprigs fresh thyme",
-      "4 medium carrots, cut into 1-inch pieces",
-      "1 head celery, trimmed and diced",
-      "1 pound mixed mushrooms, sliced ¼-inch thick",
-      "¼ cup fresh Italian parsley, stems removed, roughly chopped",
-      "Fresh chives, cut into ½-inch lengths",
-      "Sea salt and freshly ground black pepper"
-    ],
-    "instructions": [
-      "Preheat oven to 375°F",
-      "Season beef cubes generously with salt and black pepper",
-      "Heat olive oil in a heavy-bottomed casserole over medium-high heat",
-      "Brown beef on all sides, working in batches to avoid overcrowding",
-      "Add diced onions to the same pot and cook for 5 minutes until softened",
-      "Sprinkle flour over meat and onions, stirring to coat evenly",
-      "Continue cooking for 5 minutes to cook out raw flour taste",
-      "Deglaze with red wine, scraping up any browned bits from bottom",
-      "Add vegetable stock, bay leaves, and fresh thyme",
-      "Bring to a simmer, then cover and transfer to oven",
-      "Cook for 30 minutes, then add carrots, celery, and mushrooms",
-      "Continue cooking for 1½ hours more until beef is fork-tender",
-      "Remove from oven and check seasoning, adjusting salt and pepper as needed",
-      "Stir in fresh parsley and chives just before serving",
-      "Serve hot with mashed potatoes or egg noodles"
-    ],
-    "chefrich_notes": "Browning the meat properly is crucial for flavor development. Don't skip the flour step - it helps thicken the stew naturally. Add mushrooms with other vegetables so they don't become overcooked.",
-    "suggested_pairings": ["Garlic mashed potatoes", "Crusty artisan bread", "Egg noodles", "Roasted Brussels sprouts"],
-    "nutritional_highlights": "Complete protein with iron, zinc, and B vitamins. Mushrooms provide selenium and potassium. Red wine adds antioxidants, while vegetables contribute fiber and vitamins.",
-    "food_as_medicine": "This nutrient-dense stew provides easily digestible protein and vegetables that support immune function, while the slow cooking process creates a comforting meal that nourishes both body and soul."
-  },
-  {
-    "title_with_emoji": "🧈 Herb-Citrus Compound Butter",
-    "tags": ["condiment", "butter", "herbs", "citrus", "finishing", "steak-sauce"],
-    "description": "A professional compound butter that transforms simple grilled meats into restaurant-quality dishes. The combination of fresh herbs, garlic, and bright lemon creates a luxurious finishing touch that melts beautifully over hot proteins.",
-    "yield_and_time": {
-      "yield": "16 portions",
-      "prep_time": "10 minutes",
-      "chill_time": "2 hours",
-      "total_time": "2 hours 10 minutes"
+    {
+      "title_with_emoji": "🐟 Salmon Congee with Chives and Black Sesame",
+      "tags": ["anti-inflammatory", "omega-3", "comfort-food", "protein", "congee", "healing"],
+      "description": "A therapeutic rice porridge that combines omega-3 rich wild salmon with aromatic chives and mineral-dense black sesame seeds. This comforting dish provides easily digestible nutrition while supporting cellular repair and reducing inflammation.",
+      "yield_and_time": {
+        "yield": "6 servings",
+        "prep_time": "10 minutes",
+        "cook_time": "75 minutes",
+        "total_time": "85 minutes"
+      },
+      "ingredients": [
+        "5 cups filtered water",
+        "¼ cup organic white basmati rice",
+        "¼ cup organic brown basmati rice",
+        "1½ teaspoons sea salt",
+        "⅓ pound wild salmon fillet, skin removed, cut into 2-inch pieces",
+        "1 tablespoon unsalted butter",
+        "1 tablespoon toasted sesame oil",
+        "½ cup chives, thinly sliced (reserve some for garnish)",
+        "¼ cup toasted black sesame seeds"
+      ],
+      "instructions": [
+        "Combine water, both rices, and sea salt in heavy-bottomed pot",
+        "Bring to boil with lid off",
+        "Lower heat to maintain gentle simmer",
+        "Stir frequently and cook approximately 1 hour until creamy",
+        "Add salmon pieces, butter, and sesame oil",
+        "Stir gently to distribute fish",
+        "Cover and cook 5-7 minutes until salmon is opaque and flakes easily",
+        "Stir in sliced chives",
+        "Ladle into bowls and garnish with black sesame seeds and reserved chives"
+      ],
+      "chefrich_notes": "Frequent stirring creates creamy texture. Add salmon at end to prevent overcooking. Wild salmon provides superior omega-3 content over farmed varieties.",
+      "suggested_pairings": ["Pickled vegetables", "Miso soup", "Steamed greens"],
+      "nutritional_highlights": "High in omega-3 fatty acids from wild salmon, complete amino acids, and calcium from sesame seeds.",
+      "food_as_medicine": "Wild salmon's omega-3s EPA and DHA reduce inflammatory markers, while the gentle cooking method creates an easily digestible meal that supports gut healing."
     },
-    "ingredients": [
-      "3-4 tablespoons fresh chives, finely chopped",
-      "2 tablespoons extra virgin olive oil",
-      "½ pound unsalted butter, softened and cubed",
-      "4 medium garlic cloves, smashed and minced",
-      "Zest of 1 large lemon",
-      "¼ teaspoon sea salt",
-      "¼ teaspoon freshly ground black pepper"
-    ],
-    "instructions": [
-      "Place chopped chives and olive oil in food processor bowl",
-      "Process for 1 minute until chives are finely minced and oil is bright green",
-      "Add softened butter cubes to the processor",
-      "Add minced garlic, lemon zest, salt, and pepper",
-      "Process until all ingredients are completely incorporated and mixture is smooth",
-      "Taste and adjust seasoning if needed",
-      "Transfer mixture to a sheet of parchment paper",
-      "Shape into a log, rolling tightly in the parchment",
-      "Twist ends to seal and wrap in plastic wrap",
-      "Refrigerate for at least 2 hours until firm",
-      "Slice into rounds as needed for serving"
-    ],
-    "chefrich_notes": "Make sure butter is properly softened for easy mixing. The compound butter can be made up to 3 days ahead and stored in the refrigerator, or frozen for up to 3 months. Slice while cold for clean cuts.",
-    "suggested_pairings": ["Grilled steak", "Roasted chicken", "Steamed vegetables", "Crusty bread"],
-    "nutritional_highlights": "Provides healthy monounsaturated fats and vitamin A. Fresh herbs add antioxidants and beneficial plant compounds. Lemon zest contributes vitamin C and citrus oils.",
-    "food_as_medicine": "The combination of healthy fats from butter and olive oil helps absorb fat-soluble vitamins, while fresh herbs provide antioxidants that support overall health and add vibrant flavor without excess sodium."
-  },
-  {
-    "title_with_emoji": "🍝 Italian Mini Meatballs",
-    "tags": ["protein", "beef", "meatballs", "italian", "appetizer", "comfort-food"],
-    "description": "Traditional Italian-style mini meatballs with a tender, moist texture achieved through the classic bread and milk panade. Perfect for appetizers, pasta dishes, or as a protein-rich addition to soups and stews.",
-    "yield_and_time": {
-      "yield": "Approximately 40 meatballs",
-      "prep_time": "20 minutes",
-      "cook_time": "15 minutes",
-      "total_time": "35 minutes"
+    {
+      "title_with_emoji": "🥬 Garlicky Green and Yellow Bean Salad",
+      "tags": ["anti-inflammatory", "vegetables", "garlic", "olive-oil", "fiber", "antioxidant"],
+      "description": "Vibrant green and yellow beans tossed in a potent garlic-infused olive oil dressing with a hint of cayenne heat. This colorful salad delivers powerful antioxidants and anti-inflammatory compounds while supporting cardiovascular health.",
+      "yield_and_time": {
+        "yield": "4 servings",
+        "prep_time": "15 minutes",
+        "cook_time": "8 minutes",
+        "total_time": "23 minutes"
+      },
+      "ingredients": [
+        "½ pound yellow wax beans, cut diagonally in half",
+        "½ pound green string beans, cut diagonally in half",
+        "3 tablespoons extra virgin olive oil",
+        "3 cloves garlic, smashed and minced",
+        "¼ teaspoon sea salt",
+        "½ teaspoon cayenne pepper",
+        "1 teaspoon raw apple cider vinegar"
+      ],
+      "instructions": [
+        "Bring large pot of salted water to boil",
+        "Add yellow and green beans to boiling water",
+        "Cook 5-8 minutes until crisp-tender",
+        "Drain beans thoroughly",
+        "In mixing bowl, combine olive oil, minced garlic, and sea salt",
+        "Mash garlic with fork to release oils",
+        "Add cayenne pepper and apple cider vinegar",
+        "Mix dressing thoroughly",
+        "Toss hot beans with garlic dressing while still warm",
+        "Let marinate 20-30 minutes before serving"
+      ],
+      "chefrich_notes": "Diagonal cuts create more surface area for dressing absorption. Mashing garlic releases allicin compounds. Dress while beans are warm for better flavor integration.",
+      "suggested_pairings": ["Grilled fish", "Quinoa pilaf", "Fresh herb salad"],
+      "nutritional_highlights": "Rich in fiber, folate, and vitamin K from beans; allicin from garlic; oleocanthal from olive oil.",
+      "food_as_medicine": "Garlic's allicin compounds provide cardiovascular protection and antimicrobial benefits, while olive oil's oleocanthal acts as a natural anti-inflammatory similar to ibuprofen."
     },
-    "ingredients": [
-      "¼ cup whole milk",
-      "½ cup Italian bread, crusts removed, torn into pieces",
-      "1 pound ground beef (85% lean)",
-      "1 medium onion, finely minced (about ¾ cup)",
-      "1 teaspoon garlic powder",
-      "½ teaspoon dried oregano",
-      "½ teaspoon dried basil",
-      "¼ teaspoon freshly ground black pepper",
-      "¼ cup fresh parsley, finely chopped",
-      "¼ cup freshly grated Parmesan cheese",
-      "3 tablespoons extra virgin olive oil",
-      "1 teaspoon sea salt"
-    ],
-    "instructions": [
-      "Preheat oven to 350°F",
-      "In a large mixing bowl, combine milk and torn bread pieces",
-      "Allow bread to soak for 15 minutes until completely softened",
-      "Add ground beef, minced onion, garlic powder, oregano, basil, black pepper, parsley, Parmesan cheese, olive oil, and salt",
-      "Gently mix all ingredients with your hands until just combined (don't overmix)",
-      "Using a ¾-ounce scoop or tablespoon, portion mixture into uniform meatballs",
-      "Heat a non-stick pan over medium-high heat",
-      "Brown meatballs lightly on all sides, working in batches",
-      "Transfer browned meatballs to a parchment-lined baking sheet",
-      "Bake for 10 minutes until cooked through (internal temperature 160°F)",
-      "Serve immediately or add to sauce for further cooking"
-    ],
-    "chefrich_notes": "The bread and milk mixture (panade) keeps meatballs moist and tender. Don't overmix the meat or meatballs will be tough. Browning first adds flavor, while finishing in the oven ensures even cooking.",
-    "suggested_pairings": ["Marinara sauce", "Creamy polenta", "Pasta with herbs", "Italian wedding soup"],
-    "nutritional_highlights": "High-quality complete protein with iron, zinc, and B vitamins. Parmesan adds calcium and additional protein. Fresh herbs provide antioxidants and beneficial plant compounds.",
-    "food_as_medicine": "These protein-rich meatballs provide essential amino acids for muscle maintenance and repair, while the traditional preparation method ensures easy digestibility and maximum nutrient absorption."
-  }
-]
+    {
+      "title_with_emoji": "🥗 Marinated Slaw with Walnut-Flax Dressing",
+      "tags": ["anti-inflammatory", "omega-3", "fermented", "fiber", "probiotics", "raw"],
+      "description": "A vibrant pressed slaw featuring purple and green cabbage in a rich walnut-flax oil dressing with umeboshi and miso for umami depth. This nutrient-dense salad supports digestive health while delivering plant-based omega-3s and beneficial enzymes.",
+      "yield_and_time": {
+        "yield": "8 servings",
+        "prep_time": "20 minutes",
+        "pressing_time": "40 minutes",
+        "total_time": "60 minutes"
+      },
+      "ingredients": [
+        "4 cups red cabbage, thinly sliced",
+        "3 cups green cabbage, thinly sliced",
+        "½ red onion, minced",
+        "1½ cups carrot, grated",
+        "1 rib celery, cut in thin diagonal slices",
+        "¾ teaspoon sea salt",
+        "1½ cups toasted walnuts, coarsely chopped",
+        "⅓ cup walnut oil",
+        "2 tablespoons flax oil",
+        "2 small shallots, minced",
+        "½ teaspoon umeboshi vinegar",
+        "3 tablespoons fresh lemon juice",
+        "2 teaspoons mellow miso paste",
+        "1 teaspoon agave nectar"
+      ],
+      "instructions": [
+        "Combine red cabbage, green cabbage, minced onion, grated carrot, and celery in large bowl",
+        "Sprinkle with sea salt and massage with hands until vegetables release water",
+        "Place a plate directly on vegetables and weigh down with heavy object",
+        "Press for 30-40 minutes until vegetables have released significant liquid",
+        "Meanwhile, whisk together walnut oil, flax oil, minced shallots, umeboshi vinegar, lemon juice, miso paste, and agave nectar until creamy",
+        "Remove weight and plate from vegetables",
+        "Pour dressing over pressed vegetables and mix thoroughly",
+        "Let marinate 20 minutes for flavors to meld",
+        "Toss in toasted walnuts just before serving"
+      ],
+      "chefrich_notes": "Pressing vegetables creates natural fermentation and improves digestibility. Add walnuts at end to maintain crunch. Flax oil should not be heated.",
+      "suggested_pairings": ["Grilled tempeh", "Brown rice", "Roasted root vegetables"],
+      "nutritional_highlights": "High in omega-3 ALA from walnuts and flax oil, probiotics from fermentation, and glucosinolates from cabbage family vegetables.",
+      "food_as_medicine": "Pressed cabbage creates beneficial enzymes and probiotics that support gut health, while walnut and flax oils provide plant-based omega-3s that reduce systemic inflammation."
+    },
+    {
+      "title_with_emoji": "🌿 Anti-Inflammatory Golden Milk Latte",
+      "tags": ["anti-inflammatory", "turmeric", "warming", "dairy-free", "spices", "therapeutic"],
+      "description": "A warming, therapeutic beverage combining turmeric's curcumin with complementary spices and coconut milk. This golden elixir provides potent anti-inflammatory compounds while offering comfort and nourishment.",
+      "yield_and_time": {
+        "yield": "2 servings",
+        "prep_time": "5 minutes",
+        "cook_time": "10 minutes",
+        "total_time": "15 minutes"
+      },
+      "ingredients": [
+        "2 cups coconut milk",
+        "1 teaspoon ground turmeric",
+        "½ teaspoon ground ginger",
+        "¼ teaspoon cinnamon",
+        "Pinch of black pepper",
+        "1 tablespoon raw honey or maple syrup",
+        "½ teaspoon vanilla extract"
+      ],
+      "instructions": [
+        "Heat coconut milk in small saucepan over medium heat",
+        "Whisk in turmeric, ginger, cinnamon, and black pepper",
+        "Simmer gently for 5 minutes, whisking occasionally",
+        "Remove from heat and stir in honey and vanilla",
+        "Strain if desired for smoother texture",
+        "Serve warm in mugs"
+      ],
+      "chefrich_notes": "Black pepper enhances turmeric absorption. Gentle heat preserves beneficial compounds. Strain for silky texture or leave unstrained for more fiber.",
+      "suggested_pairings": ["Evening meditation", "Light stretching", "Herbal crackers"],
+      "nutritional_highlights": "Rich in curcumin from turmeric, gingerol from ginger, and medium-chain triglycerides from coconut milk.",
+      "food_as_medicine": "Turmeric's curcumin provides powerful anti-inflammatory effects, enhanced by black pepper's piperine, while warming spices support circulation and digestion."
+    },
+    {
+      "title_with_emoji": "🥩 Citrus-Kiwi Marinade for Skirt Steak",
+      "tags": ["protein", "beef", "marinade", "grilling", "enzyme-tenderizing", "citrus"],
+      "description": "A professional enzymatic marinade that transforms tough skirt steak into tender, flavorful perfection. The kiwi provides natural enzymes that break down proteins while citrus adds brightness and the spice blend creates complex flavor layers.",
+      "yield_and_time": {
+        "yield": "Marinade for 3 pounds meat",
+        "prep_time": "10 minutes",
+        "marinate_time": "4 hours",
+        "cook_time": "10 minutes",
+        "total_time": "4 hours 20 minutes"
+      },
+      "ingredients": [
+        "¼ cup extra virgin olive oil",
+        "Juice of 3 large oranges",
+        "2 teaspoons dried thyme or 5 fresh sprigs",
+        "2 teaspoons paprika",
+        "1 tablespoon garlic powder",
+        "2 teaspoons freshly ground black pepper",
+        "1 ripe kiwi, peeled",
+        "2 teaspoons ground cumin"
+      ],
+      "instructions": [
+        "Place all ingredients in a blender and process until completely smooth",
+        "Pour marinade over skirt steak in a baking dish, ensuring complete coverage",
+        "Turn meat to coat both sides thoroughly",
+        "Cover and refrigerate for up to 4 hours (no longer to prevent over-tenderizing)",
+        "Remove from refrigerator 20 minutes before cooking to bring to room temperature",
+        "Remove excess marinade before grilling",
+        "Grill over high heat to desired doneness",
+        "Let rest 15 minutes before slicing",
+        "Slice against the grain on a bias for maximum tenderness"
+      ],
+      "chefrich_notes": "Kiwi contains powerful enzymes that tenderize meat naturally. Don't marinate longer than 4 hours or the meat will become mushy. Always slice against the grain to maximize tenderness.",
+      "suggested_pairings": ["Grilled vegetables", "Chimichurri sauce", "Roasted sweet potatoes", "Fresh herb salad"],
+      "nutritional_highlights": "High-quality complete protein with all essential amino acids. Rich in iron, zinc, and B vitamins. Orange juice provides vitamin C for enhanced iron absorption.",
+      "food_as_medicine": "The enzymatic action of kiwi pre-digests proteins, making this dish easier to digest while providing bioavailable nutrients that support muscle health and energy production."
+    },
+    {
+      "title_with_emoji": "🍲 Alex's Two-Day Braised Short Ribs",
+      "tags": ["protein", "beef", "braising", "slow-cooking", "comfort-food", "make-ahead"],
+      "description": "A professional two-day braising technique that transforms tough short ribs into fall-apart tender perfection. This method develops deep flavors through slow cooking and creates a rich, concentrated sauce through reduction.",
+      "yield_and_time": {
+        "yield": "8 servings",
+        "prep_time": "30 minutes",
+        "cook_time": "2.5 hours day 1, 15 minutes day 2",
+        "total_time": "2 days"
+      },
+      "ingredients": [
+        "8 pieces boneless short ribs",
+        "2 tablespoons extra virgin olive oil",
+        "4 stalks celery, roughly chopped",
+        "4 medium carrots, roughly chopped",
+        "2 large onions, roughly chopped",
+        "1 (28-ounce) can whole peeled tomatoes",
+        "2 quarts vegetable stock",
+        "2 heads garlic, halved crosswise",
+        "8 sprigs fresh thyme",
+        "5 bay leaves",
+        "1½ teaspoons black peppercorns",
+        "Sea salt and freshly ground black pepper for seasoning"
+      ],
+      "instructions": [
+        "Day 1: Rub short ribs with olive oil and season liberally with salt and pepper",
+        "In a large pot, combine celery, carrots, onions, garlic, tomatoes, vegetable stock, thyme, bay leaves, and peppercorns",
+        "Bring braising liquid to a simmer and cook for 20 minutes",
+        "While braising liquid simmers, heat a large sauté pan over high heat",
+        "Sear short ribs on all sides until deeply browned (work in batches if needed)",
+        "Place seared ribs in a baking dish and cover completely with braising liquid",
+        "Cover tightly with foil and bake at 375°F for 2 to 2½ hours until meat falls apart easily",
+        "Cool completely and refrigerate overnight",
+        "Day 2: Remove solidified fat from surface and reserve braising liquid separately",
+        "Place ribs on a baking sheet and strain braising liquid into a pot",
+        "Bring braising liquid to a boil and reduce by half, discarding vegetables",
+        "Roast ribs in preheated 450°F oven for 15 minutes to caramelize exterior",
+        "Serve immediately with reduced braising liquid as sauce"
+      ],
+      "chefrich_notes": "The overnight rest allows flavors to meld and makes fat removal easy. Reducing the braising liquid concentrates flavors into a rich sauce. Don't skip the final roasting step - it adds crucial texture contrast.",
+      "suggested_pairings": ["Creamy polenta", "Roasted root vegetables", "Garlic mashed potatoes", "Sautéed greens"],
+      "nutritional_highlights": "Rich in protein, iron, and B vitamins. Collagen from slow cooking provides amino acids that support joint health. Vegetables in braising liquid add antioxidants and minerals.",
+      "food_as_medicine": "The slow braising process breaks down tough connective tissue into gelatin, creating a nutrient-dense dish that supports joint health while providing easily digestible protein for muscle maintenance."
+    },
+    {
+      "title_with_emoji": "🍄 Rustic Beef and Mushroom Stew",
+      "tags": ["protein", "beef", "stew", "mushrooms", "red-wine", "comfort-food", "one-pot"],
+      "description": "A hearty, soul-warming stew that combines tender beef chuck with earthy mushrooms and fresh herbs. The red wine adds depth while the vegetables provide natural sweetness and nutrition in this complete one-pot meal.",
+      "yield_and_time": {
+        "yield": "10 servings",
+        "prep_time": "20 minutes",
+        "cook_time": "2 hours",
+        "total_time": "2 hours 20 minutes"
+      },
+      "ingredients": [
+        "3 pounds beef chuck or shoulder, cut into 1-inch cubes",
+        "3 tablespoons extra virgin olive oil",
+        "2 cups Spanish onions, small dice",
+        "2 tablespoons all-purpose flour",
+        "3 cups dry red wine",
+        "4 cups vegetable stock",
+        "5 bay leaves",
+        "5 sprigs fresh thyme",
+        "4 medium carrots, cut into 1-inch pieces",
+        "1 head celery, trimmed and diced",
+        "1 pound mixed mushrooms, sliced ¼-inch thick",
+        "¼ cup fresh Italian parsley, stems removed, roughly chopped",
+        "Fresh chives, cut into ½-inch lengths",
+        "Sea salt and freshly ground black pepper"
+      ],
+      "instructions": [
+        "Preheat oven to 375°F",
+        "Season beef cubes generously with salt and black pepper",
+        "Heat olive oil in a heavy-bottomed casserole over medium-high heat",
+        "Brown beef on all sides, working in batches to avoid overcrowding",
+        "Add diced onions to the same pot and cook for 5 minutes until softened",
+        "Sprinkle flour over meat and onions, stirring to coat evenly",
+        "Continue cooking for 5 minutes to cook out raw flour taste",
+        "Deglaze with red wine, scraping up any browned bits from bottom",
+        "Add vegetable stock, bay leaves, and fresh thyme",
+        "Bring to a simmer, then cover and transfer to oven",
+        "Cook for 30 minutes, then add carrots, celery, and mushrooms",
+        "Continue cooking for 1½ hours more until beef is fork-tender",
+        "Remove from oven and check seasoning, adjusting salt and pepper as needed",
+        "Stir in fresh parsley and chives just before serving",
+        "Serve hot with mashed potatoes or egg noodles"
+      ],
+      "chefrich_notes": "Browning the meat properly is crucial for flavor development. Don't skip the flour step - it helps thicken the stew naturally. Add mushrooms with other vegetables so they don't become overcooked.",
+      "suggested_pairings": ["Garlic mashed potatoes", "Crusty artisan bread", "Egg noodles", "Roasted Brussels sprouts"],
+      "nutritional_highlights": "Complete protein with iron, zinc, and B vitamins. Mushrooms provide selenium and potassium. Red wine adds antioxidants, while vegetables contribute fiber and vitamins.",
+      "food_as_medicine": "This nutrient-dense stew provides easily digestible protein and vegetables that support immune function, while the slow cooking process creates a comforting meal that nourishes both body and soul."
+    },
+    {
+      "title_with_emoji": "🧈 Herb-Citrus Compound Butter",
+      "tags": ["condiment", "butter", "herbs", "citrus", "finishing", "steak-sauce"],
+      "description": "A professional compound butter that transforms simple grilled meats into restaurant-quality dishes. The combination of fresh herbs, garlic, and bright lemon creates a luxurious finishing touch that melts beautifully over hot proteins.",
+      "yield_and_time": {
+        "yield": "16 portions",
+        "prep_time": "10 minutes",
+        "chill_time": "2 hours",
+        "total_time": "2 hours 10 minutes"
+      },
+      "ingredients": [
+        "3-4 tablespoons fresh chives, finely chopped",
+        "2 tablespoons extra virgin olive oil",
+        "½ pound unsalted butter, softened and cubed",
+        "4 medium garlic cloves, smashed and minced",
+        "Zest of 1 large lemon",
+        "¼ teaspoon sea salt",
+        "¼ teaspoon freshly ground black pepper"
+      ],
+      "instructions": [
+        "Place chopped chives and olive oil in food processor bowl",
+        "Process for 1 minute until chives are finely minced and oil is bright green",
+        "Add softened butter cubes to the processor",
+        "Add minced garlic, lemon zest, salt, and pepper",
+        "Process until all ingredients are completely incorporated and mixture is smooth",
+        "Taste and adjust seasoning if needed",
+        "Transfer mixture to a sheet of parchment paper",
+        "Shape into a log, rolling tightly in the parchment",
+        "Twist ends to seal and wrap in plastic wrap",
+        "Refrigerate for at least 2 hours until firm",
+        "Slice into rounds as needed for serving"
+      ],
+      "chefrich_notes": "Make sure butter is properly softened for easy mixing. The compound butter can be made up to 3 days ahead and stored in the refrigerator, or frozen for up to 3 months. Slice while cold for clean cuts.",
+      "suggested_pairings": ["Grilled steak", "Roasted chicken", "Steamed vegetables", "Crusty bread"],
+      "nutritional_highlights": "Provides healthy monounsaturated fats and vitamin A. Fresh herbs add antioxidants and beneficial plant compounds. Lemon zest contributes vitamin C and citrus oils.",
+      "food_as_medicine": "The combination of healthy fats from butter and olive oil helps absorb fat-soluble vitamins, while fresh herbs provide antioxidants that support overall health and add vibrant flavor without excess sodium."
+    },
+    {
+      "title_with_emoji": "🍝 Italian Mini Meatballs",
+      "tags": ["protein", "beef", "meatballs", "italian", "appetizer", "comfort-food"],
+      "description": "Traditional Italian-style mini meatballs with a tender, moist texture achieved through the classic bread and milk panade. Perfect for appetizers, pasta dishes, or as a protein-rich addition to soups and stews.",
+      "yield_and_time": {
+        "yield": "Approximately 40 meatballs",
+        "prep_time": "20 minutes",
+        "cook_time": "15 minutes",
+        "total_time": "35 minutes"
+      },
+      "ingredients": [
+        "¼ cup whole milk",
+        "½ cup Italian bread, crusts removed, torn into pieces",
+        "1 pound ground beef (85% lean)",
+        "1 medium onion, finely minced (about ¾ cup)",
+        "1 teaspoon garlic powder",
+        "½ teaspoon dried oregano",
+        "½ teaspoon dried basil",
+        "¼ teaspoon freshly ground black pepper",
+        "¼ cup fresh parsley, finely chopped",
+        "¼ cup freshly grated Parmesan cheese",
+        "3 tablespoons extra virgin olive oil",
+        "1 teaspoon sea salt"
+      ],
+      "instructions": [
+        "Preheat oven to 350°F",
+        "In a large mixing bowl, combine milk and torn bread pieces",
+        "Allow bread to soak for 15 minutes until completely softened",
+        "Add ground beef, minced onion, garlic powder, oregano, basil, black pepper, parsley, Parmesan cheese, olive oil, and salt",
+        "Gently mix all ingredients with your hands until just combined (don't overmix)",
+        "Using a ¾-ounce scoop or tablespoon, portion mixture into uniform meatballs",
+        "Heat a non-stick pan over medium-high heat",
+        "Brown meatballs lightly on all sides, working in batches",
+        "Transfer browned meatballs to a parchment-lined baking sheet",
+        "Bake for 10 minutes until cooked through (internal temperature 160°F)",
+        "Serve immediately or add to sauce for further cooking"
+      ],
+      "chefrich_notes": "The bread and milk mixture (panade) keeps meatballs moist and tender. Don't overmix the meat or meatballs will be tough. Browning first adds flavor, while finishing in the oven ensures even cooking.",
+      "suggested_pairings": ["Marinara sauce", "Creamy polenta", "Pasta with herbs", "Italian wedding soup"],
+      "nutritional_highlights": "High-quality complete protein with iron, zinc, and B vitamins. Parmesan adds calcium and additional protein. Fresh herbs provide antioxidants and beneficial plant compounds.",
+      "food_as_medicine": "These protein-rich meatballs provide essential amino acids for muscle maintenance and repair, while the traditional preparation method ensures easy digestibility and maximum nutrient absorption."
+    }
+  ]
 }
