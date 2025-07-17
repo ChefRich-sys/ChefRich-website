@@ -762,4 +762,121 @@
     ],
 "chefrich_notes": "Extra virgin olive oil is liquid gold, providing oleocanthal that acts as natural anti-inflammatory medicine while delivering superior flavor and nutrition"
   }
+},
+{
+  "beef_chuck": {
+    "name": "Beef Chuck",
+    "category": "Proteins",
+    "description": "A tough but flavorful cut from the shoulder area, rich in connective tissue that breaks down beautifully with slow cooking methods.",
+    "nutritional_profile": {
+      "protein": "20g per 3.5oz serving",
+      "fat": "Variable based on marbling",
+      "key_nutrients": "Iron, zinc, B vitamins, complete amino acids"
+    },
+    "selection_tips": [
+      "Look for good marbling throughout",
+      "Avoid excessive surface fat",
+      "Choose well-aged cuts when possible",
+      "Check for bright red color"
+    ],
+    "cooking_methods": ["Braising", "Stewing", "Slow roasting", "Grinding"],
+    "flavor_profile": "Rich, beefy, develops deep flavors with slow cooking",
+    "storage": "Refrigerate 3-5 days, freeze up to 12 months"
+  },
+  "beef_ribeye": {
+    "name": "Beef Ribeye",
+    "category": "Proteins",
+    "description": "A premium cut from the rib section known for exceptional marbling and tenderness. Ideal for high-heat cooking methods.",
+    "nutritional_profile": {
+      "protein": "20g per 3.5oz serving",
+      "fat": "High marbling provides rich flavor",
+      "key_nutrients": "Iron, zinc, B12, complete amino acids"
+    },
+    "selection_tips": [
+      "Choose steaks with abundant marbling",
+      "Look for bright red color",
+      "Avoid excessive surface fat",
+      "1-1.5 inch thickness ideal for grilling"
+    ],
+    "cooking_methods": ["Grilling", "Pan-searing", "Broiling", "Roasting"],
+    "flavor_profile": "Rich, buttery, intensely beefy with natural juiciness",
+    "storage": "Refrigerate 3-5 days, freeze up to 12 months"
+  },
+  "beef_short_ribs": {
+    "name": "Beef Short Ribs",
+    "category": "Proteins",
+    "description": "Bone-in cut from the chuck, plate, or brisket with high collagen content that transforms into rich gelatin when braised.",
+    "nutritional_profile": {
+      "protein": "18g per 3.5oz serving",
+      "fat": "Moderate to high depending on trim",
+      "key_nutrients": "Iron, zinc, B vitamins, collagen"
+    },
+    "selection_tips": [
+      "Choose well-marbled pieces",
+      "Look for meaty bones",
+      "Avoid excessive surface fat",
+      "English cut preferred for braising"
+    ],
+    "cooking_methods": ["Braising", "Slow roasting", "Stewing", "Smoking"],
+    "flavor_profile": "Intensely beefy, rich, gelatinous texture when slow-cooked",
+    "storage": "Refrigerate 3-5 days, freeze up to 12 months"
+  },
+  "beef_skirt_steak": {
+    "name": "Beef Skirt Steak",
+    "category": "Proteins",
+    "description": "A long, flat cut from the diaphragm muscle with intense flavor but requires proper preparation to maximize tenderness.",
+    "nutritional_profile": {
+      "protein": "22g per 3.5oz serving",
+      "fat": "Low to moderate",
+      "key_nutrients": "Iron, zinc, B vitamins, complete amino acids"
+    },
+    "selection_tips": [
+      "Choose cuts with good grain visibility",
+      "Avoid excessive surface fat",
+      "Look for bright red color",
+      "Outside skirt preferred over inside"
+    ],
+    "cooking_methods": ["Grilling", "Pan-searing", "Broiling", "Marinating"],
+    "flavor_profile": "Intense beefy flavor, slightly chewy texture",
+    "storage": "Refrigerate 3-5 days, freeze up to 12 months"
+  },
+  "beef_tenderloin": {
+    "name": "Beef Tenderloin",
+    "category": "Proteins",
+    "description": "The most tender cut from the loin, with minimal connective tissue. Premium cut commanding highest prices.",
+    "nutritional_profile": {
+      "protein": "21g per 3.5oz serving",
+      "fat": "Low, minimal marbling",
+      "key_nutrients": "Iron, zinc, B vitamins, complete amino acids"
+    },
+    "selection_tips": [
+      "Choose uniform thickness",
+      "Look for bright red color",
+      "Avoid excessive surface fat",
+      "Check for proper trimming"
+    ],
+    "cooking_methods": ["Grilling", "Pan-searing", "Roasting", "Carpaccio"],
+    "flavor_profile": "Mild, tender, buttery texture",
+    "storage": "Refrigerate 3-5 days, freeze up to 12 months"
+  },
+  "beef_brisket": {
+    "name": "Beef Brisket",
+    "category": "Proteins",
+    "description": "A large cut from the breast area with high collagen content requiring long, slow cooking for optimal tenderness.",
+    "nutritional_profile": {
+      "protein": "19g per 3.5oz serving",
+      "fat": "Variable based on trim",
+      "key_nutrients": "Iron, zinc, B vitamins, collagen"
+    },
+    "selection_tips": [
+      "Choose well-marbled pieces",
+      "Look for consistent thickness",
+      "Avoid excessive surface fat",
+      "Packer cut preferred for smoking"
+    ],
+    "cooking_methods": ["Smoking", "Braising", "Slow roasting", "Stewing"],
+    "flavor_profile": "Rich, beefy, develops deep flavors with slow cooking",
+    "storage": "Refrigerate 3-5 days, freeze up to 12 months"
+  }
 }
+
