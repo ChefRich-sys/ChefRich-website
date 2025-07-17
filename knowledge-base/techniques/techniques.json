@@ -272,5 +272,176 @@
       "timing": "Add fresh ingredients at end to preserve color and nutrients"
     },
     "chefrich_philosophy": "Advanced bean techniques create restaurant-quality dishes while maximizing nutrition and digestibility"
+  },
+  "long_steep_herbal_infusion": {
+    "category": "therapeutic_preparation",
+    "name": "Long-Steep Herbal Infusion Method",
+    "description": "Traditional technique for extracting maximum nutrients and minerals from therapeutic herbs through extended steeping",
+    "steps": [
+      "Use ¼ cup dried herbs per quart of water",
+      "Add herbs to glass jar (never metal)",
+      "Pour boiling water to fill jar ¾ full, stir gently",
+      "Add more boiling water to completely fill jar",
+      "Close lid tightly and steep 4 hours to overnight",
+      "Strain through fine mesh, squeeze herbs to extract all liquid",
+      "Store in refrigerator if not consuming immediately"
+    ],
+    "therapeutic_benefits": [
+      "Maximizes mineral extraction from herbs",
+      "Creates concentrated nutrient infusion",
+      "Preserves heat-sensitive compounds through gentle extraction",
+      "Provides sustained nutrition throughout the day"
+    ],
+    "best_herbs": [
+      "Oatstraw - nervous system support",
+      "Stinging nettle - mineral density",
+      "Red clover - hormonal balance",
+      "Violet leaf - lymphatic support"
+    ],
+    "professional_tips": [
+      "Use only glass containers to prevent metallic taste",
+      "Squeeze herbs thoroughly for complete extraction",
+      "Longer steeping increases mineral content",
+      "Can be consumed hot or cold"
+    ],
+    "chefrich_philosophy": "Long steeping transforms simple herbs into mineral-rich therapeutic beverages that nourish on a cellular level"
+  },
+  "salt_pressing_vegetables": {
+    "category": "fermentation_preparation",
+    "name": "Salt-Pressing Technique for Vegetable Preparation",
+    "description": "Traditional method for drawing moisture from vegetables, concentrating flavors, and beginning beneficial fermentation",
+    "steps": [
+      "Slice vegetables thinly for maximum surface area",
+      "Sprinkle with sea salt (¾ teaspoon per 7 cups vegetables)",
+      "Massage vegetables with hands until water begins to release",
+      "Place clean plate directly on vegetables",
+      "Weight down with heavy object (jar, stone, etc.)",
+      "Press for 30-40 minutes until significant liquid released",
+      "Remove weight and drain excess liquid if desired"
+    ],
+    "benefits": [
+      "Concentrates flavors and nutrients",
+      "Begins beneficial lacto-fermentation process",
+      "Improves digestibility of raw vegetables",
+      "Creates natural probiotics",
+      "Reduces cooking time for stir-fries"
+    ],
+    "best_vegetables": [
+      "Cabbage family (red, green, napa)",
+      "Radishes and turnips",
+      "Cucumbers",
+      "Onions and shallots"
+    ],
+    "professional_tips": [
+      "Use only sea salt or himalayan salt, never table salt",
+      "Massage until vegetables glisten and release water",
+      "Longer pressing creates more fermentation",
+      "Save pressed liquid for adding to broths"
+    ],
+    "chefrich_philosophy": "Salt pressing transforms raw vegetables into living foods that support digestive health and provide beneficial bacteria"
+  },
+  "congee_cooking_method": {
+    "category": "therapeutic_cooking",
+    "name": "Traditional Congee (Rice Porridge) Technique",
+    "description": "Ancient method for creating easily digestible, nourishing rice porridge that supports healing and provides sustained energy",
+    "steps": [
+      "Use 1:10 ratio of rice to water for traditional consistency",
+      "Combine rice, water, and salt in heavy-bottomed pot",
+      "Bring to boil with lid off, stirring occasionally",
+      "Reduce heat to maintain gentle simmer",
+      "Stir frequently to prevent sticking and develop creaminess",
+      "Cook 1-1.5 hours until rice breaks down completely",
+      "Add proteins in final 5-10 minutes of cooking",
+      "Adjust consistency with additional liquid if needed"
+    ],
+    "therapeutic_benefits": [
+      "Highly digestible for sensitive stomachs",
+      "Provides sustained energy release",
+      "Supports gut healing and recovery",
+      "Delivers nutrients in bioavailable form"
+    ],
+    "rice_combinations": [
+      "White and brown basmati for balanced nutrition",
+      "Short grain rice for creamiest texture",
+      "Wild rice blend for added minerals",
+      "Forbidden black rice for antioxidants"
+    ],
+    "professional_tips": [
+      "Frequent stirring creates creamy texture",
+      "Add proteins at end to prevent overcooking",
+      "Season lightly to support digestion",
+      "Consistency should coat spoon like thin porridge"
+    ],
+    "chefrich_philosophy": "Congee transforms simple rice into therapeutic medicine that nourishes deeply while being gentle on the digestive system"
+  },
+  "anti_inflammatory_spice_combinations": {
+    "category": "therapeutic_seasoning",
+    "name": "Anti-Inflammatory Spice Synergy Techniques",
+    "description": "Strategic spice combinations that enhance anti-inflammatory properties through synergistic compounds",
+    "combinations": {
+      "golden_trinity": {
+        "spices": ["turmeric", "ginger", "black pepper"],
+        "ratios": "2:1:pinch",
+        "benefits": "Maximizes curcumin absorption, supports circulation",
+        "applications": "Curries, golden milk, marinades"
+      },
+      "warming_blend": {
+        "spices": ["cinnamon", "ginger", "nutmeg"],
+        "ratios": "2:1:½",
+        "benefits": "Supports circulation, balances blood sugar",
+        "applications": "Beverages, desserts, breakfast dishes"
+      },
+      "mediterranean_healing": {
+        "spices": ["oregano", "rosemary", "thyme"],
+        "ratios": "equal parts",
+        "benefits": "Antioxidant protection, antimicrobial properties",
+        "applications": "Roasted vegetables, marinades, infused oils"
+      }
+    },
+    "preparation_techniques": [
+      "Toast whole spices before grinding for enhanced potency",
+      "Combine with healthy fats to improve absorption",
+      "Add black pepper to turmeric-containing blends",
+      "Use fresh herbs when possible for maximum benefits"
+    ],
+    "professional_tips": [
+      "Layer spices throughout cooking for complex flavor",
+      "Bloom spices in oil to release essential compounds",
+      "Store spice blends in airtight containers away from light",
+      "Grind spices just before use for peak potency"
+    ],
+    "chefrich_philosophy": "Strategic spice combinations create therapeutic synergies that amplify anti-inflammatory benefits while building complex, satisfying flavors"
+  },
+  "omega_3_oil_preservation": {
+    "category": "healthy_fat_techniques",
+    "name": "Omega-3 Oil Preservation and Usage Methods",
+    "description": "Professional techniques for preserving and using delicate omega-3 oils to maintain their therapeutic anti-inflammatory properties",
+    "storage_guidelines": [
+      "Store in dark, cool places away from light and heat",
+      "Use dark glass bottles to prevent light oxidation",
+      "Keep refrigerated after opening",
+      "Use within 6 months of opening for peak freshness",
+      "Never heat flax oil or other delicate omega-3 oils"
+    ],
+    "usage_techniques": [
+      "Add to finished dishes after cooking",
+      "Whisk into dressings with acid to create stable emulsions",
+      "Drizzle over cooked grains and vegetables",
+      "Blend into smoothies for sustained energy",
+      "Mix with herbs for finishing oils"
+    ],
+    "oil_categories": {
+      "heat_stable": ["avocado oil", "coconut oil", "ghee"],
+      "medium_heat": ["extra virgin olive oil", "sesame oil"],
+      "raw_only": ["flax oil", "walnut oil", "hemp seed oil"]
+    },
+    "professional_applications": [
+      "Finish soups and stews with omega-3 oils",
+      "Create compound finishing oils with herbs",
+      "Use in salad dressings for maximum absorption",
+      "Add to morning smoothies for sustained energy"
+    ],
+    "chefrich_philosophy": "Proper handling of omega-3 oils preserves their therapeutic properties while creating finishing touches that elevate both flavor and nutrition"
   }
 }
+
