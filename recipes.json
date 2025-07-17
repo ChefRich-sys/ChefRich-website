@@ -1269,15 +1269,215 @@
     "suggested_pairings": ["Evening meditation", "Light stretching", "Herbal crackers"],
     "nutritional_highlights": "Rich in curcumin from turmeric, gingerol from ginger, and medium-chain triglycerides from coconut milk.",
     "food_as_medicine": "Turmeric's curcumin provides powerful anti-inflammatory effects, enhanced by black pepper's piperine, while warming spices support circulation and digestion."
+  },
+[
+  {
+    "title_with_emoji": "🥩 Citrus-Kiwi Marinade for Skirt Steak",
+    "tags": ["protein", "beef", "marinade", "grilling", "enzyme-tenderizing", "citrus"],
+    "description": "A professional enzymatic marinade that transforms tough skirt steak into tender, flavorful perfection. The kiwi provides natural enzymes that break down proteins while citrus adds brightness and the spice blend creates complex flavor layers.",
+    "yield_and_time": {
+      "yield": "Marinade for 3 pounds meat",
+      "prep_time": "10 minutes",
+      "marinate_time": "4 hours",
+      "cook_time": "10 minutes",
+      "total_time": "4 hours 20 minutes"
+    },
+    "ingredients": [
+      "¼ cup extra virgin olive oil",
+      "Juice of 3 large oranges",
+      "2 teaspoons dried thyme or 5 fresh sprigs",
+      "2 teaspoons paprika",
+      "1 tablespoon garlic powder",
+      "2 teaspoons freshly ground black pepper",
+      "1 ripe kiwi, peeled",
+      "2 teaspoons ground cumin"
+    ],
+    "instructions": [
+      "Place all ingredients in a blender and process until completely smooth",
+      "Pour marinade over skirt steak in a baking dish, ensuring complete coverage",
+      "Turn meat to coat both sides thoroughly",
+      "Cover and refrigerate for up to 4 hours (no longer to prevent over-tenderizing)",
+      "Remove from refrigerator 20 minutes before cooking to bring to room temperature",
+      "Remove excess marinade before grilling",
+      "Grill over high heat to desired doneness",
+      "Let rest 15 minutes before slicing",
+      "Slice against the grain on a bias for maximum tenderness"
+    ],
+    "chefrich_notes": "Kiwi contains powerful enzymes that tenderize meat naturally. Don't marinate longer than 4 hours or the meat will become mushy. Always slice against the grain to maximize tenderness.",
+    "suggested_pairings": ["Grilled vegetables", "Chimichurri sauce", "Roasted sweet potatoes", "Fresh herb salad"],
+    "nutritional_highlights": "High-quality complete protein with all essential amino acids. Rich in iron, zinc, and B vitamins. Orange juice provides vitamin C for enhanced iron absorption.",
+    "food_as_medicine": "The enzymatic action of kiwi pre-digests proteins, making this dish easier to digest while providing bioavailable nutrients that support muscle health and energy production."
+  },
+  {
+    "title_with_emoji": "🍲 Alex's Two-Day Braised Short Ribs",
+    "tags": ["protein", "beef", "braising", "slow-cooking", "comfort-food", "make-ahead"],
+    "description": "A professional two-day braising technique that transforms tough short ribs into fall-apart tender perfection. This method develops deep flavors through slow cooking and creates a rich, concentrated sauce through reduction.",
+    "yield_and_time": {
+      "yield": "8 servings",
+      "prep_time": "30 minutes",
+      "cook_time": "2.5 hours day 1, 15 minutes day 2",
+      "total_time": "2 days"
+    },
+    "ingredients": [
+      "8 pieces boneless short ribs",
+      "2 tablespoons extra virgin olive oil",
+      "4 stalks celery, roughly chopped",
+      "4 medium carrots, roughly chopped",
+      "2 large onions, roughly chopped",
+      "1 (28-ounce) can whole peeled tomatoes",
+      "2 quarts vegetable stock",
+      "2 heads garlic, halved crosswise",
+      "8 sprigs fresh thyme",
+      "5 bay leaves",
+      "1½ teaspoons black peppercorns",
+      "Sea salt and freshly ground black pepper for seasoning"
+    ],
+    "instructions": [
+      "Day 1: Rub short ribs with olive oil and season liberally with salt and pepper",
+      "In a large pot, combine celery, carrots, onions, garlic, tomatoes, vegetable stock, thyme, bay leaves, and peppercorns",
+      "Bring braising liquid to a simmer and cook for 20 minutes",
+      "While braising liquid simmers, heat a large sauté pan over high heat",
+      "Sear short ribs on all sides until deeply browned (work in batches if needed)",
+      "Place seared ribs in a baking dish and cover completely with braising liquid",
+      "Cover tightly with foil and bake at 375°F for 2 to 2½ hours until meat falls apart easily",
+      "Cool completely and refrigerate overnight",
+      "Day 2: Remove solidified fat from surface and reserve braising liquid separately",
+      "Place ribs on a baking sheet and strain braising liquid into a pot",
+      "Bring braising liquid to a boil and reduce by half, discarding vegetables",
+      "Roast ribs in preheated 450°F oven for 15 minutes to caramelize exterior",
+      "Serve immediately with reduced braising liquid as sauce"
+    ],
+    "chefrich_notes": "The overnight rest allows flavors to meld and makes fat removal easy. Reducing the braising liquid concentrates flavors into a rich sauce. Don't skip the final roasting step - it adds crucial texture contrast.",
+    "suggested_pairings": ["Creamy polenta", "Roasted root vegetables", "Garlic mashed potatoes", "Sautéed greens"],
+    "nutritional_highlights": "Rich in protein, iron, and B vitamins. Collagen from slow cooking provides amino acids that support joint health. Vegetables in braising liquid add antioxidants and minerals.",
+    "food_as_medicine": "The slow braising process breaks down tough connective tissue into gelatin, creating a nutrient-dense dish that supports joint health while providing easily digestible protein for muscle maintenance."
+  },
+  {
+    "title_with_emoji": "🍄 Rustic Beef and Mushroom Stew",
+    "tags": ["protein", "beef", "stew", "mushrooms", "red-wine", "comfort-food", "one-pot"],
+    "description": "A hearty, soul-warming stew that combines tender beef chuck with earthy mushrooms and fresh herbs. The red wine adds depth while the vegetables provide natural sweetness and nutrition in this complete one-pot meal.",
+    "yield_and_time": {
+      "yield": "10 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "2 hours",
+      "total_time": "2 hours 20 minutes"
+    },
+    "ingredients": [
+      "3 pounds beef chuck or shoulder, cut into 1-inch cubes",
+      "3 tablespoons extra virgin olive oil",
+      "2 cups Spanish onions, small dice",
+      "2 tablespoons all-purpose flour",
+      "3 cups dry red wine",
+      "4 cups vegetable stock",
+      "5 bay leaves",
+      "5 sprigs fresh thyme",
+      "4 medium carrots, cut into 1-inch pieces",
+      "1 head celery, trimmed and diced",
+      "1 pound mixed mushrooms, sliced ¼-inch thick",
+      "¼ cup fresh Italian parsley, stems removed, roughly chopped",
+      "Fresh chives, cut into ½-inch lengths",
+      "Sea salt and freshly ground black pepper"
+    ],
+    "instructions": [
+      "Preheat oven to 375°F",
+      "Season beef cubes generously with salt and black pepper",
+      "Heat olive oil in a heavy-bottomed casserole over medium-high heat",
+      "Brown beef on all sides, working in batches to avoid overcrowding",
+      "Add diced onions to the same pot and cook for 5 minutes until softened",
+      "Sprinkle flour over meat and onions, stirring to coat evenly",
+      "Continue cooking for 5 minutes to cook out raw flour taste",
+      "Deglaze with red wine, scraping up any browned bits from bottom",
+      "Add vegetable stock, bay leaves, and fresh thyme",
+      "Bring to a simmer, then cover and transfer to oven",
+      "Cook for 30 minutes, then add carrots, celery, and mushrooms",
+      "Continue cooking for 1½ hours more until beef is fork-tender",
+      "Remove from oven and check seasoning, adjusting salt and pepper as needed",
+      "Stir in fresh parsley and chives just before serving",
+      "Serve hot with mashed potatoes or egg noodles"
+    ],
+    "chefrich_notes": "Browning the meat properly is crucial for flavor development. Don't skip the flour step - it helps thicken the stew naturally. Add mushrooms with other vegetables so they don't become overcooked.",
+    "suggested_pairings": ["Garlic mashed potatoes", "Crusty artisan bread", "Egg noodles", "Roasted Brussels sprouts"],
+    "nutritional_highlights": "Complete protein with iron, zinc, and B vitamins. Mushrooms provide selenium and potassium. Red wine adds antioxidants, while vegetables contribute fiber and vitamins.",
+    "food_as_medicine": "This nutrient-dense stew provides easily digestible protein and vegetables that support immune function, while the slow cooking process creates a comforting meal that nourishes both body and soul."
+  },
+  {
+    "title_with_emoji": "🧈 Herb-Citrus Compound Butter",
+    "tags": ["condiment", "butter", "herbs", "citrus", "finishing", "steak-sauce"],
+    "description": "A professional compound butter that transforms simple grilled meats into restaurant-quality dishes. The combination of fresh herbs, garlic, and bright lemon creates a luxurious finishing touch that melts beautifully over hot proteins.",
+    "yield_and_time": {
+      "yield": "16 portions",
+      "prep_time": "10 minutes",
+      "chill_time": "2 hours",
+      "total_time": "2 hours 10 minutes"
+    },
+    "ingredients": [
+      "3-4 tablespoons fresh chives, finely chopped",
+      "2 tablespoons extra virgin olive oil",
+      "½ pound unsalted butter, softened and cubed",
+      "4 medium garlic cloves, smashed and minced",
+      "Zest of 1 large lemon",
+      "¼ teaspoon sea salt",
+      "¼ teaspoon freshly ground black pepper"
+    ],
+    "instructions": [
+      "Place chopped chives and olive oil in food processor bowl",
+      "Process for 1 minute until chives are finely minced and oil is bright green",
+      "Add softened butter cubes to the processor",
+      "Add minced garlic, lemon zest, salt, and pepper",
+      "Process until all ingredients are completely incorporated and mixture is smooth",
+      "Taste and adjust seasoning if needed",
+      "Transfer mixture to a sheet of parchment paper",
+      "Shape into a log, rolling tightly in the parchment",
+      "Twist ends to seal and wrap in plastic wrap",
+      "Refrigerate for at least 2 hours until firm",
+      "Slice into rounds as needed for serving"
+    ],
+    "chefrich_notes": "Make sure butter is properly softened for easy mixing. The compound butter can be made up to 3 days ahead and stored in the refrigerator, or frozen for up to 3 months. Slice while cold for clean cuts.",
+    "suggested_pairings": ["Grilled steak", "Roasted chicken", "Steamed vegetables", "Crusty bread"],
+    "nutritional_highlights": "Provides healthy monounsaturated fats and vitamin A. Fresh herbs add antioxidants and beneficial plant compounds. Lemon zest contributes vitamin C and citrus oils.",
+    "food_as_medicine": "The combination of healthy fats from butter and olive oil helps absorb fat-soluble vitamins, while fresh herbs provide antioxidants that support overall health and add vibrant flavor without excess sodium."
+  },
+  {
+    "title_with_emoji": "🍝 Italian Mini Meatballs",
+    "tags": ["protein", "beef", "meatballs", "italian", "appetizer", "comfort-food"],
+    "description": "Traditional Italian-style mini meatballs with a tender, moist texture achieved through the classic bread and milk panade. Perfect for appetizers, pasta dishes, or as a protein-rich addition to soups and stews.",
+    "yield_and_time": {
+      "yield": "Approximately 40 meatballs",
+      "prep_time": "20 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "35 minutes"
+    },
+    "ingredients": [
+      "¼ cup whole milk",
+      "½ cup Italian bread, crusts removed, torn into pieces",
+      "1 pound ground beef (85% lean)",
+      "1 medium onion, finely minced (about ¾ cup)",
+      "1 teaspoon garlic powder",
+      "½ teaspoon dried oregano",
+      "½ teaspoon dried basil",
+      "¼ teaspoon freshly ground black pepper",
+      "¼ cup fresh parsley, finely chopped",
+      "¼ cup freshly grated Parmesan cheese",
+      "3 tablespoons extra virgin olive oil",
+      "1 teaspoon sea salt"
+    ],
+    "instructions": [
+      "Preheat oven to 350°F",
+      "In a large mixing bowl, combine milk and torn bread pieces",
+      "Allow bread to soak for 15 minutes until completely softened",
+      "Add ground beef, minced onion, garlic powder, oregano, basil, black pepper, parsley, Parmesan cheese, olive oil, and salt",
+      "Gently mix all ingredients with your hands until just combined (don't overmix)",
+      "Using a ¾-ounce scoop or tablespoon, portion mixture into uniform meatballs",
+      "Heat a non-stick pan over medium-high heat",
+      "Brown meatballs lightly on all sides, working in batches",
+      "Transfer browned meatballs to a parchment-lined baking sheet",
+      "Bake for 10 minutes until cooked through (internal temperature 160°F)",
+      "Serve immediately or add to sauce for further cooking"
+    ],
+    "chefrich_notes": "The bread and milk mixture (panade) keeps meatballs moist and tender. Don't overmix the meat or meatballs will be tough. Browning first adds flavor, while finishing in the oven ensures even cooking.",
+    "suggested_pairings": ["Marinara sauce", "Creamy polenta", "Pasta with herbs", "Italian wedding soup"],
+    "nutritional_highlights": "High-quality complete protein with iron, zinc, and B vitamins. Parmesan adds calcium and additional protein. Fresh herbs provide antioxidants and beneficial plant compounds.",
+    "food_as_medicine": "These protein-rich meatballs provide essential amino acids for muscle maintenance and repair, while the traditional preparation method ensures easy digestibility and maximum nutrient absorption."
   }
 ]
-
-
-
-
-
-
-
-  ]
-  }
 
