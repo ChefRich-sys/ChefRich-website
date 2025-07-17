@@ -703,7 +703,223 @@
   "suggested_pairings": ["brown rice", "miso soup", "seaweed salad", "grilled fish"],
   "nutritional_highlights": "Complete protein with all essential amino acids, high in folate, vitamin K, and fiber. Contains isoflavones for hormonal support.",
   "food_as_medicine": "Edamame provides plant-based complete protein and phytoestrogens that support hormonal balance, particularly beneficial for women's health."
+},
+{
+  "title_with_emoji": "🍲 Traditional Healing Bean Stew",
+  "tags": ["plant-based", "warming", "mineral-rich", "digestive-health", "traditional"],
+  "description": "A deeply nourishing stew combining protein-rich beans with mineral-rich kombu and sweet butternut squash. This traditional preparation method enhances digestibility and provides sustained energy.",
+  "yield_and_time": {
+    "yield": "4-6 servings",
+    "prep_time": "15 minutes",
+    "cook_time": "60 minutes",
+    "total_time": "75 minutes (plus soaking)"
+  },
+  "ingredients": [
+    "1 cup dried beans, soaked overnight",
+    "1 piece kombu seaweed",
+    "2 to 2½ cups filtered water",
+    "2-3 slices fresh ginger",
+    "½ small butternut squash, diced (1-1½ cups)",
+    "2 teaspoons freshly grated ginger",
+    "Shoyu or sea salt to taste"
+  ],
+  "instructions": [
+    "Combine soaked beans, kombu, water, and ginger slices in medium pot",
+    "Bring to boil, reduce heat, cover and simmer 30 minutes",
+    "Add diced butternut squash, cover and continue simmering 30 minutes",
+    "Test that beans and squash are tender",
+    "Add fresh grated ginger and season with shoyu or salt",
+    "Serve hot, garnished with fresh herbs if desired"
+  ],
+  "chefrich_notes": "Kombu seaweed adds essential minerals and helps beans cook more evenly. For variation, replace ginger with cilantro and cumin for a different flavor profile.",
+  "suggested_pairings": ["brown rice", "steamed greens", "fermented vegetables"],
+  "nutritional_highlights": "Complete plant protein, complex carbohydrates, and sea minerals from kombu. Butternut squash provides beta-carotene and fiber.",
+  "food_as_medicine": "This traditional stew supports digestive health through kombu's natural enzymes and provides sustained energy from slow-cooked beans and squash."
+},
+{
+  "title_with_emoji": "🥄 Healing Bean Puree Spread",
+  "tags": ["plant-based", "protein-rich", "versatile", "healthy-fats", "customizable"],
+  "description": "A creamy, nutritious spread that transforms any cooked bean into a protein-rich dip. Enhanced with healthy oils and fresh herbs for maximum flavor and nutrition.",
+  "yield_and_time": {
+    "yield": "2-3 cups",
+    "prep_time": "10 minutes",
+    "cook_time": "0 minutes",
+    "total_time": "10 minutes"
+  },
+  "ingredients": [
+    "2 cups cooked beans (any variety)",
+    "¼ cup reserved bean cooking liquid",
+    "3 tablespoons fresh lemon juice",
+    "1 clove garlic, minced",
+    "¾-1 teaspoon sea salt",
+    "3 tablespoons extra virgin olive oil",
+    "1 tablespoon flaxseed oil",
+    "¼ cup tahini (for chickpeas/white beans)",
+    "Fresh herbs (variety specific)",
+    "Paprika for garnish"
+  ],
+  "instructions": [
+    "Combine beans, lemon juice, garlic, salt, and oils in food processor",
+    "Blend until smooth, gradually adding bean liquid for consistency",
+    "Transfer to bowl and stir in fresh herbs by hand",
+    "Adjust seasoning and consistency as needed",
+    "Sprinkle with paprika and drizzle with olive oil",
+    "Serve with toasted pita triangles or vegetables"
+  ],
+  "chefrich_notes": "Customize by bean type: kidney beans with scallions/cilantro, great northern with dill, cannellini with herbs of choice. Always add herbs by hand to preserve texture.",
+  "suggested_pairings": ["whole grain pita", "vegetable crudités", "crackers", "as sandwich spread"],
+  "nutritional_highlights": "High in plant protein, fiber, and healthy fats from olive oil and flaxseed oil. Tahini adds calcium and additional protein.",
+  "food_as_medicine": "This versatile spread provides complete plant protein and omega-3 fatty acids from flaxseed oil, supporting heart health and sustained energy."
+},
+    {
+  "title_with_emoji": "🍜 Healing Lentil Soup with Wasabi",
+  "tags": ["plant-based", "protein-rich", "anti-inflammatory", "digestive-health", "asian-inspired"],
+  "description": "A nourishing lentil soup with an unexpected kick of wasabi and rice vinegar, creating a unique fusion of comfort and healing. Rich in plant protein and enhanced with Japanese-inspired flavors.",
+  "yield_and_time": {
+    "yield": "4-6 servings",
+    "prep_time": "15 minutes",
+    "cook_time": "60 minutes",
+    "total_time": "75 minutes"
+  },
+  "ingredients": [
+    "1 onion, diced",
+    "1 carrot, diced",
+    "2 ribs celery, diced",
+    "2 tablespoons extra virgin olive oil",
+    "1 bay leaf",
+    "1 cup lentils",
+    "3½-4 cups water",
+    "1 teaspoon sea salt",
+    "½ pound spinach or Swiss chard, chopped",
+    "2 teaspoons wasabi paste",
+    "1-2 tablespoons rice vinegar"
+  ],
+  "instructions": [
+    "Heat olive oil in medium pot over medium heat",
+    "Sauté onion, carrot, and celery until onions become translucent",
+    "Add bay leaf, lentils, and 3 cups water to vegetables",
+    "Cover and bring to boil, reduce heat and simmer 40 minutes to 1 hour",
+    "Add ½ to 1 cup more water with salt, simmer partially covered 15 minutes",
+    "Stir in spinach or chard, cook 2 minutes until tender",
+    "Add wasabi and rice vinegar to taste before serving"
+  ],
+  "chefrich_notes": "For creamier texture, pressure cook lentils for 1/3 the time or puree a portion. Adjust wasabi gradually to taste preference.",
+  "suggested_pairings": ["brown rice", "steamed vegetables", "miso soup"],
+  "nutritional_highlights": "High in plant protein, folate, and iron from lentils. Wasabi provides natural antimicrobial compounds.",
+  "food_as_medicine": "Lentils support blood sugar stability while wasabi provides natural antibacterial properties and digestive stimulation."
+},
+    {
+  "title_with_emoji": "🌿 Herb-Infused Red Lentil Soup",
+  "tags": ["plant-based", "protein-rich", "herb-rich", "quick-cooking", "digestive-health"],
+  "description": "A fragrant, quick-cooking red lentil soup infused with Mediterranean herbs. This creamy, naturally thickening soup provides complete nutrition and warming comfort.",
+  "yield_and_time": {
+    "yield": "4-6 servings",
+    "prep_time": "15 minutes",
+    "cook_time": "45 minutes",
+    "total_time": "60 minutes"
+  },
+  "ingredients": [
+    "1 onion, diced",
+    "1 carrot, diced",
+    "2 ribs celery, diced",
+    "2 tablespoons extra virgin olive oil",
+    "½ teaspoon dried thyme",
+    "½ teaspoon dried basil",
+    "½ teaspoon dried oregano",
+    "1 cup red lentils",
+    "3½-4 cups water",
+    "1 teaspoon sea salt",
+    "½ pound spinach or Swiss chard, chopped"
+  ],
+  "instructions": [
+    "Heat olive oil in medium pot over medium heat",
+    "Sauté onion, carrot, and celery until onions become translucent",
+    "Add thyme, basil, oregano, red lentils, and 3 cups water",
+    "Cover and bring to boil, reduce heat and simmer 30 minutes",
+    "Add ½ to 1 cup more water with salt, simmer partially covered 15 minutes",
+    "Stir in spinach or chard, cook 2 minutes until tender"
+  ],
+  "chefrich_notes": "Red lentils naturally break down to create a creamy texture. For ultra-smooth soup, use immersion blender after cooking.",
+  "suggested_pairings": ["crusty bread", "lemon wedges", "fresh herbs"],
+  "nutritional_highlights": "Red lentils cook quickly and provide easily digestible protein, folate, and iron. Herbs add antioxidants and flavor.",
+  "food_as_medicine": "Red lentils support digestive health with their soft texture and provide sustained energy without blood sugar spikes."
+},
+    {
+  "title_with_emoji": "🌿 Herb-Infused Red Lentil Soup",
+  "tags": ["plant-based", "protein-rich", "herb-rich", "quick-cooking", "digestive-health"],
+  "description": "A fragrant, quick-cooking red lentil soup infused with Mediterranean herbs. This creamy, naturally thickening soup provides complete nutrition and warming comfort.",
+  "yield_and_time": {
+    "yield": "4-6 servings",
+    "prep_time": "15 minutes",
+    "cook_time": "45 minutes",
+    "total_time": "60 minutes"
+  },
+  "ingredients": [
+    "1 onion, diced",
+    "1 carrot, diced",
+    "2 ribs celery, diced",
+    "2 tablespoons extra virgin olive oil",
+    "½ teaspoon dried thyme",
+    "½ teaspoon dried basil",
+    "½ teaspoon dried oregano",
+    "1 cup red lentils",
+    "3½-4 cups water",
+    "1 teaspoon sea salt",
+    "½ pound spinach or Swiss chard, chopped"
+  ],
+  "instructions": [
+    "Heat olive oil in medium pot over medium heat",
+    "Sauté onion, carrot, and celery until onions become translucent",
+    "Add thyme, basil, oregano, red lentils, and 3 cups water",
+    "Cover and bring to boil, reduce heat and simmer 30 minutes",
+    "Add ½ to 1 cup more water with salt, simmer partially covered 15 minutes",
+    "Stir in spinach or chard, cook 2 minutes until tender"
+  ],
+  "chefrich_notes": "Red lentils naturally break down to create a creamy texture. For ultra-smooth soup, use immersion blender after cooking.",
+  "suggested_pairings": ["crusty bread", "lemon wedges", "fresh herbs"],
+  "nutritional_highlights": "Red lentils cook quickly and provide easily digestible protein, folate, and iron. Herbs add antioxidants and flavor.",
+  "food_as_medicine": "Red lentils support digestive health with their soft texture and provide sustained energy without blood sugar spikes."
+},
+    {
+  "title_with_emoji": "🟢 Healing Green Split Pea Soup",
+  "tags": ["plant-based", "protein-rich", "comfort-food", "fiber-rich", "traditional"],
+  "description": "A classic, nourishing split pea soup enhanced with sweet potatoes and celery seeds. This hearty soup provides complete plant protein and warming comfort.",
+  "yield_and_time": {
+    "yield": "4-6 servings",
+    "prep_time": "20 minutes",
+    "cook_time": "2 hours",
+    "total_time": "2 hours 20 minutes"
+  },
+  "ingredients": [
+    "1 onion, diced",
+    "1 carrot, diced",
+    "2 ribs celery, diced",
+    "½ pound sweet potatoes, diced",
+    "2 tablespoons extra virgin olive oil",
+    "½ teaspoon celery seeds",
+    "1 bay leaf",
+    "1 cup green split peas, soaked",
+    "3½-4 cups water",
+    "1 teaspoon sea salt"
+  ],
+  "instructions": [
+    "Heat olive oil in medium pot over medium heat",
+    "Sauté onion, carrot, celery, and sweet potatoes until onions are translucent",
+    "Add celery seeds, bay leaf, split peas, and 3 cups water",
+    "Cover and bring to boil, reduce heat and simmer 1½ hours",
+    "Add ½ to 1 cup more water with salt, simmer partially covered 15 minutes",
+    "Remove bay leaf before serving"
+  ],
+  "chefrich_notes": "For faster cooking, pressure cook for 1/3 the time. Sweet potatoes add natural sweetness and beta-carotene.",
+  "suggested_pairings": ["sourdough bread", "sauerkraut", "green salad"],
+  "nutritional_highlights": "High in plant protein, fiber, and complex carbohydrates. Sweet potatoes provide beta-carotene and potassium.",
+  "food_as_medicine": "Split peas support digestive health and provide sustained energy, while sweet potatoes boost immune function with vitamin A."
 }
+
+
+
+
+
   ]
   }
 
