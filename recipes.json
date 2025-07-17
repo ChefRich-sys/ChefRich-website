@@ -987,7 +987,290 @@
   "suggested_pairings": ["leafy greens", "grilled vegetables", "quinoa"],
   "nutritional_highlights": "High in plant protein, fiber, and healthy fats. Fresh herbs provide antioxidants and vitamins.",
   "food_as_medicine": "Beans provide complete plant protein and fiber for digestive health, while fresh vegetables add enzymes and vitamins."
-}
+},
+    [
+  {
+    "title_with_emoji": "🫐 Rich and Creamy Blueberry Coconut Smoothie",
+    "tags": ["anti-inflammatory", "smoothie", "breakfast", "antioxidant", "dairy-free"],
+    "description": "A luxuriously creamy smoothie that combines the anti-inflammatory power of organic blueberries and cherries with coconut milk's medium-chain triglycerides. This vibrant purple elixir delivers potent antioxidants while supporting cellular repair and reducing systemic inflammation.",
+    "yield_and_time": {
+      "yield": "1 serving (1½ cups)",
+      "prep_time": "5 minutes",
+      "cook_time": "0 minutes",
+      "total_time": "5 minutes"
+    },
+    "ingredients": [
+      "½ cup coconut milk",
+      "¼ cup filtered water",
+      "½ cup frozen organic blueberries",
+      "¼ cup frozen organic cherries",
+      "1 tablespoon agave nectar"
+    ],
+    "instructions": [
+      "Place coconut milk and filtered water in blender",
+      "Add frozen blueberries and cherries to create natural thickness",
+      "Add agave nectar for balanced sweetness",
+      "Blend on high speed until completely smooth and creamy",
+      "Pour into glass and serve immediately with reusable straw"
+    ],
+    "chefrich_notes": "Use frozen berries for natural thickness without dilution. Full-fat coconut milk provides richness and anti-inflammatory fats. Blend thoroughly to achieve restaurant-quality smoothness.",
+    "suggested_pairings": ["Sprouted grain toast", "Chia seed pudding", "Raw almonds"],
+    "nutritional_highlights": "Rich in anthocyanins from berries, lauric acid from coconut, and natural enzymes. High in vitamin C, manganese, and anti-inflammatory compounds.",
+    "food_as_medicine": "Blueberries and cherries provide powerful anthocyanins that cross the blood-brain barrier to reduce neuroinflammation, while coconut milk delivers MCTs for sustained energy and cellular repair."
+  },
+  {
+    "title_with_emoji": "🌿 Tender Curried Garbanzos",
+    "tags": ["anti-inflammatory", "legumes", "curry", "protein", "fiber", "turmeric"],
+    "description": "Protein-rich chickpeas infused with golden turmeric and warming curry spices, enhanced with kombu seaweed for mineralization and digestive support. This satisfying dish combines ancient Ayurvedic wisdom with modern anti-inflammatory nutrition.",
+    "yield_and_time": {
+      "yield": "4-6 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "50 minutes",
+      "total_time": "65 minutes"
+    },
+    "ingredients": [
+      "1 cup dried chickpeas, soaked overnight",
+      "2-inch piece kombu seaweed",
+      "1 small red onion, minced",
+      "2 celery ribs, small dice",
+      "2 tablespoons flat leaf parsley, coarsely chopped",
+      "2 tablespoons extra virgin olive oil",
+      "Juice of 1 lemon",
+      "2 cloves garlic, minced",
+      "2 teaspoons curry powder",
+      "1 teaspoon ground cumin",
+      "¼ teaspoon turmeric powder",
+      "½ teaspoon sea salt",
+      "Pinch of black pepper"
+    ],
+    "instructions": [
+      "Drain and rinse soaked chickpeas thoroughly",
+      "Place chickpeas and kombu in pot with water covering beans plus 3 inches",
+      "Bring to boil with lid off, cook 10 minutes skimming foam",
+      "Lower heat, cover, and simmer 40 minutes until tender",
+      "Drain beans, reserving some cooking liquid",
+      "In large bowl, combine warm beans with minced onion, celery, and parsley",
+      "Whisk together olive oil, lemon juice, garlic, curry powder, cumin, turmeric, salt, and pepper",
+      "Pour spiced dressing over warm beans and mix thoroughly",
+      "Let marinate 10 minutes before serving"
+    ],
+    "chefrich_notes": "Kombu seaweed aids digestion and adds minerals. Mix dressing while beans are warm for better absorption. Black pepper enhances turmeric's bioavailability.",
+    "suggested_pairings": ["Cucumber raita", "Whole grain naan", "Leafy green salad"],
+    "nutritional_highlights": "Complete protein from chickpeas, curcumin from turmeric, omega-3s from olive oil, and trace minerals from kombu seaweed.",
+    "food_as_medicine": "Turmeric's curcumin combined with black pepper creates a potent anti-inflammatory compound, while chickpeas provide fiber for gut health and stable blood sugar."
+  },
+  {
+    "title_with_emoji": "✨ Sparkling Pomegranate Ginger Drink",
+    "tags": ["anti-inflammatory", "beverage", "ginger", "pomegranate", "refreshing", "antioxidant"],
+    "description": "An effervescent anti-inflammatory elixir that combines pomegranate's powerful polyphenols with ginger's warming gingerol compounds. This sparkling drink delivers therapeutic benefits while refreshing and energizing the body.",
+    "yield_and_time": {
+      "yield": "4 servings",
+      "prep_time": "10 minutes",
+      "cook_time": "0 minutes",
+      "total_time": "10 minutes"
+    },
+    "ingredients": [
+      "2 cups plain mineral water",
+      "2 cups unsweetened apple nectar",
+      "3 tablespoons unsweetened pomegranate syrup",
+      "2 tablespoons fresh ginger juice",
+      "Juice of ½ lime",
+      "4-5 ice cubes",
+      "4 thin lime wedges for garnish"
+    ],
+    "instructions": [
+      "Pour mineral water and apple nectar into large pitcher",
+      "Add pomegranate syrup and stir well to combine",
+      "Add fresh ginger juice and lime juice",
+      "Stir thoroughly to integrate all flavors",
+      "Add ice cubes to chill",
+      "Pour into 4 glasses over ice",
+      "Garnish each glass with lime wedge"
+    ],
+    "chefrich_notes": "Use fresh ginger juice for maximum anti-inflammatory potency. Choose unsweetened pomegranate syrup to avoid added sugars. Serve immediately for best carbonation.",
+    "suggested_pairings": ["Light salads", "Grilled fish", "Raw vegetables with hummus"],
+    "nutritional_highlights": "Rich in ellagic acid from pomegranate, gingerol from ginger, and natural electrolytes from mineral water.",
+    "food_as_medicine": "Pomegranate polyphenols protect against oxidative stress while ginger's gingerol compounds reduce inflammation and support digestive health."
+  },
+  {
+    "title_with_emoji": "🌾 Relaxing Herbal Infusion",
+    "tags": ["anti-inflammatory", "herbal", "tea", "relaxing", "mineral-rich", "therapeutic"],
+    "description": "A deeply nourishing herbal blend that combines oatstraw's nervous system support with stinging nettle's mineral density. This therapeutic infusion provides sustained nutrition while promoting calm and reducing inflammation.",
+    "yield_and_time": {
+      "yield": "1 quart",
+      "prep_time": "5 minutes",
+      "steep_time": "4 hours to overnight",
+      "total_time": "4+ hours"
+    },
+    "ingredients": [
+      "¼ cup dried oatstraw herbal tea",
+      "¼ cup dried stinging nettle tea",
+      "1 quart boiling water",
+      "1 quart glass jar with lid"
+    ],
+    "instructions": [
+      "Add oatstraw and stinging nettle herbs to glass jar",
+      "Pour boiling water to fill jar ¾ full",
+      "Stir herbs gently to ensure even saturation",
+      "Add more boiling water to completely fill jar",
+      "Close lid tightly and let steep 4 hours to overnight",
+      "Strain through fine mesh strainer",
+      "Squeeze herbs to extract remaining liquid",
+      "Store in refrigerator if not drinking immediately"
+    ],
+    "chefrich_notes": "Long steeping extracts maximum minerals and nutrients. Glass containers prevent metallic taste. Squeeze herbs thoroughly for complete extraction.",
+    "suggested_pairings": ["Light evening meals", "Meditation practice", "Gentle stretching"],
+    "nutritional_highlights": "High in silica, calcium, magnesium, and B vitamins from oatstraw; iron, potassium, and chlorophyll from nettle.",
+    "food_as_medicine": "Oatstraw nourishes the nervous system and supports stress resilience, while nettle provides bioavailable minerals that support cellular repair and reduce inflammation."
+  },
+  {
+    "title_with_emoji": "🐟 Salmon Congee with Chives and Black Sesame",
+    "tags": ["anti-inflammatory", "omega-3", "comfort-food", "protein", "congee", "healing"],
+    "description": "A therapeutic rice porridge that combines omega-3 rich wild salmon with aromatic chives and mineral-dense black sesame seeds. This comforting dish provides easily digestible nutrition while supporting cellular repair and reducing inflammation.",
+    "yield_and_time": {
+      "yield": "6 servings",
+      "prep_time": "10 minutes",
+      "cook_time": "75 minutes",
+      "total_time": "85 minutes"
+    },
+    "ingredients": [
+      "5 cups filtered water",
+      "¼ cup organic white basmati rice",
+      "¼ cup organic brown basmati rice",
+      "1½ teaspoons sea salt",
+      "⅓ pound wild salmon fillet, skin removed, cut into 2-inch pieces",
+      "1 tablespoon unsalted butter",
+      "1 tablespoon toasted sesame oil",
+      "½ cup chives, thinly sliced (reserve some for garnish)",
+      "¼ cup toasted black sesame seeds"
+    ],
+    "instructions": [
+      "Combine water, both rices, and sea salt in heavy-bottomed pot",
+      "Bring to boil with lid off",
+      "Lower heat to maintain gentle simmer",
+      "Stir frequently and cook approximately 1 hour until creamy",
+      "Add salmon pieces, butter, and sesame oil",
+      "Stir gently to distribute fish",
+      "Cover and cook 5-7 minutes until salmon is opaque and flakes easily",
+      "Stir in sliced chives",
+      "Ladle into bowls and garnish with black sesame seeds and reserved chives"
+    ],
+    "chefrich_notes": "Frequent stirring creates creamy texture. Add salmon at end to prevent overcooking. Wild salmon provides superior omega-3 content over farmed varieties.",
+    "suggested_pairings": ["Pickled vegetables", "Miso soup", "Steamed greens"],
+    "nutritional_highlights": "High in omega-3 fatty acids from wild salmon, complete amino acids, and calcium from sesame seeds.",
+    "food_as_medicine": "Wild salmon's omega-3s EPA and DHA reduce inflammatory markers, while the gentle cooking method creates an easily digestible meal that supports gut healing."
+  },
+  {
+    "title_with_emoji": "🥬 Garlicky Green and Yellow Bean Salad",
+    "tags": ["anti-inflammatory", "vegetables", "garlic", "olive-oil", "fiber", "antioxidant"],
+    "description": "Vibrant green and yellow beans tossed in a potent garlic-infused olive oil dressing with a hint of cayenne heat. This colorful salad delivers powerful antioxidants and anti-inflammatory compounds while supporting cardiovascular health.",
+    "yield_and_time": {
+      "yield": "4 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "8 minutes",
+      "total_time": "23 minutes"
+    },
+    "ingredients": [
+      "½ pound yellow wax beans, cut diagonally in half",
+      "½ pound green string beans, cut diagonally in half",
+      "3 tablespoons extra virgin olive oil",
+      "3 cloves garlic, smashed and minced",
+      "¼ teaspoon sea salt",
+      "½ teaspoon cayenne pepper",
+      "1 teaspoon raw apple cider vinegar"
+    ],
+    "instructions": [
+      "Bring large pot of salted water to boil",
+      "Add yellow and green beans to boiling water",
+      "Cook 5-8 minutes until crisp-tender",
+      "Drain beans thoroughly",
+      "In mixing bowl, combine olive oil, minced garlic, and sea salt",
+      "Mash garlic with fork to release oils",
+      "Add cayenne pepper and apple cider vinegar",
+      "Mix dressing thoroughly",
+      "Toss hot beans with garlic dressing while still warm",
+      "Let marinate 20-30 minutes before serving"
+    ],
+    "chefrich_notes": "Diagonal cuts create more surface area for dressing absorption. Mashing garlic releases allicin compounds. Dress while beans are warm for better flavor integration.",
+    "suggested_pairings": ["Grilled fish", "Quinoa pilaf", "Fresh herb salad"],
+    "nutritional_highlights": "Rich in fiber, folate, and vitamin K from beans; allicin from garlic; oleocanthal from olive oil.",
+    "food_as_medicine": "Garlic's allicin compounds provide cardiovascular protection and antimicrobial benefits, while olive oil's oleocanthal acts as a natural anti-inflammatory similar to ibuprofen."
+  },
+  {
+    "title_with_emoji": "🥗 Marinated Slaw with Walnut-Flax Dressing",
+    "tags": ["anti-inflammatory", "omega-3", "fermented", "fiber", "probiotics", "raw"],
+    "description": "A vibrant pressed slaw featuring purple and green cabbage in a rich walnut-flax oil dressing with umeboshi and miso for umami depth. This nutrient-dense salad supports digestive health while delivering plant-based omega-3s and beneficial enzymes.",
+    "yield_and_time": {
+      "yield": "8 servings",
+      "prep_time": "20 minutes",
+      "pressing_time": "40 minutes",
+      "total_time": "60 minutes"
+    },
+    "ingredients": [
+      "4 cups red cabbage, thinly sliced",
+      "3 cups green cabbage, thinly sliced",
+      "½ red onion, minced",
+      "1½ cups carrot, grated",
+      "1 rib celery, cut in thin diagonal slices",
+      "¾ teaspoon sea salt",
+      "1½ cups toasted walnuts, coarsely chopped",
+      "⅓ cup walnut oil",
+      "2 tablespoons flax oil",
+      "2 small shallots, minced",
+      "½ teaspoon umeboshi vinegar",
+      "3 tablespoons fresh lemon juice",
+      "2 teaspoons mellow miso paste",
+      "1 teaspoon agave nectar"
+    ],
+    "instructions": [
+      "Combine red cabbage, green cabbage, minced onion, grated carrot, and celery in large bowl",
+      "Sprinkle with sea salt and massage with hands until vegetables release water",
+      "Place a plate directly on vegetables and weigh down with heavy object",
+      "Press for 30-40 minutes until vegetables have released significant liquid",
+      "Meanwhile, whisk together walnut oil, flax oil, minced shallots, umeboshi vinegar, lemon juice, miso paste, and agave nectar until creamy",
+      "Remove weight and plate from vegetables",
+      "Pour dressing over pressed vegetables and mix thoroughly",
+      "Let marinate 20 minutes for flavors to meld",
+      "Toss in toasted walnuts just before serving"
+    ],
+    "chefrich_notes": "Pressing vegetables creates natural fermentation and improves digestibility. Add walnuts at end to maintain crunch. Flax oil should not be heated.",
+    "suggested_pairings": ["Grilled tempeh", "Brown rice", "Roasted root vegetables"],
+    "nutritional_highlights": "High in omega-3 ALA from walnuts and flax oil, probiotics from fermentation, and glucosinolates from cabbage family vegetables.",
+    "food_as_medicine": "Pressed cabbage creates beneficial enzymes and probiotics that support gut health, while walnut and flax oils provide plant-based omega-3s that reduce systemic inflammation."
+  },
+  {
+    "title_with_emoji": "🌿 Anti-Inflammatory Golden Milk Latte",
+    "tags": ["anti-inflammatory", "turmeric", "warming", "dairy-free", "spices", "therapeutic"],
+    "description": "A warming, therapeutic beverage combining turmeric's curcumin with complementary spices and coconut milk. This golden elixir provides potent anti-inflammatory compounds while offering comfort and nourishment.",
+    "yield_and_time": {
+      "yield": "2 servings",
+      "prep_time": "5 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "15 minutes"
+    },
+    "ingredients": [
+      "2 cups coconut milk",
+      "1 teaspoon ground turmeric",
+      "½ teaspoon ground ginger",
+      "¼ teaspoon cinnamon",
+      "Pinch of black pepper",
+      "1 tablespoon raw honey or maple syrup",
+      "½ teaspoon vanilla extract"
+    ],
+    "instructions": [
+      "Heat coconut milk in small saucepan over medium heat",
+      "Whisk in turmeric, ginger, cinnamon, and black pepper",
+      "Simmer gently for 5 minutes, whisking occasionally",
+      "Remove from heat and stir in honey and vanilla",
+      "Strain if desired for smoother texture",
+      "Serve warm in mugs"
+    ],
+    "chefrich_notes": "Black pepper enhances turmeric absorption. Gentle heat preserves beneficial compounds. Strain for silky texture or leave unstrained for more fiber.",
+    "suggested_pairings": ["Evening meditation", "Light stretching", "Herbal crackers"],
+    "nutritional_highlights": "Rich in curcumin from turmeric, gingerol from ginger, and medium-chain triglycerides from coconut milk.",
+    "food_as_medicine": "Turmeric's curcumin provides powerful anti-inflammatory effects, enhanced by black pepper's piperine, while warming spices support circulation and digestion."
+  }
+]
 
 
 
