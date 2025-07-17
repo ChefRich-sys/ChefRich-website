@@ -443,5 +443,112 @@
     ],
     "chefrich_philosophy": "Proper handling of omega-3 oils preserves their therapeutic properties while creating finishing touches that elevate both flavor and nutrition"
   }
+},
+{
+  "beef_braising": {
+    "name": "Professional Beef Braising",
+    "category": "Meat Cooking",
+    "description": "A two-stage cooking method that sears beef first, then slow-cooks in liquid for maximum tenderness. Perfect for tough cuts like short ribs and chuck roast.",
+    "steps": [
+      "Heat oil in heavy-bottomed pot over medium-high heat",
+      "Season beef generously with salt and pepper",
+      "Brown meat on all sides to develop flavor",
+      "Add aromatics (onions, carrots, celery) and cook until softened",
+      "Add liquid (stock, wine) to cover meat partially",
+      "Cover tightly and cook in 375°F oven for 2-2.5 hours",
+      "Cool and refrigerate overnight for best results",
+      "Remove solidified fat and reduce braising liquid by half",
+      "Finish in 450°F oven for 15 minutes to caramelize exterior"
+    ],
+    "key_principles": [
+      "Searing develops crucial flavor compounds",
+      "Low, slow cooking breaks down collagen into gelatin",
+      "Overnight rest allows flavors to meld",
+      "Fat removal improves final texture",
+      "Sauce reduction concentrates flavors"
+    ],
+    "best_cuts": ["Short ribs", "Chuck roast", "Brisket", "Beef shoulder"]
+  },
+  "enzyme_tenderizing": {
+    "name": "Enzyme Tenderizing with Fruit",
+    "category": "Meat Preparation",
+    "description": "Using natural fruit enzymes like papain (papaya) and bromelain (kiwi) to break down tough muscle fibers before cooking.",
+    "steps": [
+      "Select ripe fruit containing active enzymes (kiwi, papaya, pineapple)",
+      "Puree fruit and combine with marinade ingredients",
+      "Apply to meat ensuring complete coverage",
+      "Marinate for 2-4 hours maximum to prevent over-tenderizing",
+      "Remove excess marinade before cooking",
+      "Cook immediately after marinating"
+    ],
+    "key_principles": [
+      "Enzymes break down protein fibers naturally",
+      "Time limits prevent mushiness",
+      "Fresh fruit more effective than dried",
+      "Works best on tough cuts like skirt steak"
+    ],
+    "best_cuts": ["Skirt steak", "Flank steak", "Chuck steaks", "Round steaks"]
+  },
+  "compound_butter_making": {
+    "name": "Professional Compound Butter",
+    "category": "Sauce Making",
+    "description": "A finishing technique that combines softened butter with herbs, aromatics, and seasonings to create a restaurant-quality sauce for grilled meats.",
+    "steps": [
+      "Soften butter to room temperature",
+      "Process herbs with olive oil in food processor until finely minced",
+      "Add softened butter, garlic, lemon zest, salt, and pepper",
+      "Process until completely incorporated",
+      "Transfer to parchment paper and roll into log shape",
+      "Wrap tightly in plastic wrap and refrigerate until firm",
+      "Slice into rounds for serving"
+    ],
+    "key_principles": [
+      "Butter must be properly softened for easy mixing",
+      "Herbs should be finely processed for smooth texture",
+      "Chilling firms butter for clean slicing",
+      "Can be made 3 days ahead or frozen for months"
+    ],
+    "best_uses": ["Grilled steaks", "Roasted meats", "Vegetables", "Bread"]
+  },
+  "grain_slicing": {
+    "name": "Slicing Against the Grain",
+    "category": "Meat Preparation",
+    "description": "A critical technique for maximizing tenderness by cutting across muscle fibers rather than parallel to them.",
+    "steps": [
+      "Identify the direction of muscle fibers (grain)",
+      "Position knife perpendicular to grain direction",
+      "Slice on a bias for larger surface area",
+      "Cut in smooth, even strokes",
+      "Maintain consistent thickness"
+    ],
+    "key_principles": [
+      "Shorter muscle fibers are easier to chew",
+      "Bias cuts create more surface area",
+      "Sharp knife essential for clean cuts",
+      "Especially important for tough cuts"
+    ],
+    "best_cuts": ["Skirt steak", "Flank steak", "London broil", "Tri-tip"]
+  },
+  "meat_aging": {
+    "name": "Beef Aging Techniques",
+    "category": "Meat Processing",
+    "description": "Controlled storage methods that improve tenderness and flavor through natural enzyme action and moisture loss.",
+    "steps": [
+      "Dry aging: Store large cuts in controlled temperature (34-38°F)",
+      "Maintain proper humidity (80-85%) and airflow",
+      "Use UV lights to prevent harmful bacteria growth",
+      "Age for 21-28 days for optimal results",
+      "Wet aging: Vacuum seal cuts in moisture-proof bags",
+      "Refrigerate for 7-21 days depending on cut size",
+      "Trim surface as needed before cooking"
+    ],
+    "key_principles": [
+      "Enzymes naturally break down muscle fibers",
+      "Controlled environment prevents spoilage",
+      "Aging increases tenderness and concentrates flavor",
+      "Proper temperature and humidity crucial for safety"
+    ],
+    "best_cuts": ["Ribeye", "Strip loin", "Tenderloin", "Prime cuts"]
+  }
 }
 
