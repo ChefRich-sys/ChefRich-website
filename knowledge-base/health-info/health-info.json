@@ -588,5 +588,124 @@
       "Preserved and fermented foods"
     ],
     "chefrich_philosophy": "Eating seasonally connects us to natural rhythms while providing the specific nutrients our bodies need for each season's challenges"
+  },
+  "beef_nutrition": {
+    "title": "Beef Nutritional Profile",
+    "category": "Protein Nutrition",
+    "content": "Beef provides complete protein with all essential amino acids, averaging 20g protein per 3.5oz serving. Muscle tissue composition: 75% water, 20% protein, 5% fat. Rich in bioavailable iron, zinc, vitamin B12, and other B vitamins essential for energy metabolism and neurological function.",
+    "key_nutrients": {
+      "protein": "Complete amino acid profile supports muscle maintenance and growth",
+      "iron": "Heme iron is more easily absorbed than plant-based iron",
+      "zinc": "Essential for immune function and wound healing",
+      "vitamin_b12": "Critical for neurological function and red blood cell formation",
+      "b_vitamins": "Support energy metabolism and nervous system health"
+    },
+    "health_benefits": [
+      "Supports muscle maintenance and growth",
+      "Provides bioavailable iron for oxygen transport",
+      "Contributes to immune system function",
+      "Supports neurological health through B vitamins"
+    ]
+  },
+  "beef_safety": {
+    "title": "Beef Safety and Quality Standards",
+    "category": "Food Safety",
+    "content": "Federal inspection is mandatory for all beef, ensuring meat comes from healthy animals and is safe for consumption. USDA grading (Prime, Choice, Select) indicates quality but is optional. Proper cooking temperatures prevent foodborne illness.",
+    "safe_temperatures": {
+      "rare": "130°F (54°C) - Red center",
+      "medium": "140-145°F (60-63°C) - Pink center",
+      "well_done": "160°F (71°C) - No pink"
+    },
+    "safety_practices": [
+      "Use meat thermometer for accurate temperatures",
+      "Allow meat to rest after cooking",
+      "Store properly refrigerated (3-5 days)",
+      "Freeze for longer storage (up to 12 months)",
+      "Choose federally inspected meat"
+    ],
+    "quality_indicators": [
+      "Bright red color indicates freshness",
+      "Proper marbling enhances flavor and tenderness",
+      "Federal inspection stamp guarantees safety",
+      "USDA grading indicates quality level"
+    ]
+  },
+  "beef_production": {
+    "title": "Beef Production Standards",
+    "category": "Production Methods",
+    "content": "Understanding beef production methods helps consumers make informed choices about nutrition, environmental impact, and personal values.",
+    "production_types": {
+      "conventional": {
+        "definition": "Standard production with no specific restrictions",
+        "hormones": "Permitted",
+        "antibiotics": "Permitted",
+        "feed": "May include GMOs, chemical pesticides, animal by-products"
+      },
+      "natural": {
+        "definition": "No artificial ingredients, varying raising claims",
+        "hormones": "Label claims vary",
+        "antibiotics": "Label claims vary",
+        "feed": "Standards vary by producer"
+      },
+      "organic": {
+        "definition": "Strict USDA National Organic Standards",
+        "hormones": "Prohibited",
+        "antibiotics": "Prohibited",
+        "feed": "100% organic, no GMOs, no animal by-products"
+      }
+    },
+    "health_considerations": [
+      "Organic beef eliminates hormone and antibiotic residues",
+      "Natural beef may have fewer additives but standards vary",
+      "Grass-fed beef often has different fatty acid profiles",
+      "Conventional beef is safe when properly handled and cooked"
+    ]
+  },
+  "beef_cooking_health": {
+    "title": "Healthy Beef Cooking Methods",
+    "category": "Cooking for Health",
+    "content": "Proper cooking techniques maximize nutrition while ensuring safety. Different cuts require different approaches for optimal health benefits.",
+    "cooking_principles": {
+      "protein_preservation": "Avoid excessive heat to prevent protein toughening",
+      "nutrient_retention": "Lower temperatures reduce nutrient loss",
+      "moisture_control": "Slow cooking with moisture breaks down collagen",
+      "fat_management": "Trim excess fat while preserving marbling for flavor"
+    },
+    "healthy_techniques": [
+      "Grilling and broiling allow fat to drain away",
+      "Braising tough cuts breaks down collagen into beneficial gelatin",
+      "Marinating with acidic ingredients can reduce harmful compounds",
+      "Enzyme tenderizing reduces cooking time and preserves nutrients"
+    ],
+    "nutritional_optimization": [
+      "Pair with vegetables for complete nutrition",
+      "Use herbs and spices for antioxidants",
+      "Include vitamin C sources to enhance iron absorption",
+      "Balance portion sizes with other food groups"
+    ]
+  },
+  "beef_digestibility": {
+    "title": "Beef Digestibility and Health",
+    "category": "Digestive Health",
+    "content": "Proper preparation and cooking methods can improve beef digestibility and maximize nutritional benefits.",
+    "digestibility_factors": {
+      "aging": "Natural enzymes break down muscle fibers, improving tenderness",
+      "marinating": "Acids and enzymes pre-digest proteins",
+      "mechanical_tenderizing": "Grinding, pounding, and proper slicing aid digestion",
+      "cooking_method": "Slow, moist cooking breaks down tough connective tissues"
+    },
+    "health_benefits": [
+      "High-quality protein supports muscle maintenance",
+      "Heme iron prevents iron deficiency anemia",
+      "B vitamins support energy metabolism",
+      "Zinc supports immune function and wound healing"
+    ],
+    "considerations": [
+      "Portion control supports balanced nutrition",
+      "Proper cooking temperatures ensure safety",
+      "Pairing with fiber-rich foods aids digestion",
+      "Individual tolerance may vary"
+    ]
   }
 }
+
