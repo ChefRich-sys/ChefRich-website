@@ -914,7 +914,82 @@
   "suggested_pairings": ["sourdough bread", "sauerkraut", "green salad"],
   "nutritional_highlights": "High in plant protein, fiber, and complex carbohydrates. Sweet potatoes provide beta-carotene and potassium.",
   "food_as_medicine": "Split peas support digestive health and provide sustained energy, while sweet potatoes boost immune function with vitamin A."
+},
+    {
+  "title_with_emoji": "🌶️ Curry-Spiced Yellow Split Pea Soup",
+  "tags": ["plant-based", "protein-rich", "curry-spiced", "warming", "anti-inflammatory"],
+  "description": "A warming, curry-spiced split pea soup that combines traditional comfort with anti-inflammatory spices. Enhanced with sweet potatoes and fresh greens for complete nutrition.",
+  "yield_and_time": {
+    "yield": "4-6 servings",
+    "prep_time": "20 minutes",
+    "cook_time": "2 hours",
+    "total_time": "2 hours 20 minutes"
+  },
+  "ingredients": [
+    "1 onion, diced",
+    "1 carrot, diced",
+    "2 ribs celery, diced",
+    "½ pound sweet potatoes, diced",
+    "2 tablespoons extra virgin olive oil",
+    "1-2 teaspoons curry powder",
+    "1 cup yellow split peas, soaked",
+    "3½-4 cups water",
+    "1 teaspoon sea salt",
+    "½ pound spinach or Swiss chard, chopped"
+  ],
+  "instructions": [
+    "Heat olive oil in medium pot over medium heat",
+    "Sauté onion, carrot, celery, and sweet potatoes until onions are translucent",
+    "Stir in curry powder and cook 1 minute until fragrant",
+    "Add yellow split peas and 3 cups water, cover and bring to boil",
+    "Reduce heat and simmer 1 to 1½ hours until peas dissolve",
+    "Add ½ to 1 cup more water with salt, simmer partially covered 15 minutes",
+    "Stir in spinach or chard, cook 2 minutes until tender"
+  ],
+  "chefrich_notes": "Toasting curry powder briefly enhances its flavor. For smoother soup, use immersion blender after cooking.",
+  "suggested_pairings": ["naan bread", "cucumber yogurt", "basmati rice"],
+  "nutritional_highlights": "High in plant protein and fiber. Curry spices provide anti-inflammatory compounds, sweet potatoes add beta-carotene.",
+  "food_as_medicine": "Curry spices support circulation and reduce inflammation, while split peas provide sustained energy and digestive support."
+},
+    {
+  "title_with_emoji": "🥗 Vibrant Bean Salad",
+  "tags": ["plant-based", "protein-rich", "fresh", "customizable", "meal-prep"],
+  "description": "A fresh, protein-packed salad that can be made with any bean variety. Dressed with a tangy lime vinaigrette and enhanced with crisp vegetables and fresh herbs.",
+  "yield_and_time": {
+    "yield": "4-6 servings",
+    "prep_time": "15 minutes",
+    "cook_time": "Variable (bean cooking)",
+    "total_time": "Variable plus 30 minutes marinating"
+  },
+  "ingredients": [
+    "1 cup beans, soaked and cooked",
+    "3 cups filtered water (for cooking)",
+    "1 tablespoon Dijon mustard",
+    "2 tablespoons fresh lime juice",
+    "1 tablespoon apple cider vinegar",
+    "½ to 1 teaspoon sea salt",
+    "¼ cup extra virgin olive oil",
+    "3 red radishes, finely diced",
+    "3 scallions, minced",
+    "¼ cup fresh parsley, minced"
+  ],
+  "instructions": [
+    "Drain and rinse soaked beans thoroughly",
+    "Cook beans in water until tender (or pressure cook as appropriate)",
+    "Drain beans while still warm",
+    "Whisk together mustard, lime juice, vinegar, salt, and olive oil",
+    "Pour dressing over warm beans and toss gently",
+    "Allow beans to cool to room temperature",
+    "Add radishes, scallions, and parsley",
+    "Let marinate 30 minutes before serving"
+  ],
+  "chefrich_notes": "For black soybeans, soak 12 hours with salt and pressure cook. For black-eyed peas, replace radishes with sun-dried tomatoes.",
+  "suggested_pairings": ["leafy greens", "grilled vegetables", "quinoa"],
+  "nutritional_highlights": "High in plant protein, fiber, and healthy fats. Fresh herbs provide antioxidants and vitamins.",
+  "food_as_medicine": "Beans provide complete plant protein and fiber for digestive health, while fresh vegetables add enzymes and vitamins."
 }
+
+
 
 
 
