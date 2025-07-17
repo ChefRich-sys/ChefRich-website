@@ -385,7 +385,381 @@
       ],
       "chefrich_notes": "Food safety is foundational to healing cuisine - choose ingredients that nourish rather than harm"
     }
-  
+  },
+  "wild_salmon": {
+    "category": "omega_3_protein",
+    "name": "Wild-Caught Salmon",
+    "description": "Premium source of omega-3 fatty acids EPA and DHA with superior anti-inflammatory properties",
+    "nutritional_profile": {
+      "protein": "25g per 100g",
+      "omega_3_content": "1.8g EPA/DHA per 100g",
+      "key_nutrients": ["vitamin D", "selenium", "B vitamins", "astaxanthin"]
+    },
+    "anti_inflammatory_compounds": [
+      "EPA (eicosapentaenoic acid) - reduces inflammatory markers",
+      "DHA (docosahexaenoic acid) - supports brain health",
+      "Astaxanthin - powerful antioxidant",
+      "Selenium - supports antioxidant enzyme function"
+    ],
+    "selection_guidelines": [
+      "Choose wild-caught over farmed for higher omega-3 content",
+      "Look for bright, firm flesh without fishy odor",
+      "Alaskan salmon is generally most sustainable",
+      "Frozen wild salmon often fresher than fresh farmed"
+    ],
+    "therapeutic_benefits": [
+      "Reduces systemic inflammation",
+      "Supports cardiovascular health",
+      "Enhances brain function and mood",
+      "Supports joint health and mobility"
+    ],
+    "culinary_applications": [
+      "Gentle poaching preserves omega-3 content",
+      "Low-temperature roasting maintains nutrients",
+      "Raw preparations like sashimi maximize benefits",
+      "Avoid high-heat cooking which oxidizes oils"
+    ],
+    "chefrich_notes": "Wild salmon is nature's most bioavailable source of anti-inflammatory omega-3s, making it a cornerstone of therapeutic cuisine"
+  },
+  "organic_blueberries": {
+    "category": "antioxidant_fruit",
+    "name": "Organic Blueberries",
+    "description": "Antioxidant powerhouse containing anthocyanins that cross the blood-brain barrier to reduce neuroinflammation",
+    "nutritional_profile": {
+      "antioxidants": "Highest ORAC value among common fruits",
+      "fiber": "3.6g per cup",
+      "key_nutrients": ["vitamin C", "vitamin K", "manganese", "folate"]
+    },
+    "anti_inflammatory_compounds": [
+      "Anthocyanins - reduce oxidative stress",
+      "Quercetin - natural antihistamine",
+      "Resveratrol - supports cellular repair",
+      "Pterostilbene - enhances cognitive function"
+    ],
+    "selection_guidelines": [
+      "Choose organic to avoid pesticide residues",
+      "Look for firm, plump berries with natural bloom",
+      "Frozen organic berries retain most nutrients",
+      "Wild blueberries have higher antioxidant content"
+    ],
+    "therapeutic_benefits": [
+      "Reduces neuroinflammation and supports brain health",
+      "Improves memory and cognitive function",
+      "Supports healthy blood sugar levels",
+      "Enhances immune system function"
+    ],
+    "culinary_applications": [
+      "Raw consumption maximizes antioxidant content",
+      "Gentle heating preserves most beneficial compounds",
+      "Frozen berries create natural thickness in smoothies",
+      "Pair with healthy fats for improved absorption"
+    ],
+    "chefrich_notes": "Blueberries are nature's brain food, providing concentrated antioxidants that protect against cognitive decline and support neuroplasticity"
+  },
+  "fresh_turmeric": {
+    "category": "healing_spice",
+    "name": "Fresh Turmeric Root",
+    "description": "Golden anti-inflammatory root containing curcumin, one of nature's most powerful anti-inflammatory compounds",
+    "nutritional_profile": {
+      "curcumin_content": "3-5% by weight",
+      "key_nutrients": ["vitamin C", "magnesium", "potassium", "iron"]
+    },
+    "anti_inflammatory_compounds": [
+      "Curcumin - blocks inflammatory pathways",
+      "Turmerones - enhance curcumin absorption",
+      "Bisdemethoxycurcumin - supports liver function",
+      "Demethoxycurcumin - provides antioxidant protection"
+    ],
+    "selection_guidelines": [
+      "Choose firm, plump roots with bright orange color",
+      "Fresh turmeric is more potent than dried",
+      "Store in refrigerator wrapped in paper towel",
+      "Organic varieties avoid harmful pesticides"
+    ],
+    "therapeutic_benefits": [
+      "Reduces systemic inflammation",
+      "Supports joint health and mobility",
+      "Enhances liver detoxification",
+      "Supports cardiovascular health"
+    ],
+    "bioavailability_enhancers": [
+      "Black pepper (piperine) increases absorption 2000%",
+      "Healthy fats improve curcumin uptake",
+      "Ginger creates synergistic anti-inflammatory effects",
+      "Heat activation releases more curcumin"
+    ],
+    "culinary_applications": [
+      "Grate fresh into curries and stews",
+      "Juice for concentrated anti-inflammatory drinks",
+      "Blend into golden milk and smoothies",
+      "Always combine with black pepper and healthy fats"
+    ],
+    "chefrich_notes": "Fresh turmeric is therapeutic gold, providing concentrated curcumin that acts as nature's most powerful anti-inflammatory medicine"
+  },
+  "fresh_ginger": {
+    "category": "healing_spice",
+    "name": "Fresh Ginger Root",
+    "description": "Warming anti-inflammatory root containing gingerol compounds that reduce inflammation and support digestion",
+    "nutritional_profile": {
+      "gingerol_content": "1-4% by weight",
+      "key_nutrients": ["potassium", "magnesium", "copper", "manganese"]
+    },
+    "anti_inflammatory_compounds": [
+      "Gingerol - reduces inflammatory markers",
+      "Shogaol - provides pain relief",
+      "Zingerone - supports digestive health",
+      "Paradol - enhances circulation"
+    ],
+    "selection_guidelines": [
+      "Choose firm, smooth roots with tight skin",
+      "Fresh ginger is more potent than dried",
+      "Store at room temperature for short-term use",
+      "Refrigerate for longer storage up to 3 weeks"
+    ],
+    "therapeutic_benefits": [
+      "Reduces inflammatory markers",
+      "Supports digestive health and reduces nausea",
+      "Enhances circulation and warmth",
+      "Provides natural pain relief"
+    ],
+    "preparation_methods": [
+      "Grate fresh for maximum potency",
+      "Juice for concentrated anti-inflammatory drinks",
+      "Slice thin for tea and infusions",
+      "Blend into smoothies and dressings"
+    ],
+    "culinary_applications": [
+      "Fresh ginger juice in beverages",
+      "Grated ginger in stir-fries and curries",
+      "Sliced ginger in broths and teas",
+      "Candied ginger for digestive support"
+    ],
+    "chefrich_notes": "Fresh ginger is warming medicine that ignites digestive fire while providing potent anti-inflammatory compounds that support whole-body healing"
+  },
+  "raw_walnuts": {
+    "category": "omega_3_nuts",
+    "name": "Raw Walnuts",
+    "description": "Premium source of plant-based omega-3 ALA with anti-inflammatory properties and brain-supporting nutrients",
+    "nutritional_profile": {
+      "omega_3_content": "2.5g ALA per ounce",
+      "protein": "4g per ounce",
+      "key_nutrients": ["vitamin E", "magnesium", "phosphorus", "copper"]
+    },
+    "anti_inflammatory_compounds": [
+      "Alpha-linolenic acid (ALA) - plant-based omega-3",
+      "Ellagic acid - antioxidant protection",
+      "Gamma-tocopherol - vitamin E form",
+      "Melatonin - supports sleep and cellular repair"
+    ],
+    "selection_guidelines": [
+      "Choose raw, unroasted nuts for maximum benefits",
+      "Store in refrigerator to prevent rancidity",
+      "Buy from high-turnover sources for freshness",
+      "Organic varieties avoid pesticide residues"
+    ],
+    "therapeutic_benefits": [
+      "Reduces systemic inflammation",
+      "Supports brain health and cognitive function",
+      "Enhances cardiovascular health",
+      "Provides sustained energy and satiety"
+    ],
+    "preparation_methods": [
+      "Soak overnight to improve digestibility",
+      "Toast lightly to enhance flavor without destroying nutrients",
+      "Chop coarsely for salads and grain dishes",
+      "Blend into creamy dressings and sauces"
+    ],
+    "culinary_applications": [
+      "Raw in salads for maximum omega-3 content",
+      "Toasted in grain dishes for enhanced flavor",
+      "Ground into walnut butter for spreads",
+      "Blended into oil for finishing dishes"
+    ],
+    "chefrich_notes": "Raw walnuts are brain food, providing plant-based omega-3s that support cognitive function while delivering anti-inflammatory benefits throughout the body"
+  },
+  "coconut_milk": {
+    "category": "healthy_fat",
+    "name": "Full-Fat Coconut Milk",
+    "description": "Rich source of medium-chain triglycerides (MCTs) that provide sustained energy and anti-inflammatory benefits",
+    "nutritional_profile": {
+      "mct_content": "65% of fats are MCTs",
+      "saturated_fat": "Primarily lauric acid",
+      "key_nutrients": ["iron", "magnesium", "potassium", "zinc"]
+    },
+    "anti_inflammatory_compounds": [
+      "Lauric acid - antimicrobial and anti-inflammatory",
+      "Capric acid - supports immune function",
+      "Medium-chain triglycerides - reduce inflammation",
+      "Antioxidants - protect against oxidative stress"
+    ],
+    "selection_guidelines": [
+      "Choose full-fat versions for maximum benefits",
+      "Avoid brands with additives and gums",
+      "BPA-free cans or glass containers preferred",
+      "Organic varieties avoid pesticide residues"
+    ],
+    "therapeutic_benefits": [
+      "Provides sustained energy without blood sugar spikes",
+      "Supports immune system function",
+      "Enhances absorption of fat-soluble vitamins",
+      "Reduces inflammation markers"
+    ],
+    "culinary_applications": [
+      "Smoothies for creamy texture and sustained energy",
+      "Curries and stews for rich, satisfying flavor",
+      "Golden milk and therapeutic beverages",
+      "Desserts as dairy-free cream substitute"
+    ],
+    "chefrich_notes": "Full-fat coconut milk provides therapeutic MCTs that fuel the body efficiently while delivering anti-inflammatory compounds that support immune health"
+  },
+  "pomegranate": {
+    "category": "antioxidant_fruit",
+    "name": "Pomegranate",
+    "description": "Antioxidant-rich fruit containing powerful polyphenols that protect against oxidative stress and inflammation",
+    "nutritional_profile": {
+      "antioxidants": "Exceptional ORAC value",
+      "fiber": "7g per cup of arils",
+      "key_nutrients": ["vitamin C", "vitamin K", "folate", "potassium"]
+    },
+    "anti_inflammatory_compounds": [
+      "Punicalagins - powerful antioxidants",
+      "Ellagic acid - anti-inflammatory properties",
+      "Anthocyanins - reduce oxidative stress",
+      "Tannins - provide astringent benefits"
+    ],
+    "selection_guidelines": [
+      "Choose heavy fruits with unblemished skin",
+      "Ripe pomegranates have deep red color",
+      "Fresh arils should be plump and ruby-red",
+      "100% pomegranate juice with no added sugars"
+    ],
+    "therapeutic_benefits": [
+      "Reduces oxidative stress and inflammation",
+      "Supports cardiovascular health",
+      "Enhances immune system function",
+      "Provides anti-aging antioxidants"
+    ],
+    "culinary_applications": [
+      "Fresh arils in salads and grain bowls",
+      "100% juice in beverages and marinades",
+      "Pomegranate molasses for tangy flavor",
+      "Dried arils for concentrated nutrition"
+    ],
+    "chefrich_notes": "Pomegranate is nature's ruby medicine, providing concentrated antioxidants that protect against cellular damage while supporting cardiovascular and immune health"
+  },
+  "oatstraw": {
+    "category": "therapeutic_herb",
+    "name": "Oatstraw (Avena sativa)",
+    "description": "Nourishing herb that supports nervous system health and provides bioavailable minerals for stress resilience",
+    "nutritional_profile": {
+      "minerals": "High in silica, calcium, magnesium",
+      "key_nutrients": ["B vitamins", "vitamin A", "iron", "zinc"]
+    },
+    "therapeutic_compounds": [
+      "Silica - supports connective tissue health",
+      "Saponins - provide gentle cleansing",
+      "Flavonoids - antioxidant protection",
+      "Alkaloids - support nervous system"
+    ],
+    "selection_guidelines": [
+      "Choose organic, wild-harvested when possible",
+      "Green oatstraw is more potent than dried",
+      "Store in dark, cool places in airtight containers",
+      "Source from reputable herbal suppliers"
+    ],
+    "therapeutic_benefits": [
+      "Nourishes and calms nervous system",
+      "Supports stress resilience and adaptation",
+      "Provides bioavailable minerals",
+      "Enhances sleep quality and relaxation"
+    ],
+    "preparation_methods": [
+      "Long-steep infusion for maximum mineral extraction",
+      "Combine with other nourishing herbs",
+      "Cold infusion preserves heat-sensitive compounds",
+      "Tincture for concentrated preparation"
+    ],
+    "culinary_applications": [
+      "Nourishing herbal infusions",
+      "Blended into smoothies for mineral boost",
+      "Added to broths for nutritional enhancement",
+      "Combined with other herbs for therapeutic teas"
+    ],
+    "chefrich_notes": "Oatstraw is gentle medicine that nourishes the nervous system while providing essential minerals that support stress resilience and overall vitality"
+  },
+  "stinging_nettle": {
+    "category": "therapeutic_herb",
+    "name": "Stinging Nettle (Urtica dioica)",
+    "description": "Mineral-dense herb providing bioavailable nutrients that support immune function and reduce inflammation",
+    "nutritional_profile": {
+      "minerals": "Exceptional iron, potassium, calcium content",
+      "key_nutrients": ["vitamin A", "vitamin C", "vitamin K", "chlorophyll"]
+    },
+    "therapeutic_compounds": [
+      "Histamine - supports immune modulation",
+      "Formic acid - provides antimicrobial benefits",
+      "Chlorophyll - blood-building properties",
+      "Lectins - immune system support"
+    ],
+    "selection_guidelines": [
+      "Choose organic, wild-harvested sources",
+      "Fresh spring nettles are most potent",
+      "Dried nettles retain most nutritional value",
+      "Store in dark, cool places away from moisture"
+    ],
+    "therapeutic_benefits": [
+      "Provides bioavailable minerals and vitamins",
+      "Supports immune system function",
+      "Reduces allergic responses naturally",
+      "Builds blood and supports energy"
+    ],
+    "preparation_methods": [
+      "Long-steep infusion for mineral extraction",
+      "Steamed fresh as nutritious green vegetable",
+      "Dried leaves for tea and infusions",
+      "Tincture for concentrated herbal medicine"
+    ],
+    "culinary_applications": [
+      "Nourishing herbal teas and infusions",
+      "Fresh steamed as spinach substitute",
+      "Added to soups and stews for nutrition",
+      "Blended into green smoothies"
+    ],
+    "chefrich_notes": "Stinging nettle is nature's multivitamin, providing concentrated minerals and nutrients that build blood, support immunity, and nourish on a cellular level"
+  },
+  "extra_virgin_olive_oil": {
+    "category": "anti_inflammatory_oil",
+    "name": "Extra Virgin Olive Oil",
+    "description": "Premium oil containing oleocanthal, a compound that provides anti-inflammatory effects similar to ibuprofen",
+    "nutritional_profile": {
+      "monounsaturated_fats": "73% oleic acid",
+      "antioxidants": "Vitamin E, polyphenols",
+      "key_compounds": ["oleocanthal", "squalene", "phenolic compounds"]
+    },
+    "anti_inflammatory_compounds": [
+      "Oleocanthal - natural anti-inflammatory",
+      "Hydroxytyrosol - powerful antioxidant",
+      "Oleuropein - supports cardiovascular health",
+      "Squalene - supports skin and cellular health"
+    ],
+    "selection_guidelines": [
+      "Choose cold-pressed, extra virgin varieties",
+      "Look for harvest date within 18 months",
+      "Dark glass bottles protect from light oxidation",
+      "Single-origin oils often have superior quality"
+    ],
+    "therapeutic_benefits": [
+      "Reduces inflammation throughout the body",
+      "Supports cardiovascular health",
+      "Provides antioxidant protection",
+      "Enhances absorption of fat-soluble vitamins"
+    ],
+    "culinary_applications": [
+      "Raw drizzling for maximum antioxidant content",
+      "Low-heat cooking to preserve beneficial compounds",
+      "Salad dressings and finishing oils",
+      "Infused with herbs for enhanced flavor"
+    ],
+"chefrich_notes": "Extra virgin olive oil is liquid gold, providing oleocanthal that acts as natural anti-inflammatory medicine while delivering superior flavor and nutrition"
   }
 }
-
