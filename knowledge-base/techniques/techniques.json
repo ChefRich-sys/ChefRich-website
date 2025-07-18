@@ -442,9 +442,7 @@
       "Add to morning smoothies for sustained energy"
     ],
     "chefrich_philosophy": "Proper handling of omega-3 oils preserves their therapeutic properties while creating finishing touches that elevate both flavor and nutrition"
-  }
-},
-{
+  },
   "beef_braising": {
     "name": "Professional Beef Braising",
     "category": "Meat Cooking",
@@ -549,6 +547,94 @@
       "Proper temperature and humidity crucial for safety"
     ],
     "best_cuts": ["Ribeye", "Strip loin", "Tenderloin", "Prime cuts"]
-  }
+  },
+  "dash_diet_cooking": {
+  "name": "DASH Diet Cooking",
+  "category": "heart_healthy_techniques",
+  "description": "Evidence-based cooking approach following Dietary Approaches to Stop Hypertension principles for cardiovascular health",
+  "steps": [
+    "Emphasize fruits, vegetables, whole grains, and lean proteins",
+    "Limit sodium to 1,500mg daily through low-sodium ingredient selection",
+    "Include 2-3 servings of low-fat dairy per day",
+    "Choose healthy fats like olive oil and nuts in moderation",
+    "Minimize processed foods, red meat, and added sugars",
+    "Control portion sizes according to DASH guidelines",
+    "Season with herbs, spices, and citrus instead of salt"
+  ],
+  "professional_tips": [
+    "Read nutrition labels to identify hidden sodium sources",
+    "Rinse canned vegetables and beans to reduce sodium content",
+    "Use salt-free seasoning blends for flavor enhancement",
+    "Prep vegetables in advance to encourage consumption"
+  ],
+  "health_benefits": "Clinically proven to lower blood pressure and LDL cholesterol while supporting overall cardiovascular health",
+  "chefrich_philosophy": "DASH diet cooking transforms medical nutrition therapy into delicious, sustainable meals that heal the heart"
+},
+"therapeutic_simmering": {
+  "name": "Therapeutic Simmering",
+  "category": "heart_healthy_techniques",
+  "description": "Gentle, low-temperature cooking method that preserves heart-protective compounds while developing deep flavors",
+  "steps": [
+    "Heat liquid to just below boiling point (185-195°F)",
+    "Add aromatic vegetables and herbs for base flavor",
+    "Introduce garlic and other alliums for cardiovascular benefits",
+    "Maintain gentle simmer to preserve heat-sensitive compounds",
+    "Simmer covered to retain steam and concentrate flavors",
+    "Allow natural reduction for intensified therapeutic properties",
+    "Finish with fresh herbs to maximize antioxidant content"
+  ],
+  "professional_tips": [
+    "Use heavy-bottomed pots for even heat distribution",
+    "Monitor temperature to prevent boiling which destroys compounds",
+    "Add delicate ingredients in final minutes of cooking",
+    "Save cooking liquid for soups and sauces"
+  ],
+  "health_benefits": "Preserves allicin in garlic, antioxidants in vegetables, and heart-protective compounds in herbs",
+  "chefrich_philosophy": "Therapeutic simmering honors ingredients' healing properties while creating deeply satisfying, medicinal broths"
+},
+"anti_inflammatory_blending": {
+  "name": "Anti-Inflammatory Blending",
+  "category": "heart_healthy_techniques",
+  "description": "Technique for combining anti-inflammatory ingredients to maximize bioavailability and therapeutic synergy",
+  "steps": [
+    "Combine cooked ingredients while still warm for optimal blending",
+    "Add liquid gradually to achieve desired consistency",
+    "Include healthy fats to enhance absorption of fat-soluble compounds",
+    "Blend until completely smooth to break down cell walls",
+    "Strain if ultra-smooth texture is desired",
+    "Adjust seasoning after blending to balance flavors",
+    "Serve immediately or store properly to preserve nutrients"
+  ],
+  "professional_tips": [
+    "Use high-powered blender for smoothest consistency",
+    "Add acid (lemon juice) to preserve color and nutrients",
+    "Blend in small batches for even processing",
+    "Reserve some cooking liquid for consistency adjustments"
+  ],
+  "health_benefits": "Increases bioavailability of anti-inflammatory compounds and creates easily digestible, heart-protective preparations",
+  "chefrich_philosophy": "Anti-inflammatory blending transforms whole foods into concentrated healing elixirs that nourish on a cellular level"
+},
+"heart_protective_seasoning": {
+  "name": "Heart-Protective Seasoning",
+  "category": "heart_healthy_techniques",
+  "description": "Strategic use of herbs, spices, and aromatics to enhance cardiovascular benefits while reducing sodium dependence",
+  "steps": [
+    "Toast whole spices to release essential oils and compounds",
+    "Combine anti-inflammatory spices like turmeric, ginger, and garlic",
+    "Use fresh herbs for maximum antioxidant content",
+    "Add citrus zest for brightness without sodium",
+    "Include umami-rich ingredients like miso or nutritional yeast",
+    "Layer seasonings throughout cooking for complex flavor",
+    "Finish with heart-healthy oils infused with herbs"
+  ],
+  "professional_tips": [
+    "Grind spices fresh for maximum potency",
+    "Store spice blends in airtight containers away from light",
+    "Use 2-3 times more herbs and spices when reducing salt",
+    "Add black pepper to turmeric for enhanced absorption"
+  ],
+  "health_benefits": "Provides cardiovascular protection through antioxidants, anti-inflammatory compounds, and circulation-supporting ingredients",
+  "chefrich_philosophy": "Heart-protective seasoning proves that healing foods can be intensely flavorful while supporting optimal cardiovascular wellness"
+}
 }
 
