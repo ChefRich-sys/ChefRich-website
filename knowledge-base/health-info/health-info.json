@@ -705,7 +705,223 @@
       "Proper cooking temperatures ensure safety",
       "Pairing with fiber-rich foods aids digestion",
       "Individual tolerance may vary"
+    ],
+    "coronary_heart_disease_prevention": {
+  "category": "cardiovascular_health",
+  "name": "Coronary Heart Disease Prevention and Management",
+  "description": "Comprehensive approach to preventing and managing coronary heart disease through nutrition and lifestyle interventions",
+  "risk_factors": {
+    "dietary_factors": [
+      "Trans fats and hydrogenated oils",
+      "Refined sugars and processed carbohydrates",
+      "Excessive sodium intake",
+      "Oxidized cholesterol from processed foods",
+      "Heated milk proteins",
+      "Excess omega-6 from refined vegetable oils"
+    ],
+    "lifestyle_factors": [
+      "Lack of physical activity",
+      "Chronic stress and poor stress management",
+      "Smoking and tobacco use",
+      "Excessive alcohol consumption",
+      "Poor sleep quality and insufficient sleep"
+    ],
+    "nutritional_deficiencies": [
+      "Vitamin C and E deficiency",
+      "Folate, B6, and B12 deficiency leading to elevated homocysteine",
+      "Magnesium and selenium deficiency",
+      "Omega-3 fatty acid deficiency"
     ]
+  },
+  "prevention_strategies": [
+    "Follow anti-inflammatory diet rich in whole foods",
+    "Maintain healthy weight through balanced nutrition",
+    "Exercise regularly to strengthen cardiovascular system",
+    "Manage stress through relaxation techniques",
+    "Avoid smoking and limit alcohol consumption",
+    "Ensure adequate sleep for cardiovascular recovery"
+  ],
+  "chefrich_philosophy": "Coronary heart disease prevention begins in the kitchen with every meal choice supporting cardiovascular wellness"
+},
+"dash_diet_implementation": {
+  "category": "cardiovascular_nutrition",
+  "name": "DASH Diet Implementation for Heart Health",
+  "description": "Evidence-based dietary approach proven to reduce blood pressure and cholesterol levels",
+  "daily_serving_guidelines": {
+    "grains": "7-8 servings (preferably whole grains)",
+    "vegetables": "4-5 servings",
+    "fruits": "4-5 servings",
+    "low_fat_dairy": "2-3 servings",
+    "lean_proteins": "2 or fewer servings",
+    "nuts_seeds_beans": "4-5 servings per week",
+    "healthy_fats": "2-3 servings",
+    "sweets": "5 servings per week"
+  },
+  "serving_size_examples": {
+    "grains": "1 slice bread, 1/2 cup cooked rice/pasta/cereal",
+    "vegetables": "1 cup leafy greens, 1/2 cup other vegetables",
+    "fruits": "1 medium fruit, 1/2 cup fresh/frozen fruit",
+    "dairy": "1 cup milk/yogurt, 1.5 oz cheese",
+    "protein": "3 oz cooked lean meat/poultry/fish",
+    "nuts_seeds": "1/3 cup nuts, 2 tbsp seeds"
+  },
+  "implementation_tips": [
+    "Gradually increase vegetable and fruit portions",
+    "Choose whole grain versions of breads and cereals",
+    "Read labels to identify low-sodium options",
+    "Prepare meals at home to control ingredients",
+    "Season with herbs and spices instead of salt"
+  ],
+  "chefrich_notes": "DASH diet success comes from making sustainable changes that become lifestyle habits rather than temporary restrictions"
+},
+"foods_to_avoid_heart_health": {
+  "category": "cardiovascular_nutrition",
+  "name": "Foods to Avoid for Heart Health",
+  "description": "Specific foods and ingredients that increase cardiovascular disease risk",
+  "trans_fats_and_hydrogenated_oils": {
+    "sources": ["margarine", "vegetable shortening", "partially hydrogenated oils", "many processed foods"],
+    "health_impacts": [
+      "Raise LDL (bad) cholesterol and lower HDL (good) cholesterol",
+      "Increase inflammation throughout the body",
+      "Promote insulin resistance and diabetes risk",
+      "Reduce immune function and cellular integrity"
+    ]
+  },
+  "refined_sugars": {
+    "sources": ["white sugar", "high fructose corn syrup", "refined carbohydrates"],
+    "health_impacts": [
+      "Increase triglycerides and harmful cholesterol",
+      "Promote inflammation and oxidative stress",
+      "Deplete B vitamins and essential minerals",
+      "Contribute to obesity and metabolic syndrome"
+    ]
+  },
+  "processed_foods": {
+    "sources": ["canned foods", "frozen meals", "processed meats", "refined snacks"],
+    "concerns": [
+      "High sodium content increases blood pressure",
+      "Added preservatives and chemicals",
+      "Oxidized fats from processing",
+      "Reduced nutritional value"
+    ]
+  },
+  "chefrich_recommendation": "Replace processed foods with whole, minimally processed alternatives prepared with heart-healthy cooking methods"
+},
+"therapeutic_foods_heart_health": {
+  "category": "cardiovascular_nutrition",
+  "name": "Therapeutic Foods for Heart Health",
+  "description": "Specific foods with scientifically proven cardiovascular benefits",
+  "tier_1_superfoods": {
+    "garlic": "Reduces cholesterol, blood pressure, and clotting risk",
+    "wild_salmon": "Rich in omega-3 fatty acids for anti-inflammatory benefits",
+    "leafy_greens": "High in folate, nitrates, and antioxidants",
+    "berries": "Anthocyanins and antioxidants for arterial protection",
+    "nuts": "Healthy fats and protein for cholesterol management"
+  },
+  "tier_2_beneficial_foods": {
+    "olive_oil": "Monounsaturated fats and antioxidants",
+    "avocados": "Healthy fats and potassium for blood pressure",
+    "oats": "Beta-glucan fiber for cholesterol reduction",
+    "beans": "Protein and fiber for heart health",
+    "pomegranates": "Antioxidants for arterial health"
+  },
+  "therapeutic_spices": {
+    "turmeric": "Anti-inflammatory curcumin compounds",
+    "ginger": "Circulation support and anti-inflammatory effects",
+    "cinnamon": "Blood sugar regulation and antioxidants",
+    "cayenne": "Circulation enhancement and metabolic support"
+  },
+  "chefrich_philosophy": "Therapeutic foods provide concentrated healing compounds that support cardiovascular health with every meal"
+},
+"heart_healthy_cooking_strategies": {
+  "category": "culinary_medicine",
+  "name": "Heart-Healthy Cooking Strategies",
+  "description": "Cooking methods and techniques that maximize cardiovascular benefits",
+  "cooking_methods": [
+    "Steam vegetables to preserve nutrients and avoid added fats",
+    "Sauté with heart-healthy oils like olive oil at moderate temperatures",
+    "Roast vegetables with herbs and spices for flavor without salt",
+    "Grill proteins to allow excess fat to drain away",
+    "Poach fish in aromatic broths for gentle cooking"
+  ],
+  "flavor_enhancement": [
+    "Use fresh herbs and spices instead of salt for seasoning",
+    "Add citrus zest and juice for brightness",
+    "Include garlic and onions for cardiovascular benefits",
+    "Use vinegars and fermented foods for umami depth",
+    "Toast spices to intensify flavors naturally"
+  ],
+  "meal_planning": [
+    "Plan meals around vegetables and whole grains",
+    "Include omega-3 rich fish 2-3 times per week",
+    "Prepare large batches of beans and whole grains",
+    "Keep heart-healthy snacks readily available",
+    "Meal prep vegetables for quick, healthy meals"
+  ],
+  "chefrich_notes": "Heart-healthy cooking strategies prove that therapeutic nutrition can be delicious and satisfying"
+},
+"lifestyle_recommendations_heart_health": {
+  "category": "holistic_cardiovascular_health",
+  "name": "Lifestyle Recommendations for Heart Health",
+  "description": "Comprehensive lifestyle approach to cardiovascular wellness beyond diet",
+  "physical_activity": [
+    "Aim for 150 minutes of moderate aerobic activity weekly",
+    "Include strength training exercises 2-3 times per week",
+    "Take regular walks after meals to aid digestion",
+    "Find enjoyable activities to maintain long-term consistency",
+    "Start slowly and gradually increase intensity"
+  ],
+  "stress_management": [
+    "Practice deep breathing exercises daily",
+    "Engage in meditation or mindfulness practices",
+    "Maintain social connections and support networks",
+    "Pursue hobbies and activities that bring joy",
+    "Limit exposure to negative news and stressful media"
+  ],
+  "sleep_optimization": [
+    "Aim for 7-9 hours of quality sleep nightly",
+    "Maintain consistent sleep and wake times",
+    "Create a relaxing bedtime routine",
+    "Limit caffeine and alcohol before bedtime",
+    "Keep bedroom cool, dark, and quiet"
+  ],
+  "environmental_factors": [
+    "Avoid exposure to secondhand smoke",
+    "Limit exposure to air pollution when possible",
+    "Use natural cleaning products to reduce toxins",
+    "Maintain healthy indoor air quality",
+    "Consider water filtration for drinking water"
+  ],
+  "chefrich_philosophy": "True cardiovascular health requires a holistic approach that nourishes body, mind, and spirit"
+},
+"biomarker_monitoring_heart_health": {
+  "category": "cardiovascular_assessment",
+  "name": "Biomarker Monitoring for Heart Health",
+  "description": "Key biomarkers to track cardiovascular health and nutrition effectiveness",
+  "lipid_panel": {
+    "total_cholesterol": "Less than 200 mg/dL",
+    "ldl_cholesterol": "Less than 100 mg/dL (optimal less than 70)",
+    "hdl_cholesterol": "40 mg/dL or higher for men, 50 mg/dL or higher for women",
+    "triglycerides": "Less than 150 mg/dL"
+  },
+  "blood_pressure": {
+    "optimal": "Less than 120/80 mmHg",
+    "normal": "120-129/80-84 mmHg",
+    "high_normal": "130-139/85-89 mmHg",
+    "monitoring_frequency": "Monthly for those with elevated levels"
+  },
+  "inflammation_markers": {
+    "c_reactive_protein": "Less than 3.0 mg/L (lower is better)",
+    "homocysteine": "Less than 10 μmol/L",
+    "monitoring_frequency": "Every 6-12 months"
+  },
+  "blood_sugar_markers": {
+    "fasting_glucose": "Less than 100 mg/dL",
+    "hemoglobin_a1c": "Less than 5.7%",
+    "monitoring_frequency": "Annually or as recommended"
+  },
+  "chefrich_notes": "Regular biomarker monitoring helps track the effectiveness of dietary and lifestyle interventions for heart health"
+}
   }
 }
 
