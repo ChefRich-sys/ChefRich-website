@@ -761,9 +761,7 @@
       "Infused with herbs for enhanced flavor"
     ],
 "chefrich_notes": "Extra virgin olive oil is liquid gold, providing oleocanthal that acts as natural anti-inflammatory medicine while delivering superior flavor and nutrition"
-  }
-},
-{
+  },
   "beef_chuck": {
     "name": "Beef Chuck",
     "category": "Proteins",
@@ -877,6 +875,157 @@
     "cooking_methods": ["Smoking", "Braising", "Slow roasting", "Stewing"],
     "flavor_profile": "Rich, beefy, develops deep flavors with slow cooking",
     "storage": "Refrigerate 3-5 days, freeze up to 12 months"
-  }
+  },
+  "garlic_cardiovascular": {
+  "category": "heart_protective_ingredients",
+  "name": "Garlic for Cardiovascular Health",
+  "scientific_name": "Allium sativum",
+  "description": "Nature's cardiovascular medicine containing allicin and sulfur compounds that support heart health",
+  "nutritional_profile": {
+    "calories_per_clove": 4,
+    "key_compounds": ["allicin", "alliin", "diallyl disulfide", "s-allyl cysteine"],
+    "vitamins": ["vitamin C", "vitamin B6", "manganese"],
+    "minerals": ["selenium", "phosphorus", "calcium"]
+  },
+  "cardiovascular_benefits": [
+    "Reduces LDL cholesterol while maintaining HDL levels",
+    "Lowers blood pressure through vasodilation",
+    "Reduces blood clotting risk naturally",
+    "May reverse arterial plaque formation",
+    "Supports healthy circulation and blood flow",
+    "Provides antioxidant protection against oxidative stress"
+  ],
+  "preparation_guidelines": [
+    "Crush or chop garlic and let rest 10 minutes to activate allicin",
+    "Use raw garlic for maximum cardiovascular benefits",
+    "Cook gently to preserve beneficial compounds",
+    "Store in cool, dry place with good air circulation"
+  ],
+  "selection_criteria": [
+    "Choose firm, plump bulbs with tight skin",
+    "Avoid bulbs with soft spots or sprouting",
+    "Select organic when possible to avoid pesticides",
+    "Fresh garlic is more potent than processed forms"
+  ],
+  "culinary_applications": [
+    "Raw in dressings and marinades for maximum benefit",
+    "Gently sautéed in olive oil for aromatic base",
+    "Roasted whole for sweet, mellow flavor",
+    "Infused in oils and vinegars for flavor enhancement"
+  ],
+  "chefrich_notes": "Garlic is nature's most powerful cardiovascular medicine when properly prepared and consumed regularly as part of a heart-healthy diet"
+},
+"white_miso_heart": {
+  "category": "heart_protective_ingredients",
+  "name": "White Miso for Heart Health",
+  "description": "Fermented soybean paste providing probiotics and heart-protective compounds for cardiovascular wellness",
+  "nutritional_profile": {
+    "calories_per_tablespoon": 25,
+    "key_compounds": ["isoflavones", "beneficial bacteria", "enzymes", "amino acids"],
+    "vitamins": ["vitamin K", "B vitamins", "folate"],
+    "minerals": ["sodium", "potassium", "magnesium", "copper"]
+  },
+  "cardiovascular_benefits": [
+    "Supports healthy gut bacteria linked to heart health",
+    "Provides isoflavones that may help reduce cholesterol",
+    "Contains enzymes that aid in nutrient absorption",
+    "Offers umami flavor reducing need for added sodium",
+    "Supports healthy blood pressure through potassium content"
+  ],
+  "preparation_guidelines": [
+    "Never boil miso to preserve beneficial bacteria",
+    "Dissolve in small amount of warm liquid before adding to dishes",
+    "Add at end of cooking to maintain probiotic properties",
+    "Use as base for heart-healthy marinades and dressings"
+  ],
+  "selection_criteria": [
+    "Choose organic, unpasteurized miso for live probiotics",
+    "White miso is milder and sweeter than darker varieties",
+    "Look for miso with minimal added ingredients",
+    "Store in refrigerator in airtight container"
+  ],
+  "culinary_applications": [
+    "Soup bases for therapeutic broths",
+    "Salad dressings for heart-healthy meals",
+    "Marinades for vegetables and proteins",
+    "Glazes for roasted vegetables"
+  ],
+  "chefrich_notes": "White miso bridges gut health and heart health through its probiotic content while providing satisfying umami flavor"
+},
+"virgin_coconut_oil_heart": {
+  "category": "heart_protective_ingredients",
+  "name": "Virgin Coconut Oil for Cardiovascular Health",
+  "description": "Unrefined coconut oil rich in medium-chain triglycerides and lauric acid for heart health support",
+  "nutritional_profile": {
+    "calories_per_tablespoon": 120,
+    "key_compounds": ["lauric acid", "caprylic acid", "medium-chain triglycerides"],
+    "fat_composition": "90% saturated fats, primarily medium-chain",
+    "smoke_point": "350°F (unrefined)"
+  },
+  "cardiovascular_benefits": [
+    "Increases HDL (good) cholesterol levels",
+    "Provides antimicrobial lauric acid for immune support",
+    "Offers sustained energy without blood sugar spikes",
+    "Contains antioxidants that protect against oxidative stress",
+    "Supports healthy inflammatory response"
+  ],
+  "preparation_guidelines": [
+    "Use at room temperature for spreading and mixing",
+    "Melt gently for cooking applications",
+    "Substitute for butter in baking at 3:4 ratio",
+    "Store in cool, dry place (liquid above 76°F)"
+  ],
+  "selection_criteria": [
+    "Choose virgin, unrefined coconut oil for maximum benefits",
+    "Look for organic, cold-pressed varieties",
+    "Avoid hydrogenated or processed coconut oils",
+    "Fresh coconut oil should have mild, pleasant aroma"
+  ],
+  "culinary_applications": [
+    "Smoothies and beverages for creamy texture",
+    "Baking and desserts as healthier fat source",
+    "Sautéing vegetables at moderate temperatures",
+    "Homemade energy balls and raw desserts"
+  ],
+  "chefrich_notes": "Virgin coconut oil provides heart-healthy saturated fats that support cardiovascular function while offering antimicrobial benefits"
+},
+"dark_leafy_greens_heart": {
+  "category": "heart_protective_ingredients",
+  "name": "Dark Leafy Greens for Heart Health",
+  "description": "Nutrient-dense greens providing folate, nitrates, and antioxidants essential for cardiovascular wellness",
+  "nutritional_profile": {
+    "calories_per_cup": "7-35 depending on variety",
+    "key_compounds": ["folate", "nitrates", "lutein", "beta-carotene", "vitamin K"],
+    "vitamins": ["vitamin C", "vitamin A", "vitamin K", "folate"],
+    "minerals": ["potassium", "magnesium", "iron", "calcium"]
+  },
+  "cardiovascular_benefits": [
+    "Folate helps reduce homocysteine levels, a heart disease risk factor",
+    "Nitrates support healthy blood pressure and circulation",
+    "Antioxidants protect against arterial damage",
+    "Potassium supports healthy blood pressure regulation",
+    "Magnesium supports heart rhythm and muscle function"
+  ],
+  "preparation_guidelines": [
+    "Wash thoroughly to remove soil and bacteria",
+    "Massage tough greens like kale to improve digestibility",
+    "Steam lightly to preserve nutrients while improving absorption",
+    "Add to dishes at end of cooking to maintain vitamins"
+  ],
+  "selection_criteria": [
+    "Choose vibrant, crisp leaves without yellowing",
+    "Organic varieties reduce pesticide exposure",
+    "Smaller leaves are often more tender and flavorful",
+    "Store in refrigerator wrapped in damp paper towels"
+  ],
+  "culinary_applications": [
+    "Raw in salads for maximum vitamin C content",
+    "Steamed as simple, nutritious side dishes",
+    "Blended into smoothies for concentrated nutrition",
+    "Sautéed with garlic and olive oil for heart-healthy sides"
+  ],
+  "chefrich_notes": "Dark leafy greens are cardiovascular powerhouses that should be consumed daily for optimal heart health and homocysteine regulation"
+}
+
 }
 
