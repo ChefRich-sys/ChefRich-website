@@ -1440,6 +1440,42 @@
       "suggested_pairings": ["Marinara sauce", "Creamy polenta", "Pasta with herbs", "Italian wedding soup"],
       "nutritional_highlights": "High-quality complete protein with iron, zinc, and B vitamins. Parmesan adds calcium and additional protein. Fresh herbs provide antioxidants and beneficial plant compounds.",
       "food_as_medicine": "These protein-rich meatballs provide essential amino acids for muscle maintenance and repair, while the traditional preparation method ensures easy digestibility and maximum nutrient absorption."
-    }
+    },
+    {
+  "title_with_emoji": "🧄 Heart-Healing Garlic Cleansing Soup",
+  "tags": ["heart-health", "anti-inflammatory", "garlic", "cleansing", "therapeutic"],
+  "description": "A therapeutic soup that harnesses garlic's powerful cardiovascular benefits to support heart health, lower cholesterol, and reduce inflammation. This warming cleansing soup combines ancient healing wisdom with modern nutritional science.",
+  "yield_and_time": {
+    "yield": "4 servings",
+    "prep_time": "10 minutes",
+    "cook_time": "25 minutes",
+    "total_time": "35 minutes"
+  },
+  "ingredients": [
+    "2 quarts filtered water",
+    "2 bulbs fresh garlic, cloves separated and peeled",
+    "1 tablespoon curry powder (optional)",
+    "1 bay leaf",
+    "5 tablespoons white miso paste",
+    "2 tablespoons chopped scallions",
+    "2 tablespoons fresh parsley, chopped",
+    "2 tablespoons fresh cilantro, chopped",
+    "Sea salt to taste"
+  ],
+  "instructions": [
+    "Bring filtered water, peeled garlic cloves, curry powder, and bay leaf to a boil in large pot",
+    "Reduce heat and simmer gently for 20 minutes until garlic is very soft and aromatic",
+    "Remove bay leaf and set aside",
+    "In small bowl, blend miso paste with 1/2 cup of the hot soup until smooth",
+    "Return miso mixture to pot and stir gently to combine",
+    "Turn off heat and let rest 2-3 minutes",
+    "Taste and adjust seasoning with sea salt if needed",
+    "Serve hot garnished with fresh scallions, parsley, and cilantro"
+  ],
+  "chefrich_notes": "Crushing garlic and letting it rest for 10 minutes before cooking activates allicin, the compound responsible for garlic's cardiovascular benefits. Miso adds probiotics and umami depth while supporting digestive health.",
+  "suggested_pairings": ["Steamed brown rice", "Fermented vegetables", "Herbal tea blend", "Raw vegetable salad"],
+  "nutritional_highlights": "Garlic: Allicin compounds for cardiovascular support • Miso: Probiotics for gut health • Herbs: Antioxidants and detoxifying compounds",
+  "food_as_medicine": "This therapeutic soup leverages garlic's scientifically-proven ability to lower LDL cholesterol, reduce blood pressure, and prevent arterial plaque formation while supporting overall cardiovascular health and immune function."
+}
   ]
 }
