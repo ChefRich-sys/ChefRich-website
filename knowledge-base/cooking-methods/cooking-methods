@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "source": "ChefRich Knowledge Base - Heart-Healthy Cooking Methods",
+    "version": "1.0",
+    "last_updated": "2025-01-18T12:00:00.000Z",
+    "description": "Cooking methods specifically designed to support cardiovascular health"
+  },
+  "heart_healthy_cooking_methods": {
+    "low_sodium_cooking": {
+      "name": "Low-Sodium Cooking",
+      "category": "heart_healthy_methods",
+      "description": "Cooking technique that reduces sodium content while maximizing flavor through alternative seasonings",
+      "principles": [
+        "Use herbs and spices instead of salt for flavor",
+        "Enhance natural flavors through proper cooking techniques",
+        "Include umami-rich ingredients for savory satisfaction",
+        "Rinse canned foods to remove excess sodium"
+      ],
+      "techniques": [
+        "Toast spices before using to intensify flavors",
+        "Use citrus zest and juice for brightness",
+        "Add garlic and onions for depth without sodium",
+        "Include vinegars and fermented foods for complexity",
+        "Finish dishes with fresh herbs for maximum impact"
+      ],
+      "flavor_enhancers": [
+        "fresh herbs (basil, cilantro, parsley)",
+        "citrus zest and juice",
+        "garlic and ginger",
+        "vinegars (balsamic, apple cider)",
+        "nutritional yeast for umami"
+      ],
+      "applications": [
+        "Vegetable preparation and seasoning",
+        "Protein marinades and rubs",
+        "Soup and stew preparation",
+        "Salad dressings and sauces"
+      ],
+      "health_benefits": "Reduces blood pressure, decreases fluid retention, and supports kidney function",
+      "chefrich_philosophy": "Low-sodium cooking proves that heart-healthy food can be intensely flavorful and satisfying"
+    },
+    "therapeutic_steaming": {
+      "name": "Therapeutic Steaming",
+      "category": "heart_healthy_methods",
+      "description": "Gentle cooking method that preserves nutrients and heart-protective compounds in vegetables",
+      "principles": [
+        "Use minimal water to prevent nutrient loss",
+        "Cook just until tender-crisp to maintain texture",
+        "Preserve water-soluble vitamins and minerals",
+        "Avoid added fats during cooking process"
+      ],
+      "techniques": [
+        "Use bamboo or stainless steel steamer baskets",
+        "Bring water to boil before adding vegetables",
+        "Steam in single layer for even cooking",
+        "Test doneness with fork - should pierce easily",
+        "Immediately transfer to serving dish to stop cooking"
+      ],
+      "equipment_options": [
+        "Bamboo steamer baskets",
+        "Stainless steel steamer inserts",
+        "Electric food steamers",
+        "Improvised steaming setups"
+      ],
+      "applications": [
+        "Leafy greens and delicate vegetables",
+        "Root vegetables and squashes",
+        "Broccoli and cauliflower families",
+        "Fish and seafood preparation"
+      ],
+      "health_benefits": "Preserves maximum nutrients, requires no added fats, and maintains natural flavors",
+      "chefrich_philosophy": "Therapeutic steaming honors vegetables' natural healing properties while creating perfectly tender results"
+    },
+    "anti_inflammatory_roasting": {
+      "name": "Anti-Inflammatory Roasting",
+      "category": "heart_healthy_methods",
+      "description": "High-heat cooking method using anti-inflammatory spices and heart-healthy oils",
+      "principles": [
+        "Use heart-healthy oils with appropriate smoke points",
+        "Include anti-inflammatory spices and herbs",
+        "Caramelize vegetables for enhanced flavor",
+        "Cook at temperatures that preserve beneficial compounds"
+      ],
+      "techniques": [
+        "Preheat oven to 400-425°F for optimal caramelization",
+        "Toss vegetables with olive oil and spices",
+        "Arrange in single layer on baking sheets",
+        "Roast until edges are golden and caramelized",
+        "Finish with fresh herbs and citrus"
+      ],
+      "therapeutic_spice_combinations": [
+        "Turmeric, ginger, and black pepper",
+        "Rosemary, thyme, and garlic",
+        "Cumin, coriander, and paprika",
+        "Oregano, basil, and lemon zest"
+      ],
+      "applications": [
+        "Root vegetables and winter squashes",
+        "Cruciferous vegetables like broccoli and Brussels sprouts",
+        "Mediterranean vegetable medleys",
+        "Lean proteins with spice rubs"
+      ],
+      "health_benefits": "Concentrates antioxidants, creates anti-inflammatory compounds, and enhances nutrient absorption",
+      "chefrich_philosophy": "Anti-inflammatory roasting transforms simple vegetables into therapeutic, flavorful dishes that heal with every bite"
+    },
+    "probiotic_fermentation": {
+      "name": "Probiotic Fermentation",
+      "category": "heart_healthy_methods",
+      "description": "Traditional preservation method that creates beneficial bacteria supporting the gut-heart axis",
+      "principles": [
+        "Create anaerobic environment for beneficial bacteria",
+        "Use proper salt ratios to prevent harmful bacteria",
+        "Maintain optimal temperature for fermentation",
+        "Allow adequate time for probiotic development"
+      ],
+      "techniques": [
+        "Use high-quality sea salt or himalayan salt",
+        "Submerge vegetables completely under brine",
+        "Ferment at room temperature for 3-7 days",
+        "Taste regularly to monitor flavor development",
+        "Refrigerate when desired flavor is achieved"
+      ],
+      "fermentation_vessels": [
+        "Glass mason jars with loose lids",
+        "Ceramic fermentation crocks",
+        "Food-grade plastic containers",
+        "Specialized fermentation lids"
+      ],
+      "applications": [
+        "Sauerkraut and kimchi preparation",
+        "Fermented vegetable medleys",
+        "Pickled vegetables and fruits",
+        "Fermented condiments and sauces"
+      ],
+      "health_benefits": "Supports gut microbiome, aids digestion, and may help reduce cardiovascular inflammation",
+      "chefrich_philosophy": "Probiotic fermentation connects us to ancient wisdom while creating living foods that support the gut-heart connection"
+    }
+  }
+}
