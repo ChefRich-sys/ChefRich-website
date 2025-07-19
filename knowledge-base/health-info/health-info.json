@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "ChefRich Knowledge Base - Health & Safety Guidelines",
-    "version": "1.0",
-    "last_updated": "2025-07-01T18:15:38.420944",
-    "description": "Food safety, temperature guidelines, and nutritional information"
+    "version": "1.1",
+    "last_updated": "2025-07-19T10:30:00.000000",
+    "description": "Food safety, temperature guidelines, and nutritional information including therapeutic bread health benefits"
   },
   "temperature_guidelines": {
     "safe_cooking_temperatures": {
@@ -63,6 +63,107 @@
       "temperature control"
     ]
   },
+  "therapeutic_bread_health": {
+    "fermentation_benefits": {
+      "digestive_support": {
+        "description": "Fermentation pre-digests proteins and breaks down complex carbohydrates",
+        "benefits": [
+          "Reduces digestive burden on stomach and intestines",
+          "Creates beneficial enzymes that aid digestion",
+          "Breaks down anti-nutrients like phytic acid",
+          "Produces beneficial organic acids"
+        ],
+        "therapeutic_application": "Ideal for those with sensitive digestion or digestive disorders"
+      },
+      "mineral_absorption": {
+        "description": "Fermentation increases bioavailability of minerals",
+        "benefits": [
+          "Neutralizes phytic acid that blocks mineral absorption",
+          "Creates chelated minerals that are easier to absorb",
+          "Increases availability of iron, zinc, calcium, and magnesium",
+          "Supports bone health and immune function"
+        ],
+        "therapeutic_application": "Essential for preventing mineral deficiencies"
+      },
+      "probiotic_development": {
+        "description": "Long fermentation develops beneficial bacteria",
+        "benefits": [
+          "Creates natural probiotics that support gut health",
+          "Improves intestinal flora balance",
+          "Supports immune system function",
+          "Aids in nutrient synthesis"
+        ],
+        "therapeutic_application": "Supports overall gut health and immunity"
+      }
+    },
+    "ancient_grain_benefits": {
+      "spelt_advantages": {
+        "description": "Ancient wheat variety with superior nutritional profile",
+        "health_benefits": [
+          "Higher protein content than modern wheat (14-15%)",
+          "Complete amino acid profile",
+          "Easier digestion due to different gluten structure",
+          "Rich in B-vitamins and minerals"
+        ],
+        "therapeutic_properties": "Suitable for those with wheat sensitivities (not celiac)",
+        "digestive_impact": "Less inflammatory than modern wheat varieties"
+      },
+      "buckwheat_benefits": {
+        "description": "Naturally gluten-free pseudocereal with complete protein",
+        "health_benefits": [
+          "Complete amino acid profile",
+          "Rich in rutin for cardiovascular health",
+          "High in magnesium and fiber",
+          "Naturally gluten-free"
+        ],
+        "therapeutic_properties": "Supports heart health and blood sugar stability",
+        "digestive_impact": "Gentle on digestive system, suitable for celiac disease"
+      }
+    },
+    "gluten_alternatives": {
+      "celiac_safe_options": {
+        "description": "Completely gluten-free grain alternatives for therapeutic breads",
+        "safe_grains": [
+          "Rice flour - neutral flavor, good texture",
+          "Buckwheat flour - nutty flavor, complete protein",
+          "Quinoa flour - high protein, mineral-rich",
+          "Amaranth flour - high lysine content"
+        ],
+        "therapeutic_benefits": "Eliminates autoimmune trigger while providing nutrition"
+      },
+      "gluten_sensitivity_options": {
+        "description": "Ancient grains with modified gluten structure",
+        "suitable_grains": [
+          "Spelt - ancient wheat with different gluten",
+          "Einkorn - original wheat with simpler protein structure",
+          "Emmer - ancient wheat variety"
+        ],
+        "therapeutic_benefits": "May be tolerated by those with non-celiac gluten sensitivity"
+      }
+    },
+    "blood_sugar_stability": {
+      "low_glycemic_benefits": {
+        "description": "Therapeutic breads that support stable blood sugar",
+        "mechanisms": [
+          "High fiber content slows glucose absorption",
+          "Protein content moderates blood sugar response",
+          "Fermentation reduces glycemic impact",
+          "Complex carbohydrates provide sustained energy"
+        ],
+        "therapeutic_application": "Beneficial for diabetes management and metabolic health"
+      },
+      "ingredient_synergy": {
+        "description": "Combination of ingredients that enhance blood sugar stability",
+        "synergistic_combinations": [
+          "Seeds and nuts add healthy fats and protein",
+          "Herbs provide antioxidants and flavor",
+          "Fermentation reduces overall glycemic load",
+          "Ancient grains provide slower-releasing energy"
+        ],
+        "therapeutic_outcome": "Creates bread that nourishes without spiking blood sugar"
+      }
+    }
+  },
   "sugar_health_impacts": {
     "category": "ingredient_health_effects",
     "name": "Refined Sugar Health Impact",
@@ -96,386 +197,221 @@
     "professional_application": "Use WHO guidelines to establish healthy menu planning standards and client education protocols",
     "chefrich_philosophy": "Following evidence-based nutritional guidelines ensures our culinary creations support optimal health outcomes"
   },
-  "vegetables": {
-    "eggplant": {
-      "scientific_name": "Solanum melongena",
-      "nutritional_profile": {
-        "calories_per_100g": 25,
-        "fiber": "3g",
-        "potassium": "229mg",
-        "antioxidants": "nasunin, chlorogenic acid"
-      },
-      "health_benefits": [
-        "supports digestive health",
-        "rich in antioxidants",
-        "may help regulate blood sugar",
-        "supports heart health"
+  "coronary_heart_disease_prevention": {
+    "category": "cardiovascular_health",
+    "name": "Coronary Heart Disease Prevention and Management",
+    "description": "Comprehensive approach to preventing and managing coronary heart disease through nutrition and lifestyle interventions",
+    "risk_factors": {
+      "dietary_factors": [
+        "Trans fats and hydrogenated oils",
+        "Refined sugars and processed carbohydrates",
+        "Excessive sodium intake",
+        "Oxidized cholesterol from processed foods",
+        "Heated milk proteins",
+        "Excess omega-6 from refined vegetable oils"
       ],
-      "preparation_tips": [
-        "salt to remove bitterness",
-        "choose firm, glossy specimens",
-        "cook thoroughly for best digestibility"
+      "lifestyle_factors": [
+        "Lack of physical activity",
+        "Chronic stress and poor stress management",
+        "Smoking and tobacco use",
+        "Excessive alcohol consumption",
+        "Poor sleep quality and insufficient sleep"
       ],
-      "cooking_methods": [
-        "roasting",
-        "grilling",
-        "sautéing",
-        "braising"
-      ],
-      "storage": "refrigerate 3-5 days, do not freeze raw"
+      "nutritional_deficiencies": [
+        "Vitamin C and E deficiency",
+        "Folate, B6, and B12 deficiency leading to elevated homocysteine",
+        "Magnesium and selenium deficiency",
+        "Omega-3 fatty acid deficiency"
+      ]
     },
-    "garlic": {
-      "scientific_name": "Allium sativum",
-      "nutritional_profile": {
-        "calories_per_clove": 4,
-        "vitamin_c": "2.8mg",
-        "manganese": "0.15mg",
-        "compounds": "allicin, sulfur compounds"
-      },
-      "health_benefits": [
-        "immune system support",
-        "cardiovascular benefits",
-        "anti-inflammatory properties",
-        "digestive aid"
-      ],
-      "preparation_tips": [
-        "crush or chop to activate allicin",
-        "let rest 10 minutes after chopping",
-        "remove green germ if present"
-      ],
-      "cooking_methods": [
-        "roasting",
-        "sautéing",
-        "raw",
-        "confit"
-      ],
-      "storage": "cool, dry place, good ventilation"
-    },
-    "lemon": {
-      "scientific_name": "Citrus limon",
-      "nutritional_profile": {
-        "calories_per_100g": 29,
-        "vitamin_c": "53mg",
-        "citric_acid": "5-6%",
-        "flavonoids": "hesperidin, diosmin"
-      },
-      "health_benefits": [
-        "vitamin C boost",
-        "aids iron absorption",
-        "supports immune function",
-        "alkalizing effect"
-      ],
-      "preparation_tips": [
-        "zest before juicing",
-        "room temperature for more juice",
-        "roll before cutting"
-      ],
-      "cooking_methods": [
-        "raw",
-        "zesting",
-        "juicing",
-        "preserving"
-      ],
-      "storage": "room temperature 1 week, refrigerated 3-4 weeks"
-    }
+    "prevention_strategies": [
+      "Follow anti-inflammatory diet rich in whole foods",
+      "Maintain healthy weight through balanced nutrition",
+      "Exercise regularly to strengthen cardiovascular system",
+      "Manage stress through relaxation techniques",
+      "Avoid smoking and limit alcohol consumption",
+      "Ensure adequate sleep for cardiovascular recovery"
+    ],
+    "chefrich_philosophy": "Coronary heart disease prevention begins in the kitchen with every meal choice supporting cardiovascular wellness"
   },
-  "herbs_spices": {
-    "tahini": {
-      "description": "Ground sesame seed paste",
-      "nutritional_profile": {
-        "calories_per_tbsp": 119,
-        "protein": "3.6g",
-        "healthy_fats": "10.5g",
-        "calcium": "154mg"
-      },
-      "health_benefits": [
-        "rich in healthy fats",
-        "good protein source",
-        "supports bone health",
-        "heart-healthy"
-      ],
-      "preparation_tips": [
-        "stir well before using",
-        "thin with lemon juice or water",
-        "store in cool place"
-      ],
-      "uses": [
-        "sauces",
-        "dressings",
-        "spreads",
-        "baking"
-      ],
-      "storage": "pantry 6 months, refrigerated 1 year"
+  "dash_diet_implementation": {
+    "category": "cardiovascular_nutrition",
+    "name": "DASH Diet Implementation for Heart Health",
+    "description": "Evidence-based dietary approach proven to reduce blood pressure and cholesterol levels",
+    "daily_serving_guidelines": {
+      "grains": "7-8 servings (preferably whole grains)",
+      "vegetables": "4-5 servings",
+      "fruits": "4-5 servings",
+      "low_fat_dairy": "2-3 servings",
+      "lean_proteins": "2 or fewer servings",
+      "nuts_seeds_beans": "4-5 servings per week",
+      "healthy_fats": "2-3 servings",
+      "sweets": "5 servings per week"
     },
-    "olive_oil": {
-      "description": "Cold-pressed oil from olives",
-      "nutritional_profile": {
-        "calories_per_tbsp": 119,
-        "monounsaturated_fat": "9.9g",
-        "vitamin_e": "1.9mg",
-        "antioxidants": "polyphenols"
-      },
-      "health_benefits": [
-        "heart-healthy fats",
-        "anti-inflammatory",
-        "supports brain health",
-        "aids nutrient absorption"
-      ],
-      "preparation_tips": [
-        "use extra virgin for best quality",
-        "don't overheat",
-        "store away from light"
-      ],
-      "cooking_methods": [
-        "raw",
-        "low-heat cooking",
-        "finishing oil"
-      ],
-      "storage": "cool, dark place, use within 2 years"
-    }
+    "serving_size_examples": {
+      "grains": "1 slice bread, 1/2 cup cooked rice/pasta/cereal",
+      "vegetables": "1 cup leafy greens, 1/2 cup other vegetables",
+      "fruits": "1 medium fruit, 1/2 cup fresh/frozen fruit",
+      "dairy": "1 cup milk/yogurt, 1.5 oz cheese",
+      "protein": "3 oz cooked lean meat/poultry/fish",
+      "nuts_seeds": "1/3 cup nuts, 2 tbsp seeds"
+    },
+    "implementation_tips": [
+      "Gradually increase vegetable and fruit portions",
+      "Choose whole grain versions of breads and cereals",
+      "Read labels to identify low-sodium options",
+      "Prepare meals at home to control ingredients",
+      "Season with herbs and spices instead of salt"
+    ],
+    "chefrich_notes": "DASH diet success comes from making sustainable changes that become lifestyle habits rather than temporary restrictions"
   },
-  "sweeteners": {
-    "refined_sugar": {
-      "category": "sweeteners",
-      "name": "Refined Sugar",
-      "type": "ingredient_to_avoid",
-      "health_impact": "negative",
-      "description": "Highly processed sweetener with significant negative health impacts",
-      "health_effects": [
-        "Immune system suppression",
-        "Mineral depletion",
-        "Blood sugar instability",
-        "Inflammation promotion",
-        "Addiction potential",
-        "Metabolic disruption"
-      ],
-      "cooking_notes": "Avoid in health-focused cooking; use natural alternatives",
-      "chefrich_alternative": "Replace with natural sweeteners like dates, maple syrup, or stevia",
-      "professional_tip": "Gradually reduce sugar in recipes to retrain taste preferences"
+  "foods_to_avoid_heart_health": {
+    "category": "cardiovascular_nutrition",
+    "name": "Foods to Avoid for Heart Health",
+    "description": "Specific foods and ingredients that increase cardiovascular disease risk",
+    "trans_fats_and_hydrogenated_oils": {
+      "sources": ["margarine", "vegetable shortening", "partially hydrogenated oils", "many processed foods"],
+      "health_impacts": [
+        "Raise LDL (bad) cholesterol and lower HDL (good) cholesterol",
+        "Increase inflammation throughout the body",
+        "Promote insulin resistance and diabetes risk",
+        "Reduce immune function and cellular integrity"
+      ]
     },
-    "natural_sweeteners": {
-      "category": "sweeteners",
-      "name": "Natural Sweetener Alternatives",
-      "type": "health_promoting",
-      "health_impact": "positive",
-      "description": "Natural alternatives to refined sugar that provide sweetness with additional nutrients",
-      "examples": [
-        "Raw honey (enzymatic benefits)",
-        "Pure maple syrup (minerals)",
-        "Coconut nectar (low glycemic)",
-        "Date paste (fiber and potassium)",
-        "Stevia (zero calories)"
-      ],
-      "cooking_notes": "Each sweetener has unique properties affecting texture and flavor",
-      "chefrich_philosophy": "Natural sweeteners work with the body's systems rather than against them"
-    }
+    "refined_sugars": {
+      "sources": ["white sugar", "high fructose corn syrup", "refined carbohydrates"],
+      "health_impacts": [
+        "Increase triglycerides and harmful cholesterol",
+        "Promote inflammation and oxidative stress",
+        "Deplete B vitamins and essential minerals",
+        "Contribute to obesity and metabolic syndrome"
+      ]
+    },
+    "processed_foods": {
+      "sources": ["canned foods", "frozen meals", "processed meats", "refined snacks"],
+      "concerns": [
+        "High sodium content increases blood pressure",
+        "Added preservatives and chemicals",
+        "Oxidized fats from processing",
+        "Reduced nutritional value"
+      ]
+    },
+    "chefrich_recommendation": "Replace processed foods with whole, minimally processed alternatives prepared with heart-healthy cooking methods"
   },
-  "seasonings": {
-    "sea_salt": {
-      "category": "seasonings",
-      "name": "Sea Salt",
-      "type": "mineral_rich",
-      "health_impact": "positive",
-      "description": "Unrefined salt harvested from evaporated seawater, retaining natural minerals",
-      "benefits": [
-        "Contains trace minerals",
-        "Less processing than table salt",
-        "Better mineral balance",
-        "Enhanced flavor complexity"
-      ],
-      "professional_application": "Use as primary salt in all cooking for mineral content and flavor",
-      "chefrich_notes": "Quality sea salt enhances both nutrition and taste in culinary applications"
-    }
+  "therapeutic_foods_heart_health": {
+    "category": "cardiovascular_nutrition",
+    "name": "Therapeutic Foods for Heart Health",
+    "description": "Specific foods with scientifically proven cardiovascular benefits",
+    "tier_1_superfoods": {
+      "garlic": "Reduces cholesterol, blood pressure, and clotting risk",
+      "wild_salmon": "Rich in omega-3 fatty acids for anti-inflammatory benefits",
+      "leafy_greens": "High in folate, nitrates, and antioxidants",
+      "berries": "Anthocyanins and antioxidants for arterial protection",
+      "nuts": "Healthy fats and protein for cholesterol management"
+    },
+    "tier_2_beneficial_foods": {
+      "olive_oil": "Monounsaturated fats and antioxidants",
+      "avocados": "Healthy fats and potassium for blood pressure",
+      "oats": "Beta-glucan fiber for cholesterol reduction",
+      "beans": "Protein and fiber for heart health",
+      "pomegranates": "Antioxidants for arterial health"
+    },
+    "therapeutic_spices": {
+      "turmeric": "Anti-inflammatory curcumin compounds",
+      "ginger": "Circulation support and anti-inflammatory effects",
+      "cinnamon": "Blood sugar regulation and antioxidants",
+      "cayenne": "Circulation enhancement and metabolic support"
+    },
+    "chefrich_philosophy": "Therapeutic foods provide concentrated healing compounds that support cardiovascular health with every meal"
   },
-  "thickeners": {
-    "kuzu": {
-      "category": "thickeners",
-      "name": "Kuzu Root Starch",
-      "type": "natural_thickener",
-      "health_impact": "positive",
-      "description": "Traditional Japanese thickener from the kuzu plant root, known for digestive benefits",
-      "benefits": [
-        "Alkalizing properties",
-        "Digestive support",
-        "Gluten-free alternative",
-        "Clear, glossy finish"
-      ],
-      "cooking_application": "Dissolve in cold liquid before adding to hot preparations",
-      "chefrich_notes": "Excellent for creating healthy gravies and sauces with therapeutic properties"
-    },
-    "arrowroot": {
-      "category": "thickeners",
-      "name": "Arrowroot Powder",
-      "type": "natural_thickener",
-      "health_impact": "positive",
-      "description": "Easily digestible starch from the arrowroot plant, ideal for delicate thickening",
-      "benefits": [
-        "Gentle on digestive system",
-        "Neutral flavor",
-        "Creates smooth texture",
-        "Gluten-free option"
-      ],
-      "cooking_application": "Mix with cold liquid before incorporating into hot dishes",
-      "chefrich_notes": "Perfect for light sauces and desserts requiring clear, delicate thickening"
-    }
+  "heart_healthy_cooking_strategies": {
+    "category": "culinary_medicine",
+    "name": "Heart-Healthy Cooking Strategies",
+    "description": "Cooking methods and techniques that maximize cardiovascular benefits",
+    "cooking_methods": [
+      "Steam vegetables to preserve nutrients and avoid added fats",
+      "Sauté with heart-healthy oils like olive oil at moderate temperatures",
+      "Roast vegetables with herbs and spices for flavor without salt",
+      "Grill proteins to allow excess fat to drain away",
+      "Poach fish in aromatic broths for gentle cooking"
+    ],
+    "flavor_enhancement": [
+      "Use fresh herbs and spices instead of salt for seasoning",
+      "Add citrus zest and juice for brightness",
+      "Include garlic and onions for cardiovascular benefits",
+      "Use vinegars and fermented foods for umami depth",
+      "Toast spices to intensify flavors naturally"
+    ],
+    "meal_planning": [
+      "Plan meals around vegetables and whole grains",
+      "Include omega-3 rich fish 2-3 times per week",
+      "Prepare large batches of beans and whole grains",
+      "Keep heart-healthy snacks readily available",
+      "Meal prep vegetables for quick, healthy meals"
+    ],
+    "chefrich_notes": "Heart-healthy cooking strategies prove that therapeutic nutrition can be delicious and satisfying"
   },
-  "fats_and_oils": {
-    "extra_virgin_olive_oil": {
-      "category": "healthy_fats",
-      "name": "Extra Virgin Olive Oil",
-      "type": "monounsaturated",
-      "smoke_point": "413°F (211°C)",
-      "health_benefits": [
-        "Rich in antioxidants and phytochemicals",
-        "Contains vitamins A and E",
-        "Anti-inflammatory properties",
-        "Supports cardiovascular health"
-      ],
-      "culinary_applications": [
-        "Raw in dressings and finishing",
-        "Low-heat cooking",
-        "Drizzling over cooked dishes"
-      ],
-      "storage": "Cool, dark place, use within 2 years",
-      "chefrich_notes": "Choose cold-pressed, first pressing for maximum health benefits"
-    },
-    "coconut_oil": {
-      "category": "healthy_fats",
-      "name": "Coconut Oil",
-      "type": "saturated",
-      "smoke_point": "350°F unrefined, 450°F refined",
-      "health_benefits": [
-        "Contains lauric and caprylic acids (anti-microbial)",
-        "Medium-chain triglycerides for energy",
-        "Supports immune function",
-        "Stable at room temperature"
-      ],
-      "culinary_applications": [
-        "Baking and desserts",
-        "High-heat cooking (refined)",
-        "Smoothies and beverages"
-      ],
-      "chefrich_notes": "Virgin coconut oil retains flavor, deodorized is neutral"
-    },
-    "avocado_oil": {
-      "category": "healthy_fats",
-      "name": "Avocado Oil",
-      "type": "monounsaturated",
-      "smoke_point": "520°F (271°C)",
-      "health_benefits": [
-        "High in oleic acid",
-        "Excellent for high-heat cooking",
-        "Rich in vitamin E",
-        "Supports nutrient absorption"
-      ],
-      "culinary_applications": [
-        "High-heat sautéing and frying",
-        "Grilling and roasting",
-        "Salad dressings"
-      ],
-      "chefrich_notes": "Highest smoke point of healthy oils, ideal for high-heat cooking"
-    }
+  "lifestyle_recommendations_heart_health": {
+    "category": "holistic_cardiovascular_health",
+    "name": "Lifestyle Recommendations for Heart Health",
+    "description": "Comprehensive lifestyle approach to cardiovascular wellness beyond diet",
+    "physical_activity": [
+      "Aim for 150 minutes of moderate aerobic activity weekly",
+      "Include strength training exercises 2-3 times per week",
+      "Take regular walks after meals to aid digestion",
+      "Find enjoyable activities to maintain long-term consistency",
+      "Start slowly and gradually increase intensity"
+    ],
+    "stress_management": [
+      "Practice deep breathing exercises daily",
+      "Engage in meditation or mindfulness practices",
+      "Maintain social connections and support networks",
+      "Pursue hobbies and activities that bring joy",
+      "Limit exposure to negative news and stressful media"
+    ],
+    "sleep_optimization": [
+      "Aim for 7-9 hours of quality sleep nightly",
+      "Maintain consistent sleep and wake times",
+      "Create a relaxing bedtime routine",
+      "Limit caffeine and alcohol before bedtime",
+      "Keep bedroom cool, dark, and quiet"
+    ],
+    "environmental_factors": [
+      "Avoid exposure to secondhand smoke",
+      "Limit exposure to air pollution when possible",
+      "Use natural cleaning products to reduce toxins",
+      "Maintain healthy indoor air quality",
+      "Consider water filtration for drinking water"
+    ],
+    "chefrich_philosophy": "True cardiovascular health requires a holistic approach that nourishes body, mind, and spirit"
   },
-  "vinegars": {
-    "apple_cider_vinegar": {
-      "category": "fermented_condiments",
-      "name": "Apple Cider Vinegar",
-      "type": "fruit_vinegar",
-      "health_benefits": [
-        "Supports digestion",
-        "Probiotic if unfiltered",
-        "May help blood sugar regulation",
-        "Alkalizing effect"
-      ],
-      "culinary_applications": [
-        "Salad dressings",
-        "Marinades",
-        "Pickling",
-        "Beverage ingredient"
-      ],
-      "chefrich_notes": "Choose raw, unfiltered versions with 'mother' for maximum benefits"
+  "biomarker_monitoring_heart_health": {
+    "category": "cardiovascular_assessment",
+    "name": "Biomarker Monitoring for Heart Health",
+    "description": "Key biomarkers to track cardiovascular health and nutrition effectiveness",
+    "lipid_panel": {
+      "total_cholesterol": "Less than 200 mg/dL",
+      "ldl_cholesterol": "Less than 100 mg/dL (optimal less than 70)",
+      "hdl_cholesterol": "40 mg/dL or higher for men, 50 mg/dL or higher for women",
+      "triglycerides": "Less than 150 mg/dL"
     },
-    "umeboshi_vinegar": {
-      "category": "fermented_condiments",
-      "name": "Umeboshi Vinegar",
-      "type": "pickle_brine",
-      "health_benefits": [
-        "Alkalizing properties",
-        "Beneficial to digestion",
-        "Anti-bacterial effects",
-        "Energizing properties"
-      ],
-      "culinary_applications": [
-        "Salad dressings",
-        "Seasoning grains",
-        "Flavoring vegetables",
-        "Condiment for rice dishes"
-      ],
-      "chefrich_notes": "Actually fermented plum brine, not true vinegar but used similarly"
-    }
-  },
-  "ingredient_selection_principles": {
-    "natural_food_criteria": {
-      "category": "food_philosophy",
-      "name": "Natural Food Selection Criteria",
-      "description": "10 foundational principles for selecting health-promoting ingredients",
-      "core_principles": [
-        "Whole foods in their natural, unrefined state",
-        "Fresh foods recently harvested without long storage",
-        "Organic grown without synthetic chemicals or GMOs",
-        "Local sourced from nearby community or region",
-        "In harmony with tradition following cultural practices",
-        "Real authentic foods, not artificial substitutes",
-        "Unprocessed avoiding high heat, pressure, toxic chemicals",
-        "Non-irradiated free from radiation treatment",
-        "Free from genetic modification",
-        "Delicious appealing to multiple senses"
-      ],
-      "professional_application": "Use these criteria to evaluate all ingredients for maximum nutritional and health benefits",
-      "chefrich_philosophy": "Quality ingredients are the foundation of transformative, healing cuisine"
+    "blood_pressure": {
+      "optimal": "Less than 120/80 mmHg",
+      "normal": "120-129/80-84 mmHg",
+      "high_normal": "130-139/85-89 mmHg",
+      "monitoring_frequency": "Monthly for those with elevated levels"
     },
-    "organic_vs_conventional": {
-      "category": "sourcing_guidelines",
-      "name": "Organic vs Conventional Food Comparison",
-      "description": "Professional guidelines for understanding organic food benefits",
-      "organic_advantages": [
-        "No synthetic pesticides, herbicides, or fungicides",
-        "No genetically modified organisms (GMOs)",
-        "No antibiotics or growth hormones in animal products",
-        "Higher nutritional value and antioxidant content",
-        "Better environmental sustainability",
-        "Lower risk of foodborne illness",
-        "Supports biodiversity and soil health",
-        "Protects farm workers from toxic exposure"
-      ],
-      "conventional_concerns": [
-        "77% of non-organic produce contains pesticide residues",
-        "Often uses irradiation which destroys vitamins",
-        "Factory farming practices reduce nutritional quality",
-        "Environmental impact from chemical farming"
-      ],
-      "chefrich_recommendation": "Prioritize organic ingredients when possible, especially for heavily contaminated produce",
-      "professional_tip": "Focus organic budget on items with highest pesticide residues for maximum health benefit"
+    "inflammation_markers": {
+      "c_reactive_protein": "Less than 3.0 mg/L (lower is better)",
+      "homocysteine": "Less than 10 μmol/L",
+      "monitoring_frequency": "Every 6-12 months"
     },
-    "food_safety_indicators": {
-      "category": "quality_assessment",
-      "name": "Professional Food Safety Guidelines",
-      "description": "Key indicators for selecting safe, high-quality ingredients",
-      "safety_priorities": [
-        "Choose certified organic to avoid pesticide residues",
-        "Avoid irradiated foods that form toxic compounds",
-        "Select mercury-safe seafood using FDA guidelines",
-        "Prefer raw or minimally processed dairy when possible",
-        "Choose pasture-raised, hormone-free animal products",
-        "Avoid factory-farmed eggs with contamination risks"
-      ],
-      "mercury_safe_seafood": [
-        "Very low mercury: Wild salmon, sardines, scallops",
-        "Low mercury: Canned light tuna, shrimp, catfish",
-        "High mercury to avoid: Shark, swordfish, king mackerel"
-      ],
-      "chefrich_notes": "Food safety is foundational to healing cuisine - choose ingredients that nourish rather than harm"
-    }
+    "blood_sugar_markers": {
+      "fasting_glucose": "Less than 100 mg/dL",
+      "hemoglobin_a1c": "Less than 5.7%",
+      "monitoring_frequency": "Annually or as recommended"
+    },
+    "chefrich_notes": "Regular biomarker monitoring helps track the effectiveness of dietary and lifestyle interventions for heart health"
   },
   "anti_inflammatory_nutrition_philosophy": {
     "category": "therapeutic_nutrition",
@@ -705,223 +641,6 @@
       "Proper cooking temperatures ensure safety",
       "Pairing with fiber-rich foods aids digestion",
       "Individual tolerance may vary"
-    ],
-    "coronary_heart_disease_prevention": {
-  "category": "cardiovascular_health",
-  "name": "Coronary Heart Disease Prevention and Management",
-  "description": "Comprehensive approach to preventing and managing coronary heart disease through nutrition and lifestyle interventions",
-  "risk_factors": {
-    "dietary_factors": [
-      "Trans fats and hydrogenated oils",
-      "Refined sugars and processed carbohydrates",
-      "Excessive sodium intake",
-      "Oxidized cholesterol from processed foods",
-      "Heated milk proteins",
-      "Excess omega-6 from refined vegetable oils"
-    ],
-    "lifestyle_factors": [
-      "Lack of physical activity",
-      "Chronic stress and poor stress management",
-      "Smoking and tobacco use",
-      "Excessive alcohol consumption",
-      "Poor sleep quality and insufficient sleep"
-    ],
-    "nutritional_deficiencies": [
-      "Vitamin C and E deficiency",
-      "Folate, B6, and B12 deficiency leading to elevated homocysteine",
-      "Magnesium and selenium deficiency",
-      "Omega-3 fatty acid deficiency"
     ]
-  },
-  "prevention_strategies": [
-    "Follow anti-inflammatory diet rich in whole foods",
-    "Maintain healthy weight through balanced nutrition",
-    "Exercise regularly to strengthen cardiovascular system",
-    "Manage stress through relaxation techniques",
-    "Avoid smoking and limit alcohol consumption",
-    "Ensure adequate sleep for cardiovascular recovery"
-  ],
-  "chefrich_philosophy": "Coronary heart disease prevention begins in the kitchen with every meal choice supporting cardiovascular wellness"
-},
-"dash_diet_implementation": {
-  "category": "cardiovascular_nutrition",
-  "name": "DASH Diet Implementation for Heart Health",
-  "description": "Evidence-based dietary approach proven to reduce blood pressure and cholesterol levels",
-  "daily_serving_guidelines": {
-    "grains": "7-8 servings (preferably whole grains)",
-    "vegetables": "4-5 servings",
-    "fruits": "4-5 servings",
-    "low_fat_dairy": "2-3 servings",
-    "lean_proteins": "2 or fewer servings",
-    "nuts_seeds_beans": "4-5 servings per week",
-    "healthy_fats": "2-3 servings",
-    "sweets": "5 servings per week"
-  },
-  "serving_size_examples": {
-    "grains": "1 slice bread, 1/2 cup cooked rice/pasta/cereal",
-    "vegetables": "1 cup leafy greens, 1/2 cup other vegetables",
-    "fruits": "1 medium fruit, 1/2 cup fresh/frozen fruit",
-    "dairy": "1 cup milk/yogurt, 1.5 oz cheese",
-    "protein": "3 oz cooked lean meat/poultry/fish",
-    "nuts_seeds": "1/3 cup nuts, 2 tbsp seeds"
-  },
-  "implementation_tips": [
-    "Gradually increase vegetable and fruit portions",
-    "Choose whole grain versions of breads and cereals",
-    "Read labels to identify low-sodium options",
-    "Prepare meals at home to control ingredients",
-    "Season with herbs and spices instead of salt"
-  ],
-  "chefrich_notes": "DASH diet success comes from making sustainable changes that become lifestyle habits rather than temporary restrictions"
-},
-"foods_to_avoid_heart_health": {
-  "category": "cardiovascular_nutrition",
-  "name": "Foods to Avoid for Heart Health",
-  "description": "Specific foods and ingredients that increase cardiovascular disease risk",
-  "trans_fats_and_hydrogenated_oils": {
-    "sources": ["margarine", "vegetable shortening", "partially hydrogenated oils", "many processed foods"],
-    "health_impacts": [
-      "Raise LDL (bad) cholesterol and lower HDL (good) cholesterol",
-      "Increase inflammation throughout the body",
-      "Promote insulin resistance and diabetes risk",
-      "Reduce immune function and cellular integrity"
-    ]
-  },
-  "refined_sugars": {
-    "sources": ["white sugar", "high fructose corn syrup", "refined carbohydrates"],
-    "health_impacts": [
-      "Increase triglycerides and harmful cholesterol",
-      "Promote inflammation and oxidative stress",
-      "Deplete B vitamins and essential minerals",
-      "Contribute to obesity and metabolic syndrome"
-    ]
-  },
-  "processed_foods": {
-    "sources": ["canned foods", "frozen meals", "processed meats", "refined snacks"],
-    "concerns": [
-      "High sodium content increases blood pressure",
-      "Added preservatives and chemicals",
-      "Oxidized fats from processing",
-      "Reduced nutritional value"
-    ]
-  },
-  "chefrich_recommendation": "Replace processed foods with whole, minimally processed alternatives prepared with heart-healthy cooking methods"
-},
-"therapeutic_foods_heart_health": {
-  "category": "cardiovascular_nutrition",
-  "name": "Therapeutic Foods for Heart Health",
-  "description": "Specific foods with scientifically proven cardiovascular benefits",
-  "tier_1_superfoods": {
-    "garlic": "Reduces cholesterol, blood pressure, and clotting risk",
-    "wild_salmon": "Rich in omega-3 fatty acids for anti-inflammatory benefits",
-    "leafy_greens": "High in folate, nitrates, and antioxidants",
-    "berries": "Anthocyanins and antioxidants for arterial protection",
-    "nuts": "Healthy fats and protein for cholesterol management"
-  },
-  "tier_2_beneficial_foods": {
-    "olive_oil": "Monounsaturated fats and antioxidants",
-    "avocados": "Healthy fats and potassium for blood pressure",
-    "oats": "Beta-glucan fiber for cholesterol reduction",
-    "beans": "Protein and fiber for heart health",
-    "pomegranates": "Antioxidants for arterial health"
-  },
-  "therapeutic_spices": {
-    "turmeric": "Anti-inflammatory curcumin compounds",
-    "ginger": "Circulation support and anti-inflammatory effects",
-    "cinnamon": "Blood sugar regulation and antioxidants",
-    "cayenne": "Circulation enhancement and metabolic support"
-  },
-  "chefrich_philosophy": "Therapeutic foods provide concentrated healing compounds that support cardiovascular health with every meal"
-},
-"heart_healthy_cooking_strategies": {
-  "category": "culinary_medicine",
-  "name": "Heart-Healthy Cooking Strategies",
-  "description": "Cooking methods and techniques that maximize cardiovascular benefits",
-  "cooking_methods": [
-    "Steam vegetables to preserve nutrients and avoid added fats",
-    "Sauté with heart-healthy oils like olive oil at moderate temperatures",
-    "Roast vegetables with herbs and spices for flavor without salt",
-    "Grill proteins to allow excess fat to drain away",
-    "Poach fish in aromatic broths for gentle cooking"
-  ],
-  "flavor_enhancement": [
-    "Use fresh herbs and spices instead of salt for seasoning",
-    "Add citrus zest and juice for brightness",
-    "Include garlic and onions for cardiovascular benefits",
-    "Use vinegars and fermented foods for umami depth",
-    "Toast spices to intensify flavors naturally"
-  ],
-  "meal_planning": [
-    "Plan meals around vegetables and whole grains",
-    "Include omega-3 rich fish 2-3 times per week",
-    "Prepare large batches of beans and whole grains",
-    "Keep heart-healthy snacks readily available",
-    "Meal prep vegetables for quick, healthy meals"
-  ],
-  "chefrich_notes": "Heart-healthy cooking strategies prove that therapeutic nutrition can be delicious and satisfying"
-},
-"lifestyle_recommendations_heart_health": {
-  "category": "holistic_cardiovascular_health",
-  "name": "Lifestyle Recommendations for Heart Health",
-  "description": "Comprehensive lifestyle approach to cardiovascular wellness beyond diet",
-  "physical_activity": [
-    "Aim for 150 minutes of moderate aerobic activity weekly",
-    "Include strength training exercises 2-3 times per week",
-    "Take regular walks after meals to aid digestion",
-    "Find enjoyable activities to maintain long-term consistency",
-    "Start slowly and gradually increase intensity"
-  ],
-  "stress_management": [
-    "Practice deep breathing exercises daily",
-    "Engage in meditation or mindfulness practices",
-    "Maintain social connections and support networks",
-    "Pursue hobbies and activities that bring joy",
-    "Limit exposure to negative news and stressful media"
-  ],
-  "sleep_optimization": [
-    "Aim for 7-9 hours of quality sleep nightly",
-    "Maintain consistent sleep and wake times",
-    "Create a relaxing bedtime routine",
-    "Limit caffeine and alcohol before bedtime",
-    "Keep bedroom cool, dark, and quiet"
-  ],
-  "environmental_factors": [
-    "Avoid exposure to secondhand smoke",
-    "Limit exposure to air pollution when possible",
-    "Use natural cleaning products to reduce toxins",
-    "Maintain healthy indoor air quality",
-    "Consider water filtration for drinking water"
-  ],
-  "chefrich_philosophy": "True cardiovascular health requires a holistic approach that nourishes body, mind, and spirit"
-},
-"biomarker_monitoring_heart_health": {
-  "category": "cardiovascular_assessment",
-  "name": "Biomarker Monitoring for Heart Health",
-  "description": "Key biomarkers to track cardiovascular health and nutrition effectiveness",
-  "lipid_panel": {
-    "total_cholesterol": "Less than 200 mg/dL",
-    "ldl_cholesterol": "Less than 100 mg/dL (optimal less than 70)",
-    "hdl_cholesterol": "40 mg/dL or higher for men, 50 mg/dL or higher for women",
-    "triglycerides": "Less than 150 mg/dL"
-  },
-  "blood_pressure": {
-    "optimal": "Less than 120/80 mmHg",
-    "normal": "120-129/80-84 mmHg",
-    "high_normal": "130-139/85-89 mmHg",
-    "monitoring_frequency": "Monthly for those with elevated levels"
-  },
-  "inflammation_markers": {
-    "c_reactive_protein": "Less than 3.0 mg/L (lower is better)",
-    "homocysteine": "Less than 10 μmol/L",
-    "monitoring_frequency": "Every 6-12 months"
-  },
-  "blood_sugar_markers": {
-    "fasting_glucose": "Less than 100 mg/dL",
-    "hemoglobin_a1c": "Less than 5.7%",
-    "monitoring_frequency": "Annually or as recommended"
-  },
-  "chefrich_notes": "Regular biomarker monitoring helps track the effectiveness of dietary and lifestyle interventions for heart health"
-}
   }
 }
-
