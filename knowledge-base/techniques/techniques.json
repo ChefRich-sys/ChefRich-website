@@ -775,4 +775,72 @@
       ],
       "health_benefits": "Creates resistant starch when cooled, supports stable blood sugar, and maximizes nutrient retention through gentle initial cooking.",
       "applications": ["Home fried potatoes", "Hash preparations", "Roasted potato dishes", "Breakfast sides"]
+    },
+    {
+  "brunch_ingredients": [
+    {
+      "ingredient_name": "Tempeh",
+      "category": "Plant Proteins",
+      "description": "Tempeh is a fermented soybean product that provides complete protein, probiotics, and enhanced nutrient bioavailability through the natural fermentation process.",
+      "nutritional_properties": [
+        "Contains beneficial bacteria from fermentation",
+        "Provides all essential amino acids",
+        "More digestible than unfermented soy",
+        "Rich in B vitamins especially B12",
+        "Contains prebiotics for gut health",
+        "Natural enzymes aid digestion"
+      ],
+      "health_benefits": "Supports digestive health through probiotics, provides plant-based complete protein, and offers enhanced mineral absorption through fermentation.",
+      "culinary_applications": ["Sandwich fillings", "Stir-fries", "Grain bowls", "Marinated preparations", "Crumbled as meat substitute"],
+      "storage_tips": "Store refrigerated and use within one week of opening. Can be frozen for up to 3 months."
+    },
+    {
+      "ingredient_name": "Ancient Spelt Flour",
+      "category": "Whole Grains",
+      "description": "Spelt is an ancient wheat variety that offers superior nutrition, easier digestibility, and lower gluten content compared to modern wheat, making it suitable for many with wheat sensitivities.",
+      "nutritional_properties": [
+        "Higher protein content than modern wheat",
+        "Contains all essential amino acids",
+        "Lower gluten content aids digestion",
+        "Rich in fiber and B vitamins",
+        "Provides minerals like manganese and phosphorus",
+        "Often tolerated by those with wheat sensitivity"
+      ],
+      "health_benefits": "Supports stable blood sugar through complex carbohydrates, easier digestion than modern wheat, and provides complete amino acid profile for sustained energy.",
+      "culinary_applications": ["Bread making", "Pasta production", "Flour substitution", "Breakfast cereals", "Baked goods"],
+      "storage_tips": "Store in airtight container in cool, dry place. Refrigerate or freeze for longer storage."
+    },
+    {
+      "ingredient_name": "Wild Blueberries",
+      "category": "Antioxidant Fruits",
+      "description": "Wild blueberries contain significantly higher levels of anthocyanins and antioxidants compared to cultivated varieties, providing superior brain health and anti-aging benefits.",
+      "nutritional_properties": [
+        "Higher antioxidant levels than cultivated berries",
+        "Rich in anthocyanins for brain health",
+        "Supports cognitive function and memory",
+        "Provides anti-inflammatory compounds",
+        "Excellent source of vitamin C",
+        "May help protect against age-related decline"
+      ],
+      "health_benefits": "Supports brain health and cognitive function, provides powerful antioxidant protection, and may help reduce the risk of age-related cognitive decline.",
+      "culinary_applications": ["Muffins and baked goods", "Smoothie bowls", "Breakfast toppings", "Fruit salads", "Yogurt parfaits"],
+      "storage_tips": "Freeze immediately after harvest. Use frozen directly in baking or thaw gently for fresh applications."
+    },
+    {
+      "ingredient_name": "Turmeric",
+      "category": "Anti-Inflammatory Spices",
+      "description": "Turmeric contains curcumin, a powerful anti-inflammatory compound that gives the golden color and provides significant health benefits when consumed regularly in food preparations.",
+      "nutritional_properties": [
+        "Contains curcumin as active compound",
+        "Provides natural anti-inflammatory effects",
+        "Best absorbed with fat and black pepper",
+        "Gives beautiful golden color to foods",
+        "Supports joint health and mobility",
+        "May help reduce chronic inflammation"
+      ],
+      "health_benefits": "Supports joint health, may reduce chronic inflammation, provides antioxidant protection, and supports overall immune function through natural plant compounds.",
+      "culinary_applications": ["Tofu scrambles", "Curry dishes", "Golden milk preparations", "Rice dishes", "Roasted vegetables"],
+      "storage_tips": "Store ground turmeric in airtight container away from light. Fresh turmeric root should be refrigerated and used within 2 weeks."
     }
+  ]
+}
