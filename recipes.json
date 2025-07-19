@@ -1476,6 +1476,447 @@
   "suggested_pairings": ["Steamed brown rice", "Fermented vegetables", "Herbal tea blend", "Raw vegetable salad"],
   "nutritional_highlights": "Garlic: Allicin compounds for cardiovascular support • Miso: Probiotics for gut health • Herbs: Antioxidants and detoxifying compounds",
   "food_as_medicine": "This therapeutic soup leverages garlic's scientifically-proven ability to lower LDL cholesterol, reduce blood pressure, and prevent arterial plaque formation while supporting overall cardiovascular health and immune function."
-}
+},
+    [
+  {
+    "title_with_emoji": "🍞 Therapeutic Whole Wheat Bread",
+    "tags": ["whole-grain", "digestive-support", "heart-healthy", "fiber-rich"],
+    "description": "A foundational therapeutic bread combining the nutritional power of whole wheat with natural sweeteners and heart-healthy olive oil. This bread provides sustained energy, digestive support, and essential nutrients through the synergy of whole grains and traditional fermentation techniques.",
+    "yield_and_time": {
+      "yield": "2 loaves (16-20 slices)",
+      "prep_time": "30 minutes",
+      "cook_time": "30-45 minutes",
+      "total_time": "3-4 hours (including rises)"
+    },
+    "ingredients": [
+      "1½ tablespoons dry yeast",
+      "2 cups warm water",
+      "1 cup whole wheat bread flour",
+      "4-5 cups whole wheat pastry flour",
+      "3 tablespoons honey or rice syrup (natural sweetener)",
+      "½ cup extra virgin olive oil",
+      "1 tablespoon sea salt"
+    ],
+    "instructions": [
+      "Preheat oven to 375°F. Create sponge by combining yeast, warm water, whole wheat bread flour, 1 cup pastry flour, and honey. Cover and ferment 30-45 minutes until bubbly.",
+      "Add olive oil, salt, and remaining pastry flour gradually until dough pulls away from bowl sides.",
+      "Knead dough 10-15 minutes until smooth and elastic, developing proper gluten structure.",
+      "Place in oiled bowl, cover, and proof 45-60 minutes until doubled in size.",
+      "Prepare bread pans with parchment. Punch down dough and repeat rising 1-2 times if time permits.",
+      "Divide into two loaves, shape, and place in prepared pans. Cover and final rise 40 minutes until doubled.",
+      "Bake 30-45 minutes until golden brown and internal temperature reaches 190-205°F.",
+      "Cool completely before slicing to ensure proper texture and digestibility."
+    ],
+    "chefrich_notes": "The sponge method enhances digestibility and flavor development. Multiple rises create lighter texture while maintaining nutritional density. Use bread flour for structure and pastry flour for tenderness.",
+    "suggested_pairings": ["Almond butter and sliced banana", "Avocado and sea salt", "Raw honey and cinnamon", "Cultured butter"],
+    "nutritional_highlights": "Whole wheat provides fiber, B-vitamins, and minerals. Olive oil contributes heart-healthy monounsaturated fats. Natural sweeteners provide sustained energy without blood sugar spikes.",
+    "food_as_medicine": "This therapeutic bread transforms the humble loaf into a healing food that supports digestive health, heart wellness, and sustained energy through the power of whole grains and traditional fermentation."
+  },
+  {
+    "title_with_emoji": "🌾 Ancient Grain Spelt Bread",
+    "tags": ["ancient-grain", "easy-digestion", "mineral-rich", "sustainable-energy"],
+    "description": "An ancient grain bread featuring spelt's superior digestibility and complete amino acid profile. This therapeutic bread offers easier digestion than modern wheat while delivering exceptional nutrition and a naturally sweet, nutty flavor that connects us to ancestral eating patterns.",
+    "yield_and_time": {
+      "yield": "2 loaves (16-20 slices)",
+      "prep_time": "30 minutes",
+      "cook_time": "40-50 minutes",
+      "total_time": "4-5 hours (including rises)"
+    },
+    "ingredients": [
+      "2½ cups warm water (110°F)",
+      "½ cup pure maple syrup",
+      "2 tablespoons dry yeast",
+      "¼ cup extra virgin olive oil",
+      "1 tablespoon sea salt",
+      "8-10 cups spelt flour"
+    ],
+    "instructions": [
+      "Preheat oven to 375°F. Combine warm water, maple syrup, and yeast in large bowl. Let stand 10 minutes until foamy and active.",
+      "Add olive oil, salt, and enough spelt flour to create dough that pulls away from bowl sides.",
+      "Knead dough 10-15 minutes until smooth and elastic, using remaining flour as needed.",
+      "Place in oiled bowl, cover, and proof 45-60 minutes until doubled in size.",
+      "Prepare bread pans with parchment. Punch down and repeat rising 1-2 times for enhanced texture.",
+      "Divide into two portions, shape into loaves, and place in prepared pans.",
+      "Cover and final rise 40 minutes until doubled in size.",
+      "Bake 40-50 minutes until golden brown and internal temperature reaches 190-205°F.",
+      "Cool completely on wire racks before slicing."
+    ],
+    "chefrich_notes": "Spelt's lower gluten content requires gentle handling but creates superior digestibility. The grain's natural sweetness pairs beautifully with maple syrup. Allow proper cooling for optimal texture.",
+    "suggested_pairings": ["Goat cheese and fig jam", "Tahini and honey", "Cultured butter and herbs", "Avocado and tomato"],
+    "nutritional_highlights": "Spelt provides complete amino acids, higher protein than wheat, and easier digestibility. Maple syrup offers minerals and antioxidants. Ancient grains support sustained energy and heart health.",
+    "food_as_medicine": "This ancient grain bread honors traditional nutrition while supporting modern digestive health, providing complete nutrition through time-tested grains that nourish without stress."
+  },
+  {
+    "title_with_emoji": "🥯 Therapeutic Herb Bagels",
+    "tags": ["boiled-bread", "digestive-support", "whole-grain", "customizable"],
+    "description": "Traditional bagels elevated with therapeutic herbs and whole grain nutrition. The boiling process creates a unique texture while the combination of white and whole wheat flours provides both structure and nutrition, making these bagels a perfect canvas for healing toppings.",
+    "yield_and_time": {
+      "yield": "16 bagels",
+      "prep_time": "45 minutes",
+      "cook_time": "20-25 minutes",
+      "total_time": "3-4 hours (including rises)"
+    },
+    "ingredients": [
+      "2⅓ cups warm water (110°F)",
+      "¼ cup rice syrup (gentle sweetener)",
+      "2 tablespoons dry yeast",
+      "2 tablespoons olive oil",
+      "2 teaspoons sea salt",
+      "3 cups unbleached white bread flour",
+      "3-4 cups whole wheat pastry flour",
+      "Optional toppings: poppy seeds, sesame seeds, garlic, minced onion, coarse salt"
+    ],
+    "instructions": [
+      "Combine warm water, rice syrup, and yeast in large bowl. Let stand 10 minutes until foamy.",
+      "Add olive oil and salt to yeast mixture. Combine flours and add enough to create dough that pulls from bowl sides.",
+      "Knead 10-15 minutes until smooth and elastic, using remaining flour as needed.",
+      "Place in oiled bowl, cover, and proof 45-60 minutes until doubled.",
+      "Prepare two parchment-lined sheet pans. Punch down dough and optionally repeat rising once more.",
+      "Divide into 16 equal portions (weigh for accuracy). Shape into bagels by poking holes through center.",
+      "Bring 1 gallon water to boil. Preheat oven to 400°F.",
+      "Boil bagels 3-4 at a time for 10 seconds per side. Remove and place on prepared sheets.",
+      "Brush with beaten egg or diluted rice syrup. Sprinkle with desired toppings.",
+      "Bake 20-25 minutes until golden brown and firm to touch."
+    ],
+    "chefrich_notes": "The boiling step is crucial for authentic bagel texture and digestibility. Weighing portions ensures even baking. The combination of flours provides both structure and nutrition.",
+    "suggested_pairings": ["Smoked salmon and capers", "Almond butter and sliced apple", "Hummus and sprouts", "Avocado and everything seasoning"],
+    "nutritional_highlights": "Whole wheat pastry flour adds fiber and B-vitamins. Rice syrup provides gentle sweetness. Boiling process improves digestibility and creates satisfying texture.",
+    "food_as_medicine": "These therapeutic bagels transform a breakfast staple into a healing food that provides sustained energy, digestive support, and a perfect foundation for nutrient-dense toppings."
+  },
+  {
+    "title_with_emoji": "🫓 Healing Pita Bread",
+    "tags": ["flatbread", "versatile", "whole-grain", "pocket-bread"],
+    "description": "Traditional Middle Eastern flatbread crafted with healing whole grains and natural sweeteners. These therapeutic pita breads create perfect pockets for nutritious fillings while providing sustained energy and digestive support through time-tested fermentation techniques.",
+    "yield_and_time": {
+      "yield": "14 pita breads",
+      "prep_time": "30 minutes",
+      "cook_time": "8-11 minutes",
+      "total_time": "3-4 hours (including rises)"
+    },
+    "ingredients": [
+      "2¼ cups warm water (110°F)",
+      "2 tablespoons warm maple syrup",
+      "1½ teaspoons dry yeast",
+      "1 teaspoon olive oil",
+      "1 tablespoon sea salt",
+      "1 cup unbleached white all-purpose flour",
+      "1 cup whole wheat bread flour",
+      "5 cups whole wheat pastry flour"
+    ],
+    "instructions": [
+      "Preheat oven to 475°F. Combine warm water, maple syrup, and yeast in bowl. Let stand 10 minutes until foamy.",
+      "Add olive oil, salt, and all flours gradually until dough pulls away from bowl sides.",
+      "Knead 10-15 minutes until smooth and elastic, using remaining pastry flour as needed.",
+      "Place in oiled bowl, cover, and proof 45-60 minutes until doubled.",
+      "Prepare 3 sheet trays with parchment lightly dusted with cornmeal.",
+      "Punch down dough and optionally repeat rising 1-2 times for enhanced texture.",
+      "Divide into 14 equal balls. Roll each into 1/8-inch thick, 6-inch circles.",
+      "Place on prepared trays, cover with damp towels, and final rise 30 minutes until doubled.",
+      "Bake 5 minutes, flip each pita, and continue baking 3-6 minutes until golden, puffed, and firm."
+    ],
+    "chefrich_notes": "High heat creates steam that puffs the pita. The cornmeal prevents sticking while adding texture. Multiple flour types create perfect texture balance.",
+    "suggested_pairings": ["Hummus and fresh vegetables", "Grilled chicken and tzatziki", "Falafel and tahini sauce", "Roasted vegetables and herbs"],
+    "nutritional_highlights": "Whole wheat flours provide fiber and nutrients. Maple syrup offers minerals and antioxidants. Traditional fermentation enhances digestibility and creates complex flavors.",
+    "food_as_medicine": "These healing pita breads serve as versatile vehicles for therapeutic foods, creating satisfying meals that support digestive health and provide sustained energy through whole grain nutrition."
+  },
+  {
+    "title_with_emoji": "🍎 Therapeutic Apple Ring Bread",
+    "tags": ["fruit-sweetened", "festive", "whole-grain", "antioxidant-rich"],
+    "description": "A celebration bread featuring therapeutic apples, warming spices, and whole grain nutrition. This beautiful ring bread combines the healing properties of apples with anti-inflammatory spices and nuts, creating a festive centerpiece that nourishes both body and soul.",
+    "yield_and_time": {
+      "yield": "2 rings (16-20 slices)",
+      "prep_time": "45 minutes",
+      "cook_time": "30-45 minutes",
+      "total_time": "4-5 hours (including rises)"
+    },
+    "ingredients": [
+      "For sponge: 1 tablespoon dry yeast, 1 cup warm water, 1 cup warm apple juice, ½ cup rice syrup, 1 cup whole wheat pastry flour, 4-5 cups unbleached white flour",
+      "For dough: 2 tablespoons melted coconut oil, 1 tablespoon sea salt, ½ cup maple crystals",
+      "For filling: 6 apples (peeled and diced), 2 tablespoons lemon juice, ½ cup dried apricots (slivered), ½ cup raisins, 1 teaspoon cinnamon, ¼ teaspoon cardamom, ¼ teaspoon nutmeg, pinch sea salt, ½ cup maple crystals, 3 tablespoons arrowroot, 1 cup toasted walnuts (chopped)"
+    ],
+    "instructions": [
+      "Preheat oven to 350°F. Create sponge by combining yeast, warm water, apple juice, rice syrup, and flours. Cover and ferment 30-45 minutes.",
+      "Add melted coconut oil, salt, maple crystals, and enough remaining flour to form workable dough.",
+      "Knead 10-15 minutes until smooth and elastic. Place in oiled bowl, cover, and proof 45-60 minutes until doubled.",
+      "Meanwhile, combine all filling ingredients in bowl and set aside.",
+      "Prepare two sheet trays with parchment. Punch down dough and divide in half.",
+      "Roll each portion into ¼-inch thick rectangle. Spread half the filling down center of each rectangle.",
+      "Fold dough over filling, roll seam-side down, and connect ends to form rings. Place on prepared trays.",
+      "Cut steam vents in tops. Cover and final rise 40 minutes until doubled.",
+      "Bake 30-45 minutes until golden brown and thoroughly baked. Cool completely before serving."
+    ],
+    "chefrich_notes": "The apple juice in the sponge adds natural sweetness and enhances apple flavor. Steam vents prevent bursting. Arrowroot thickens the filling naturally.",
+    "suggested_pairings": ["Serve warm with cultured butter", "Pair with herbal tea", "Accompany with vanilla yogurt", "Enjoy with cinnamon tea"],
+    "nutritional_highlights": "Apples provide fiber, vitamin C, and antioxidants. Warming spices offer anti-inflammatory benefits. Walnuts contribute omega-3 fatty acids and protein.",
+    "food_as_medicine": "This therapeutic apple ring transforms seasonal fruit into a healing celebration bread that provides antioxidants, fiber, and warming spices to support immune health and digestive wellness."
+  },
+  {
+    "title_with_emoji": "🌿 Nourishing Challah Bread",
+    "tags": ["braided-bread", "festive", "enriched", "traditional"],
+    "description": "A therapeutic take on traditional challah featuring natural sweeteners and enriching ingredients. This golden braided bread maintains the ceremonial beauty of challah while incorporating healing honey and wholesome eggs for a nourishing bread that honors tradition and supports health.",
+    "yield_and_time": {
+      "yield": "2 large loaves",
+      "prep_time": "45 minutes",
+      "cook_time": "30-40 minutes",
+      "total_time": "4-5 hours (including rises)"
+    },
+    "ingredients": [
+      "2¼ cups warm water (110°F)",
+      "½ cup raw honey",
+      "¾ cup rice syrup",
+      "2 tablespoons dry yeast",
+      "3 large eggs, beaten (plus 3 eggs for wash)",
+      "½ cup melted grass-fed butter",
+      "2 tablespoons sea salt",
+      "7-8 cups unbleached white all-purpose flour",
+      "2 tablespoons water (for egg wash)"
+    ],
+    "instructions": [
+      "Preheat oven to 350°F. Combine warm water, honey, rice syrup, and yeast in large bowl. Let stand 10 minutes until foamy.",
+      "Add beaten eggs, melted butter, salt, and enough flour to create dough that pulls from bowl sides.",
+      "Knead 10 minutes until smooth and elastic, adding flour as needed.",
+      "Place in oiled bowl, cover, and proof 45-60 minutes until doubled.",
+      "Prepare two half-sheet pans with parchment. Punch down and optionally repeat rising 1-2 times.",
+      "Divide dough into two portions. Divide each portion into desired number of strands for braiding.",
+      "Roll each strand into 1-inch wide, 8-9 inch logs. Braid according to traditional method.",
+      "Place braided loaves on prepared pans. Cover and final rise 30-40 minutes until doubled.",
+      "Beat remaining eggs with water for wash. Brush loaves with egg wash.",
+      "Bake 30-40 minutes until golden brown and internal temperature reaches 190-205°F."
+    ],
+    "chefrich_notes": "The combination of honey and rice syrup creates complex sweetness. Braiding technique affects texture - tighter braids create denser bread. Egg wash creates beautiful golden color.",
+    "suggested_pairings": ["Serve with ceremonial meals", "Pair with soup and salad", "Toast with almond butter", "Enjoy with herbal tea"],
+    "nutritional_highlights": "Honey provides enzymes and antioxidants. Eggs contribute complete protein and choline. Grass-fed butter offers vitamin A and healthy fats.",
+    "food_as_medicine": "This nourishing challah honors sacred traditions while providing therapeutic nutrition through natural sweeteners, complete proteins, and wholesome fats that support overall health and community wellness."
+  },
+  {
+    "title_with_emoji": "🥞 Therapeutic Buckwheat Pancakes",
+    "tags": ["vegan", "gluten-free", "blood-sugar-friendly", "nutrient-dense"],
+    "description": "Healing pancakes featuring the complete amino acid profile of buckwheat combined with the natural sweetness of banana and maple. These vegan pancakes provide sustained energy, support blood sugar balance, and deliver superior nutrition compared to traditional pancakes.",
+    "yield_and_time": {
+      "yield": "40 three-inch pancakes",
+      "prep_time": "15 minutes",
+      "cook_time": "20-25 minutes",
+      "total_time": "35-40 minutes"
+    },
+    "ingredients": [
+      "1½ cups sifted unbleached white flour",
+      "½ cup buckwheat flour",
+      "½ teaspoon baking powder",
+      "½ teaspoon sea salt",
+      "1 teaspoon baking soda",
+      "2 teaspoons maple crystals",
+      "3 tablespoons apple cider vinegar",
+      "3 cups almond milk",
+      "½ very ripe banana, mashed"
+    ],
+    "instructions": [
+      "Combine all dry ingredients (flours, baking powder, salt, baking soda, maple crystals) in small bowl and set aside.",
+      "In large bowl, combine apple cider vinegar with almond milk and let sit 5-10 minutes to create buttermilk effect.",
+      "Add mashed banana to the almond milk mixture and mix well.",
+      "Add dry ingredients to wet ingredients and beat batter only until blended - do not overmix.",
+      "Heat griddle or large skillet over medium heat. Lightly oil if needed.",
+      "Using 1-ounce ladle, pour batter onto hot griddle to form 3-inch pancakes.",
+      "Cook until bubbles form and break on surface, then flip and cook until golden brown on second side.",
+      "Serve immediately or keep warm in low oven until all pancakes are cooked."
+    ],
+    "chefrich_notes": "Buckwheat flour provides complete protein and unique nutty flavor. The vinegar-almond milk combination creates natural leavening. Batter keeps well refrigerated for several days.",
+    "suggested_pairings": ["Pure maple syrup and fresh berries", "Almond butter and sliced banana", "Coconut yogurt and chopped nuts", "Fresh fruit compote"],
+    "nutritional_highlights": "Buckwheat provides complete amino acids and rutin for circulation. Banana adds potassium and natural sweetness. Almond milk contributes vitamin E and healthy fats.",
+    "food_as_medicine": "These therapeutic pancakes transform breakfast into a healing meal that provides complete nutrition, supports blood sugar balance, and delivers sustained energy through the power of ancient grains."
+  },
+  {
+    "title_with_emoji": "🍠 Healing Sweet Potato Waffles",
+    "tags": ["nutrient-dense", "beta-carotene", "comfort-food", "vitamin-rich"],
+    "description": "Nourishing waffles featuring the healing power of sweet potatoes combined with wholesome ingredients. These therapeutic waffles provide beta-carotene, fiber, and natural sweetness while creating a satisfying breakfast that supports immune health and provides sustained energy.",
+    "yield_and_time": {
+      "yield": "6 large waffles",
+      "prep_time": "20 minutes",
+      "cook_time": "15-20 minutes",
+      "total_time": "35-40 minutes"
+    },
+    "ingredients": [
+      "½ cup boiled, food-milled sweet potato",
+      "3 large eggs, separated",
+      "1 cup almond milk",
+      "4 tablespoons grass-fed butter, melted",
+      "1 cup unbleached all-purpose flour",
+      "2 tablespoons cornmeal",
+      "½ teaspoon sea salt",
+      "2 teaspoons baking powder",
+      "2 tablespoons maple crystals"
+    ],
+    "instructions": [
+      "Preheat waffle iron according to manufacturer's instructions.",
+      "In large bowl, whisk together sweet potato puree, egg yolks, almond milk, and melted butter until smooth.",
+      "In separate bowl, whisk together flour, cornmeal, salt, baking powder, and maple crystals.",
+      "Add dry ingredients to wet ingredients and mix until batter is smooth. Set aside.",
+      "In clean bowl, whisk egg whites until soft peaks form - do not overbeat.",
+      "Gently fold whipped egg whites into batter until just combined.",
+      "Lightly oil waffle iron if needed. Pour 2-3 ounces of batter per waffle onto hot iron.",
+      "Cook 5-6 minutes or until waffles are golden brown and crispy.",
+      "Serve immediately with desired toppings."
+    ],
+    "chefrich_notes": "Food-milled sweet potatoes create smooth texture. Separated eggs create light, fluffy waffles. Cornmeal adds texture and nutrition. Don't overmix after adding egg whites.",
+    "suggested_pairings": ["Pure maple syrup and toasted pecans", "Greek yogurt and fresh berries", "Almond butter and cinnamon", "Coconut cream and fruit"],
+    "nutritional_highlights": "Sweet potatoes provide beta-carotene, fiber, and potassium. Eggs contribute complete protein and choline. Almond milk adds vitamin E and healthy fats.",
+    "food_as_medicine": "These healing waffles transform the humble sweet potato into a therapeutic breakfast that supports immune health, provides sustained energy, and delivers essential nutrients in a comforting, satisfying form."
+  },
+  {
+    "title_with_emoji": "🌟 Gluten-Free Healing Waffles",
+    "tags": ["gluten-free", "protein-rich", "digestive-friendly", "inclusive"],
+    "description": "Therapeutic waffles crafted with a high-protein gluten-free flour blend that doesn't compromise on nutrition or flavor. These healing waffles provide complete nutrition for those with gluten sensitivities while delivering satisfying texture and therapeutic benefits.",
+    "yield_and_time": {
+      "yield": "6 large waffles",
+      "prep_time": "20 minutes",
+      "cook_time": "15-20 minutes",
+      "total_time": "35-40 minutes"
+    },
+    "ingredients": [
+      "1¾ cups high-protein gluten-free flour mix (see notes)",
+      "2 teaspoons baking powder",
+      "½ teaspoon sea salt",
+      "2 tablespoons maple crystals",
+      "¼ teaspoon ground cinnamon",
+      "3 large eggs, separated",
+      "2 tablespoons melted coconut oil or grass-fed butter",
+      "½ teaspoon vanilla extract",
+      "1 cup almond milk",
+      "Oil for greasing waffle iron"
+    ],
+    "instructions": [
+      "Preheat waffle iron according to manufacturer's instructions.",
+      "In large bowl, whisk together gluten-free flour mix, baking powder, salt, maple crystals, and cinnamon.",
+      "In separate bowl, beat egg yolks well, then add melted oil, vanilla extract, and almond milk.",
+      "Make well in center of dry ingredients and pour in liquid ingredients. Whisk to combine.",
+      "In clean bowl, beat egg whites until stiff peaks form.",
+      "Gently fold egg whites into batter until just barely blended - don't overmix.",
+      "Lightly grease waffle iron with oil.",
+      "Pour about ½ to ¾ cup batter per waffle onto hot iron.",
+      "Cook 3½-4 minutes per batch until golden brown and crispy."
+    ],
+    "chefrich_notes": "High-protein flour mix: ½ cup garbanzo flour, 7 tablespoons each of brown rice flour, potato starch flour, and tapioca starch flour. This creates structure and nutrition without gluten.",
+    "suggested_pairings": ["Fresh berries and coconut cream", "Almond butter and sliced banana", "Pure maple syrup and chopped nuts", "Greek yogurt and fruit compote"],
+    "nutritional_highlights": "Garbanzo flour provides protein and fiber. Brown rice flour adds B-vitamins. Potato and tapioca starches create light texture. Eggs contribute complete protein.",
+    "food_as_medicine": "These gluten-free healing waffles prove that therapeutic nutrition doesn't require compromise, providing complete protein, essential nutrients, and satisfying texture for those seeking gluten-free wellness."
+  },
+  {
+    "title_with_emoji": "🫐 Therapeutic Cranberry Walnut Scones",
+    "tags": ["antioxidant-rich", "heart-healthy", "omega-3", "comfort-food"],
+    "description": "Healing scones featuring the antioxidant power of cranberries and the omega-3 richness of walnuts. These therapeutic scones provide heart-healthy nutrition while delivering the comforting satisfaction of traditional baked goods enhanced with healing ingredients.",
+    "yield_and_time": {
+      "yield": "12 scones",
+      "prep_time": "20 minutes",
+      "cook_time": "12-15 minutes",
+      "total_time": "32-35 minutes"
+    },
+    "ingredients": [
+      "1 cup unbleached white all-purpose flour",
+      "1 cup whole wheat pastry flour",
+      "⅓ cup maple crystals",
+      "2 teaspoons baking powder",
+      "½ teaspoon baking soda",
+      "½ teaspoon sea salt",
+      "2 tablespoons grass-fed butter",
+      "⅔ cup fresh or dried cranberries, chopped",
+      "⅓ cup chopped walnuts or pecans",
+      "1 teaspoon finely grated orange zest",
+      "¾ cup almond milk soured with 1 tablespoon lemon juice",
+      "½ teaspoon fresh ginger juice",
+      "1 tablespoon maple syrup",
+      "1 tablespoon almond milk and 1 tablespoon maple crystals for topping"
+    ],
+    "instructions": [
+      "Preheat oven to 375°F. Line half-sheet pan with parchment paper.",
+      "In medium bowl, stir together flours, maple crystals, baking powder, baking soda, and salt.",
+      "Using pastry blender or fingertips, cut butter into dry ingredients until mixture resembles coarse crumbs.",
+      "Add chopped cranberries, walnuts, and orange zest to flour mixture.",
+      "Make well in center of dry ingredients. In separate bowl, combine soured almond milk, ginger juice, and maple syrup.",
+      "Pour liquid ingredients into well and stir just until combined - dough should be sticky and difficult to work with.",
+      "On lightly floured surface, pat or roll dough to ½-inch thickness.",
+      "Cut into desired shapes using cookie cutter or knife and place on prepared pan.",
+      "Brush tops with almond milk and sprinkle with maple crystals.",
+      "Bake 12-15 minutes until golden brown and firm to touch. Cool on rack."
+    ],
+    "chefrich_notes": "Don't overmix the dough - sticky texture is correct. Fresh cranberries provide more antioxidants than dried. Orange zest adds brightness and vitamin C.",
+    "suggested_pairings": ["Serve with herbal tea", "Pair with cultured butter", "Enjoy with fresh fruit", "Accompany with coconut yogurt"],
+    "nutritional_highlights": "Cranberries provide antioxidants and urinary tract support. Walnuts offer omega-3 fatty acids and protein. Orange zest contributes vitamin C and bioflavonoids.",
+    "food_as_medicine": "These therapeutic scones transform teatime into a healing ritual, providing antioxidants, healthy fats, and comforting satisfaction that supports heart health and overall wellness."
+  },
+  {
+    "title_with_emoji": "🌾 Gluten-Free Rice Griddle Cakes",
+    "tags": ["gluten-free", "vegan", "simple-ingredients", "digestive-friendly"],
+    "description": "Simple yet therapeutic griddle cakes featuring the gentle nutrition of rice flour combined with plant-based protein. These healing pancakes provide easy digestion, complete nutrition, and satisfying texture for those seeking gluten-free, vegan breakfast options.",
+    "yield_and_time": {
+      "yield": "18 four-inch pancakes",
+      "prep_time": "10 minutes",
+      "cook_time": "15-20 minutes",
+      "total_time": "25-30 minutes"
+    },
+    "ingredients": [
+      "2 cups rice flour",
+      "4½ teaspoons baking powder (or 4¾ teaspoons if using flax seed)",
+      "2 teaspoons maple crystals",
+      "1 teaspoon sea salt",
+      "4 ounces firm or soft tofu OR 1 tablespoon flax seed, ground to fine meal",
+      "2 cups almond milk",
+      "2 teaspoons oil (coconut or olive)"
+    ],
+    "instructions": [
+      "In large bowl, whisk together rice flour, baking powder, maple crystals, salt, and ground flax seed if using.",
+      "In blender, combine tofu (or ground flax seed), almond milk, and oil. Blend until smooth.",
+      "Pour liquid ingredients into dry ingredients and combine until smooth batter forms.",
+      "Heat griddle or large skillet over medium heat. Lightly oil if needed.",
+      "Using 1-ounce ladle, pour batter onto hot griddle to form 4-inch pancakes.",
+      "Cook until bubbles form and break on surface, then flip and cook until golden brown on second side.",
+      "Serve immediately or keep warm in low oven until all pancakes are cooked."
+    ],
+    "chefrich_notes": "Rice flour creates naturally gluten-free, light texture. Tofu provides protein and creates fluffy pancakes. Ground flax seed adds omega-3s and fiber if preferred over tofu.",
+    "suggested_pairings": ["Fresh fruit and coconut cream", "Pure maple syrup and chopped nuts", "Almond butter and sliced banana", "Berry compote and mint"],
+    "nutritional_highlights": "Rice flour provides easily digestible carbohydrates. Tofu contributes complete protein and isoflavones. Almond milk adds vitamin E and healthy fats.",
+    "food_as_medicine": "These gluten-free rice griddle cakes offer gentle nutrition that supports digestive health while providing complete plant-based protein and sustained energy for sensitive systems."
+  },
+  {
+    "title_with_emoji": "🫒 Anti-Inflammatory Herb & Olive Bread",
+    "tags": ["anti-inflammatory", "mediterranean", "herb-infused", "heart-healthy"],
+    "description": "A Mediterranean-inspired therapeutic bread rich in anti-inflammatory compounds from fresh herbs and heart-healthy olives. This aromatic bread delivers the healing power of extra virgin olive oil and therapeutic herbs while providing the satisfying texture and flavor of artisanal bread.",
+    "yield_and_time": {
+      "yield": "2 loaves (16-20 slices)",
+      "prep_time": "30 minutes",
+      "cook_time": "30-35 minutes",
+      "total_time": "4-5 hours (including rises)"
+    },
+    "ingredients": [
+      "2 cups warm water (110°F)",
+      "1 tablespoon + 1½ teaspoons dry yeast",
+      "1 tablespoon pure maple syrup",
+      "2 cups unbleached white bread flour",
+      "4-5 cups whole wheat pastry flour",
+      "⅓ cup extra virgin olive oil (anti-inflammatory)",
+      "2 tablespoons sea salt",
+      "½ cup pitted olives, chopped (kalamata or green)",
+      "2 tablespoons fresh rosemary, minced (antioxidant)",
+      "1 tablespoon fresh thyme leaves (antimicrobial)",
+      "1 teaspoon dried oregano (digestive support)"
+    ],
+    "instructions": [
+      "Activate yeast by combining warm water, yeast, and maple syrup. Let stand 10 minutes until foamy.",
+      "Build base dough by adding olive oil, salt, white flour, and 2 cups pastry flour. Mix until well combined.",
+      "Fold in chopped olives, rosemary, thyme, and oregano, ensuring even distribution throughout dough.",
+      "Gradually add remaining flour until dough pulls away from bowl sides and herbs are evenly distributed.",
+      "Knead dough 10-15 minutes until smooth and elastic, with herbs and olives evenly incorporated.",
+      "Place in oiled bowl, cover, and rise 45-60 minutes until doubled in size.",
+      "Punch down and repeat rising process 1-2 times for enhanced flavor development.",
+      "Divide dough into 2 equal portions and shape into loaves.",
+      "Place in prepared pans or on parchment-lined sheets, cover, and final rise 40 minutes until doubled.",
+      "Score tops with sharp knife in decorative pattern.",
+      "Bake at 450°F for 30-35 minutes until golden brown and internal temperature reaches 190-205°F.",
+      "Cool completely for 2-3 hours before slicing to maintain proper crumb structure."
+    ],
+    "chefrich_notes": "Fresh herbs provide maximum therapeutic benefit - dried herbs can be substituted but use half the amount. The high initial baking temperature creates a crispy crust while maintaining moist interior. Proper cooling is essential for developing the bread's final texture and flavor.",
+    "suggested_pairings": ["Hummus and fresh vegetables", "Goat cheese and roasted red peppers", "Olive tapenade and tomatoes", "Balsamic vinegar and herbs"],
+    "nutritional_highlights": "Extra virgin olive oil provides heart-healthy monounsaturated fats and anti-inflammatory compounds. Fresh rosemary contains antioxidants that support memory and circulation. Olives contribute vitamin E and beneficial polyphenols. Whole wheat flour adds fiber and B-vitamins.",
+    "food_as_medicine": "This therapeutic bread combines the anti-inflammatory power of Mediterranean ingredients with the digestive benefits of fermented grains, creating a healing food that supports heart health and reduces systemic inflammation."
+  }
+]
   ]
 }
