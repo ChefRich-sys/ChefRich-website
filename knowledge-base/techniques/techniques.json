@@ -713,5 +713,66 @@
       "Balance quantities to maintain dough structure"
     ],
     "therapeutic_benefit": "Provides omega-3 fatty acids, lignans, minerals, healthy fats, complete proteins"
-  }
-}
+  },
+  {
+  "brunch_techniques": [
+    {
+      "technique_name": "French Omelet Mastery",
+      "category": "Cooking Methods",
+      "description": "The classic French omelet method requires high heat, constant agitation, and precise timing to create silky, barely-set eggs with a creamy interior and no browning on the exterior.",
+      "key_steps": [
+        "Use room temperature eggs for even cooking",
+        "Heat pan to very hot before adding fat",
+        "Shake pan vigorously while stirring with fork",
+        "Keep eggs moving to prevent browning",
+        "Fill and fold when still slightly wet",
+        "Serve immediately for best texture"
+      ],
+      "health_benefits": "Preserves maximum nutrition in eggs through gentle, quick cooking that doesn't denature proteins or destroy heat-sensitive vitamins.",
+      "applications": ["Classic herb omelets", "Cheese-filled omelets", "Vegetable omelets", "Professional breakfast service"]
+    },
+    {
+      "technique_name": "Mushroom Caramelization",
+      "category": "Cooking Methods", 
+      "description": "Proper mushroom sautéing requires adequate space in the pan, medium heat, and patience to allow moisture to evaporate and natural sugars to caramelize for maximum umami development.",
+      "key_steps": [
+        "Don't overcrowd the pan to prevent steaming",
+        "Use medium heat for even browning",
+        "Salt early to draw out moisture",
+        "Allow golden brown color to develop",
+        "Let natural sugars caramelize",
+        "Stir minimally during browning process"
+      ],
+      "health_benefits": "Caramelization develops complex flavors while concentrating nutrients and creating beneficial Maillard reaction compounds with antioxidant properties.",
+      "applications": ["Salad toppings", "Omelet fillings", "Pasta dishes", "Grain bowls", "Pizza toppings"]
+    },
+    {
+      "technique_name": "Kuzu Plant-Based Binding",
+      "category": "Cooking Methods",
+      "description": "Kuzu is a Japanese root starch that serves as an excellent vegan egg replacer and thickening agent, creating tender textures in baked goods while providing digestive benefits.",
+      "key_steps": [
+        "Dissolve in cold liquid before heating",
+        "Creates silky smooth textures",
+        "Acts as natural egg replacer",
+        "Provides gentle thickening power",
+        "Aids digestion when consumed",
+        "Works well in both sweet and savory applications"
+      ],
+      "health_benefits": "Traditionally used to support digestive health and provides gentle, non-inflammatory thickening without eggs or dairy.",
+      "applications": ["Vegan baking", "Sauce thickening", "Pudding making", "Soup bases", "Custard alternatives"]
+    },
+    {
+      "technique_name": "Potato Pre-Baking for Crispiness",
+      "category": "Cooking Methods",
+      "description": "Pre-baking whole potatoes before dicing and pan-frying creates the perfect texture contrast - fluffy interiors with maximum surface area for achieving golden, crispy exteriors.",
+      "key_steps": [
+        "Bake whole potatoes until fully tender",
+        "Cool completely before handling",
+        "Peel and dice into uniform pieces",
+        "Don't move too much during frying",
+        "Use adequate oil for proper browning",
+        "Season after cooking for best adhesion"
+      ],
+      "health_benefits": "Creates resistant starch when cooled, supports stable blood sugar, and maximizes nutrient retention through gentle initial cooking.",
+      "applications": ["Home fried potatoes", "Hash preparations", "Roasted potato dishes", "Breakfast sides"]
+    }
