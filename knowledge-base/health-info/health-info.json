@@ -642,5 +642,70 @@
       "Pairing with fiber-rich foods aids digestion",
       "Individual tolerance may vary"
     ]
-  }
+  },
+  {
+  "brunch_health_info": [
+    {
+      "health_topic": "Plant-Based Protein Sources",
+      "category": "Nutritional Guidance",
+      "description": "Complete plant proteins like tempeh, chickpea flour, and properly combined grains provide all essential amino acids while supporting digestive health through fiber and beneficial compounds.",
+      "key_benefits": [
+        "Supports muscle health and repair",
+        "Provides sustained energy",
+        "Easier on digestive system than some animal proteins",
+        "Contains beneficial fiber and phytonutrients",
+        "Supports stable blood sugar levels",
+        "May reduce inflammation"
+      ],
+      "practical_applications": ["Tofu scrambles", "Tempeh sandwiches", "Chickpea flour crepes", "Nut and seed combinations"],
+      "recommended_combinations": "Combine legumes with grains, nuts with seeds, or choose complete proteins like tempeh and buckwheat for optimal amino acid profiles."
+    },
+    {
+      "health_topic": "Anti-Inflammatory Breakfast Foods",
+      "category": "Therapeutic Nutrition",
+      "description": "Morning meals featuring turmeric, wild blueberries, omega-3 rich nuts, and colorful vegetables can help reduce chronic inflammation and support overall wellness.",
+      "key_benefits": [
+        "Reduces chronic inflammation markers",
+        "Supports joint health and mobility",
+        "May improve cognitive function",
+        "Supports cardiovascular health",
+        "Enhances immune function",
+        "Provides antioxidant protection"
+      ],
+      "practical_applications": ["Turmeric tofu scrambles", "Wild blueberry muffins", "Walnut-rich salads", "Colorful vegetable omelets"],
+      "recommended_combinations": "Combine turmeric with black pepper and healthy fats for maximum absorption. Pair colorful fruits and vegetables for synergistic antioxidant effects."
+    },
+    {
+      "health_topic": "Stable Blood Sugar Breakfast Strategies",
+      "category": "Metabolic Health",
+      "description": "Balanced morning meals featuring whole grains, plant proteins, healthy fats, and natural sweeteners help maintain steady energy levels throughout the day.",
+      "key_benefits": [
+        "Prevents energy crashes",
+        "Supports sustained mental focus",
+        "Reduces cravings later in day",
+        "Supports healthy weight management",
+        "May improve insulin sensitivity",
+        "Provides steady nutrient release"
+      ],
+      "practical_applications": ["Spelt bread with nut butter", "Protein-rich chickpea crepes", "Fiber-rich whole grain waffles", "Balanced fruit compotes"],
+      "recommended_combinations": "Always pair natural sweeteners with fiber, protein, or healthy fats. Choose whole grains over refined options and include plant proteins in every meal."
+    },
+    {
+      "health_topic": "Digestive Health Through Fermented Foods",
+      "category": "Gut Health",
+      "description": "Fermented foods like tempeh and miso provide beneficial probiotics that support digestive health, immune function, and nutrient absorption.",
+      "key_benefits": [
+        "Supports beneficial gut bacteria",
+        "Enhances nutrient absorption",
+        "May improve immune function",
+        "Supports digestive regularity",
+        "Reduces inflammation in gut",
+        "May support mental health through gut-brain axis"
+      ],
+      "practical_applications": ["Marinated tempeh sandwiches", "Miso-based dressings", "Fermented vegetable sides", "Probiotic-rich condiments"],
+      "recommended_combinations": "Include a variety of fermented foods throughout the week. Combine with prebiotic-rich foods like vegetables and whole grains to support probiotic growth."
+    }
+  ]
+}
+
 }
